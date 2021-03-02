@@ -1,6 +1,6 @@
 FROM ubuntu:18.04
 FROM adoptopenjdk:11-jre-hotspot
-FROM hseeberger/scala-sbt:8u222_1.3.5_2.13.1
+# FROM hseeberger/scala-sbt:8u222_1.3.5_2.13.1
 
 ARG DEBIAN_FRONTEND=noninteractive
 
@@ -18,8 +18,15 @@ RUN apt-get update && \
 RUN git clone https://github.com/petablox/popl2020-artifact && \
     git clone https://github.com/aalok-thakkar/egs-artifact.git
 
-RUN cd ./EGS && \
-    sbt assembly
+
+RUN echo "deb https://dl.bintray.com/sbt/debian /" | tee -a /etc/apt/sources.list.d/sbt.list
+RUN curl -sL "https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x2EE0EA64E40A89B84B2DF73499E82A75642AC823" | apt-key add
+RUN apt-get update
+RUN apt-get install sbt
+RUN apt-get install scala
+
+# RUN cd ./egs-artifact/EGS && \
+ #   sbt assembly
 
 CMD /bin/bash
 
