@@ -1,0 +1,17 @@
+#input
+Col_0,Col_1
+a,b
+b,a
+
+
+#output
+Col_0
+a
+
+
+
+# constraint
+{
+	"constants": [],
+	"aggregation_functions": []
+}

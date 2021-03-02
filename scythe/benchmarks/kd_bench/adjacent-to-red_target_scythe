@@ -1,0 +1,40 @@
+#input:Red
+Col_0
+red
+
+
+#input:Color
+Col_0,Col_1
+a,red
+b,green
+c,red
+d,red
+e,green
+
+
+#input:Edge
+Col_0,Col_1
+a,b
+b,a
+c,d
+c,e
+d,e
+
+
+#input:Green
+Col_0
+green
+
+
+#output
+Col_0
+b
+c
+
+
+
+# constraint
+{
+	"constants": [],
+	"aggregation_functions": []
+}

@@ -1,0 +1,38 @@
+#input
+Col_0,Col_1
+mjoe,joe
+mdbob,dbob
+mdjoe,djoe
+mmjoe,mjoe
+mmbob,mbob
+mbob,bob
+
+
+#input
+Col_0,Col_1
+ddjoe,djoe
+dmjoe,mjoe
+dbob,bob
+djoe,joe
+ddbob,dbob
+dmbob,mbob
+
+
+#output
+Col_0,Col_1
+ddjoe,joe
+ddbob,bob
+mdbob,bob
+dmjoe,joe
+mdjoe,joe
+mmbob,bob
+dmbob,bob
+mmjoe,joe
+
+
+
+# constraint
+{
+	"constants": [],
+	"aggregation_functions": []
+}

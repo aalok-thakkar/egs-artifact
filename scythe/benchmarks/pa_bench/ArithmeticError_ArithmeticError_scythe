@@ -1,0 +1,34 @@
+#input
+Col_0,Col_1,Col_2
+307856,m,v
+478832,sig,rho
+857473,dv,dx
+789988,words,pages
+
+
+#input
+Col_0,Col_1
+v,0
+alarms,10
+z,null
+pages,75
+
+
+#input
+Col_0
+0
+null
+undef
+
+
+#output
+Col_0
+307856
+
+
+
+# constraint
+{
+	"constants": [],
+	"aggregation_functions": []
+}

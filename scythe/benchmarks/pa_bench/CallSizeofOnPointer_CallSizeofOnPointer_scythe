@@ -1,0 +1,46 @@
+#input
+Col_0,Col_1
+$11$,unknown
+$62$,unknown
+$12$,wild
+$10$,unknown
+$00$,complex
+$43$,complex
+$99$,wild
+
+
+#input
+Col_0
+null
+void
+wild
+complex
+near
+far
+huge
+
+
+#input
+Col_0,Col_1
+$11$,02
+$62$,22
+$12$,42
+$10$,93
+$00$,55
+$43$,33
+$68$,29
+
+
+#output
+Col_0,Col_1
+$12$,42
+$00$,55
+$43$,33
+
+
+
+# constraint
+{
+	"constants": [],
+	"aggregation_functions": []
+}

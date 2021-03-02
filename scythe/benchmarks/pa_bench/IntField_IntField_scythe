@@ -1,0 +1,32 @@
+#input
+Col_0,Col_1
+s,03FFF
+incr,035BFF
+class,0011FF
+
+
+#input
+Col_0,Col_1
+x,45
+dex,10
+err,3
+
+
+#input
+Col_0,Col_1,Col_2
+s,sum,x
+msg,isTrue ,err
+class,ord,val
+
+
+#output
+Col_0,Col_1,Col_2
+03FFF,sum,45
+
+
+
+# constraint
+{
+	"constants": [],
+	"aggregation_functions": []
+}

@@ -1,0 +1,31 @@
+#input
+Col_0,Col_1
+Noida,Uttar Pradesh
+Gurgaon,Haryana
+Bangalore,Karnataka
+Mumbai,Maharashtra
+Chennai,Tamil Nadu
+
+
+#input
+Col_0,Col_1
+PayTM,Noida
+Oyo Rooms,Gurgaon
+Ola,Bangalore
+Zomato,Gurgaon
+
+
+#output
+Col_0,Col_1
+PayTM,Uttar Pradesh
+Oyo Rooms,Haryana
+Ola,Karnataka
+Zomato,Haryana
+
+
+
+# constraint
+{
+	"constants": [],
+	"aggregation_functions": []
+}

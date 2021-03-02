@@ -1,0 +1,32 @@
+#input
+Col_0,Col_1
+1010,x
+0001,y
+1111,z
+
+
+#input
+Col_0,Col_1
+ax13,1010
+ef20,0110,
+aaba,0001
+
+
+#input
+Col_0,Col_1
+ax13,11
+ef20,32
+10af,03
+
+
+#output
+Col_0,Col_1
+ax13,11
+
+
+
+# constraint
+{
+	"constants": [],
+	"aggregation_functions": []
+}

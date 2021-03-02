@@ -1,0 +1,25 @@
+#input
+Col_0,Col_1
+Shape,Rectangle
+Graph,Histogram
+
+
+#input
+Col_0,Col_1
+Shape,draw
+Rectangle,draw
+Histogram,getEntropy
+Graph,getRange
+
+
+#output
+Col_0,Col_1,Col_2
+Shape,Rectangle,draw
+
+
+
+# constraint
+{
+	"constants": [],
+	"aggregation_functions": []
+}

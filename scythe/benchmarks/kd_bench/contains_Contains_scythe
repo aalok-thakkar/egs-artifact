@@ -1,0 +1,36 @@
+#input
+Col_0,Col_1
+Milk,Lactose
+Flour,Gluten
+Bread,Gluten
+
+
+#input
+Col_0,Col_1
+Orange Juice,Fruit
+Orange Juice,Sugar
+Yogurt,Milk
+French Toast,Bread
+French Toast,Eggs
+Blueberry Muffin,Flour
+Blueberry Muffin,Fruit
+Blueberry Muffin,Eggs
+Blueberry Muffin,Oil
+Bagel,Flour
+Bagel,Oil
+
+
+#output
+Col_0,Col_1
+French Toast,Gluten
+Blueberry Muffin,Gluten
+Bagel,Gluten
+Yogurt,Lactose
+
+
+
+# constraint
+{
+	"constants": [],
+	"aggregation_functions": []
+}

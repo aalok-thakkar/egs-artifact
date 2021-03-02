@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_scythe" default="compile.module.scythe">
+  <dirname property="module.scythe.basedir" file="${ant.file.module_scythe}"/>
+  
+  <property name="module.jdk.home.scythe" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.scythe" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.scythe" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.scythe" value="-encoding UTF-8 -source 11 -target 11 ${compiler.args}"/>
+  
+  <property name="scythe.output.dir" value="${module.scythe.basedir}/out/production/Scythe"/>
+  <property name="scythe.testoutput.dir" value="${module.scythe.basedir}/out/test/Scythe"/>
+  
+  <path id="scythe.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="scythe.module.production.classpath">
+    <path refid="${module.jdk.classpath.scythe}"/>
+    <path refid="library.lib.classpath"/>
+  </path>
+  
+  <path id="scythe.runtime.production.module.classpath">
+    <pathelement location="${scythe.output.dir}"/>
+    <path refid="library.lib.classpath"/>
+  </path>
+  
+  <path id="scythe.module.classpath">
+    <path refid="${module.jdk.classpath.scythe}"/>
+    <pathelement location="${scythe.output.dir}"/>
+    <path refid="library.lib.classpath"/>
+  </path>
+  
+  <path id="scythe.runtime.module.classpath">
+    <pathelement location="${scythe.testoutput.dir}"/>
+    <pathelement location="${scythe.output.dir}"/>
+    <path refid="library.lib.classpath"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.scythe">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.scythe">
+    <patternset refid="excluded.from.module.scythe"/>
+  </patternset>
+  
+  <path id="scythe.module.sourcepath">
+    <dirset dir="${module.scythe.basedir}">
+      <include name="src"/>
+    </dirset>
+  </path>
+  
+  <path id="scythe.module.test.sourcepath">
+    <dirset dir="${module.scythe.basedir}">
+      <include name="tests"/>
+    </dirset>
+  </path>
+  
+  
+  <target name="compile.module.scythe" depends="compile.module.scythe.production,compile.module.scythe.tests" description="Compile module Scythe"/>
+  
+  <target name="compile.module.scythe.production" description="Compile module Scythe; production classes">
+    <mkdir dir="${scythe.output.dir}"/>
+    <javac destdir="${scythe.output.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.scythe}/javac">
+      <compilerarg line="${compiler.args.scythe}"/>
+      <bootclasspath refid="scythe.module.bootclasspath"/>
+      <classpath refid="scythe.module.production.classpath"/>
+      <src refid="scythe.module.sourcepath"/>
+      <patternset refid="excluded.from.compilation.scythe"/>
+    </javac>
+    
+    <copy todir="${scythe.output.dir}">
+      <fileset dir="${module.scythe.basedir}/src">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="compile.module.scythe.tests" depends="compile.module.scythe.production" description="compile module Scythe; test classes" unless="skip.tests">
+    <mkdir dir="${scythe.testoutput.dir}"/>
+    <javac destdir="${scythe.testoutput.dir}" debug="${compiler.debug}" nowarn="${compiler.generate.no.warnings}" memorymaximumsize="${compiler.max.memory}" fork="true" executable="${module.jdk.bin.scythe}/javac">
+      <compilerarg line="${compiler.args.scythe}"/>
+      <bootclasspath refid="scythe.module.bootclasspath"/>
+      <classpath refid="scythe.module.classpath"/>
+      <src refid="scythe.module.test.sourcepath"/>
+      <patternset refid="excluded.from.compilation.scythe"/>
+    </javac>
+    
+    <copy todir="${scythe.testoutput.dir}">
+      <fileset dir="${module.scythe.basedir}/tests">
+        <patternset refid="compiler.resources"/>
+        <type type="file"/>
+      </fileset>
+    </copy>
+  </target>
+  
+  <target name="clean.module.scythe" description="cleanup module">
+    <delete dir="${scythe.output.dir}"/>
+    <delete dir="${scythe.testoutput.dir}"/>
+  </target>
+</project>

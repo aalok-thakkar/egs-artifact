@@ -1,0 +1,32 @@
+#input
+Col_0
+Broadway
+Whitehall St
+
+
+#input
+Col_0
+Broadway
+Whitehall St
+Wall St
+
+
+#input
+Col_0,Col_1
+Wall St,Broadway
+Broadway,Wall St
+Broadway,Whitehall St
+Whitehall St,Broadway
+
+
+#output
+Col_0
+Whitehall St
+
+
+
+# constraint
+{
+	"constants": [],
+	"aggregation_functions": []
+}

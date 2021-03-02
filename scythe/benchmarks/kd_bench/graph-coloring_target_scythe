@@ -1,0 +1,46 @@
+#input:Edge
+Col_0,Col_1
+a,b
+b,c
+b,d
+c,e
+c,f
+d,g
+g,h
+g,i
+h,j
+
+
+#input:Color
+Col_0,Col_1
+a,red
+b,green
+c,green
+d,red
+e,red
+f,red
+g,red
+h,green
+i,green
+j,green
+
+
+#input:Neq
+Col_0,Col_1
+green,red
+red,green
+
+
+#output
+Col_0
+b
+d
+h
+
+
+
+# constraint
+{
+	"constants": [],
+	"aggregation_functions": []
+}

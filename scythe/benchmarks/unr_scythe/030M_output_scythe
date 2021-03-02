@@ -1,0 +1,31 @@
+#input
+Col_0
+2
+
+
+#input
+Col_0,Col_1,Col_2
+Bob,1,32
+Jill,1,34
+Shawn,1,42
+XSWwe,1,30
+Jake,2,29
+Paul,2,36
+Laura,2,39
+YYYY,2,31
+
+
+#output
+Col_0,Col_1,Col_2
+Shawn,1,42
+Jill,1,34
+Laura,2,39
+Paul,2,36
+
+
+
+# constraint
+{
+	"constants": [],
+	"aggregation_functions": []
+}

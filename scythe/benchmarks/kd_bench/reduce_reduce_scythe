@@ -1,0 +1,34 @@
+#input
+Col_0,Col_1
+Vicodin,hydrocodone
+Tylenol,acetaminophen
+Advil,ibuprofen
+Amoxil,amoxicillin
+
+
+#input
+Col_0,Col_1
+acetaminophen,fever
+acetaminophen,pain
+hydrocodone,pain
+ibuprofen,fever
+ibuprofen,inflammation
+amoxicillin,infection
+
+
+#output
+Col_0,Col_1
+Vicodin,pain
+Tylenol,fever
+Tylenol,pain
+Advil,fever
+Advil,inflammation
+Amoxil,infection
+
+
+
+# constraint
+{
+	"constants": [],
+	"aggregation_functions": []
+}

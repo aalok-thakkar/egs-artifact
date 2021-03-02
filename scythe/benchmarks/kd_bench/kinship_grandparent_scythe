@@ -1,0 +1,31 @@
+#input
+Col_0,Col_1
+ann,amy
+ann,andy
+amy,amelia
+linda,gavin
+
+
+#input
+Col_0,Col_1
+steve,amy
+steve,andy
+gavin,amelia
+andy,spongebob
+
+
+#output
+Col_0,Col_1
+ann,amelia
+steve,amelia
+ann,spongebob
+steve,spongebob
+linda,amelia
+
+
+
+# constraint
+{
+	"constants": [],
+	"aggregation_functions": []
+}
