@@ -1,8 +1,8 @@
 scalaVersion := "2.13.2"
 
-lazy val mustar = (project in file("."))
+lazy val egs = (project in file("."))
   .settings(
-    name := "mustar",
+    name := "egs",
     // System.err.println is better!
     // libraryDependencies += "ch.qos.logback" % "logback-classic" % "1.2.3",
     // libraryDependencies += "com.typesafe.scala-logging" %% "scala-logging" % "3.9.2",

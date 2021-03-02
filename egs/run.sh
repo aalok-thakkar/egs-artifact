@@ -16,5 +16,5 @@ echo "Echoing output in $LOGNAME.out and piping log messages to $LOGNAME.log"
 
 # Profile using VisualVM
 
-scala ./target/scala-2.13/mustar-assembly-0.1.0-SNAPSHOT.jar "$@" 2> $LOGNAME.log | tee $LOGNAME.out
+scala ./target/scala-2.13/egs-assembly-0.1.0-SNAPSHOT.jar "$@" 2> $LOGNAME.log | tee $LOGNAME.out
 echo $?

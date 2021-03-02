@@ -3,7 +3,7 @@
 # set -e
 
 sbt assembly
-export JAR_NAME=./target/scala-2.13/mustar-assembly-0.1.0-SNAPSHOT.jar
+export JAR_NAME=./target/scala-2.13/egs-assembly-0.1.0-SNAPSHOT.jar
 
 export LOG_DIR=`date +%s | sed 's/^/r/'`
 echo "Placing output and log files in $LOG_DIR"
