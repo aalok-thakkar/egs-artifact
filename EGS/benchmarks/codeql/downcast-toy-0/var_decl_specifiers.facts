@@ -1,8 +1,0 @@
-declaration of _IO_2_1_stderr_	file:///usr/include/x86_64-linux-gnu/bits/libio.h:321:29:321:43	extern
-declaration of _IO_2_1_stdout_	file:///usr/include/x86_64-linux-gnu/bits/libio.h:320:29:320:43	extern
-declaration of _IO_2_1_stdin_	file:///usr/include/x86_64-linux-gnu/bits/libio.h:319:29:319:42	extern
-declaration of sys_errlist	file:///usr/include/x86_64-linux-gnu/bits/sys_errlist.h:27:26:27:36	extern
-declaration of sys_nerr	file:///usr/include/x86_64-linux-gnu/bits/sys_errlist.h:26:12:26:19	extern
-declaration of stderr	file:///usr/include/stdio.h:137:25:137:30	extern
-declaration of stdout	file:///usr/include/stdio.h:136:25:136:30	extern
-declaration of stdin	file:///usr/include/stdio.h:135:25:135:29	extern

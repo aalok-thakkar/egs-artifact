@@ -1,3 +1,0 @@
-crashable(X, Y) :- intersect(X, Y), greenSignal(X), greenSignal(Y).
-crashes(X) :- hasTraffic(X), crashable(X, Y), hasTraffic(Y).
-crashes(X) :- hasTraffic(X), crashable(Y, X), hasTraffic(Y).

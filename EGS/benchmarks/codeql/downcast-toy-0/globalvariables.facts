@@ -1,8 +1,0 @@
-_IO_2_1_stderr_	_IO_FILE_plus	_IO_2_1_stderr_
-_IO_2_1_stdout_	_IO_FILE_plus	_IO_2_1_stdout_
-_IO_2_1_stdin_	_IO_FILE_plus	_IO_2_1_stdin_
-sys_errlist	const char *const[]	sys_errlist
-sys_nerr	int	sys_nerr
-stderr	_IO_FILE *	stderr
-stdout	_IO_FILE *	stdout
-stdin	_IO_FILE *	stdin
