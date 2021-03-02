@@ -1,0 +1,593 @@
+definition of gp_offset	gp_offset	unsigned int	gp_offset	file://:0:0:0:0
+definition of fp_offset	fp_offset	unsigned int	fp_offset	file://:0:0:0:0
+definition of overflow_arg_area	overflow_arg_area	void *	overflow_arg_area	file://:0:0:0:0
+definition of reg_save_area	reg_save_area	void *	reg_save_area	file://:0:0:0:0
+definition of __val	__val	int[2]	__val	file:///usr/include/x86_64-linux-gnu/bits/types.h:143:12:143:24
+definition of __value	__value	union <unnamed>	__value	file:///usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:20:5:20:11
+definition of __count	__count	int	__count	file:///usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:15:7:15:13
+definition of __wchb	__wchb	char[4]	__wchb	file:///usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:19:10:19:15
+definition of __wch	__wch	unsigned int	__wch	file:///usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:18:19:18:23
+definition of __state	__state	__mbstate_t	__state	file:///usr/include/x86_64-linux-gnu/bits/_G_config.h:34:15:34:21
+definition of __pos	__pos	__off64_t	__pos	file:///usr/include/x86_64-linux-gnu/bits/_G_config.h:33:13:33:17
+definition of __state	__state	__mbstate_t	__state	file:///usr/include/x86_64-linux-gnu/bits/_G_config.h:29:15:29:21
+definition of __pos	__pos	__off_t	__pos	file:///usr/include/x86_64-linux-gnu/bits/_G_config.h:28:11:28:15
+definition of _unused2	_unused2	char[20]	_unused2	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:8:309:15
+definition of _mode	_mode	int	_mode	file:///usr/include/x86_64-linux-gnu/bits/libio.h:307:7:307:11
+definition of __pad5	__pad5	size_t	__pad5	file:///usr/include/x86_64-linux-gnu/bits/libio.h:306:10:306:15
+definition of __pad4	__pad4	void *	__pad4	file:///usr/include/x86_64-linux-gnu/bits/libio.h:304:9:304:14
+definition of __pad3	__pad3	void *	__pad3	file:///usr/include/x86_64-linux-gnu/bits/libio.h:303:9:303:14
+definition of __pad2	__pad2	void *	__pad2	file:///usr/include/x86_64-linux-gnu/bits/libio.h:302:9:302:14
+definition of __pad1	__pad1	void *	__pad1	file:///usr/include/x86_64-linux-gnu/bits/libio.h:301:9:301:14
+definition of _offset	_offset	__off64_t	_offset	file:///usr/include/x86_64-linux-gnu/bits/libio.h:293:15:293:21
+definition of _lock	_lock	_IO_lock_t *	_lock	file:///usr/include/x86_64-linux-gnu/bits/libio.h:284:15:284:19
+definition of _shortbuf	_shortbuf	char[1]	_shortbuf	file:///usr/include/x86_64-linux-gnu/bits/libio.h:280:8:280:16
+definition of _vtable_offset	_vtable_offset	signed char	_vtable_offset	file:///usr/include/x86_64-linux-gnu/bits/libio.h:279:15:279:28
+definition of _cur_column	_cur_column	unsigned short	_cur_column	file:///usr/include/x86_64-linux-gnu/bits/libio.h:278:18:278:28
+definition of _old_offset	_old_offset	__off_t	_old_offset	file:///usr/include/x86_64-linux-gnu/bits/libio.h:274:13:274:23
+definition of _flags2	_flags2	int	_flags2	file:///usr/include/x86_64-linux-gnu/bits/libio.h:272:7:272:13
+definition of _fileno	_fileno	int	_fileno	file:///usr/include/x86_64-linux-gnu/bits/libio.h:268:7:268:13
+definition of _chain	_chain	_IO_FILE *	_chain	file:///usr/include/x86_64-linux-gnu/bits/libio.h:266:20:266:25
+definition of _markers	_markers	_IO_marker *	_markers	file:///usr/include/x86_64-linux-gnu/bits/libio.h:264:22:264:29
+definition of _pos	_pos	int	_pos	file:///usr/include/x86_64-linux-gnu/bits/libio.h:166:7:166:10
+definition of _sbuf	_sbuf	_IO_FILE *	_sbuf	file:///usr/include/x86_64-linux-gnu/bits/libio.h:162:20:162:24
+definition of _next	_next	_IO_marker *	_next	file:///usr/include/x86_64-linux-gnu/bits/libio.h:161:22:161:26
+definition of _IO_save_end	_IO_save_end	char *	_IO_save_end	file:///usr/include/x86_64-linux-gnu/bits/libio.h:262:9:262:20
+definition of _IO_backup_base	_IO_backup_base	char *	_IO_backup_base	file:///usr/include/x86_64-linux-gnu/bits/libio.h:261:9:261:23
+definition of _IO_save_base	_IO_save_base	char *	_IO_save_base	file:///usr/include/x86_64-linux-gnu/bits/libio.h:260:9:260:21
+definition of _IO_buf_end	_IO_buf_end	char *	_IO_buf_end	file:///usr/include/x86_64-linux-gnu/bits/libio.h:258:9:258:19
+definition of _IO_buf_base	_IO_buf_base	char *	_IO_buf_base	file:///usr/include/x86_64-linux-gnu/bits/libio.h:257:9:257:20
+definition of _IO_write_end	_IO_write_end	char *	_IO_write_end	file:///usr/include/x86_64-linux-gnu/bits/libio.h:256:9:256:21
+definition of _IO_write_ptr	_IO_write_ptr	char *	_IO_write_ptr	file:///usr/include/x86_64-linux-gnu/bits/libio.h:255:9:255:21
+definition of _IO_write_base	_IO_write_base	char *	_IO_write_base	file:///usr/include/x86_64-linux-gnu/bits/libio.h:254:9:254:22
+definition of _IO_read_base	_IO_read_base	char *	_IO_read_base	file:///usr/include/x86_64-linux-gnu/bits/libio.h:253:9:253:21
+definition of _IO_read_end	_IO_read_end	char *	_IO_read_end	file:///usr/include/x86_64-linux-gnu/bits/libio.h:252:9:252:20
+definition of _IO_read_ptr	_IO_read_ptr	char *	_IO_read_ptr	file:///usr/include/x86_64-linux-gnu/bits/libio.h:251:9:251:20
+definition of _flags	_flags	int	_flags	file:///usr/include/x86_64-linux-gnu/bits/libio.h:246:7:246:12
+declaration of 1st parameter	p#0	_IO_FILE *		file:///usr/include/x86_64-linux-gnu/bits/libio.h:472:35:472:42
+declaration of 1st parameter	p#0	_IO_FILE *		file:///usr/include/x86_64-linux-gnu/bits/libio.h:470:33:470:40
+declaration of 2nd parameter	p#1	__off64_t		file:///usr/include/x86_64-linux-gnu/bits/libio.h:470:45:470:55
+declaration of 3rd parameter	p#2	int		file:///usr/include/x86_64-linux-gnu/bits/libio.h:470:58:470:60
+declaration of 1st parameter	p#0	_IO_FILE *		file:///usr/include/x86_64-linux-gnu/bits/libio.h:469:33:469:40
+declaration of 2nd parameter	p#1	__off64_t		file:///usr/include/x86_64-linux-gnu/bits/libio.h:469:45:469:55
+declaration of 3rd parameter	p#2	int		file:///usr/include/x86_64-linux-gnu/bits/libio.h:469:58:469:60
+declaration of 4th parameter	p#3	int		file:///usr/include/x86_64-linux-gnu/bits/libio.h:469:63:469:65
+declaration of 1st parameter	p#0	_IO_FILE *		file:///usr/include/x86_64-linux-gnu/bits/libio.h:467:30:467:37
+declaration of 2nd parameter	p#1	void *		file:///usr/include/x86_64-linux-gnu/bits/libio.h:467:42:467:45
+declaration of 3rd parameter	p#2	size_t		file:///usr/include/x86_64-linux-gnu/bits/libio.h:467:50:467:59
+declaration of 1st parameter	p#0	_IO_FILE *		file:///usr/include/x86_64-linux-gnu/bits/libio.h:466:30:466:37
+declaration of 2nd parameter	p#1	int		file:///usr/include/x86_64-linux-gnu/bits/libio.h:466:42:466:44
+declaration of 3rd parameter	p#2	__ssize_t		file:///usr/include/x86_64-linux-gnu/bits/libio.h:466:47:466:57
+declaration of 1st parameter	p#0	_IO_FILE *__restrict__		file:///usr/include/x86_64-linux-gnu/bits/libio.h:464:26:464:33
+declaration of 2nd parameter	p#1	const char *__restrict__		file:///usr/include/x86_64-linux-gnu/bits/libio.h:464:48:464:57
+declaration of 3rd parameter	p#2	__gnuc_va_list		file:///usr/include/x86_64-linux-gnu/bits/libio.h:465:5:465:15
+declaration of 1st parameter	p#0	_IO_FILE *__restrict__		file:///usr/include/x86_64-linux-gnu/bits/libio.h:462:25:462:32
+declaration of 2nd parameter	p#1	const char *__restrict__		file:///usr/include/x86_64-linux-gnu/bits/libio.h:462:48:462:57
+declaration of 3rd parameter	p#2	__gnuc_va_list		file:///usr/include/x86_64-linux-gnu/bits/libio.h:463:4:463:14
+declaration of 4th parameter	p#3	int *__restrict__		file:///usr/include/x86_64-linux-gnu/bits/libio.h:463:17:463:19
+declaration of 1st parameter	p#0	_IO_FILE *		file:///usr/include/x86_64-linux-gnu/bits/libio.h:446:30:446:37
+declaration of 1st parameter	p#0	_IO_FILE *		file:///usr/include/x86_64-linux-gnu/bits/libio.h:445:30:445:37
+declaration of 1st parameter	p#0	_IO_FILE *		file:///usr/include/x86_64-linux-gnu/bits/libio.h:444:28:444:35
+declaration of __fp	__fp	_IO_FILE *	__fp	file:///usr/include/x86_64-linux-gnu/bits/libio.h:438:40:438:43
+declaration of __fp	__fp	_IO_FILE *	__fp	file:///usr/include/x86_64-linux-gnu/bits/libio.h:436:34:436:37
+declaration of __fp	__fp	_IO_FILE *	__fp	file:///usr/include/x86_64-linux-gnu/bits/libio.h:435:32:435:35
+declaration of __c	__c	int	__c	file:///usr/include/x86_64-linux-gnu/bits/libio.h:434:26:434:28
+declaration of __fp	__fp	_IO_FILE *	__fp	file:///usr/include/x86_64-linux-gnu/bits/libio.h:434:41:434:44
+declaration of __fp	__fp	_IO_FILE *	__fp	file:///usr/include/x86_64-linux-gnu/bits/libio.h:433:32:433:35
+declaration of 1st parameter	p#0	_IO_FILE *		file:///usr/include/x86_64-linux-gnu/bits/libio.h:391:24:391:31
+declaration of 2nd parameter	p#1	int		file:///usr/include/x86_64-linux-gnu/bits/libio.h:391:36:391:38
+declaration of 1st parameter	p#0	_IO_FILE *		file:///usr/include/x86_64-linux-gnu/bits/libio.h:390:21:390:28
+declaration of 1st parameter	p#0	_IO_FILE *		file:///usr/include/x86_64-linux-gnu/bits/libio.h:389:25:389:32
+declaration of _IO_2_1_stderr_	_IO_2_1_stderr_	_IO_FILE_plus	_IO_2_1_stderr_	file:///usr/include/x86_64-linux-gnu/bits/libio.h:321:29:321:43
+declaration of _IO_2_1_stdout_	_IO_2_1_stdout_	_IO_FILE_plus	_IO_2_1_stdout_	file:///usr/include/x86_64-linux-gnu/bits/libio.h:320:29:320:43
+declaration of _IO_2_1_stdin_	_IO_2_1_stdin_	_IO_FILE_plus	_IO_2_1_stdin_	file:///usr/include/x86_64-linux-gnu/bits/libio.h:319:29:319:42
+declaration of sys_errlist	sys_errlist	const char *const[]	sys_errlist	file:///usr/include/x86_64-linux-gnu/bits/sys_errlist.h:27:26:27:36
+declaration of sys_nerr	sys_nerr	int	sys_nerr	file:///usr/include/x86_64-linux-gnu/bits/sys_errlist.h:26:12:26:19
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:847:32:847:39
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:844:32:844:39
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:840:30:840:37
+declaration of __s	__s	char *	__s	file:///usr/include/stdio.h:812:29:812:31
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:806:26:806:33
+declaration of __command	__command	const char *	__command	file:///usr/include/stdio.h:800:33:800:41
+declaration of __modes	__modes	const char *	__modes	file:///usr/include/stdio.h:800:56:800:62
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:791:35:791:42
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:786:26:786:33
+declaration of __s	__s	const char *	__s	file:///usr/include/stdio.h:775:33:775:35
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:767:35:767:42
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:766:33:766:40
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:765:38:765:45
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:761:26:761:33
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:759:24:759:31
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:757:29:757:36
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:736:27:736:34
+declaration of __pos	__pos	const fpos_t *	__pos	file:///usr/include/stdio.h:736:51:736:55
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:731:38:731:45
+declaration of __pos	__pos	fpos_t *__restrict__	__pos	file:///usr/include/stdio.h:731:67:731:71
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:712:30:712:37
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:707:26:707:33
+declaration of __off	__off	__off_t	__off	file:///usr/include/stdio.h:707:44:707:48
+declaration of __whence	__whence	int	__whence	file:///usr/include/stdio.h:707:55:707:62
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:694:27:694:34
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:689:30:689:37
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:684:25:684:32
+declaration of __off	__off	long	__off	file:///usr/include/stdio.h:684:44:684:48
+declaration of __whence	__whence	int	__whence	file:///usr/include/stdio.h:684:55:684:62
+declaration of __ptr	__ptr	const void *__restrict__	__ptr	file:///usr/include/stdio.h:675:55:675:59
+declaration of __size	__size	size_t	__size	file:///usr/include/stdio.h:675:69:675:74
+declaration of __n	__n	size_t	__n	file:///usr/include/stdio.h:676:18:676:20
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:676:40:676:47
+declaration of __ptr	__ptr	void *__restrict__	__ptr	file:///usr/include/stdio.h:673:48:673:52
+declaration of __size	__size	size_t	__size	file:///usr/include/stdio.h:673:62:673:67
+declaration of __n	__n	size_t	__n	file:///usr/include/stdio.h:674:17:674:19
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:674:39:674:46
+declaration of __ptr	__ptr	const void *__restrict__	__ptr	file:///usr/include/stdio.h:652:46:652:50
+declaration of __size	__size	size_t	__size	file:///usr/include/stdio.h:652:60:652:65
+declaration of __n	__n	size_t	__n	file:///usr/include/stdio.h:653:16:653:18
+declaration of __s	__s	FILE *__restrict__	__s	file:///usr/include/stdio.h:653:38:653:40
+declaration of __ptr	__ptr	void *__restrict__	__ptr	file:///usr/include/stdio.h:646:39:646:43
+declaration of __size	__size	size_t	__size	file:///usr/include/stdio.h:646:53:646:58
+declaration of __n	__n	size_t	__n	file:///usr/include/stdio.h:647:15:647:17
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:647:37:647:44
+declaration of __c	__c	int	__c	file:///usr/include/stdio.h:639:24:639:26
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:639:35:639:42
+declaration of __s	__s	const char *	__s	file:///usr/include/stdio.h:632:30:632:32
+declaration of __s	__s	const char *__restrict__	__s	file:///usr/include/stdio.h:626:42:626:44
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:626:64:626:71
+declaration of __lineptr	__lineptr	char **__restrict__	__lineptr	file:///usr/include/stdio.h:616:47:616:55
+declaration of __n	__n	size_t *__restrict__	__n	file:///usr/include/stdio.h:617:27:617:29
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:618:25:618:32
+declaration of __lineptr	__lineptr	char **__restrict__	__lineptr	file:///usr/include/stdio.h:606:48:606:56
+declaration of __n	__n	size_t *__restrict__	__n	file:///usr/include/stdio.h:607:28:607:30
+declaration of __delimiter	__delimiter	int	__delimiter	file:///usr/include/stdio.h:607:37:607:47
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:608:26:608:33
+declaration of __lineptr	__lineptr	char **__restrict__	__lineptr	file:///usr/include/stdio.h:603:50:603:58
+declaration of __n	__n	size_t *__restrict__	__n	file:///usr/include/stdio.h:604:30:604:32
+declaration of __delimiter	__delimiter	int	__delimiter	file:///usr/include/stdio.h:604:39:604:49
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:605:28:605:35
+declaration of __s	__s	char *__restrict__	__s	file:///usr/include/stdio.h:564:38:564:40
+declaration of __n	__n	int	__n	file:///usr/include/stdio.h:564:47:564:49
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:564:69:564:76
+declaration of __w	__w	int	__w	file:///usr/include/stdio.h:556:22:556:24
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:556:33:556:40
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:553:24:553:31
+declaration of __c	__c	int	__c	file:///usr/include/stdio.h:546:34:546:36
+declaration of __c	__c	int	__c	file:///usr/include/stdio.h:545:31:545:33
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:545:42:545:49
+declaration of __c	__c	int	__c	file:///usr/include/stdio.h:537:32:537:34
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:537:43:537:50
+declaration of __c	__c	int	__c	file:///usr/include/stdio.h:524:25:524:27
+declaration of __c	__c	int	__c	file:///usr/include/stdio.h:518:22:518:24
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:518:33:518:40
+declaration of __c	__c	int	__c	file:///usr/include/stdio.h:517:23:517:25
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:517:34:517:41
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:506:34:506:41
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:495:33:495:40
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:478:24:478:31
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:477:25:477:32
+declaration of __s	__s	const char *__restrict__	__s	file:///usr/include/stdio.h:452:31:452:33
+declaration of __s	__s	const char *__restrict__	__s	file:///usr/include/stdio.h:452:31:452:33
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:453:31:453:38
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:453:31:453:38
+declaration of __arg	__arg	__gnuc_va_list	__arg	file:///usr/include/stdio.h:454:19:454:23
+declaration of __arg	__arg	__gnuc_va_list	__arg	file:///usr/include/stdio.h:454:19:454:23
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:448:56:448:63
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:448:56:448:63
+declaration of __arg	__arg	__gnuc_va_list	__arg	file:///usr/include/stdio.h:449:16:449:20
+declaration of __arg	__arg	__gnuc_va_list	__arg	file:///usr/include/stdio.h:449:16:449:20
+declaration of __s	__s	FILE *__restrict__	__s	file:///usr/include/stdio.h:444:28:444:30
+declaration of __s	__s	FILE *__restrict__	__s	file:///usr/include/stdio.h:444:28:444:30
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:445:27:445:34
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:445:27:445:34
+declaration of __arg	__arg	__gnuc_va_list	__arg	file:///usr/include/stdio.h:445:48:445:52
+declaration of __arg	__arg	__gnuc_va_list	__arg	file:///usr/include/stdio.h:445:48:445:52
+declaration of __s	__s	const char *__restrict__	__s	file:///usr/include/stdio.h:432:44:432:46
+declaration of __s	__s	const char *__restrict__	__s	file:///usr/include/stdio.h:432:44:432:46
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:433:30:433:37
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:433:30:433:37
+declaration of __arg	__arg	__gnuc_va_list	__arg	file:///usr/include/stdio.h:433:51:433:55
+declaration of __arg	__arg	__gnuc_va_list	__arg	file:///usr/include/stdio.h:433:51:433:55
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:428:43:428:50
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:428:43:428:50
+declaration of __arg	__arg	__gnuc_va_list	__arg	file:///usr/include/stdio.h:428:64:428:68
+declaration of __arg	__arg	__gnuc_va_list	__arg	file:///usr/include/stdio.h:428:64:428:68
+declaration of __s	__s	FILE *__restrict__	__s	file:///usr/include/stdio.h:420:38:420:40
+declaration of __s	__s	FILE *__restrict__	__s	file:///usr/include/stdio.h:420:38:420:40
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:420:66:420:73
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:420:66:420:73
+declaration of __arg	__arg	__gnuc_va_list	__arg	file:///usr/include/stdio.h:421:18:421:22
+declaration of __arg	__arg	__gnuc_va_list	__arg	file:///usr/include/stdio.h:421:18:421:22
+declaration of __s	__s	const char *__restrict__	__s	file:///usr/include/stdio.h:400:60:400:62
+declaration of __s	__s	const char *__restrict__	__s	file:///usr/include/stdio.h:400:60:400:62
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:401:32:401:39
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:401:32:401:39
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:398:55:398:62
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:398:55:398:62
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:395:50:395:57
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:395:50:395:57
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:396:28:396:35
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:396:28:396:35
+declaration of __s	__s	const char *__restrict__	__s	file:///usr/include/stdio.h:385:43:385:45
+declaration of __s	__s	const char *__restrict__	__s	file:///usr/include/stdio.h:385:43:385:45
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:386:29:386:36
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:386:29:386:36
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:383:42:383:49
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:383:42:383:49
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:377:37:377:44
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:377:37:377:44
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:378:29:378:36
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:378:29:378:36
+declaration of __fd	__fd	int	__fd	file:///usr/include/stdio.h:368:25:368:28
+declaration of __fmt	__fmt	const char *__restrict__	__fmt	file:///usr/include/stdio.h:368:54:368:58
+declaration of __fd	__fd	int	__fd	file:///usr/include/stdio.h:365:26:365:29
+declaration of __fmt	__fmt	const char *__restrict__	__fmt	file:///usr/include/stdio.h:365:55:365:59
+declaration of __arg	__arg	__gnuc_va_list	__arg	file:///usr/include/stdio.h:366:19:366:23
+declaration of __s	__s	char *__restrict__	__s	file:///usr/include/stdio.h:344:40:344:42
+declaration of __maxlen	__maxlen	size_t	__maxlen	file:///usr/include/stdio.h:344:52:344:59
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:345:32:345:39
+declaration of __arg	__arg	__gnuc_va_list	__arg	file:///usr/include/stdio.h:345:53:345:57
+declaration of __s	__s	char *__restrict__	__s	file:///usr/include/stdio.h:340:39:340:41
+declaration of __maxlen	__maxlen	size_t	__maxlen	file:///usr/include/stdio.h:340:51:340:58
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:341:31:341:38
+declaration of __s	__s	char *__restrict__	__s	file:///usr/include/stdio.h:335:39:335:41
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:335:67:335:74
+declaration of __arg	__arg	__gnuc_va_list	__arg	file:///usr/include/stdio.h:336:19:336:23
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:333:44:333:51
+declaration of __arg	__arg	__gnuc_va_list	__arg	file:///usr/include/stdio.h:333:65:333:69
+declaration of __s	__s	FILE *__restrict__	__s	file:///usr/include/stdio.h:327:39:327:41
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:327:67:327:74
+declaration of __arg	__arg	__gnuc_va_list	__arg	file:///usr/include/stdio.h:328:19:328:23
+declaration of __s	__s	char *__restrict__	__s	file:///usr/include/stdio.h:320:38:320:40
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:321:30:321:37
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:318:43:318:50
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:312:38:312:45
+declaration of __format	__format	const char *__restrict__	__format	file:///usr/include/stdio.h:313:30:313:37
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:304:31:304:38
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:300:41:300:48
+declaration of __buf	__buf	char *__restrict__	__buf	file:///usr/include/stdio.h:300:68:300:72
+declaration of __size	__size	size_t	__size	file:///usr/include/stdio.h:301:17:301:22
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:294:38:294:45
+declaration of __buf	__buf	char *__restrict__	__buf	file:///usr/include/stdio.h:294:65:294:69
+declaration of __modes	__modes	int	__modes	file:///usr/include/stdio.h:295:11:295:17
+declaration of __n	__n	size_t	__n	file:///usr/include/stdio.h:295:27:295:29
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:290:38:290:45
+declaration of __buf	__buf	char *__restrict__	__buf	file:///usr/include/stdio.h:290:65:290:69
+declaration of __bufloc	__bufloc	char **	__bufloc	file:///usr/include/stdio.h:284:37:284:44
+declaration of __sizeloc	__sizeloc	size_t *	__sizeloc	file:///usr/include/stdio.h:284:55:284:63
+declaration of __s	__s	void *	__s	file:///usr/include/stdio.h:278:30:278:32
+declaration of __len	__len	size_t	__len	file:///usr/include/stdio.h:278:42:278:46
+declaration of __modes	__modes	const char *	__modes	file:///usr/include/stdio.h:278:61:278:67
+declaration of __fd	__fd	int	__fd	file:///usr/include/stdio.h:265:26:265:29
+declaration of __modes	__modes	const char *	__modes	file:///usr/include/stdio.h:265:44:265:50
+declaration of __filename	__filename	const char *__restrict__	__filename	file:///usr/include/stdio.h:238:46:238:55
+declaration of __modes	__modes	const char *__restrict__	__modes	file:///usr/include/stdio.h:239:32:239:38
+declaration of __stream	__stream	FILE *__restrict__	__stream	file:///usr/include/stdio.h:240:26:240:33
+declaration of __filename	__filename	const char *__restrict__	__filename	file:///usr/include/stdio.h:232:44:232:53
+declaration of __modes	__modes	const char *__restrict__	__modes	file:///usr/include/stdio.h:233:30:233:36
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:213:35:213:42
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:204:26:204:33
+declaration of __stream	__stream	FILE *	__stream	file:///usr/include/stdio.h:199:26:199:33
+declaration of __dir	__dir	const char *	__dir	file:///usr/include/stdio.h:190:35:190:39
+declaration of __pfx	__pfx	const char *	__pfx	file:///usr/include/stdio.h:190:54:190:58
+declaration of __s	__s	char *	__s	file:///usr/include/stdio.h:178:30:178:32
+declaration of __s	__s	char *	__s	file:///usr/include/stdio.h:173:28:173:30
+declaration of __oldfd	__oldfd	int	__oldfd	file:///usr/include/stdio.h:150:26:150:32
+declaration of __old	__old	const char *	__old	file:///usr/include/stdio.h:150:47:150:51
+declaration of __newfd	__newfd	int	__newfd	file:///usr/include/stdio.h:150:58:150:64
+declaration of __new	__new	const char *	__new	file:///usr/include/stdio.h:151:20:151:24
+declaration of __old	__old	const char *	__old	file:///usr/include/stdio.h:146:32:146:36
+declaration of __new	__new	const char *	__new	file:///usr/include/stdio.h:146:51:146:55
+declaration of __filename	__filename	const char *	__filename	file:///usr/include/stdio.h:144:32:144:41
+declaration of stderr	stderr	_IO_FILE *	stderr	file:///usr/include/stdio.h:137:25:137:30
+declaration of stdout	stdout	_IO_FILE *	stdout	file:///usr/include/stdio.h:136:25:136:30
+declaration of stdin	stdin	_IO_FILE *	stdin	file:///usr/include/stdio.h:135:25:135:29
+definition of __bsx	__bsx	__uint64_t	__bsx	file:///usr/include/x86_64-linux-gnu/bits/byteswap.h:109:24:109:28
+definition of __bsx	__bsx	unsigned int	__bsx	file:///usr/include/x86_64-linux-gnu/bits/byteswap.h:45:26:45:30
+definition of __x	__x	__uint64_t	__x	file:///usr/include/x86_64-linux-gnu/bits/uintn-identity.h:45:31:45:33
+definition of __x	__x	__uint32_t	__x	file:///usr/include/x86_64-linux-gnu/bits/uintn-identity.h:39:31:39:33
+definition of __x	__x	__uint16_t	__x	file:///usr/include/x86_64-linux-gnu/bits/uintn-identity.h:33:31:33:33
+definition of __val	__val	unsigned long[16]	__val	file:///usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:7:21:7:25
+definition of tv_usec	tv_usec	__suseconds_t	tv_usec	file:///usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:11:17:11:23
+definition of tv_sec	tv_sec	__time_t	tv_sec	file:///usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:10:12:10:17
+definition of tv_nsec	tv_nsec	__syscall_slong_t	tv_nsec	file:///usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:11:21:11:27
+definition of tv_sec	tv_sec	__time_t	tv_sec	file:///usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:10:12:10:17
+definition of __fds_bits	__fds_bits	__fd_mask[16]	__fds_bits	file:///usr/include/x86_64-linux-gnu/sys/select.h:67:15:67:24
+declaration of __nfds	__nfds	int	__nfds	file:///usr/include/x86_64-linux-gnu/sys/select.h:113:25:113:30
+declaration of __readfds	__readfds	fd_set *__restrict__	__readfds	file:///usr/include/x86_64-linux-gnu/sys/select.h:113:52:113:60
+declaration of __writefds	__writefds	fd_set *__restrict__	__writefds	file:///usr/include/x86_64-linux-gnu/sys/select.h:114:26:114:35
+declaration of __exceptfds	__exceptfds	fd_set *__restrict__	__exceptfds	file:///usr/include/x86_64-linux-gnu/sys/select.h:115:26:115:36
+declaration of __timeout	__timeout	const timespec *__restrict__	__timeout	file:///usr/include/x86_64-linux-gnu/sys/select.h:116:41:116:49
+declaration of __sigmask	__sigmask	const __sigset_t *__restrict__	__sigmask	file:///usr/include/x86_64-linux-gnu/sys/select.h:117:36:117:44
+declaration of __nfds	__nfds	int	__nfds	file:///usr/include/x86_64-linux-gnu/sys/select.h:101:24:101:29
+declaration of __readfds	__readfds	fd_set *__restrict__	__readfds	file:///usr/include/x86_64-linux-gnu/sys/select.h:101:51:101:59
+declaration of __writefds	__writefds	fd_set *__restrict__	__writefds	file:///usr/include/x86_64-linux-gnu/sys/select.h:102:25:102:34
+declaration of __exceptfds	__exceptfds	fd_set *__restrict__	__exceptfds	file:///usr/include/x86_64-linux-gnu/sys/select.h:103:25:103:35
+declaration of __timeout	__timeout	timeval *__restrict__	__timeout	file:///usr/include/x86_64-linux-gnu/sys/select.h:104:33:104:41
+declaration of __major	__major	unsigned int	__major	file:///usr/include/x86_64-linux-gnu/sys/sysmacros.h:75:1:75:52
+declaration of __minor	__minor	unsigned int	__minor	file:///usr/include/x86_64-linux-gnu/sys/sysmacros.h:75:1:75:52
+declaration of __dev	__dev	__dev_t	__dev	file:///usr/include/x86_64-linux-gnu/sys/sysmacros.h:74:1:74:50
+declaration of __dev	__dev	__dev_t	__dev	file:///usr/include/x86_64-linux-gnu/sys/sysmacros.h:73:1:73:50
+definition of __flags	__flags	unsigned int	__flags	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:87:16:87:22
+definition of __pad2	__pad2	unsigned long	__pad2	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:84:21:84:26
+definition of __pad1	__pad1	unsigned char[7]	__pad1	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:81:17:81:22
+definition of __rwelision	__rwelision	signed char	__rwelision	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:76:15:76:25
+definition of __shared	__shared	int	__shared	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:75:7:75:14
+definition of __cur_writer	__cur_writer	int	__cur_writer	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:74:7:74:18
+definition of __pad4	__pad4	unsigned int	__pad4	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:72:16:72:21
+definition of __pad3	__pad3	unsigned int	__pad3	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:71:16:71:21
+definition of __writers_futex	__writers_futex	unsigned int	__writers_futex	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:70:16:70:30
+definition of __wrphase_futex	__wrphase_futex	unsigned int	__wrphase_futex	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:69:16:69:30
+definition of __writers	__writers	unsigned int	__writers	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:68:16:68:24
+definition of __readers	__readers	unsigned int	__readers	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:67:16:67:24
+definition of __g_signals	__g_signals	unsigned int[2]	__g_signals	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:175:16:175:26
+definition of __wrefs	__wrefs	unsigned int	__wrefs	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:174:16:174:22
+definition of __g1_orig_size	__g1_orig_size	unsigned int	__g1_orig_size	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:173:16:173:29
+definition of __g_size	__g_size	unsigned int[2]	__g_size	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:172:16:172:23
+definition of __g_refs	__g_refs	unsigned int[2]	__g_refs	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:171:16:171:23
+definition of __g1_start32	__g1_start32	struct <unnamed>	__g1_start32	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:169:7:169:18
+definition of __g1_start32	__g1_start32	struct <unnamed>	__g1_start32	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:169:7:169:18
+definition of __g1_start	__g1_start	unsigned long long	__g1_start	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:164:42:164:51
+definition of __high	__high	unsigned int	__high	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:168:20:168:25
+definition of __high	__high	unsigned int	__high	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:168:20:168:25
+definition of __low	__low	unsigned int	__low	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:167:20:167:24
+definition of __low	__low	unsigned int	__low	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:167:20:167:24
+definition of __wseq32	__wseq32	struct <unnamed>	__wseq32	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:160:7:160:14
+definition of __wseq32	__wseq32	struct <unnamed>	__wseq32	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:160:7:160:14
+definition of __wseq	__wseq	unsigned long long	__wseq	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:155:42:155:47
+definition of __high	__high	unsigned int	__high	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:159:20:159:25
+definition of __high	__high	unsigned int	__high	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:159:20:159:25
+definition of __low	__low	unsigned int	__low	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:158:20:158:24
+definition of __low	__low	unsigned int	__low	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:158:20:158:24
+definition of __list	__list	__pthread_list_t	__list	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:135:20:135:25
+definition of __elision	__elision	short	__elision	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:134:3:134:22
+definition of __spins	__spins	short	__spins	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:134:3:134:22
+definition of __kind	__kind	int	__kind	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:128:7:128:12
+definition of __nusers	__nusers	unsigned int	__nusers	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:124:16:124:23
+definition of __owner	__owner	int	__owner	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:122:7:122:13
+definition of __count	__count	unsigned int	__count	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:121:16:121:22
+definition of __lock	__lock	int	__lock	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:120:7:120:12
+definition of __next	__next	__pthread_internal_list *	__next	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:85:35:85:40
+definition of __prev	__prev	__pthread_internal_list *	__prev	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:84:35:84:40
+definition of __align	__align	int	__align	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:117:7:117:13
+definition of __size	__size	char[4]	__size	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:116:8:116:13
+definition of __align	__align	long	__align	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:111:12:111:18
+definition of __size	__size	char[32]	__size	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:110:8:110:13
+definition of __align	__align	long	__align	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:96:12:96:18
+definition of __size	__size	char[8]	__size	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:95:8:95:13
+definition of __align	__align	long	__align	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:90:12:90:18
+definition of __size	__size	char[56]	__size	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:89:8:89:13
+definition of __data	__data	__pthread_rwlock_arch_t	__data	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:88:34:88:39
+definition of __align	__align	long long	__align	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:79:31:79:37
+definition of __size	__size	char[48]	__size	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:78:8:78:13
+definition of __data	__data	__pthread_cond_s	__data	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:77:27:77:32
+definition of __align	__align	long	__align	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:71:12:71:18
+definition of __size	__size	char[40]	__size	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:70:8:70:13
+definition of __data	__data	__pthread_mutex_s	__data	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:69:28:69:33
+definition of __align	__align	long	__align	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:59:12:59:18
+definition of __size	__size	char[56]	__size	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:58:8:58:13
+definition of __align	__align	int	__align	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:44:7:44:13
+definition of __size	__size	char[4]	__size	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:43:8:43:13
+definition of __align	__align	int	__align	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:35:7:35:13
+definition of __size	__size	char[4]	__size	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:34:8:34:13
+declaration of __size	__size	size_t	__size	file:///usr/include/alloca.h:32:29:32:34
+definition of __a	__a	unsigned long long	__a	file:///usr/include/stdlib.h:496:42:496:44
+definition of __init	__init	unsigned short	__init	file:///usr/include/stdlib.h:495:24:495:29
+definition of __c	__c	unsigned short	__c	file:///usr/include/stdlib.h:494:24:494:26
+definition of __old_x	__old_x	unsigned short[3]	__old_x	file:///usr/include/stdlib.h:493:24:493:30
+definition of __x	__x	unsigned short[3]	__x	file:///usr/include/stdlib.h:492:24:492:26
+definition of end_ptr	end_ptr	int32_t *	end_ptr	file:///usr/include/stdlib.h:431:14:431:20
+definition of rand_sep	rand_sep	int	rand_sep	file:///usr/include/stdlib.h:430:9:430:16
+definition of rand_deg	rand_deg	int	rand_deg	file:///usr/include/stdlib.h:429:9:429:16
+definition of rand_type	rand_type	int	rand_type	file:///usr/include/stdlib.h:428:9:428:17
+definition of state	state	int32_t *	state	file:///usr/include/stdlib.h:427:14:427:18
+definition of rptr	rptr	int32_t *	rptr	file:///usr/include/stdlib.h:426:14:426:17
+definition of fptr	fptr	int32_t *	fptr	file:///usr/include/stdlib.h:425:14:425:17
+definition of rem	rem	long long	rem	file:///usr/include/stdlib.h:79:19:79:21
+definition of quot	quot	long long	quot	file:///usr/include/stdlib.h:78:19:78:22
+definition of rem	rem	long	rem	file:///usr/include/stdlib.h:69:14:69:16
+definition of quot	quot	long	quot	file:///usr/include/stdlib.h:68:14:68:17
+definition of rem	rem	int	rem	file:///usr/include/stdlib.h:61:9:61:11
+definition of quot	quot	int	quot	file:///usr/include/stdlib.h:60:9:60:12
+declaration of __loadavg	__loadavg	double[]	__loadavg	file:///usr/include/stdlib.h:1006:31:1006:39
+declaration of __nelem	__nelem	int	__nelem	file:///usr/include/stdlib.h:1006:48:1006:54
+declaration of __optionp	__optionp	char **__restrict__	__optionp	file:///usr/include/stdlib.h:954:41:954:49
+declaration of __tokens	__tokens	char *const *__restrict__	__tokens	file:///usr/include/stdlib.h:955:33:955:40
+declaration of __valuep	__valuep	char **__restrict__	__valuep	file:///usr/include/stdlib.h:956:27:956:34
+declaration of __response	__response	const char *	__response	file:///usr/include/stdlib.h:943:33:943:42
+declaration of __s	__s	char *__restrict__	__s	file:///usr/include/stdlib.h:933:42:933:44
+declaration of __pwcs	__pwcs	const wchar_t *__restrict__	__pwcs	file:///usr/include/stdlib.h:934:30:934:35
+declaration of __n	__n	size_t	__n	file:///usr/include/stdlib.h:934:45:934:47
+declaration of __pwcs	__pwcs	wchar_t *__restrict__	__pwcs	file:///usr/include/stdlib.h:930:46:930:51
+declaration of __s	__s	const char *__restrict__	__s	file:///usr/include/stdlib.h:931:27:931:29
+declaration of __n	__n	size_t	__n	file:///usr/include/stdlib.h:931:39:931:41
+declaration of __s	__s	char *	__s	file:///usr/include/stdlib.h:926:26:926:28
+declaration of __wchar	__wchar	wchar_t	__wchar	file:///usr/include/stdlib.h:926:39:926:45
+declaration of __pwc	__pwc	wchar_t *__restrict__	__pwc	file:///usr/include/stdlib.h:922:40:922:44
+declaration of __s	__s	const char *__restrict__	__s	file:///usr/include/stdlib.h:923:29:923:31
+declaration of __n	__n	size_t	__n	file:///usr/include/stdlib.h:923:41:923:43
+declaration of __s	__s	const char *	__s	file:///usr/include/stdlib.h:919:31:919:33
+declaration of __n	__n	size_t	__n	file:///usr/include/stdlib.h:919:43:919:45
+declaration of __value	__value	long double	__value	file:///usr/include/stdlib.h:910:33:910:39
+declaration of __ndigit	__ndigit	int	__ndigit	file:///usr/include/stdlib.h:910:46:910:53
+declaration of __decpt	__decpt	int *__restrict__	__decpt	file:///usr/include/stdlib.h:911:23:911:29
+declaration of __sign	__sign	int *__restrict__	__sign	file:///usr/include/stdlib.h:911:48:911:53
+declaration of __buf	__buf	char *__restrict__	__buf	file:///usr/include/stdlib.h:912:24:912:28
+declaration of __len	__len	size_t	__len	file:///usr/include/stdlib.h:912:38:912:42
+declaration of __value	__value	long double	__value	file:///usr/include/stdlib.h:906:33:906:39
+declaration of __ndigit	__ndigit	int	__ndigit	file:///usr/include/stdlib.h:906:46:906:53
+declaration of __decpt	__decpt	int *__restrict__	__decpt	file:///usr/include/stdlib.h:907:23:907:29
+declaration of __sign	__sign	int *__restrict__	__sign	file:///usr/include/stdlib.h:907:48:907:53
+declaration of __buf	__buf	char *__restrict__	__buf	file:///usr/include/stdlib.h:908:24:908:28
+declaration of __len	__len	size_t	__len	file:///usr/include/stdlib.h:908:38:908:42
+declaration of __value	__value	double	__value	file:///usr/include/stdlib.h:902:27:902:33
+declaration of __ndigit	__ndigit	int	__ndigit	file:///usr/include/stdlib.h:902:40:902:47
+declaration of __decpt	__decpt	int *__restrict__	__decpt	file:///usr/include/stdlib.h:902:66:902:72
+declaration of __sign	__sign	int *__restrict__	__sign	file:///usr/include/stdlib.h:903:22:903:27
+declaration of __buf	__buf	char *__restrict__	__buf	file:///usr/include/stdlib.h:903:47:903:51
+declaration of __len	__len	size_t	__len	file:///usr/include/stdlib.h:904:13:904:17
+declaration of __value	__value	double	__value	file:///usr/include/stdlib.h:899:27:899:33
+declaration of __ndigit	__ndigit	int	__ndigit	file:///usr/include/stdlib.h:899:40:899:47
+declaration of __decpt	__decpt	int *__restrict__	__decpt	file:///usr/include/stdlib.h:899:66:899:72
+declaration of __sign	__sign	int *__restrict__	__sign	file:///usr/include/stdlib.h:900:22:900:27
+declaration of __buf	__buf	char *__restrict__	__buf	file:///usr/include/stdlib.h:900:47:900:51
+declaration of __len	__len	size_t	__len	file:///usr/include/stdlib.h:901:13:901:17
+declaration of __value	__value	long double	__value	file:///usr/include/stdlib.h:893:33:893:39
+declaration of __ndigit	__ndigit	int	__ndigit	file:///usr/include/stdlib.h:893:46:893:53
+declaration of __buf	__buf	char *	__buf	file:///usr/include/stdlib.h:893:62:893:66
+declaration of __value	__value	long double	__value	file:///usr/include/stdlib.h:890:33:890:39
+declaration of __ndigit	__ndigit	int	__ndigit	file:///usr/include/stdlib.h:890:46:890:53
+declaration of __decpt	__decpt	int *__restrict__	__decpt	file:///usr/include/stdlib.h:891:23:891:29
+declaration of __sign	__sign	int *__restrict__	__sign	file:///usr/include/stdlib.h:891:48:891:53
+declaration of __value	__value	long double	__value	file:///usr/include/stdlib.h:887:33:887:39
+declaration of __ndigit	__ndigit	int	__ndigit	file:///usr/include/stdlib.h:887:46:887:53
+declaration of __decpt	__decpt	int *__restrict__	__decpt	file:///usr/include/stdlib.h:888:23:888:29
+declaration of __sign	__sign	int *__restrict__	__sign	file:///usr/include/stdlib.h:888:48:888:53
+declaration of __value	__value	double	__value	file:///usr/include/stdlib.h:881:27:881:33
+declaration of __ndigit	__ndigit	int	__ndigit	file:///usr/include/stdlib.h:881:40:881:47
+declaration of __buf	__buf	char *	__buf	file:///usr/include/stdlib.h:881:56:881:60
+declaration of __value	__value	double	__value	file:///usr/include/stdlib.h:875:27:875:33
+declaration of __ndigit	__ndigit	int	__ndigit	file:///usr/include/stdlib.h:875:40:875:47
+declaration of __decpt	__decpt	int *__restrict__	__decpt	file:///usr/include/stdlib.h:875:66:875:72
+declaration of __sign	__sign	int *__restrict__	__sign	file:///usr/include/stdlib.h:876:22:876:27
+declaration of __value	__value	double	__value	file:///usr/include/stdlib.h:869:27:869:33
+declaration of __ndigit	__ndigit	int	__ndigit	file:///usr/include/stdlib.h:869:40:869:47
+declaration of __decpt	__decpt	int *__restrict__	__decpt	file:///usr/include/stdlib.h:869:66:869:72
+declaration of __sign	__sign	int *__restrict__	__sign	file:///usr/include/stdlib.h:870:22:870:27
+declaration of __numer	__numer	long long	__numer	file:///usr/include/stdlib.h:855:51:855:57
+declaration of __denom	__denom	long long	__denom	file:///usr/include/stdlib.h:856:23:856:29
+declaration of __numer	__numer	long	__numer	file:///usr/include/stdlib.h:851:30:851:36
+declaration of __denom	__denom	long	__denom	file:///usr/include/stdlib.h:851:48:851:54
+declaration of __numer	__numer	int	__numer	file:///usr/include/stdlib.h:849:23:849:29
+declaration of __denom	__denom	int	__denom	file:///usr/include/stdlib.h:849:36:849:42
+declaration of __x	__x	long long	__x	file:///usr/include/stdlib.h:841:57:841:59
+declaration of __x	__x	long	__x	file:///usr/include/stdlib.h:838:32:838:34
+declaration of __x	__x	int	__x	file:///usr/include/stdlib.h:837:21:837:23
+declaration of __base	__base	void *	__base	file:///usr/include/stdlib.h:827:26:827:31
+declaration of __nmemb	__nmemb	size_t	__nmemb	file:///usr/include/stdlib.h:827:41:827:47
+declaration of __size	__size	size_t	__size	file:///usr/include/stdlib.h:827:57:827:62
+declaration of __compar	__compar	__compar_fn_t	__compar	file:///usr/include/stdlib.h:828:20:828:27
+declaration of __key	__key	const void *	__key	file:///usr/include/stdlib.h:817:35:817:39
+declaration of __base	__base	const void *	__base	file:///usr/include/stdlib.h:817:54:817:59
+declaration of __nmemb	__nmemb	size_t	__nmemb	file:///usr/include/stdlib.h:818:16:818:22
+declaration of __size	__size	size_t	__size	file:///usr/include/stdlib.h:818:32:818:37
+declaration of __compar	__compar	__compar_fn_t	__compar	file:///usr/include/stdlib.h:818:54:818:61
+declaration of __name	__name	const char *__restrict__	__name	file:///usr/include/stdlib.h:797:47:797:52
+declaration of __resolved	__resolved	char *__restrict__	__resolved	file:///usr/include/stdlib.h:798:27:798:36
+declaration of __command	__command	const char *	__command	file:///usr/include/stdlib.h:781:32:781:40
+declaration of __template	__template	char *	__template	file:///usr/include/stdlib.h:728:29:728:38
+declaration of __template	__template	char *	__template	file:///usr/include/stdlib.h:707:28:707:37
+declaration of __suffixlen	__suffixlen	int	__suffixlen	file:///usr/include/stdlib.h:707:44:707:54
+declaration of __template	__template	char *	__template	file:///usr/include/stdlib.h:685:27:685:36
+declaration of __template	__template	char *	__template	file:///usr/include/stdlib.h:672:28:672:37
+declaration of __name	__name	const char *	__name	file:///usr/include/stdlib.h:654:34:654:39
+declaration of __name	__name	const char *	__name	file:///usr/include/stdlib.h:650:32:650:37
+declaration of __value	__value	const char *	__value	file:///usr/include/stdlib.h:650:52:650:58
+declaration of __replace	__replace	int	__replace	file:///usr/include/stdlib.h:650:65:650:73
+declaration of __string	__string	char *	__string	file:///usr/include/stdlib.h:644:26:644:33
+declaration of __name	__name	const char *	__name	file:///usr/include/stdlib.h:631:34:631:39
+declaration of __status	__status	int	__status	file:///usr/include/stdlib.h:626:24:626:31
+declaration of __status	__status	int	__status	file:///usr/include/stdlib.h:620:29:620:36
+declaration of __status	__status	int	__status	file:///usr/include/stdlib.h:614:23:614:30
+declaration of __func	__func	..(*)(..)	__func	file:///usr/include/stdlib.h:607:28:607:33
+declaration of __arg	__arg	void *	__arg	file:///usr/include/stdlib.h:607:71:607:75
+declaration of __func	__func	..(*)(..)	__func	file:///usr/include/stdlib.h:600:34:600:39
+declaration of __func	__func	..(*)(..)	__func	file:///usr/include/stdlib.h:592:27:592:32
+declaration of __alignment	__alignment	size_t	__alignment	file:///usr/include/stdlib.h:583:36:583:46
+declaration of __size	__size	size_t	__size	file:///usr/include/stdlib.h:583:56:583:61
+declaration of __memptr	__memptr	void **	__memptr	file:///usr/include/stdlib.h:577:35:577:42
+declaration of __alignment	__alignment	size_t	__alignment	file:///usr/include/stdlib.h:577:52:577:62
+declaration of __size	__size	size_t	__size	file:///usr/include/stdlib.h:577:72:577:77
+declaration of __size	__size	size_t	__size	file:///usr/include/stdlib.h:572:29:572:34
+declaration of __ptr	__ptr	void *	__ptr	file:///usr/include/stdlib.h:563:25:563:29
+declaration of __ptr	__ptr	void *	__ptr	file:///usr/include/stdlib.h:549:29:549:33
+declaration of __size	__size	size_t	__size	file:///usr/include/stdlib.h:549:43:549:48
+declaration of __nmemb	__nmemb	size_t	__nmemb	file:///usr/include/stdlib.h:541:29:541:35
+declaration of __size	__size	size_t	__size	file:///usr/include/stdlib.h:541:45:541:50
+declaration of __size	__size	size_t	__size	file:///usr/include/stdlib.h:539:29:539:34
+declaration of __param	__param	unsigned short[7]	__param	file:///usr/include/stdlib.h:532:42:532:48
+declaration of __buffer	__buffer	drand48_data *	__buffer	file:///usr/include/stdlib.h:533:30:533:37
+declaration of __seed16v	__seed16v	unsigned short[3]	__seed16v	file:///usr/include/stdlib.h:529:41:529:49
+declaration of __buffer	__buffer	drand48_data *	__buffer	file:///usr/include/stdlib.h:530:29:530:36
+declaration of __seedval	__seedval	long	__seedval	file:///usr/include/stdlib.h:526:32:526:40
+declaration of __buffer	__buffer	drand48_data *	__buffer	file:///usr/include/stdlib.h:526:64:526:71
+declaration of __xsubi	__xsubi	unsigned short[3]	__xsubi	file:///usr/include/stdlib.h:520:42:520:48
+declaration of __buffer	__buffer	drand48_data *__restrict__	__buffer	file:///usr/include/stdlib.h:521:41:521:48
+declaration of __result	__result	long *__restrict__	__result	file:///usr/include/stdlib.h:522:30:522:37
+declaration of __buffer	__buffer	drand48_data *__restrict__	__buffer	file:///usr/include/stdlib.h:517:55:517:62
+declaration of __result	__result	long *__restrict__	__result	file:///usr/include/stdlib.h:518:30:518:37
+declaration of __xsubi	__xsubi	unsigned short[3]	__xsubi	file:///usr/include/stdlib.h:511:42:511:48
+declaration of __buffer	__buffer	drand48_data *__restrict__	__buffer	file:///usr/include/stdlib.h:512:41:512:48
+declaration of __result	__result	long *__restrict__	__result	file:///usr/include/stdlib.h:513:30:513:37
+declaration of __buffer	__buffer	drand48_data *__restrict__	__buffer	file:///usr/include/stdlib.h:508:55:508:62
+declaration of __result	__result	long *__restrict__	__result	file:///usr/include/stdlib.h:509:30:509:37
+declaration of __xsubi	__xsubi	unsigned short[3]	__xsubi	file:///usr/include/stdlib.h:503:42:503:48
+declaration of __buffer	__buffer	drand48_data *__restrict__	__buffer	file:///usr/include/stdlib.h:504:41:504:48
+declaration of __result	__result	double *__restrict__	__result	file:///usr/include/stdlib.h:505:28:505:35
+declaration of __buffer	__buffer	drand48_data *__restrict__	__buffer	file:///usr/include/stdlib.h:501:55:501:62
+declaration of __result	__result	double *__restrict__	__result	file:///usr/include/stdlib.h:502:28:502:35
+declaration of __param	__param	unsigned short[7]	__param	file:///usr/include/stdlib.h:484:41:484:47
+declaration of __seed16v	__seed16v	unsigned short[3]	__seed16v	file:///usr/include/stdlib.h:482:55:482:63
+declaration of __seedval	__seedval	long	__seedval	file:///usr/include/stdlib.h:481:31:481:39
+declaration of __xsubi	__xsubi	unsigned short[3]	__xsubi	file:///usr/include/stdlib.h:477:45:477:51
+declaration of __xsubi	__xsubi	unsigned short[3]	__xsubi	file:///usr/include/stdlib.h:472:45:472:51
+declaration of __xsubi	__xsubi	unsigned short[3]	__xsubi	file:///usr/include/stdlib.h:468:43:468:49
+declaration of __seed	__seed	unsigned int *	__seed	file:///usr/include/stdlib.h:459:34:459:39
+declaration of __seed	__seed	unsigned int	__seed	file:///usr/include/stdlib.h:455:33:455:38
+declaration of __statebuf	__statebuf	char *__restrict__	__statebuf	file:///usr/include/stdlib.h:445:41:445:50
+declaration of __buf	__buf	random_data *__restrict__	__buf	file:///usr/include/stdlib.h:446:41:446:45
+declaration of __seed	__seed	unsigned int	__seed	file:///usr/include/stdlib.h:440:38:440:43
+declaration of __statebuf	__statebuf	char *__restrict__	__statebuf	file:///usr/include/stdlib.h:440:63:440:72
+declaration of __statelen	__statelen	size_t	__statelen	file:///usr/include/stdlib.h:441:11:441:20
+declaration of __buf	__buf	random_data *__restrict__	__buf	file:///usr/include/stdlib.h:442:35:442:39
+declaration of __seed	__seed	unsigned int	__seed	file:///usr/include/stdlib.h:437:36:437:41
+declaration of __buf	__buf	random_data *	__buf	file:///usr/include/stdlib.h:437:64:437:68
+declaration of __buf	__buf	random_data *__restrict__	__buf	file:///usr/include/stdlib.h:434:53:434:57
+declaration of __result	__result	int32_t *__restrict__	__result	file:///usr/include/stdlib.h:435:28:435:35
+declaration of __statebuf	__statebuf	char *	__statebuf	file:///usr/include/stdlib.h:415:30:415:39
+declaration of __seed	__seed	unsigned int	__seed	file:///usr/include/stdlib.h:410:38:410:43
+declaration of __statebuf	__statebuf	char *	__statebuf	file:///usr/include/stdlib.h:410:52:410:61
+declaration of __statelen	__statelen	size_t	__statelen	file:///usr/include/stdlib.h:411:11:411:20
+declaration of __seed	__seed	unsigned int	__seed	file:///usr/include/stdlib.h:404:35:404:40
+declaration of __s	__s	const char *	__s	file:///usr/include/stdlib.h:388:35:388:37
+declaration of __n	__n	long	__n	file:///usr/include/stdlib.h:385:29:385:31
+declaration of __nptr	__nptr	const char *__restrict__	__nptr	file:///usr/include/stdlib.h:205:64:205:69
+declaration of __endptr	__endptr	char **__restrict__	__endptr	file:///usr/include/stdlib.h:206:24:206:31
+declaration of __base	__base	int	__base	file:///usr/include/stdlib.h:206:38:206:43
+declaration of __nptr	__nptr	const char *__restrict__	__nptr	file:///usr/include/stdlib.h:200:54:200:59
+declaration of __endptr	__endptr	char **__restrict__	__endptr	file:///usr/include/stdlib.h:201:28:201:35
+declaration of __base	__base	int	__base	file:///usr/include/stdlib.h:201:42:201:47
+declaration of __nptr	__nptr	const char *__restrict__	__nptr	file:///usr/include/stdlib.h:192:63:192:68
+declaration of __endptr	__endptr	char **__restrict__	__endptr	file:///usr/include/stdlib.h:193:30:193:37
+declaration of __base	__base	int	__base	file:///usr/include/stdlib.h:193:44:193:49
+declaration of __nptr	__nptr	const char *__restrict__	__nptr	file:///usr/include/stdlib.h:187:53:187:58
+declaration of __endptr	__endptr	char **__restrict__	__endptr	file:///usr/include/stdlib.h:188:27:188:34
+declaration of __base	__base	int	__base	file:///usr/include/stdlib.h:188:41:188:46
+declaration of __nptr	__nptr	const char *__restrict__	__nptr	file:///usr/include/stdlib.h:180:58:180:63
+declaration of __endptr	__endptr	char **__restrict__	__endptr	file:///usr/include/stdlib.h:181:25:181:32
+declaration of __base	__base	int	__base	file:///usr/include/stdlib.h:181:39:181:44
+declaration of __nptr	__nptr	const char *__restrict__	__nptr	file:///usr/include/stdlib.h:176:48:176:53
+declaration of __endptr	__endptr	char **__restrict__	__endptr	file:///usr/include/stdlib.h:177:22:177:29
+declaration of __base	__base	int	__base	file:///usr/include/stdlib.h:177:36:177:41
+declaration of __nptr	__nptr	const char *__restrict__	__nptr	file:///usr/include/stdlib.h:126:52:126:57
+declaration of __endptr	__endptr	char **__restrict__	__endptr	file:///usr/include/stdlib.h:127:26:127:33
+declaration of __nptr	__nptr	const char *__restrict__	__nptr	file:///usr/include/stdlib.h:123:45:123:50
+declaration of __endptr	__endptr	char **__restrict__	__endptr	file:///usr/include/stdlib.h:124:26:124:33
+declaration of __nptr	__nptr	const char *__restrict__	__nptr	file:///usr/include/stdlib.h:117:46:117:51
+declaration of __endptr	__endptr	char **__restrict__	__endptr	file:///usr/include/stdlib.h:118:27:118:34
+declaration of __nptr	__nptr	const char *	__nptr	file:///usr/include/stdlib.h:112:55:112:60
+declaration of __nptr	__nptr	const char *	__nptr	file:///usr/include/stdlib.h:107:35:107:40
+declaration of __nptr	__nptr	const char *	__nptr	file:///usr/include/stdlib.h:104:30:104:35
+declaration of __nptr	__nptr	const char *	__nptr	file:///usr/include/stdlib.h:101:33:101:38
+definition of x	x	double	x	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:23:12:23:12
+definition of n	n	double	n	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:19:12:19:12
+definition of x	x	long long	x	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:13:15:13:15
+definition of z	z	double	z	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:15:12:15:12
+definition of f	f	float	f	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:9:11:9:11
+definition of z	z	float	z	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:5:11:5:11
+definition of z	z	short	z	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:35:11:35:11
+definition of x	x	char	x	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:31:10:31:10
+definition of avg	avg	long	avg	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:10:21:12
+definition of num	num	long	num	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:19:21:21
+definition of i	i	unsigned int	i	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:22:18:22:18
+definition of x	x	long	x	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:17:10:17:10
+definition of d	d	long long	d	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:13:15:13:15
+definition of x	x	char	x	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:9:10:9:10
+definition of x	x	int	x	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:5:9:5:9

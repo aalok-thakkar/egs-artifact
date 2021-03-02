@@ -1,0 +1,17 @@
+/usr/include	/usr/include	include
+/usr	/usr	usr
+/	/	
+/usr/include/x86_64-linux-gnu/bits	/usr/include/x86_64-linux-gnu/bits	bits
+/usr/include/x86_64-linux-gnu	/usr/include/x86_64-linux-gnu	x86_64-linux-gnu
+/usr/include/x86_64-linux-gnu/sys	/usr/include/x86_64-linux-gnu/sys	sys
+/usr/include/x86_64-linux-gnu/gnu	/usr/include/x86_64-linux-gnu/gnu	gnu
+/usr/lib/gcc/x86_64-linux-gnu/7/include	/usr/lib/gcc/x86_64-linux-gnu/7/include	include
+/usr/lib/gcc/x86_64-linux-gnu/7	/usr/lib/gcc/x86_64-linux-gnu/7	7
+/usr/lib/gcc/x86_64-linux-gnu	/usr/lib/gcc/x86_64-linux-gnu	x86_64-linux-gnu
+/usr/lib/gcc	/usr/lib/gcc	gcc
+/usr/lib	/usr/lib	lib
+/usr/include/x86_64-linux-gnu/bits/types	/usr/include/x86_64-linux-gnu/bits/types	types
+/home/aadityanaik/codeql-exploration/sample-code	/home/aadityanaik/codeql-exploration/sample-code	sample-code
+/home/aadityanaik/codeql-exploration	/home/aadityanaik/codeql-exploration	codeql-exploration
+/home/aadityanaik	/home/aadityanaik	aadityanaik
+/home	/home	home

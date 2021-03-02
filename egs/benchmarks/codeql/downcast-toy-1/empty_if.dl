@@ -1,0 +1,13 @@
+.type STMT
+.type LOC
+
+.decl empty_blocks(v0: STMT, v1: LOC)
+.input empty_blocks
+
+.decl if_then(v0: STMT, v1: LOC, v2: STMT, v3: LOC)
+.input if_then
+
+.decl empty_then(v0: LOC)
+.output empty_then
+
+empty_then(v0) :- if_then(_, v0, _, v3), empty_blocks(_, v3).

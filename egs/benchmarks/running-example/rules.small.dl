@@ -1,0 +1,7 @@
+.type P
+
+.decl advisor(p0: P, p1: P)
+.input advisor
+
+.decl sgen(p0: P, p1: P)
+.output sgen

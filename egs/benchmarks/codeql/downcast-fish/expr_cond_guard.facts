@@ -1,0 +1,173 @@
+... ? ... : ...	value
+... ? ... : ...	1
+... ? ... : ...	__p
+... ? ... : ...	__x
+... ? ... : ...	__value
+... ? ... : ...	__n
+... ? ... : ...	__i
+... ? ... : ...	__comp
+... ? ... : ...	__cond
+... ? ... : ...	__s
+... ? ... : ...	data
+... ? ... : ...	__testoff
+... ? ... : ...	res
+... ? ... : ...	argv0
+... ? ... : ...	output
+... ? ... : ...	result
+... ? ... : ...	allow_incomplete
+... ? ... : ...	unescape_special
+... ? ... : ...	file
+... ? ... : ...	reverse
+... ? ... : ...	finished
+... ? ... : ...	unsourced
+... ? ... : ...	func
+... ? ... : ...	ok
+... ? ... : ...	dest
+... ? ... : ...	remove
+... ? ... : ...	_M_nxt
+... ? ... : ...	b
+... ? ... : ...	a
+... ? ... : ...	dup
+... ? ... : ...	set
+... ? ... : ...	argv
+... ? ... : ...	term_has_xn
+... ? ... : ...	curses_initialized
+... ? ... : ...	out
+... ? ... : ...	endptr
+... ? ... : ...	__add_at_front
+... ? ... : ...	fuzzy
+... ? ... : ...	history
+... ? ... : ...	io_chain
+... ? ... : ...	is_input_
+... ? ... : ...	generic
+... ? ... : ...	is_interactive
+... ? ... : ...	is_pipe
+... ? ... : ...	all
+... ? ... : ...	__refs
+... ? ... : ...	interactive
+... ? ... : ...	negate
+... ? ... : ...	send_sigcont
+... ? ... : ...	left_len
+... ? ... : ...	current_filename
+... ? ... : ...	break_expand
+... ? ... : ...	is_breakpoint
+... ? ... : ...	is_block
+... ? ... : ...	is_subshell
+... ? ... : ...	shadows
+... ? ... : ...	user
+... ? ... : ...	match
+... ? ... : ...	cmd_is_path
+... ? ... : ...	no_tilde
+... ? ... : ...	is_background
+... ? ... : ...	woptarg
+... ? ... : ...	missing_arg_return_colon
+... ? ... : ...	found
+... ? ... : ...	is_break
+... ? ... : ...	stop_nonopt
+... ? ... : ...	bind_mode_given
+... ? ... : ...	success
+... ? ... : ...	shadow_scope
+... ? ... : ...	case_sensitive
+... ? ... : ...	null_terminate
+... ? ... : ...	bytes_read
+... ? ... : ...	split_null
+... ? ... : ...	is_fg
+... ? ... : ...	bgcolor
+... ? ... : ...	limit_repeat
+... ? ... : ...	is_split0
+... ? ... : ...	is_join0
+... ? ... : ...	invert_match
+... ? ... : ...	ignore_case
+... ? ... : ...	entire
+... ? ... : ...	hard
+... ? ... : ...	byte_literal
+... ? ... : ...	line_width
+... ? ... : ...	test_path
+... ? ... : ...	pwuid
+... ? ... : ...	incoming_pwd_cstr
+... ? ... : ...	support_term256
+... ? ... : ...	support_term24bit
+... ? ... : ...	is_subcmd
+... ? ... : ...	stdout_done
+... ? ... : ...	for_cd
+... ? ... : ...	seems_installed
+... ? ... : ...	do_indent
+... ? ... : ...	prefer_semi
+... ? ... : ...	needs_space
+... ? ... : ...	require_dir
+... ? ... : ...	target_is_valid
+... ? ... : ...	goleft
+... ? ... : ...	vacuum
+... ? ... : ...	timed
+... ? ... : ...	search_field_shown
+... ? ... : ...	desc_width
+... ? ... : ...	has_rem
+... ? ... : ...	forbidden
+... ? ... : ...	first_cond_check
+... ? ... : ...	double_quotes
+... ? ... : ...	paran_count
+... ? ... : ...	using_xdg
+... ? ... : ...	proc_is_job
+... ? ... : ...	can_use_internal
+... ? ... : ...	back_into_trailing_quote
+... ? ... : ...	will_replace_token
+... ? ... : ...	no_io
+... ? ... : ...	up
+... ? ... : ...	focused_on_pager
+... ? ... : ...	move_right
+... ? ... : ...	should_clear_screen_this_line
+... ? ... : ...	has_fd
+... ? ... : ...	full_replacement
+... ? ... : ...	next_slash
+... ? ... : ...	did_add
+... ? ... : ...	call to expression
+... ? ... : ...	call to _M_is_local
+... ? ... : ...	call to operator()
+... ? ... : ...	call to operator!=
+... ? ... : ...	call to operator bool
+... ? ... : ...	call to get
+... ? ... : ...	call to operator==
+... ? ... : ...	call to empty
+... ? ... : ...	call to has_value
+... ? ... : ...	call to __builtin_constant_p
+... ? ... : ...	call to eq_int_type
+... ? ... : ...	call to __builtin_expect
+... ? ... : ...	call to operator&
+... ? ... : ...	call to operator<
+... ? ... : ...	call to wcschr
+... ? ... : ...	call to valid
+... ? ... : ...	call to is_completed
+... ? ... : ...	call to normal_exited
+... ? ... : ...	call to no_exec
+... ? ... : ...	call to is_stopped
+... ? ... : ...	call to missing_or_empty
+... ? ... : ...	call to reader_is_in_search_mode
+... ? ... : ...	call to reader_has_pager_contents
+... ? ... : ...	call to function_exists
+... ? ... : ...	call to function_is_autoloaded
+... ? ... : ...	call to exports
+... ? ... : ...	call to is_pathvar
+... ? ... : ...	call to feature_test
+... ? ... : ...	call to get_arg_stdin
+... ? ... : ...	call to can_be_encoded
+... ? ... : ...	call to uvars
+... ? ... : ...	call to remove_from_chain
+... ? ... : ...	call to is_erase
+... ? ... : ...	call to should_claim_terminal
+... ? ... : ...	call to has_source
+... ? ... : ...	call to is_sorted
+... ? ... : ...	call to specific_statement_type_is_redirectable_block
+... ? ... : ...	call to stopped
+... ? ... : ...	call to is_at_end
+... ? ... : ...	call to by_prefix
+... ? ... : ...	... == ...
+... ? ... : ...	... && ...
+... ? ... : ...	... < ...
+... ? ... : ...	... > ...
+... ? ... : ...	... <= ...
+... ? ... : ...	... >= ...
+... ? ... : ...	... != ...
+... ? ... : ...	... || ...
+... ? ... : ...	... & ...
+... ? ... : ...	! ...
+... ? ... : ...	... ++

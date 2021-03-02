@@ -1,0 +1,769 @@
+#ifndef _STDC_PREDEF_H	#endif
+#ifdef __GCC_IEC_559	#else
+#ifdef __GCC_IEC_559	#endif
+#if __GCC_IEC_559 > 0	#endif
+#ifdef __GCC_IEC_559_COMPLEX	#else
+#ifdef __GCC_IEC_559_COMPLEX	#endif
+#if __GCC_IEC_559_COMPLEX > 0	#endif
+#if defined __x86_64__ && !defined __ILP32__	#else
+#if defined __x86_64__ && !defined __ILP32__	#endif
+#ifdef __x86_64__	#else
+#ifdef __x86_64__	#endif
+#ifndef _SYS_CDEFS_H	#endif
+#ifndef _FEATURES_H	#endif
+#if defined __GNUC__ && !defined __STDC__	#endif
+#ifdef __GNUC__	#else
+#ifdef __GNUC__	#endif
+#if __GNUC_PREREQ (4, 6) && !defined _LIBC	#else
+#if __GNUC_PREREQ (4, 6) && !defined _LIBC	#endif
+#if !defined __cplusplus && __GNUC_PREREQ (3, 3)	#else
+#if !defined __cplusplus && __GNUC_PREREQ (3, 3)	#endif
+#if defined __cplusplus && __GNUC_PREREQ (2,8)	#else
+#if defined __cplusplus && __GNUC_PREREQ (2,8)	#endif
+#if defined __clang__ && defined __has_extension	#else
+#if defined __clang__ && defined __has_extension	#endif
+#ifdef __cplusplus	#else
+#ifdef __cplusplus	#endif
+#if __GNUC_PREREQ (4,3)	#else
+#if __GNUC_PREREQ (4,3)	#endif
+#if defined __STDC_VERSION__ && __STDC_VERSION__ >= 199901L	#elif __GNUC_PREREQ (2,97)
+#if defined __STDC_VERSION__ && __STDC_VERSION__ >= 199901L	#elif defined __GNUC__
+#if defined __STDC_VERSION__ && __STDC_VERSION__ >= 199901L	#else
+#if defined __STDC_VERSION__ && __STDC_VERSION__ >= 199901L	#endif
+#if defined __GNUC__ && __GNUC__ >= 2	#endif
+#ifdef __cplusplus	#else
+#ifdef __cplusplus	#endif
+#if !defined __GNUC__ || __GNUC__ < 2	#endif
+#if __GNUC_PREREQ (2,96)	#else
+#if __GNUC_PREREQ (2,96)	#endif
+#if __GNUC_PREREQ (4, 3)	#else
+#if __GNUC_PREREQ (4, 3)	#endif
+#if __GNUC_PREREQ (2,96)	#else
+#if __GNUC_PREREQ (2,96)	#endif
+#if __GNUC_PREREQ (2,5)	#else
+#if __GNUC_PREREQ (2,5)	#endif
+#if __GNUC_PREREQ (3,1)	#else
+#if __GNUC_PREREQ (3,1)	#endif
+#if __GNUC_PREREQ (3,2)	#else
+#if __GNUC_PREREQ (3,2)	#endif
+#if __GNUC_PREREQ (4,5) || \	#else
+#if __GNUC_PREREQ (4,5) || \	#endif
+#if __GNUC_PREREQ (2,8)	#else
+#if __GNUC_PREREQ (2,8)	#endif
+#if __GNUC_PREREQ (2,97)	#else
+#if __GNUC_PREREQ (2,97)	#endif
+#if __GNUC_PREREQ (3,3)	#else
+#if __GNUC_PREREQ (3,3)	#endif
+#if __GNUC_PREREQ (3,4)	#else
+#if __GNUC_PREREQ (3,4)	#endif
+#if __USE_FORTIFY_LEVEL > 0	#endif
+#ifndef __wur	#endif
+#if __GNUC_PREREQ (3,2)	#else
+#if __GNUC_PREREQ (3,2)	#endif
+#if __GNUC_PREREQ (4,3)	#else
+#if __GNUC_PREREQ (4,3)	#endif
+#if (!defined __cplusplus || __GNUC_PREREQ (4,3) \	#endif
+#if defined __GNUC_STDC_INLINE__ || defined __cplusplus	#else
+#if defined __GNUC_STDC_INLINE__ || defined __cplusplus	#endif
+#ifdef __extern_always_inline	#endif
+#if __GNUC_PREREQ (4,3)	#endif
+#if !__GNUC_PREREQ (2,8)	#endif
+#if !__GNUC_PREREQ (2,92)	#endif
+#if __GNUC_PREREQ (3,1) && !defined __GNUG__	#else
+#if __GNUC_PREREQ (3,1) && !defined __GNUG__	#endif
+#ifdef __GNUC__	#else
+#ifdef __GNUC__	#endif
+#if defined __STDC_VERSION__ && __STDC_VERSION__ >= 199901L	#else
+#if defined __STDC_VERSION__ && __STDC_VERSION__ >= 199901L	#endif
+#if __GNUC__ >= 3	#else
+#if __GNUC__ >= 3	#endif
+#if (!defined _Noreturn \	#endif
+#if __GNUC_PREREQ (2,8)	#else
+#if __GNUC_PREREQ (2,8)	#endif
+#if __GNUC_PREREQ (8, 0)	#else
+#if __GNUC_PREREQ (8, 0)	#endif
+#if (!defined _Static_assert && !defined __cplusplus \	#endif
+#if defined __LONG_DOUBLE_MATH_OPTIONAL && defined __NO_LONG_DOUBLE_MATH	#endif
+#ifdef __REDIRECT	#endif
+#if !defined __LDBL_COMPAT || !defined __REDIRECT	#endif
+#ifdef __REDIRECT	#endif
+#if __GNUC_PREREQ (4,8) || __glibc_clang_prereq (3,5)	#else
+#if __GNUC_PREREQ (4,8) || __glibc_clang_prereq (3,5)	#endif
+#if !defined __cplusplus \	#else
+#if !defined __cplusplus \	#endif
+#ifdef _LIBC	#endif
+#if !defined __x86_64__	#endif
+#if defined __x86_64__ && defined __LP64__	#endif
+#if defined __x86_64__ && defined __ILP32__	#endif
+#ifndef _FEATURES_H	#endif
+#ifndef _LOOSE_KERNEL_NAMES	#endif
+#if defined __GNUC__ && defined __GNUC_MINOR__	#else
+#if defined __GNUC__ && defined __GNUC_MINOR__	#endif
+#if defined __clang_major__ && defined __clang_minor__	#else
+#if defined __clang_major__ && defined __clang_minor__	#endif
+#if (defined _BSD_SOURCE || defined _SVID_SOURCE) \	#endif
+#ifdef _GNU_SOURCE	#endif
+"#if (defined _DEFAULT_SOURCE					\"	#endif
+#if (defined _ISOC11_SOURCE \	#endif
+#if (defined _ISOC99_SOURCE || defined _ISOC11_SOURCE \	#endif
+#if (defined _ISOC99_SOURCE || defined _ISOC11_SOURCE \	#endif
+#ifdef __cplusplus	#endif
+#if __cplusplus >= 201703L	#endif
+#if __cplusplus >= 201103L || defined __GXX_EXPERIMENTAL_CXX0X__	#endif
+#ifdef _DEFAULT_SOURCE	#endif
+#if !defined _POSIX_SOURCE && !defined _POSIX_C_SOURCE	#endif
+"#if ((!defined __STRICT_ANSI__					\"	#endif
+#if defined _XOPEN_SOURCE && (_XOPEN_SOURCE - 0) < 500	#elif defined _XOPEN_SOURCE && (_XOPEN_SOURCE - 0) < 600
+#if defined _XOPEN_SOURCE && (_XOPEN_SOURCE - 0) < 500	#elif defined _XOPEN_SOURCE && (_XOPEN_SOURCE - 0) < 700
+#if defined _XOPEN_SOURCE && (_XOPEN_SOURCE - 0) < 500	#else
+#if defined _XOPEN_SOURCE && (_XOPEN_SOURCE - 0) < 500	#endif
+#if ((!defined _POSIX_C_SOURCE || (_POSIX_C_SOURCE - 0) < 199506L) \	#endif
+"#if (defined _POSIX_SOURCE					\"	#endif
+#if defined _POSIX_C_SOURCE && _POSIX_C_SOURCE >= 2 || defined _XOPEN_SOURCE	#endif
+#if defined _POSIX_C_SOURCE && (_POSIX_C_SOURCE - 0) >= 199309L	#endif
+#if defined _POSIX_C_SOURCE && (_POSIX_C_SOURCE - 0) >= 199506L	#endif
+#if defined _POSIX_C_SOURCE && (_POSIX_C_SOURCE - 0) >= 200112L	#endif
+#if defined _POSIX_C_SOURCE && (_POSIX_C_SOURCE - 0) >= 200809L	#endif
+#ifdef _XOPEN_SOURCE	#endif
+#if (_XOPEN_SOURCE - 0) >= 500	#else
+#if (_XOPEN_SOURCE - 0) >= 500	#endif
+#if (_XOPEN_SOURCE - 0) >= 600	#endif
+#if (_XOPEN_SOURCE - 0) >= 700	#endif
+#ifdef _XOPEN_SOURCE_EXTENDED	#endif
+#ifdef _LARGEFILE_SOURCE	#endif
+#ifdef _LARGEFILE64_SOURCE	#endif
+#if defined _FILE_OFFSET_BITS && _FILE_OFFSET_BITS == 64	#endif
+#if defined _DEFAULT_SOURCE	#endif
+#ifdef _ATFILE_SOURCE	#endif
+#ifdef _GNU_SOURCE	#endif
+#if defined _FORTIFY_SOURCE && _FORTIFY_SOURCE > 0 \	#else
+#if defined _FORTIFY_SOURCE && _FORTIFY_SOURCE > 0 \	#endif
+#if _FORTIFY_SOURCE > 1	#else
+#if _FORTIFY_SOURCE > 1	#endif
+#if defined __cplusplus ? __cplusplus >= 201402L : defined __USE_ISOC11	#else
+#if defined __cplusplus ? __cplusplus >= 201402L : defined __USE_ISOC11	#endif
+#ifndef __ASSEMBLER__	#endif
+#ifndef _SYS_CDEFS_H	#endif
+#if defined __USE_FILE_OFFSET64 && !defined __REDIRECT	#endif
+#if __GNUC_PREREQ (2, 7) && defined __OPTIMIZE__ \	#endif
+#ifndef __GLIBC_INTERNAL_STARTING_HEADER_IMPLEMENTATION	#endif
+"#if (defined __USE_GNU							\"	#else
+"#if (defined __USE_GNU							\"	#endif
+#if defined __USE_GNU || defined __STDC_WANT_IEC_60559_BFP_EXT__	#else
+#if defined __USE_GNU || defined __STDC_WANT_IEC_60559_BFP_EXT__	#endif
+#if defined __USE_GNU || defined __STDC_WANT_IEC_60559_FUNCS_EXT__	#else
+#if defined __USE_GNU || defined __STDC_WANT_IEC_60559_FUNCS_EXT__	#endif
+#if defined __USE_GNU || defined __STDC_WANT_IEC_60559_TYPES_EXT__	#else
+#if defined __USE_GNU || defined __STDC_WANT_IEC_60559_TYPES_EXT__	#endif
+#if (!defined(_STDDEF_H) && !defined(_STDDEF_H_) && !defined(_ANSI_STDDEF_H) \	#endif
+"#if (!defined(__need_wchar_t) && !defined(__need_size_t)	\"	#endif
+#ifndef __sys_stdtypes_h	#endif
+#if defined (__BSD_NET2__) || defined (____386BSD____) || (defined (__FreeBSD__) && (__FreeBSD__ < 5)) || defined(__NetBSD__)	#endif
+#if defined (__FreeBSD__) && (__FreeBSD__ >= 5)	#endif
+#if defined(_ANSI_H_) || defined(_MACHINE_ANSI_H_) || defined(_X86_64_ANSI_H_)  || defined(_I386_ANSI_H_)	#endif
+#if !defined(_SIZE_T_) && !defined(_BSD_SIZE_T_)	#endif
+#if !defined(_PTRDIFF_T_) && !defined(_BSD_PTRDIFF_T_)	#endif
+#if !defined(_WCHAR_T_) && !defined(_BSD_WCHAR_T_)	#endif
+#ifndef _BSD_WCHAR_T_	#endif
+#if defined (__need_ptrdiff_t) || defined (_STDDEF_H_)	#endif
+#if defined (__need_size_t) || defined (_STDDEF_H_)	#endif
+#if defined (__need_wchar_t) || defined (_STDDEF_H_)	#endif
+#if defined (__sequent__) && defined (_PTRDIFF_T_)	#endif
+#if defined (_TYPE_ptrdiff_t) && (defined (__need_ptrdiff_t) || defined (_STDDEF_H_))	#endif
+#if defined (_TYPE_size_t) && (defined (__need_size_t) || defined (_STDDEF_H_))	#endif
+#if defined (_TYPE_wchar_t) && (defined (__need_wchar_t) || defined (_STDDEF_H_))	#endif
+#if defined (_STDDEF_H) || defined (__need_ptrdiff_t)	#endif
+#ifndef _PTRDIFF_T	#endif
+#ifndef _T_PTRDIFF_	#endif
+#ifndef _T_PTRDIFF	#endif
+#ifndef __PTRDIFF_T	#endif
+#ifndef _PTRDIFF_T_	#endif
+#ifndef _BSD_PTRDIFF_T_	#endif
+#ifndef ___int_ptrdiff_t_h	#endif
+#ifndef _GCC_PTRDIFF_T	#endif
+#ifndef _PTRDIFF_T_DECLARED	#endif
+#ifndef __PTRDIFF_TYPE__	#endif
+#if defined (_STDDEF_H) || defined (__need_size_t)	#endif
+#ifndef __size_t__	#endif
+#ifndef __SIZE_T__	#endif
+#ifndef _SIZE_T	#endif
+#ifndef _SYS_SIZE_T_H	#endif
+#ifndef _T_SIZE_	#endif
+#ifndef _T_SIZE	#endif
+#ifndef __SIZE_T	#endif
+#ifndef _SIZE_T_	#endif
+#ifndef _BSD_SIZE_T_	#endif
+#ifndef _SIZE_T_DEFINED_	#endif
+#ifndef _SIZE_T_DEFINED	#endif
+#ifndef _BSD_SIZE_T_DEFINED_	#endif
+#ifndef _SIZE_T_DECLARED	#endif
+#ifndef ___int_size_t_h	#endif
+#ifndef _GCC_SIZE_T	#endif
+#ifndef _SIZET_	#endif
+#ifndef __size_t	#endif
+#if (defined (__FreeBSD__) && (__FreeBSD__ >= 5)) \	#elif defined (__VMS__)
+#if (defined (__FreeBSD__) && (__FreeBSD__ >= 5)) \	#else
+#if (defined (__FreeBSD__) && (__FreeBSD__ >= 5)) \	#endif
+#ifndef __SIZE_TYPE__	#endif
+#if !(defined (__GNUG__) && defined (size_t))	#endif
+#ifdef __BEOS__	#endif
+#if defined (_STDDEF_H) || defined (__need_wchar_t)	#endif
+#ifndef __wchar_t__	#endif
+#ifndef __WCHAR_T__	#endif
+#ifndef _WCHAR_T	#endif
+#ifndef _T_WCHAR_	#endif
+#ifndef _T_WCHAR	#endif
+#ifndef __WCHAR_T	#endif
+#ifndef _WCHAR_T_	#endif
+#ifndef _BSD_WCHAR_T_	#endif
+#ifndef _BSD_WCHAR_T_DEFINED_	#endif
+#ifndef _BSD_RUNE_T_DEFINED_	#endif
+#ifndef _WCHAR_T_DECLARED	#endif
+#ifndef _WCHAR_T_DEFINED_	#endif
+#ifndef _WCHAR_T_DEFINED	#endif
+#ifndef _WCHAR_T_H	#endif
+#ifndef ___int_wchar_t_h	#endif
+#ifndef __INT_WCHAR_T_H	#endif
+#ifndef _GCC_WCHAR_T	#endif
+#ifdef _BSD_WCHAR_T_	#endif
+#ifdef _BSD_RUNE_T_	#endif
+#if !defined (_ANSI_SOURCE) && !defined (_POSIX_SOURCE)	#endif
+#if defined (__FreeBSD__) && (__FreeBSD__ < 5)	#endif
+#if defined (__FreeBSD__) && (__FreeBSD__ >= 5)	#endif
+#if !defined (_ANSI_SOURCE) && !defined (_POSIX_SOURCE)	#endif
+#if __BSD_VISIBLE	#endif
+#ifndef _RUNE_T_DECLARED	#endif
+#ifndef __WCHAR_TYPE__	#endif
+#ifndef __cplusplus	#endif
+#if defined (__need_wint_t)	#endif
+#ifndef _WINT_T	#endif
+#ifndef __WINT_TYPE__	#endif
+#if defined(_ANSI_H_) || defined(_MACHINE_ANSI_H_) || defined(_X86_64_ANSI_H_) || defined(_I386_ANSI_H_)	#endif
+#ifdef _GCC_PTRDIFF_T_	#endif
+#ifdef _GCC_SIZE_T_	#endif
+#ifdef _GCC_WCHAR_T_	#endif
+#ifdef _GCC_PTRDIFF_T	#endif
+#ifdef _GCC_SIZE_T	#endif
+#ifdef _GCC_WCHAR_T	#endif
+#if defined (_STDDEF_H) || defined (__need_NULL)	#endif
+#ifdef __GNUG__	#else
+#ifdef __GNUG__	#endif
+#ifndef __cplusplus	#else
+#ifndef __cplusplus	#endif
+#ifdef _STDDEF_H	#endif
+#if (defined (__STDC_VERSION__) && __STDC_VERSION__ >= 201112L) \	#endif
+#ifndef _GCC_MAX_ALIGN_T	#endif
+#ifdef __i386__	#endif
+#if defined(__cplusplus) && __cplusplus >= 201103L	#endif
+#ifndef _GXX_NULLPTR_T	#endif
+#ifndef _BITS_TYPES_H	#endif
+#ifndef _BITS_TYPESIZES_H	#endif
+#if defined __x86_64__ && defined __ILP32__	#else
+#if defined __x86_64__ && defined __ILP32__	#endif
+#ifdef __x86_64__	#else
+#ifdef __x86_64__	#endif
+#ifdef __x86_64__	#else
+#ifdef __x86_64__	#endif
+#ifndef _BITS_TYPES_H	#endif
+#if __WORDSIZE == 64	#else
+#if __WORDSIZE == 64	#endif
+#if __WORDSIZE == 64	#else
+#if __WORDSIZE == 64	#endif
+#if __WORDSIZE == 64	#else
+#if __WORDSIZE == 64	#endif
+#if __WORDSIZE == 32	#elif __WORDSIZE == 64
+#if __WORDSIZE == 32	#else
+#if __WORDSIZE == 32	#endif
+#ifndef ____FILE_defined	#endif
+#ifndef __FILE_defined	#endif
+#ifndef ____mbstate_t_defined	#endif
+#ifndef __WINT_TYPE__	#endif
+#ifndef _BITS_G_CONFIG_H	#endif
+#if !defined _BITS_LIBIO_H && !defined _G_CONFIG_H	#endif
+#if defined _LIBC || defined _GLIBCPP_USE_WCHAR_T	#endif
+#if defined _LIBC || defined _GLIBCPP_USE_WCHAR_T	#endif
+#if defined _LIBC || defined _GLIBCPP_USE_WCHAR_T	#endif
+#ifndef _STDARG_H	#endif
+#ifndef _ANSI_STDARG_H_	#endif
+#ifndef __need___va_list	#endif
+#ifndef __GNUC_VA_LIST	#endif
+#ifdef _STDARG_H	#endif
+#if !defined(__STRICT_ANSI__) || __STDC_VERSION__ + 0 >= 199900L \	#endif
+#ifdef _BSD_VA_LIST	#endif
+#if defined(__svr4__) || (defined(_SCO_DS) && !defined(__VA_LIST))	#else
+#if defined(__svr4__) || (defined(_SCO_DS) && !defined(__VA_LIST))	#endif
+#ifndef _VA_LIST_	#endif
+#ifdef __i860__	#endif
+#ifndef _VA_LIST	#endif
+#ifdef _SCO_DS	#endif
+#if !defined (_VA_LIST_) || defined (__BSD_NET2__) || defined (____386BSD____) || defined (__bsdi__) || defined (__sequent__) || defined (__FreeBSD__) || defined(WINNT)	#endif
+#ifndef _VA_LIST_DEFINED	#endif
+#ifndef _VA_LIST	#endif
+#ifndef _VA_LIST_T_H	#endif
+#ifndef __va_list__	#endif
+#if !(defined (__BSD_NET2__) || defined (____386BSD____) || defined (__bsdi__) || defined (__sequent__) || defined (__FreeBSD__))	#endif
+#ifndef _VA_LIST	#endif
+#ifndef _VA_LIST_DEFINED	#endif
+#ifndef _VA_LIST_T_H	#endif
+#ifndef __va_list__	#endif
+#ifndef _BITS_LIBIO_H	#endif
+#if !defined _STDIO_H && !defined _LIBIO_H	#endif
+#ifdef __GNUC_VA_LIST	#endif
+#ifndef __P	#endif
+#ifndef EOF	#endif
+#ifndef NULL	#endif
+#if defined __GNUG__ && \	#else
+#if defined __GNUG__ && \	#endif
+#if !defined(__cplusplus)	#else
+#if !defined(__cplusplus)	#endif
+#ifdef _LIBC	#endif
+#ifdef _LIBC	#endif
+#ifndef _IO_lock_t_defined	#endif
+#if 0	#endif
+#if defined _LIBC || defined _GLIBCPP_USE_WCHAR_T	#endif
+#if 0	#else
+#if 0	#endif
+#ifdef _IO_USE_OLD_IO_FILE	#endif
+#if defined _G_IO_IO_FILE_VERSION && _G_IO_IO_FILE_VERSION == 0x20001	#endif
+#if defined _LIBC || defined _GLIBCPP_USE_WCHAR_T	#else
+#if defined _LIBC || defined _GLIBCPP_USE_WCHAR_T	#endif
+#ifndef __cplusplus	#endif
+#ifndef _LIBC	#else
+#ifndef _LIBC	#endif
+#ifdef __USE_GNU	#endif
+#ifdef __cplusplus	#endif
+#if defined _LIBC || defined _GLIBCPP_USE_WCHAR_T	#endif
+#if __GNUC__ >= 3	#else
+#if __GNUC__ >= 3	#endif
+#if defined _LIBC || defined _GLIBCPP_USE_WCHAR_T	#endif
+#ifndef _IO_cleanup_region_start	#endif
+#ifndef _IO_cleanup_region_end	#endif
+#if defined _LIBC || defined _GLIBCPP_USE_WCHAR_T	#endif
+#if __GNUC__ >= 2	#endif
+#if defined _LIBC && defined SHARED	#endif
+#if SHLIB_COMPAT (libc, GLIBC_2_0, GLIBC_2_1)	#endif
+#ifndef _IO_fwide_maybe_incompatible	#endif
+#ifdef __LDBL_COMPAT	#endif
+#ifdef __cplusplus	#endif
+#ifndef _BITS_STDIO_LIM_H	#endif
+#ifndef _STDIO_H	#endif
+#ifdef __USE_POSIX	#endif
+#if !defined __USE_XOPEN2K || defined __USE_GNU	#endif
+#ifndef _STDIO_H	#endif
+#ifdef __USE_MISC	#endif
+#ifdef __USE_GNU	#endif
+#ifndef _STDIO_H	#endif
+#if defined __USE_XOPEN || defined __USE_XOPEN2K8	#endif
+#ifdef __GNUC__	#else
+#ifdef __GNUC__	#endif
+#ifndef _VA_LIST_DEFINED	#endif
+#if defined __USE_UNIX98 || defined __USE_XOPEN2K	#endif
+#ifndef __off_t_defined	#endif
+#ifndef __USE_FILE_OFFSET64	#else
+#ifndef __USE_FILE_OFFSET64	#endif
+#if defined __USE_LARGEFILE64 && !defined __off64_t_defined	#endif
+#ifdef __USE_XOPEN2K8	#endif
+#ifndef __ssize_t_defined	#endif
+#ifndef __USE_FILE_OFFSET64	#else
+#ifndef __USE_FILE_OFFSET64	#endif
+#ifdef __USE_LARGEFILE64	#endif
+#ifndef BUFSIZ	#endif
+#ifndef EOF	#endif
+#ifdef __USE_GNU	#endif
+#if defined __USE_MISC || defined __USE_XOPEN	#endif
+#ifdef __USE_ATFILE	#endif
+#ifndef __USE_FILE_OFFSET64	#else
+#ifndef __USE_FILE_OFFSET64	#endif
+#ifdef __REDIRECT	#else
+#ifdef __REDIRECT	#endif
+#ifdef __USE_LARGEFILE64	#endif
+#ifdef __USE_MISC	#endif
+#if defined __USE_MISC || defined __USE_XOPEN	#endif
+#ifdef __USE_MISC	#endif
+#ifdef __USE_GNU	#endif
+#ifndef __USE_FILE_OFFSET64	#else
+#ifndef __USE_FILE_OFFSET64	#endif
+#ifdef __REDIRECT	#else
+#ifdef __REDIRECT	#endif
+#ifdef __USE_LARGEFILE64	#endif
+#ifdef __USE_POSIX	#endif
+#ifdef __USE_GNU	#endif
+#if defined __USE_XOPEN2K8 || __GLIBC_USE (LIB_EXT2)	#endif
+#ifdef __USE_MISC	#endif
+#if defined __USE_ISOC99 || defined __USE_UNIX98	#endif
+#if __GLIBC_USE (LIB_EXT2)	#endif
+#ifdef __USE_XOPEN2K8	#endif
+#if defined __USE_ISOC99 && !defined __USE_GNU \	#endif
+#ifdef __REDIRECT	#else
+#ifdef __REDIRECT	#endif
+#ifdef __USE_ISOC99	#endif
+#if !defined __USE_GNU \	#endif
+#ifdef __REDIRECT	#else
+#ifdef __REDIRECT	#endif
+#ifdef __USE_POSIX199506	#endif
+#ifdef __USE_MISC	#endif
+#ifdef __USE_MISC	#endif
+#ifdef __USE_POSIX199506	#endif
+#if defined __USE_MISC \	#endif
+#if __GLIBC_USE (DEPRECATED_GETS)	#endif
+#ifdef __USE_GNU	#endif
+#if defined __USE_XOPEN2K8 || __GLIBC_USE (LIB_EXT2)	#endif
+#ifdef __USE_GNU	#endif
+#ifdef __USE_MISC	#endif
+#if defined __USE_LARGEFILE || defined __USE_XOPEN2K	#endif
+#ifndef __USE_FILE_OFFSET64	#else
+#ifndef __USE_FILE_OFFSET64	#endif
+#ifdef __REDIRECT	#else
+#ifdef __REDIRECT	#endif
+#ifndef __USE_FILE_OFFSET64	#else
+#ifndef __USE_FILE_OFFSET64	#endif
+#ifdef __REDIRECT	#else
+#ifdef __REDIRECT	#endif
+#ifdef __USE_LARGEFILE64	#endif
+#ifdef __USE_MISC	#endif
+#ifdef __USE_POSIX	#endif
+#ifdef __USE_MISC	#endif
+#ifdef __USE_POSIX2	#endif
+#ifdef __USE_POSIX	#endif
+#if (defined __USE_XOPEN && !defined __USE_XOPEN2K) || defined __USE_GNU	#endif
+#ifdef __USE_GNU	#endif
+#ifdef __USE_POSIX199506	#endif
+#if defined __USE_XOPEN && !defined __USE_XOPEN2K && !defined __USE_GNU	#endif
+#ifdef __USE_EXTERN_INLINES	#endif
+#if __USE_FORTIFY_LEVEL > 0 && defined __fortify_function	#endif
+#ifdef __LDBL_COMPAT	#endif
+#if !defined _SYS_WAIT_H && !defined _STDLIB_H	#endif
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8	#endif
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8	#endif
+#ifndef __ENUM_IDTYPE_T	#endif
+#if !defined _SYS_WAIT_H && !defined _STDLIB_H	#endif
+#ifdef WCONTINUED	#endif
+#ifndef _BITS_FLOATN_COMMON_H	#endif
+#if __GNUC_PREREQ (7, 0) && !defined __cplusplus	#else
+#if __GNUC_PREREQ (7, 0) && !defined __cplusplus	#endif
+#ifndef __ASSEMBLER__	#endif
+#if __HAVE_FLOAT16	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#else
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if __HAVE_FLOAT32	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#else
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if __HAVE_FLOAT64	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#else
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#ifdef __NO_LONG_DOUBLE_MATH	#else
+#ifdef __NO_LONG_DOUBLE_MATH	#endif
+#if __HAVE_FLOAT32X	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#else
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if __HAVE_FLOAT64X	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#else
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if __HAVE_FLOAT64X_LONG_DOUBLE	#else
+#if __HAVE_FLOAT64X_LONG_DOUBLE	#endif
+#if __HAVE_FLOAT128X	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#else
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if __HAVE_FLOAT16	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#else
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if __HAVE_FLOAT32	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#else
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if __HAVE_FLOAT64	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#else
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#ifdef __NO_LONG_DOUBLE_MATH	#else
+#ifdef __NO_LONG_DOUBLE_MATH	#endif
+#if __HAVE_FLOAT32X	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#else
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if __HAVE_FLOAT64X	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#else
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if __HAVE_FLOAT64X_LONG_DOUBLE	#else
+#if __HAVE_FLOAT64X_LONG_DOUBLE	#endif
+#if __HAVE_FLOAT128X	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#else
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if __HAVE_FLOAT16	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if !__GNUC_PREREQ (7, 0)	#endif
+#if __HAVE_FLOAT32	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if !__GNUC_PREREQ (7, 0)	#endif
+#if __HAVE_FLOAT64	#endif
+#ifdef __NO_LONG_DOUBLE_MATH	#else
+#ifdef __NO_LONG_DOUBLE_MATH	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if !__GNUC_PREREQ (7, 0)	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if !__GNUC_PREREQ (7, 0)	#endif
+#if __HAVE_FLOAT32X	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if !__GNUC_PREREQ (7, 0)	#endif
+#if __HAVE_FLOAT64X	#endif
+#if __HAVE_FLOAT64X_LONG_DOUBLE	#else
+#if __HAVE_FLOAT64X_LONG_DOUBLE	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if !__GNUC_PREREQ (7, 0)	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if !__GNUC_PREREQ (7, 0)	#endif
+#if __HAVE_FLOAT128X	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if !__GNUC_PREREQ (7, 0)	#endif
+#ifndef _BITS_FLOATN_H	#endif
+"#if (defined __x86_64__							\"	#else
+"#if (defined __x86_64__							\"	#endif
+#if __HAVE_FLOAT128	#else
+#if __HAVE_FLOAT128	#endif
+#ifndef __ASSEMBLER__	#endif
+#if __HAVE_FLOAT128	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#else
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if __HAVE_FLOAT128	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#else
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if __HAVE_FLOAT128	#endif
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus	#endif
+#if !__GNUC_PREREQ (7, 0)	#endif
+#if !__GNUC_PREREQ (7, 0)	#endif
+#if !__GNUC_PREREQ (6, 0)	#endif
+#ifndef __clock_t_defined	#endif
+#ifndef __clockid_t_defined	#endif
+#ifndef __time_t_defined	#endif
+#ifndef __timer_t_defined	#endif
+#ifndef _BITS_STDINT_INTN_H	#endif
+#ifndef _ENDIAN_H	#endif
+#ifndef _BITS_BYTESWAP_H	#endif
+#ifdef __GNUC__	#else
+#ifdef __GNUC__	#endif
+#if __GNUC__ >= 2	#else
+#if __GNUC__ >= 2	#endif
+#if !defined _BYTESWAP_H && !defined _NETINET_IN_H && !defined _ENDIAN_H	#endif
+#ifndef _BITS_BYTESWAP_H	#endif
+#ifdef __GNUC__	#else
+#ifdef __GNUC__	#endif
+#if __GNUC_PREREQ (4, 3)	#elif __GNUC__ >= 2
+#if __GNUC_PREREQ (4, 3)	#else
+#if __GNUC_PREREQ (4, 3)	#endif
+"#if __WORDSIZE == 64 || (defined __i486__ || defined __pentium__	      \"	#else
+"#if __WORDSIZE == 64 || (defined __i486__ || defined __pentium__	      \"	#endif
+#if __GNUC_PREREQ (2, 0)	#else
+#if __GNUC_PREREQ (2, 0)	#endif
+#if __GNUC_PREREQ (4, 3)	#elif __WORDSIZE == 64
+#if __GNUC_PREREQ (4, 3)	#else
+#if __GNUC_PREREQ (4, 3)	#endif
+#if !defined _NETINET_IN_H && !defined _ENDIAN_H	#endif
+#ifndef _BITS_UINTN_IDENTITY_H	#endif
+#ifndef _ENDIAN_H	#endif
+#ifndef __FLOAT_WORD_ORDER	#endif
+#ifdef __USE_MISC	#endif
+#if __BYTE_ORDER == __LITTLE_ENDIAN	#elif __BYTE_ORDER == __BIG_ENDIAN
+#if __BYTE_ORDER == __LITTLE_ENDIAN	#endif
+#if defined __USE_MISC && !defined __ASSEMBLER__	#endif
+#if __BYTE_ORDER == __LITTLE_ENDIAN	#else
+#if __BYTE_ORDER == __LITTLE_ENDIAN	#endif
+#ifndef _SYS_SELECT_H	#endif
+#if defined __GNUC__ && __GNUC__ >= 2	#else
+#if defined __GNUC__ && __GNUC__ >= 2	#endif
+#if __WORDSIZE == 64	#else
+#if __WORDSIZE == 64	#endif
+#ifndef ____sigset_t_defined	#endif
+#ifndef __sigset_t_defined	#endif
+#ifndef __timeval_defined	#endif
+#ifndef __timespec_defined	#endif
+#ifndef _SYS_SELECT_H	#endif
+#ifdef __USE_XOPEN2K	#endif
+#ifndef __suseconds_t_defined	#endif
+#ifdef __USE_XOPEN	#else
+#ifdef __USE_XOPEN	#endif
+#ifdef __USE_MISC	#endif
+#ifdef __USE_XOPEN2K	#endif
+#if __USE_FORTIFY_LEVEL > 0 && defined __GNUC__	#endif
+#ifndef _BITS_SYSMACROS_H	#endif
+#ifndef _SYS_SYSMACROS_H	#endif
+#ifndef _SYS_SYSMACROS_H_OUTER	#endif
+#ifndef __SYSMACROS_DEPRECATED_INCLUSION	#endif
+#ifndef _SYS_SYSMACROS_H	#endif
+#ifdef __USE_EXTERN_INLINES	#endif
+#ifndef __SYSMACROS_NEED_IMPLEMENTATION	#endif
+#ifdef __SYSMACROS_DEPRECATED_INCLUSION	#else
+#ifdef __SYSMACROS_DEPRECATED_INCLUSION	#endif
+#ifndef _BITS_PTHREADTYPES_ARCH_H	#endif
+#ifdef __x86_64__	#else
+#ifdef __x86_64__	#endif
+#if __WORDSIZE == 64	#else
+#if __WORDSIZE == 64	#endif
+#ifdef __x86_64__	#else
+#ifdef __x86_64__	#endif
+#ifdef __x86_64__	#else
+#ifdef __x86_64__	#endif
+#ifdef __ILP32__	#else
+#ifdef __ILP32__	#endif
+#ifndef __x86_64__	#endif
+#ifndef _THREAD_SHARED_TYPES_H	#endif
+#if !__PTHREAD_MUTEX_USE_UNION	#else
+#if !__PTHREAD_MUTEX_USE_UNION	#endif
+#if __PTHREAD_MUTEX_LOCK_ELISION	#else
+#if __PTHREAD_MUTEX_LOCK_ELISION	#endif
+#if !__PTHREAD_MUTEX_USE_UNION	#else
+#if !__PTHREAD_MUTEX_USE_UNION	#endif
+#if !__PTHREAD_MUTEX_NUSERS_AFTER_KIND	#endif
+#if __PTHREAD_MUTEX_NUSERS_AFTER_KIND	#endif
+#if !__PTHREAD_MUTEX_USE_UNION	#else
+#if !__PTHREAD_MUTEX_USE_UNION	#endif
+#ifndef _BITS_PTHREADTYPES_COMMON_H	#endif
+#ifndef __have_pthread_attr_t	#endif
+#if defined __USE_UNIX98 || defined __USE_XOPEN2K	#endif
+#ifdef __USE_XOPEN2K	#endif
+#ifndef _SYS_TYPES_H	#endif
+#ifdef __USE_MISC	#endif
+#ifndef __u_char_defined	#endif
+#ifndef __ino_t_defined	#endif
+#ifndef __USE_FILE_OFFSET64	#else
+#ifndef __USE_FILE_OFFSET64	#endif
+#if defined __USE_LARGEFILE64 && !defined __ino64_t_defined	#endif
+#ifndef __dev_t_defined	#endif
+#ifndef __gid_t_defined	#endif
+#ifndef __mode_t_defined	#endif
+#ifndef __nlink_t_defined	#endif
+#ifndef __uid_t_defined	#endif
+#ifndef __off_t_defined	#endif
+#ifndef __USE_FILE_OFFSET64	#else
+#ifndef __USE_FILE_OFFSET64	#endif
+#if defined __USE_LARGEFILE64 && !defined __off64_t_defined	#endif
+#ifndef __pid_t_defined	#endif
+#if (defined __USE_XOPEN || defined __USE_XOPEN2K8) \	#endif
+#ifndef __ssize_t_defined	#endif
+#ifdef __USE_MISC	#endif
+#ifndef __daddr_t_defined	#endif
+#if (defined __USE_MISC || defined __USE_XOPEN) && !defined __key_t_defined	#endif
+#if defined __USE_XOPEN || defined __USE_XOPEN2K8	#endif
+#ifdef __USE_XOPEN	#endif
+#ifndef __useconds_t_defined	#endif
+#ifndef __suseconds_t_defined	#endif
+#ifdef __USE_MISC	#endif
+#if !__GNUC_PREREQ (2, 7)	#else
+#if !__GNUC_PREREQ (2, 7)	#endif
+#if __WORDSIZE == 64	#else
+#if __WORDSIZE == 64	#endif
+#ifdef __USE_MISC	#endif
+#if (defined __USE_UNIX98 || defined __USE_XOPEN2K8) \	#endif
+#ifndef __USE_FILE_OFFSET64	#else
+#ifndef __USE_FILE_OFFSET64	#endif
+#ifndef __blkcnt_t_defined	#endif
+#ifndef __fsblkcnt_t_defined	#endif
+#ifndef __fsfilcnt_t_defined	#endif
+#ifndef __blkcnt_t_defined	#endif
+#ifndef __fsblkcnt_t_defined	#endif
+#ifndef __fsfilcnt_t_defined	#endif
+#ifdef __USE_LARGEFILE64	#endif
+#if defined __USE_POSIX199506 || defined __USE_UNIX98	#endif
+#ifndef _ALLOCA_H	#endif
+#ifdef __GNUC__	#endif
+#ifndef _STDLIB_H	#endif
+#ifdef __USE_EXTERN_INLINES	#endif
+#ifndef _STDLIB_H	#endif
+#if (defined __USE_XOPEN || defined __USE_XOPEN2K8) && !defined _SYS_WAIT_H	#endif
+#ifdef __WIFCONTINUED	#endif
+#ifndef __ldiv_t_defined	#endif
+#if defined __USE_ISOC99 && !defined __lldiv_t_defined	#endif
+#ifdef __USE_ISOC99	#endif
+#ifdef __USE_ISOC99	#endif
+#if __HAVE_FLOAT16 && __GLIBC_USE (IEC_60559_TYPES_EXT)	#endif
+#if __HAVE_FLOAT32 && __GLIBC_USE (IEC_60559_TYPES_EXT)	#endif
+#if __HAVE_FLOAT64 && __GLIBC_USE (IEC_60559_TYPES_EXT)	#endif
+#if __HAVE_FLOAT128 && __GLIBC_USE (IEC_60559_TYPES_EXT)	#endif
+#if __HAVE_FLOAT32X && __GLIBC_USE (IEC_60559_TYPES_EXT)	#endif
+#if __HAVE_FLOAT64X && __GLIBC_USE (IEC_60559_TYPES_EXT)	#endif
+#if __HAVE_FLOAT128X && __GLIBC_USE (IEC_60559_TYPES_EXT)	#endif
+#ifdef __USE_MISC	#endif
+#ifdef __USE_ISOC99	#endif
+#if __GLIBC_USE (IEC_60559_BFP_EXT)	#endif
+#if __HAVE_FLOAT16 && __GLIBC_USE (IEC_60559_TYPES_EXT)	#endif
+#if __HAVE_FLOAT32 && __GLIBC_USE (IEC_60559_TYPES_EXT)	#endif
+#if __HAVE_FLOAT64 && __GLIBC_USE (IEC_60559_TYPES_EXT)	#endif
+#if __HAVE_FLOAT128 && __GLIBC_USE (IEC_60559_TYPES_EXT)	#endif
+#if __HAVE_FLOAT32X && __GLIBC_USE (IEC_60559_TYPES_EXT)	#endif
+#if __HAVE_FLOAT64X && __GLIBC_USE (IEC_60559_TYPES_EXT)	#endif
+#if __HAVE_FLOAT128X && __GLIBC_USE (IEC_60559_TYPES_EXT)	#endif
+#ifdef __USE_GNU	#endif
+#if __HAVE_FLOAT16	#endif
+#if __HAVE_FLOAT32	#endif
+#if __HAVE_FLOAT64	#endif
+#if __HAVE_FLOAT128	#endif
+#if __HAVE_FLOAT32X	#endif
+#if __HAVE_FLOAT64X	#endif
+#if __HAVE_FLOAT128X	#endif
+#ifdef __USE_EXTERN_INLINES	#endif
+#ifdef __USE_ISOC99	#endif
+#if defined __USE_MISC || defined __USE_XOPEN_EXTENDED	#endif
+#if defined __USE_MISC || defined __USE_XOPEN_EXTENDED	#endif
+#ifdef __USE_MISC	#endif
+#ifdef __USE_POSIX199506	#endif
+#if defined __USE_MISC || defined __USE_XOPEN	#endif
+#ifdef __USE_MISC	#endif
+#ifdef __USE_GNU	#endif
+#ifdef __USE_MISC	#endif
+#if (defined __USE_XOPEN_EXTENDED && !defined __USE_XOPEN2K) \	#endif
+#ifdef __USE_XOPEN2K	#endif
+#ifdef __USE_ISOC11	#endif
+#if defined __USE_ISOC11 || defined __USE_ISOCXX11	#endif
+#ifdef __cplusplus	#else
+#ifdef __cplusplus	#endif
+#ifdef __USE_MISC	#endif
+#if defined __USE_ISOC11 || defined __USE_ISOCXX11	#endif
+#ifdef __USE_ISOC99	#endif
+#ifdef __USE_GNU	#endif
+#if defined __USE_MISC || defined __USE_XOPEN	#endif
+#ifdef __USE_XOPEN2K	#endif
+#ifdef __USE_MISC	#endif
+#if defined __USE_MISC \	#endif
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8	#endif
+#ifndef __USE_FILE_OFFSET64	#else
+#ifndef __USE_FILE_OFFSET64	#endif
+#ifdef __REDIRECT	#else
+#ifdef __REDIRECT	#endif
+#ifdef __USE_LARGEFILE64	#endif
+#ifdef __USE_MISC	#endif
+#ifndef __USE_FILE_OFFSET64	#else
+#ifndef __USE_FILE_OFFSET64	#endif
+#ifdef __REDIRECT	#else
+#ifdef __REDIRECT	#endif
+#ifdef __USE_LARGEFILE64	#endif
+#ifdef __USE_XOPEN2K8	#endif
+#ifdef __USE_GNU	#endif
+#ifndef __USE_FILE_OFFSET64	#else
+#ifndef __USE_FILE_OFFSET64	#endif
+#ifdef __REDIRECT	#else
+#ifdef __REDIRECT	#endif
+#ifdef __USE_LARGEFILE64	#endif
+#ifndef __USE_FILE_OFFSET64	#else
+#ifndef __USE_FILE_OFFSET64	#endif
+#ifdef __REDIRECT	#else
+#ifdef __REDIRECT	#endif
+#ifdef __USE_LARGEFILE64	#endif
+#ifdef __USE_GNU	#endif
+#if defined __USE_MISC || defined __USE_XOPEN_EXTENDED	#endif
+#ifndef __COMPAR_FN_T	#endif
+#ifdef __USE_GNU	#endif
+#ifdef __USE_GNU	#endif
+#ifdef __USE_EXTERN_INLINES	#endif
+#ifdef __USE_GNU	#endif
+#ifdef __USE_ISOC99	#endif
+#ifdef __USE_ISOC99	#endif
+#if (defined __USE_XOPEN_EXTENDED && !defined __USE_XOPEN2K8) \	#endif
+#ifdef __USE_MISC	#endif
+#ifdef __USE_MISC	#endif
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8	#endif
+#ifdef __USE_XOPEN	#endif
+#ifdef __USE_XOPEN2KXSI	#endif
+#ifdef __USE_XOPEN_EXTENDED	#endif
+#ifdef __USE_GNU	#endif
+#ifdef __USE_MISC	#endif
+#if defined __USE_XOPEN_EXTENDED && !defined __USE_XOPEN2K	#endif
+#if __USE_FORTIFY_LEVEL > 0 && defined __fortify_function	#endif
+#ifdef __LDBL_COMPAT	#endif
+#ifndef GOOD_CASTS	#endif
+#ifndef BAD_CASTS	#endif

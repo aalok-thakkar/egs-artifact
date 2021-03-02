@@ -1,0 +1,11 @@
+__bsx	file:///usr/include/x86_64-linux-gnu/bits/byteswap.h:111:29:111:33
+__bsx	file:///usr/include/x86_64-linux-gnu/bits/byteswap.h:47:29:47:33
+__x	file:///usr/include/x86_64-linux-gnu/bits/uintn-identity.h:47:10:47:12
+__x	file:///usr/include/x86_64-linux-gnu/bits/uintn-identity.h:41:10:41:12
+__x	file:///usr/include/x86_64-linux-gnu/bits/uintn-identity.h:35:10:35:12
+x	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:24:8:24:8
+x	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:15:16:15:16
+num	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:20:23:22
+num	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:27:30:27:32
+i	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:16:23:16
+i	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:24:16:24:16

@@ -1,0 +1,6 @@
+basic_iostream<wchar_t, char_traits<wchar_t>>	basic_ios<wchar_t, char_traits<wchar_t>>	24
+basic_ostream<wchar_t, char_traits<wchar_t>>	basic_ios<wchar_t, char_traits<wchar_t>>	8
+basic_istream<wchar_t, char_traits<wchar_t>>	basic_ios<wchar_t, char_traits<wchar_t>>	16
+basic_iostream<char, char_traits<char>>	basic_ios<char, char_traits<char>>	24
+basic_ostream<char, char_traits<char>>	basic_ios<char, char_traits<char>>	8
+basic_istream<char, char_traits<char>>	basic_ios<char, char_traits<char>>	16

@@ -1,0 +1,41 @@
+T	T
+type_info	type_info
+_Tp	_Tp
+proc_status_t	proc_status_t
+unsigned long	unsigned long
+env_var_t	env_var_t
+basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>	basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>
+int	int
+pipe_or_redir_t	pipe_or_redir_t
+source_range_t	source_range_t
+topic_t	topic_t
+termios	termios
+event_t	event_t
+autoloadable_file_t	autoloadable_file_t
+readline_cmd_t	readline_cmd_t
+tok_t	tok_t
+event_type_t	event_type_t
+termsize_t	termsize_t
+history_item_t	history_item_t
+job_control_t	job_control_t
+wchar_t	wchar_t
+bool	bool
+cursor_t	cursor_t
+unsigned char	unsigned char
+autoclose_pipes_t	autoclose_pipes_t
+posix_spawn_file_actions_t	posix_spawn_file_actions_t
+posix_spawnattr_t	posix_spawnattr_t
+dup2_list_t	dup2_list_t
+highlight_role_t	highlight_role_t
+history_file_type_t	history_file_type_t
+char_event_t	char_event_t
+input_mapping_t	input_mapping_t
+basic_string<char, char_traits<char>, allocator<char>>	basic_string<char, char_traits<char>, allocator<char>>
+time_point<steady_clock, duration<signed long, ratio<1L, 1000000000L>>>	time_point<steady_clock, duration<signed long, ratio<1L, 1000000000L>>>
+work_request_t	work_request_t
+end_execution_reason_t	end_execution_reason_t
+job_control_t	job_control_t
+session_interactivity_t	session_interactivity_t
+edit_t	edit_t
+autosuggestion_result_t	autosuggestion_result_t
+highlight_result_t	highlight_result_t

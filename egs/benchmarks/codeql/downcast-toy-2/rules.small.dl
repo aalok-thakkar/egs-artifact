@@ -1,0 +1,213 @@
+.type COMMENT
+.type EXPR
+.type KIND
+.type LOC
+.type NUM
+.type PATH
+.type STR
+.type TYPE
+
+.decl stmt_decl_entry_bind(_: EXPR, _: LOC, _: NUM, _: EXPR)
+.decl attribute_arg_value(_: EXPR, _: STR)
+.decl fileannotations(_: PATH, _: NUM, _: STR, _: STR)
+.decl inmacroexpansion(_: EXPR, _: EXPR)
+.decl usertypes(_: TYPE, _: STR, _: NUM)
+.decl initialisers(_: EXPR, _: EXPR, _: EXPR, _: LOC)
+.decl stmt_decl_bind(_: EXPR, _: LOC, _: NUM, _: EXPR)
+.decl type_mentions(_: EXPR, _: TYPE, _: LOC, _: KIND)
+.decl var_decls(_: EXPR, _: EXPR, _: TYPE, _: STR, _: LOC)
+.decl comments(_: COMMENT, _: STR, _: LOC)
+.decl type_decls(_: EXPR, _: TYPE, _: LOC)
+.decl for_update(_: EXPR, _: LOC, _: EXPR, _: LOC)
+.decl folders(_: PATH, _: STR, _: STR)
+.decl macroparent(_: EXPR, _: EXPR)
+.decl affectedbymacroexpansion(_: EXPR, _: EXPR)
+.decl mangled_name(_: TYPE)
+.decl type_def(_: EXPR, _: STR, _: LOC)
+.decl numlines(_: EXPR, _: NUM, _: NUM, _: NUM)
+.decl fun_def(_: EXPR)
+.decl is_pod_class(_: EXPR)
+.decl for_body(_: EXPR, _: LOC, _: EXPR, _: LOC)
+.decl routinetypes(_: EXPR, _: LOC, _: TYPE)
+.decl globalvariables(_: EXPR, _: TYPE, _: STR)
+.decl derivedtypes(_: EXPR, _: STR, _: NUM, _: TYPE)
+.decl membervariables(_: EXPR, _: TYPE, _: STR)
+.decl exprparents(_: EXPR, _: LOC, _: NUM, _: EXPR)
+.decl specialnamequalifyingelements(_: EXPR, _: STR)
+.decl is_standard_layout_class(_: EXPR)
+.decl attributes(_: EXPR, _: NUM, _: STR, _: STR, _: LOC)
+.decl successors(_: EXPR, _: LOC, _: EXPR, _: LOC)
+.decl macro_argument_expanded(_: EXPR, _: NUM, _: STR)
+.decl for_initialization(_: EXPR, _: LOC, _: EXPR, _: LOC)
+.decl is_complete(_: EXPR)
+.decl macrolocationbind(_: EXPR, _: LOC)
+.decl locations_expr(_: LOC, _: PATH, _: NUM, _: NUM, _: NUM, _: NUM)
+.decl funspecifiers(_: EXPR, _: EXPR)
+.decl link_parent(_: EXPR, _: STR)
+.decl fun_decls(_: EXPR, _: LOC, _: EXPR, _: TYPE, _: STR, _: LOC)
+.decl blockscope(_: EXPR, _: LOC, _: EXPR)
+.decl macroinvocations(_: EXPR, _: EXPR, _: LOC, _: NUM)
+.decl sizeof_bind(_: EXPR, _: TYPE)
+.decl valuebind(_: EXPR)
+.decl preproctrue(_: EXPR)
+.decl specifiers(_: EXPR, _: STR)
+.decl commentbinding(_: COMMENT, _: EXPR)
+.decl valuetext(_: EXPR)
+.decl compgenerated(_: TYPE)
+.decl var_def(_: EXPR)
+.decl function_entry_point(_: EXPR, _: EXPR, _: LOC)
+.decl macro_argument_unexpanded(_: EXPR, _: NUM, _: STR)
+.decl varspecifiers(_: EXPR, _: STR)
+.decl localvariables(_: EXPR, _: LOC, _: TYPE, _: STR)
+.decl locations_stmt(_: LOC, _: PATH, _: NUM, _: NUM, _: NUM, _: NUM)
+.decl namespaces(_: EXPR, _: EXPR)
+.decl usertypesize(_: TYPE, _: NUM, _: NUM)
+.decl functions(_: EXPR, _: LOC, _: STR, _: NUM)
+.decl var_decl_specifiers(_: EXPR, _: LOC, _: STR)
+.decl funbind(_: EXPR, _: LOC, _: EXPR)
+.decl containerparent(_: EXPR, _: EXPR)
+.decl typeattributes(_: TYPE, _: EXPR)
+.decl typespecifiers(_: TYPE, _: STR)
+.decl link_targets(_: STR, _: STR)
+.decl fun_decl_specifiers(_: EXPR, _: LOC, _: STR)
+.decl preproctext(_: EXPR, _: EXPR, _: EXPR)
+.decl function_return_type(_: EXPR, _: LOC, _: TYPE)
+.decl params(_: EXPR, _: LOC, _: EXPR, _: NUM, _: TYPE)
+.decl varbind(_: EXPR, _: EXPR)
+.decl values(_: EXPR, _: LOC, _: STR, _: STR)
+.decl includes(_: EXPR, _: PATH)
+.decl falsecond(_: EXPR, _: LOC, _: EXPR, _: LOC)
+.decl iscall(_: EXPR, _: LOC, _: NUM)
+.decl if_then(_: EXPR, _: LOC, _: EXPR, _: LOC)
+.decl preprocdirects(_: EXPR, _: NUM, _: LOC)
+.decl unspecifiedtype(_: TYPE, _: TYPE)
+.decl param_decl_bind(_: EXPR, _: LOC, _: NUM, _: EXPR, _: LOC)
+.decl pointerishsize(_: EXPR, _: NUM, _: NUM)
+.decl typedefbase(_: TYPE, _: TYPE)
+.decl funcattributes(_: EXPR, _: STR)
+.decl type_decl_top(_: EXPR)
+.decl arraysizes(_: EXPR, _: NUM, _: NUM, _: NUM)
+.decl locations_default(_: LOC, _: PATH, _: NUM, _: NUM, _: NUM, _: NUM)
+.decl truecond(_: EXPR, _: LOC, _: EXPR, _: LOC)
+.decl stmts(_: EXPR, _: NUM, _: LOC)
+.decl fieldoffsets(_: EXPR, _: NUM, _: NUM)
+.decl builtintypes(_: EXPR, _: STR, _: NUM, _: NUM, _: NUM, _: NUM)
+.decl files(_: PATH, _: STR, _: STR, _: STR, _: NUM)
+.decl preprocfalse(_: EXPR)
+.decl expr_isload(_: EXPR, _: LOC)
+.decl enumconstants(_: EXPR, _: EXPR, _: NUM, _: TYPE, _: STR, _: LOC)
+.decl attribute_args(_: EXPR, _: NUM, _: STR, _: NUM, _: LOC)
+.decl routinetypeargs(_: EXPR, _: LOC, _: NUM, _: TYPE)
+.decl preprocpair(_: EXPR, _: EXPR)
+.decl stmtparents(_: EXPR, _: LOC, _: NUM, _: EXPR, _: LOC)
+.decl for_condition(_: EXPR, _: LOC, _: EXPR, _: LOC)
+.decl exprconv(_: EXPR, _: LOC, _: EXPR, _: LOC)
+.decl expr_types(_: EXPR, _: LOC, _: TYPE, _: NUM)
+.decl exprs(_: EXPR, _: NUM, _: LOC)
+.decl conversionkinds(_: EXPR, _: LOC, _: NUM)
+.decl float_types(_: TYPE)
+.decl integral_types(_: TYPE)
+.decl dangerous_downcasts(_: LOC, _: TYPE, _: TYPE)
+
+.input affectedbymacroexpansion
+.input arraysizes
+.input attribute_args
+.input attribute_arg_value
+.input attributes
+.input blockscope
+.input builtintypes
+.input commentbinding
+.input comments
+.input compgenerated
+.input containerparent
+.input conversionkinds
+.input derivedtypes
+.input enumconstants
+.input exprconv
+.input expr_isload
+.input exprparents
+.input exprs
+.input expr_types
+.input falsecond
+.input fieldoffsets
+.input fileannotations
+.input files
+.input float_types
+.input folders
+.input for_body
+.input for_condition
+.input for_initialization
+.input for_update
+.input funbind
+.input funcattributes
+.input function_entry_point
+.input function_return_type
+.input functions
+.input fun_decls
+.input fun_decl_specifiers
+.input fun_def
+.input funspecifiers
+.input globalvariables
+.input if_then
+.input includes
+.input initialisers
+.input inmacroexpansion
+.input integral_types
+.input iscall
+.input is_complete
+.input is_pod_class
+.input is_standard_layout_class
+.input link_parent
+.input link_targets
+.input localvariables
+.input locations_default
+.input locations_expr
+.input locations_stmt
+.input macro_argument_expanded
+.input macro_argument_unexpanded
+.input macroinvocations
+.input macrolocationbind
+.input macroparent
+.input mangled_name
+.input membervariables
+.input namespaces
+.input numlines
+.input param_decl_bind
+.input params
+.input pointerishsize
+.input preprocdirects
+.input preprocfalse
+.input preprocpair
+.input preproctext
+.input preproctrue
+.input routinetypeargs
+.input routinetypes
+.input sizeof_bind
+.input specialnamequalifyingelements
+.input specifiers
+.input stmt_decl_bind
+.input stmt_decl_entry_bind
+.input stmtparents
+.input stmts
+.input successors
+.input truecond
+.input typeattributes
+.input type_decls
+.input type_decl_top
+.input type_def
+.input typedefbase
+.input type_mentions
+.input typespecifiers
+.input unspecifiedtype
+.input usertypes
+.input usertypesize
+.input valuebind
+.input values
+.input valuetext
+.input varbind
+.input var_decls
+.input var_decl_specifiers
+.input var_def
+.input varspecifiers
+
+.output dangerous_downcasts

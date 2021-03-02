@@ -1,0 +1,8 @@
+.type V
+
+.decl triple(v0: V, v1: V, v2: V)
+.input triple
+.decl source(v: V)
+.input source
+.decl access(v: V)
+.output access

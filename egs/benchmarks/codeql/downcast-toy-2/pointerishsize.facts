@@ -1,0 +1,42 @@
+void *	8	8
+char *	8	8
+_IO_FILE *	8	8
+_IO_FILE *	8	8
+const char *	8	8
+int *	8	8
+__off64_t *	8	8
+long *	8	8
+_IO_lock_t *	8	8
+_IO_marker *	8	8
+FILE *	8	8
+const fpos_t *	8	8
+struct <unnamed> *	8	8
+fpos_t *	8	8
+const void *	8	8
+char **	8	8
+size_t *	8	8
+unsigned long *	8	8
+..(*)(..)	8	8
+..(*)(..)	8	8
+fd_set *	8	8
+struct <unnamed> *	8	8
+const timespec *	8	8
+timespec *	8	8
+const __sigset_t *	8	8
+struct <unnamed> *	8	8
+timeval *	8	8
+__pthread_internal_list *	8	8
+..(*)(..)	8	8
+char *const *	8	8
+const wchar_t *	8	8
+wchar_t *	8	8
+..(*)(..)	8	8
+..(*)(..)	8	8
+void **	8	8
+drand48_data *	8	8
+double *	8	8
+unsigned short *	8	8
+unsigned int *	8	8
+random_data *	8	8
+int32_t *	8	8
+signed int *	8	8

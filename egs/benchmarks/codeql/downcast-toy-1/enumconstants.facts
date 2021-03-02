@@ -1,0 +1,7 @@
+__codecvt_ok	__codecvt_result	0	int	__codecvt_ok	file:///usr/include/x86_64-linux-gnu/bits/libio.h:182:3:182:14
+__codecvt_partial	__codecvt_result	1	int	__codecvt_partial	file:///usr/include/x86_64-linux-gnu/bits/libio.h:183:3:183:19
+__codecvt_error	__codecvt_result	2	int	__codecvt_error	file:///usr/include/x86_64-linux-gnu/bits/libio.h:184:3:184:17
+__codecvt_noconv	__codecvt_result	3	int	__codecvt_noconv	file:///usr/include/x86_64-linux-gnu/bits/libio.h:185:3:185:18
+P_ALL	(unnamed enum)	0	int	P_ALL	file:///usr/include/x86_64-linux-gnu/bits/waitflags.h:54:3:54:7
+P_PID	(unnamed enum)	1	int	P_PID	file:///usr/include/x86_64-linux-gnu/bits/waitflags.h:55:3:55:7
+P_PGID	(unnamed enum)	2	int	P_PGID	file:///usr/include/x86_64-linux-gnu/bits/waitflags.h:56:3:56:8

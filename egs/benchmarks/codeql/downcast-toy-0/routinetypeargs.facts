@@ -1,0 +1,16 @@
+..()(..)	file://:0:0:0:0	0	void *
+..()(..)	file://:0:0:0:0	0	void *
+..()(..)	file://:0:0:0:0	1	__off64_t *
+..()(..)	file://:0:0:0:0	2	int
+..()(..)	file://:0:0:0:0	0	void *
+..()(..)	file://:0:0:0:0	1	const char *
+..()(..)	file://:0:0:0:0	2	size_t
+..()(..)	file://:0:0:0:0	0	void *
+..()(..)	file://:0:0:0:0	1	char *
+..()(..)	file://:0:0:0:0	2	size_t
+..()(..)	file://:0:0:0:0	0	unsigned long
+..()(..)	file://:0:0:0:0	0	unsigned int
+..()(..)	file://:0:0:0:0	0	const void *
+..()(..)	file://:0:0:0:0	1	const void *
+..()(..)	file://:0:0:0:0	0	int
+..()(..)	file://:0:0:0:0	1	void *

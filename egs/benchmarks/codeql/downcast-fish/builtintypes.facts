@@ -1,0 +1,47 @@
+unsigned long long	unsigned long long	18	8	1	8
+long long	long long	17	8	-1	8
+unsigned long	unsigned long	15	8	1	8
+long	long	14	8	-1	8
+unsigned int	unsigned int	12	4	1	4
+int	int	11	4	-1	4
+char32_t	char32_t	44	4	0	4
+char16_t	char16_t	43	2	0	2
+wchar_t	wchar_t	33	4	0	4
+char	char	5	1	-1	1
+long double	long double	26	16	0	16
+double	double	25	8	0	8
+float	float	24	4	0	4
+decltype(nullptr)	decltype(nullptr)	34	8	0	8
+void	void	3	0	0	1
+bool	bool	4	1	0	1
+unsigned char	unsigned char	6	1	1	1
+signed char	signed char	7	1	-1	1
+unsigned __int128	unsigned __int128	36	16	1	16
+__int128	__int128	35	16	-1	16
+unsigned short	unsigned short	9	2	1	2
+short	short	8	2	-1	2
+unknown	unknown	2	1	0	1
+signed int	signed int	13	4	-1	4
+signed short	signed short	10	2	-1	2
+__float128	__float128	38	16	0	16
+signed long	signed long	16	8	-1	8
+_Float128	_Float128	49	16	0	16
+error	error	1	1	0	1
+char8_t	char8_t	51	1	0	1
+signed long long	signed long long	19	8	-1	8
+signed __int128	signed __int128	37	16	-1	16
+_Decimal32	_Decimal32	40	4	0	4
+_Decimal64	_Decimal64	41	8	0	8
+_Decimal128	_Decimal128	42	16	0	16
+_Float32	_Float32	45	4	0	4
+_Float32x	_Float32x	46	8	0	8
+_Float64	_Float64	47	8	0	8
+_Float64x	_Float64x	48	16	0	16
+_Float128x	_Float128x	50	16	0	16
+_Complex float	_Complex float	27	8	0	4
+_Complex double	_Complex double	28	16	0	8
+_Complex long double	_Complex long double	29	32	0	16
+_Complex __float128	_Complex __float128	39	32	0	16
+_Imaginary float	_Imaginary float	30	4	0	4
+_Imaginary double	_Imaginary double	31	8	0	8
+_Imaginary long double	_Imaginary long double	32	16	0	16

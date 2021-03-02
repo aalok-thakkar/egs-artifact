@@ -1,0 +1,22 @@
+initializer for __codecvt_ok	__codecvt_ok	0	file://:0:0:0:0
+initializer for __codecvt_partial	__codecvt_partial	1	file://:0:0:0:0
+initializer for __codecvt_error	__codecvt_error	2	file://:0:0:0:0
+initializer for __codecvt_noconv	__codecvt_noconv	3	file://:0:0:0:0
+initializer for P_ALL	P_ALL	0	file://:0:0:0:0
+initializer for P_PID	P_PID	1	file://:0:0:0:0
+initializer for P_PGID	P_PGID	2	file://:0:0:0:0
+initializer for x	x	0	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:23:15:23:16
+initializer for n	n	... != ...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:19:15:19:23
+initializer for x	x	1000000	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:13:18:13:25
+initializer for z	z	x	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:15:15:15:16
+initializer for f	f	... * ...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:9:14:9:24
+initializer for z	z	... / ...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:5:14:5:28
+initializer for z	z	... / ...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:35:14:35:33
+initializer for x	x	100	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:31:13:31:29
+initializer for avg	avg	0	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:15:21:16
+initializer for num	num	5	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:24:21:25
+initializer for i	i	0	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:22:21:22:22
+initializer for x	x	... * ...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:17:13:17:20
+initializer for d	d	10000000.19184769318	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:13:18:13:38
+initializer for x	x	... / ...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:9:13:9:31
+initializer for x	x	1.004999999999999893	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:5:12:5:22

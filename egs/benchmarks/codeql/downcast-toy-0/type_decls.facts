@@ -1,0 +1,178 @@
+declaration of size_t	size_t	file:///usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:216:23:216:28
+declaration of __sig_atomic_t	__sig_atomic_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:202:13:202:26
+declaration of __socklen_t	__socklen_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:197:23:197:33
+declaration of __intptr_t	__intptr_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:194:25:194:34
+declaration of __caddr_t	__caddr_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:191:15:191:23
+declaration of __loff_t	__loff_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:190:19:190:26
+declaration of __syscall_ulong_t	__syscall_ulong_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:186:33:186:49
+declaration of __syscall_slong_t	__syscall_slong_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:184:33:184:49
+declaration of __ssize_t	__ssize_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:181:27:181:35
+declaration of __fsword_t	__fsword_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:179:28:179:37
+declaration of __fsfilcnt64_t	__fsfilcnt64_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:176:32:176:45
+declaration of __fsfilcnt_t	__fsfilcnt_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:175:30:175:41
+declaration of __fsblkcnt64_t	__fsblkcnt64_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:172:32:172:45
+declaration of __fsblkcnt_t	__fsblkcnt_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:171:30:171:41
+declaration of __blkcnt64_t	__blkcnt64_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:168:30:168:41
+declaration of __blkcnt_t	__blkcnt_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:167:28:167:37
+declaration of __blksize_t	__blksize_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:162:29:162:39
+declaration of __timer_t	__timer_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:159:27:159:35
+declaration of __clockid_t	__clockid_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:156:29:156:39
+declaration of __key_t	__key_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:153:25:153:31
+declaration of __daddr_t	__daddr_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:152:27:152:35
+declaration of __suseconds_t	__suseconds_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:150:31:150:43
+declaration of __useconds_t	__useconds_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:149:30:149:41
+declaration of __time_t	__time_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:148:26:148:33
+declaration of __id_t	__id_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:147:24:147:29
+declaration of __rlim64_t	__rlim64_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:146:28:146:37
+declaration of __rlim_t	__rlim_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:145:26:145:33
+declaration of __clock_t	__clock_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:144:27:144:35
+declaration of __fsid_t	__fsid_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:143:26:143:33
+definition of struct <unnamed>	struct <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/types.h:143:12:143:12
+declaration of __pid_t	__pid_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:142:25:142:31
+declaration of __off64_t	__off64_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:141:27:141:35
+declaration of __off_t	__off_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:140:25:140:31
+declaration of __nlink_t	__nlink_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:139:27:139:35
+declaration of __mode_t	__mode_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:138:26:138:33
+declaration of __ino64_t	__ino64_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:137:27:137:35
+declaration of __ino_t	__ino_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:136:25:136:31
+declaration of __gid_t	__gid_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:135:25:135:31
+declaration of __uid_t	__uid_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:134:25:134:31
+declaration of __dev_t	__dev_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:133:25:133:31
+declaration of __uintmax_t	__uintmax_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:62:27:62:37
+declaration of __intmax_t	__intmax_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:61:18:61:27
+declaration of __u_quad_t	__u_quad_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:53:27:53:36
+declaration of __quad_t	__quad_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:52:18:52:25
+declaration of __uint64_t	__uint64_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:44:27:44:36
+declaration of __int64_t	__int64_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:43:25:43:33
+declaration of __uint32_t	__uint32_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:41:22:41:31
+declaration of __int32_t	__int32_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:40:20:40:28
+declaration of __uint16_t	__uint16_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:39:28:39:37
+declaration of __int16_t	__int16_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:38:26:38:34
+declaration of __uint8_t	__uint8_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:37:23:37:31
+declaration of __int8_t	__int8_t	file:///usr/include/x86_64-linux-gnu/bits/types.h:36:21:36:28
+declaration of __u_long	__u_long	file:///usr/include/x86_64-linux-gnu/bits/types.h:33:27:33:34
+declaration of __u_int	__u_int	file:///usr/include/x86_64-linux-gnu/bits/types.h:32:22:32:28
+declaration of __u_short	__u_short	file:///usr/include/x86_64-linux-gnu/bits/types.h:31:28:31:36
+declaration of __u_char	__u_char	file:///usr/include/x86_64-linux-gnu/bits/types.h:30:23:30:30
+declaration of __FILE	__FILE	file:///usr/include/x86_64-linux-gnu/bits/types/__FILE.h:5:25:5:30
+declaration of _IO_FILE	_IO_FILE	file:///usr/include/x86_64-linux-gnu/bits/types/__FILE.h:4:8:4:15
+declaration of FILE	FILE	file:///usr/include/x86_64-linux-gnu/bits/types/FILE.h:7:25:7:28
+declaration of _IO_FILE	_IO_FILE	file:///usr/include/x86_64-linux-gnu/bits/types/FILE.h:4:8:4:15
+declaration of __mbstate_t	__mbstate_t	file:///usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:21:3:21:13
+definition of struct <unnamed>	struct <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:14:1:14:1
+definition of union <unnamed>	union <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:17:3:17:3
+declaration of _G_fpos64_t	_G_fpos64_t	file:///usr/include/x86_64-linux-gnu/bits/_G_config.h:35:3:35:13
+definition of struct <unnamed>	struct <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/_G_config.h:32:1:32:1
+declaration of _G_fpos_t	_G_fpos_t	file:///usr/include/x86_64-linux-gnu/bits/_G_config.h:30:3:30:11
+definition of struct <unnamed>	struct <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/_G_config.h:27:1:27:1
+declaration of __gnuc_va_list	__gnuc_va_list	file:///usr/lib/gcc/x86_64-linux-gnu/7/include/stdarg.h:40:27:40:40
+declaration of __io_close_fn	__io_close_fn	file:///usr/include/x86_64-linux-gnu/bits/libio.h:357:13:357:25
+declaration of __io_seek_fn	__io_seek_fn	file:///usr/include/x86_64-linux-gnu/bits/libio.h:354:13:354:24
+declaration of __io_write_fn	__io_write_fn	file:///usr/include/x86_64-linux-gnu/bits/libio.h:345:19:345:31
+declaration of __io_read_fn	__io_read_fn	file:///usr/include/x86_64-linux-gnu/bits/libio.h:337:19:337:30
+declaration of _IO_FILE_plus	_IO_FILE_plus	file:///usr/include/x86_64-linux-gnu/bits/libio.h:317:8:317:20
+declaration of _IO_FILE	_IO_FILE	file:///usr/include/x86_64-linux-gnu/bits/libio.h:314:25:314:32
+definition of __codecvt_result	__codecvt_result	file:///usr/include/x86_64-linux-gnu/bits/libio.h:180:6:180:21
+declaration of _IO_jump_t	_IO_jump_t	file:///usr/include/x86_64-linux-gnu/bits/libio.h:149:8:149:17
+definition of _IO_FILE	_IO_FILE	file:///usr/include/x86_64-linux-gnu/bits/libio.h:245:8:245:15
+declaration of _IO_lock_t	_IO_lock_t	file:///usr/include/x86_64-linux-gnu/bits/libio.h:154:14:154:23
+definition of _IO_marker	_IO_marker	file:///usr/include/x86_64-linux-gnu/bits/libio.h:160:8:160:17
+declaration of _IO_FILE	_IO_FILE	file:///usr/include/x86_64-linux-gnu/bits/libio.h:149:28:149:35
+declaration of fpos_t	fpos_t	file:///usr/include/stdio.h:78:19:78:24
+declaration of ssize_t	ssize_t	file:///usr/include/stdio.h:71:19:71:25
+declaration of off_t	off_t	file:///usr/include/stdio.h:57:17:57:21
+declaration of va_list	va_list	file:///usr/include/stdio.h:46:20:46:26
+declaration of wchar_t	wchar_t	file:///usr/lib/gcc/x86_64-linux-gnu/7/include/stddef.h:328:24:328:30
+declaration of idtype_t	idtype_t	file:///usr/include/x86_64-linux-gnu/bits/waitflags.h:57:3:57:10
+definition of (unnamed enum)	(unnamed enum)	file:///usr/include/x86_64-linux-gnu/bits/waitflags.h:53:1:53:1
+declaration of clock_t	clock_t	file:///usr/include/x86_64-linux-gnu/bits/types/clock_t.h:7:19:7:25
+declaration of clockid_t	clockid_t	file:///usr/include/x86_64-linux-gnu/bits/types/clockid_t.h:7:21:7:29
+declaration of time_t	time_t	file:///usr/include/x86_64-linux-gnu/bits/types/time_t.h:7:18:7:23
+declaration of timer_t	timer_t	file:///usr/include/x86_64-linux-gnu/bits/types/timer_t.h:7:19:7:25
+declaration of int64_t	int64_t	file:///usr/include/x86_64-linux-gnu/bits/stdint-intn.h:27:19:27:25
+declaration of int32_t	int32_t	file:///usr/include/x86_64-linux-gnu/bits/stdint-intn.h:26:19:26:25
+declaration of int16_t	int16_t	file:///usr/include/x86_64-linux-gnu/bits/stdint-intn.h:25:19:25:25
+declaration of int8_t	int8_t	file:///usr/include/x86_64-linux-gnu/bits/stdint-intn.h:24:18:24:23
+declaration of __sigset_t	__sigset_t	file:///usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:8:3:8:12
+definition of struct <unnamed>	struct <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:6:1:6:1
+declaration of sigset_t	sigset_t	file:///usr/include/x86_64-linux-gnu/bits/types/sigset_t.h:7:20:7:27
+definition of timeval	timeval	file:///usr/include/x86_64-linux-gnu/bits/types/struct_timeval.h:8:8:8:14
+definition of timespec	timespec	file:///usr/include/x86_64-linux-gnu/bits/types/struct_timespec.h:8:8:8:15
+declaration of fd_mask	fd_mask	file:///usr/include/x86_64-linux-gnu/sys/select.h:77:19:77:25
+declaration of fd_set	fd_set	file:///usr/include/x86_64-linux-gnu/sys/select.h:70:5:70:10
+definition of struct <unnamed>	struct <unnamed>	file:///usr/include/x86_64-linux-gnu/sys/select.h:60:3:60:3
+declaration of __fd_mask	__fd_mask	file:///usr/include/x86_64-linux-gnu/sys/select.h:49:18:49:26
+declaration of suseconds_t	suseconds_t	file:///usr/include/x86_64-linux-gnu/sys/select.h:43:23:43:33
+definition of __pthread_rwlock_arch_t	__pthread_rwlock_arch_t	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:65:8:65:30
+definition of __pthread_cond_s	__pthread_cond_s	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:151:8:151:23
+definition of union <unnamed>	union <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:163:3:163:3
+definition of struct <unnamed>	struct <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:166:5:166:5
+definition of struct <unnamed>	struct <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:166:5:166:5
+definition of union <unnamed>	union <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:154:3:154:3
+definition of struct <unnamed>	struct <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:157:5:157:5
+definition of struct <unnamed>	struct <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:157:5:157:5
+definition of __pthread_mutex_s	__pthread_mutex_s	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:118:8:118:24
+declaration of __pthread_list_t	__pthread_list_t	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:86:3:86:18
+definition of __pthread_internal_list	__pthread_internal_list	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:82:16:82:38
+declaration of pthread_barrierattr_t	pthread_barrierattr_t	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:118:3:118:23
+definition of union <unnamed>	union <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:115:1:115:1
+declaration of pthread_barrier_t	pthread_barrier_t	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:112:3:112:19
+definition of union <unnamed>	union <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:109:1:109:1
+declaration of pthread_spinlock_t	pthread_spinlock_t	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:103:22:103:39
+declaration of pthread_rwlockattr_t	pthread_rwlockattr_t	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:97:3:97:22
+definition of union <unnamed>	union <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:94:1:94:1
+declaration of pthread_rwlock_t	pthread_rwlock_t	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:91:3:91:18
+definition of union <unnamed>	union <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:87:1:87:1
+declaration of pthread_cond_t	pthread_cond_t	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:80:3:80:16
+definition of union <unnamed>	union <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:76:1:76:1
+declaration of pthread_mutex_t	pthread_mutex_t	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:72:3:72:17
+definition of union <unnamed>	union <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:68:1:68:1
+declaration of pthread_attr_t	pthread_attr_t	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:62:30:62:43
+definition of pthread_attr_t	pthread_attr_t	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:56:7:56:20
+declaration of pthread_once_t	pthread_once_t	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:53:30:53:43
+declaration of pthread_key_t	pthread_key_t	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:49:22:49:34
+declaration of pthread_condattr_t	pthread_condattr_t	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:45:3:45:20
+definition of union <unnamed>	union <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:42:1:42:1
+declaration of pthread_mutexattr_t	pthread_mutexattr_t	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:36:3:36:21
+definition of union <unnamed>	union <unnamed>	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:33:1:33:1
+declaration of pthread_t	pthread_t	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:27:27:27:35
+declaration of fsfilcnt_t	fsfilcnt_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:227:22:227:31
+declaration of fsblkcnt_t	fsblkcnt_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:223:22:223:31
+declaration of blkcnt_t	blkcnt_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:219:20:219:27
+declaration of blksize_t	blksize_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:212:21:212:29
+declaration of register_t	register_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:183:13:183:22
+declaration of u_int64_t	u_int64_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:181:1:181:23
+declaration of u_int32_t	u_int32_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:180:1:180:23
+declaration of u_int16_t	u_int16_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:179:1:179:23
+declaration of u_int8_t	u_int8_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:178:1:178:22
+declaration of uint	uint	file:///usr/include/x86_64-linux-gnu/sys/types.h:151:22:151:25
+declaration of ushort	ushort	file:///usr/include/x86_64-linux-gnu/sys/types.h:150:28:150:33
+declaration of ulong	ulong	file:///usr/include/x86_64-linux-gnu/sys/types.h:149:27:149:31
+declaration of key_t	key_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:122:17:122:21
+declaration of caddr_t	caddr_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:116:19:116:25
+declaration of daddr_t	daddr_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:115:19:115:25
+declaration of id_t	id_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:104:16:104:19
+declaration of pid_t	pid_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:98:17:98:21
+declaration of uid_t	uid_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:80:17:80:21
+declaration of nlink_t	nlink_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:75:19:75:25
+declaration of mode_t	mode_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:70:18:70:23
+declaration of gid_t	gid_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:65:17:65:21
+declaration of dev_t	dev_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:60:17:60:21
+declaration of ino_t	ino_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:48:17:48:21
+declaration of loff_t	loff_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:44:18:44:23
+declaration of fsid_t	fsid_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:39:18:39:23
+declaration of u_quad_t	u_quad_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:38:20:38:27
+declaration of quad_t	quad_t	file:///usr/include/x86_64-linux-gnu/sys/types.h:37:18:37:23
+declaration of u_long	u_long	file:///usr/include/x86_64-linux-gnu/sys/types.h:36:18:36:23
+declaration of u_int	u_int	file:///usr/include/x86_64-linux-gnu/sys/types.h:35:17:35:21
+declaration of u_short	u_short	file:///usr/include/x86_64-linux-gnu/sys/types.h:34:19:34:25
+declaration of u_char	u_char	file:///usr/include/x86_64-linux-gnu/sys/types.h:33:18:33:23
+declaration of __compar_fn_t	__compar_fn_t	file:///usr/include/stdlib.h:805:15:805:27
+definition of drand48_data	drand48_data	file:///usr/include/stdlib.h:490:8:490:19
+definition of random_data	random_data	file:///usr/include/stdlib.h:423:8:423:18
+declaration of lldiv_t	lldiv_t	file:///usr/include/stdlib.h:80:5:80:11
+definition of struct <unnamed>	struct <unnamed>	file:///usr/include/stdlib.h:77:3:77:3
+declaration of ldiv_t	ldiv_t	file:///usr/include/stdlib.h:70:5:70:10
+definition of struct <unnamed>	struct <unnamed>	file:///usr/include/stdlib.h:67:3:67:3
+declaration of div_t	div_t	file:///usr/include/stdlib.h:62:5:62:9
+definition of struct <unnamed>	struct <unnamed>	file:///usr/include/stdlib.h:59:3:59:3

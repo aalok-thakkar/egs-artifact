@@ -1,0 +1,238 @@
+declaration of _IO_free_backup_area	file:///usr/include/x86_64-linux-gnu/bits/libio.h:472:13:472:32	_IO_free_backup_area	void	_IO_free_backup_area	file:///usr/include/x86_64-linux-gnu/bits/libio.h:472:13:472:32
+declaration of _IO_seekpos	file:///usr/include/x86_64-linux-gnu/bits/libio.h:470:20:470:30	_IO_seekpos	__off64_t	_IO_seekpos	file:///usr/include/x86_64-linux-gnu/bits/libio.h:470:20:470:30
+declaration of _IO_seekoff	file:///usr/include/x86_64-linux-gnu/bits/libio.h:469:20:469:30	_IO_seekoff	__off64_t	_IO_seekoff	file:///usr/include/x86_64-linux-gnu/bits/libio.h:469:20:469:30
+declaration of _IO_sgetn	file:///usr/include/x86_64-linux-gnu/bits/libio.h:467:19:467:27	_IO_sgetn	size_t	_IO_sgetn	file:///usr/include/x86_64-linux-gnu/bits/libio.h:467:19:467:27
+declaration of _IO_padn	file:///usr/include/x86_64-linux-gnu/bits/libio.h:466:20:466:27	_IO_padn	__ssize_t	_IO_padn	file:///usr/include/x86_64-linux-gnu/bits/libio.h:466:20:466:27
+declaration of _IO_vfprintf	file:///usr/include/x86_64-linux-gnu/bits/libio.h:464:12:464:23	_IO_vfprintf	int	_IO_vfprintf	file:///usr/include/x86_64-linux-gnu/bits/libio.h:464:12:464:23
+declaration of _IO_vfscanf	file:///usr/include/x86_64-linux-gnu/bits/libio.h:462:12:462:22	_IO_vfscanf	int	_IO_vfscanf	file:///usr/include/x86_64-linux-gnu/bits/libio.h:462:12:462:22
+declaration of _IO_ftrylockfile	file:///usr/include/x86_64-linux-gnu/bits/libio.h:446:12:446:27	_IO_ftrylockfile	int	_IO_ftrylockfile	file:///usr/include/x86_64-linux-gnu/bits/libio.h:446:12:446:27
+declaration of _IO_funlockfile	file:///usr/include/x86_64-linux-gnu/bits/libio.h:445:13:445:27	_IO_funlockfile	void	_IO_funlockfile	file:///usr/include/x86_64-linux-gnu/bits/libio.h:445:13:445:27
+declaration of _IO_flockfile	file:///usr/include/x86_64-linux-gnu/bits/libio.h:444:13:444:25	_IO_flockfile	void	_IO_flockfile	file:///usr/include/x86_64-linux-gnu/bits/libio.h:444:13:444:25
+declaration of _IO_peekc_locked	file:///usr/include/x86_64-linux-gnu/bits/libio.h:438:12:438:27	_IO_peekc_locked	int	_IO_peekc_locked	file:///usr/include/x86_64-linux-gnu/bits/libio.h:438:12:438:27
+declaration of _IO_ferror	file:///usr/include/x86_64-linux-gnu/bits/libio.h:436:12:436:21	_IO_ferror	int	_IO_ferror	file:///usr/include/x86_64-linux-gnu/bits/libio.h:436:12:436:21
+declaration of _IO_feof	file:///usr/include/x86_64-linux-gnu/bits/libio.h:435:12:435:19	_IO_feof	int	_IO_feof	file:///usr/include/x86_64-linux-gnu/bits/libio.h:435:12:435:19
+declaration of _IO_putc	file:///usr/include/x86_64-linux-gnu/bits/libio.h:434:12:434:19	_IO_putc	int	_IO_putc	file:///usr/include/x86_64-linux-gnu/bits/libio.h:434:12:434:19
+declaration of _IO_getc	file:///usr/include/x86_64-linux-gnu/bits/libio.h:433:12:433:19	_IO_getc	int	_IO_getc	file:///usr/include/x86_64-linux-gnu/bits/libio.h:433:12:433:19
+declaration of __overflow	file:///usr/include/x86_64-linux-gnu/bits/libio.h:391:12:391:21	__overflow	int	__overflow	file:///usr/include/x86_64-linux-gnu/bits/libio.h:391:12:391:21
+declaration of __uflow	file:///usr/include/x86_64-linux-gnu/bits/libio.h:390:12:390:18	__uflow	int	__uflow	file:///usr/include/x86_64-linux-gnu/bits/libio.h:390:12:390:18
+declaration of __underflow	file:///usr/include/x86_64-linux-gnu/bits/libio.h:389:12:389:22	__underflow	int	__underflow	file:///usr/include/x86_64-linux-gnu/bits/libio.h:389:12:389:22
+declaration of funlockfile	file:///usr/include/stdio.h:847:13:847:23	funlockfile	void	funlockfile	file:///usr/include/stdio.h:847:13:847:23
+declaration of ftrylockfile	file:///usr/include/stdio.h:844:12:844:23	ftrylockfile	int	ftrylockfile	file:///usr/include/stdio.h:844:12:844:23
+declaration of flockfile	file:///usr/include/stdio.h:840:13:840:21	flockfile	void	flockfile	file:///usr/include/stdio.h:840:13:840:21
+declaration of ctermid	file:///usr/include/stdio.h:812:14:812:20	ctermid	char *	ctermid	file:///usr/include/stdio.h:812:14:812:20
+declaration of pclose	file:///usr/include/stdio.h:806:12:806:17	pclose	int	pclose	file:///usr/include/stdio.h:806:12:806:17
+declaration of popen	file:///usr/include/stdio.h:800:14:800:18	popen	FILE *	popen	file:///usr/include/stdio.h:800:14:800:18
+declaration of fileno_unlocked	file:///usr/include/stdio.h:791:12:791:26	fileno_unlocked	int	fileno_unlocked	file:///usr/include/stdio.h:791:12:791:26
+declaration of fileno	file:///usr/include/stdio.h:786:12:786:17	fileno	int	fileno	file:///usr/include/stdio.h:786:12:786:17
+declaration of perror	file:///usr/include/stdio.h:775:13:775:18	perror	void	perror	file:///usr/include/stdio.h:775:13:775:18
+declaration of ferror_unlocked	file:///usr/include/stdio.h:767:12:767:26	ferror_unlocked	int	ferror_unlocked	file:///usr/include/stdio.h:767:12:767:26
+declaration of feof_unlocked	file:///usr/include/stdio.h:766:12:766:24	feof_unlocked	int	feof_unlocked	file:///usr/include/stdio.h:766:12:766:24
+declaration of clearerr_unlocked	file:///usr/include/stdio.h:765:13:765:29	clearerr_unlocked	void	clearerr_unlocked	file:///usr/include/stdio.h:765:13:765:29
+declaration of ferror	file:///usr/include/stdio.h:761:12:761:17	ferror	int	ferror	file:///usr/include/stdio.h:761:12:761:17
+declaration of feof	file:///usr/include/stdio.h:759:12:759:15	feof	int	feof	file:///usr/include/stdio.h:759:12:759:15
+declaration of clearerr	file:///usr/include/stdio.h:757:13:757:20	clearerr	void	clearerr	file:///usr/include/stdio.h:757:13:757:20
+declaration of fsetpos	file:///usr/include/stdio.h:736:12:736:18	fsetpos	int	fsetpos	file:///usr/include/stdio.h:736:12:736:18
+declaration of fgetpos	file:///usr/include/stdio.h:731:12:731:18	fgetpos	int	fgetpos	file:///usr/include/stdio.h:731:12:731:18
+declaration of ftello	file:///usr/include/stdio.h:712:16:712:21	ftello	__off_t	ftello	file:///usr/include/stdio.h:712:16:712:21
+declaration of fseeko	file:///usr/include/stdio.h:707:12:707:17	fseeko	int	fseeko	file:///usr/include/stdio.h:707:12:707:17
+declaration of rewind	file:///usr/include/stdio.h:694:13:694:18	rewind	void	rewind	file:///usr/include/stdio.h:694:13:694:18
+declaration of ftell	file:///usr/include/stdio.h:689:17:689:21	ftell	long	ftell	file:///usr/include/stdio.h:689:17:689:21
+declaration of fseek	file:///usr/include/stdio.h:684:12:684:16	fseek	int	fseek	file:///usr/include/stdio.h:684:12:684:16
+declaration of fwrite_unlocked	file:///usr/include/stdio.h:675:15:675:29	fwrite_unlocked	size_t	fwrite_unlocked	file:///usr/include/stdio.h:675:15:675:29
+declaration of fread_unlocked	file:///usr/include/stdio.h:673:15:673:28	fread_unlocked	size_t	fread_unlocked	file:///usr/include/stdio.h:673:15:673:28
+declaration of fwrite	file:///usr/include/stdio.h:652:15:652:20	fwrite	size_t	fwrite	file:///usr/include/stdio.h:652:15:652:20
+declaration of fread	file:///usr/include/stdio.h:646:15:646:19	fread	size_t	fread	file:///usr/include/stdio.h:646:15:646:19
+declaration of ungetc	file:///usr/include/stdio.h:639:12:639:17	ungetc	int	ungetc	file:///usr/include/stdio.h:639:12:639:17
+declaration of puts	file:///usr/include/stdio.h:632:12:632:15	puts	int	puts	file:///usr/include/stdio.h:632:12:632:15
+declaration of fputs	file:///usr/include/stdio.h:626:12:626:16	fputs	int	fputs	file:///usr/include/stdio.h:626:12:626:16
+declaration of getline	file:///usr/include/stdio.h:616:20:616:26	getline	__ssize_t	getline	file:///usr/include/stdio.h:616:20:616:26
+declaration of getdelim	file:///usr/include/stdio.h:606:20:606:27	getdelim	__ssize_t	getdelim	file:///usr/include/stdio.h:606:20:606:27
+declaration of __getdelim	file:///usr/include/stdio.h:603:20:603:29	__getdelim	__ssize_t	__getdelim	file:///usr/include/stdio.h:603:20:603:29
+declaration of fgets	file:///usr/include/stdio.h:564:14:564:18	fgets	char *	fgets	file:///usr/include/stdio.h:564:14:564:18
+declaration of putw	file:///usr/include/stdio.h:556:12:556:15	putw	int	putw	file:///usr/include/stdio.h:556:12:556:15
+declaration of getw	file:///usr/include/stdio.h:553:12:553:15	getw	int	getw	file:///usr/include/stdio.h:553:12:553:15
+declaration of putchar_unlocked	file:///usr/include/stdio.h:546:12:546:27	putchar_unlocked	int	putchar_unlocked	file:///usr/include/stdio.h:546:12:546:27
+declaration of putc_unlocked	file:///usr/include/stdio.h:545:12:545:24	putc_unlocked	int	putc_unlocked	file:///usr/include/stdio.h:545:12:545:24
+declaration of fputc_unlocked	file:///usr/include/stdio.h:537:12:537:25	fputc_unlocked	int	fputc_unlocked	file:///usr/include/stdio.h:537:12:537:25
+declaration of putchar	file:///usr/include/stdio.h:524:12:524:18	putchar	int	putchar	file:///usr/include/stdio.h:524:12:524:18
+declaration of putc	file:///usr/include/stdio.h:518:12:518:15	putc	int	putc	file:///usr/include/stdio.h:518:12:518:15
+declaration of fputc	file:///usr/include/stdio.h:517:12:517:16	fputc	int	fputc	file:///usr/include/stdio.h:517:12:517:16
+declaration of fgetc_unlocked	file:///usr/include/stdio.h:506:12:506:25	fgetc_unlocked	int	fgetc_unlocked	file:///usr/include/stdio.h:506:12:506:25
+declaration of getchar_unlocked	file:///usr/include/stdio.h:496:12:496:27	getchar_unlocked	int	getchar_unlocked	file:///usr/include/stdio.h:496:12:496:27
+declaration of getc_unlocked	file:///usr/include/stdio.h:495:12:495:24	getc_unlocked	int	getc_unlocked	file:///usr/include/stdio.h:495:12:495:24
+declaration of getchar	file:///usr/include/stdio.h:484:12:484:18	getchar	int	getchar	file:///usr/include/stdio.h:484:12:484:18
+declaration of getc	file:///usr/include/stdio.h:478:12:478:15	getc	int	getc	file:///usr/include/stdio.h:478:12:478:15
+declaration of fgetc	file:///usr/include/stdio.h:477:12:477:16	fgetc	int	fgetc	file:///usr/include/stdio.h:477:12:477:16
+declaration of vsscanf	file:///usr/include/stdio.h:451:28:451:34	vsscanf	int	vsscanf	file:///usr/include/stdio.h:451:28:451:34
+declaration of vsscanf	file:///usr/include/stdio.h:451:28:451:34	vsscanf	int	vsscanf	file:///usr/include/stdio.h:451:28:451:34
+declaration of vscanf	file:///usr/include/stdio.h:448:24:448:29	vscanf	int	vscanf	file:///usr/include/stdio.h:448:24:448:29
+declaration of vscanf	file:///usr/include/stdio.h:448:24:448:29	vscanf	int	vscanf	file:///usr/include/stdio.h:448:24:448:29
+declaration of vfscanf	file:///usr/include/stdio.h:443:24:443:30	vfscanf	int	vfscanf	file:///usr/include/stdio.h:443:24:443:30
+declaration of vfscanf	file:///usr/include/stdio.h:443:24:443:30	vfscanf	int	vfscanf	file:///usr/include/stdio.h:443:24:443:30
+declaration of vsscanf	file:///usr/include/stdio.h:432:12:432:18	vsscanf	int	vsscanf	file:///usr/include/stdio.h:432:12:432:18
+declaration of vsscanf	file:///usr/include/stdio.h:432:12:432:18	vsscanf	int	vsscanf	file:///usr/include/stdio.h:432:12:432:18
+declaration of vscanf	file:///usr/include/stdio.h:428:12:428:17	vscanf	int	vscanf	file:///usr/include/stdio.h:428:12:428:17
+declaration of vscanf	file:///usr/include/stdio.h:428:12:428:17	vscanf	int	vscanf	file:///usr/include/stdio.h:428:12:428:17
+declaration of vfscanf	file:///usr/include/stdio.h:420:12:420:18	vfscanf	int	vfscanf	file:///usr/include/stdio.h:420:12:420:18
+declaration of vfscanf	file:///usr/include/stdio.h:420:12:420:18	vfscanf	int	vfscanf	file:///usr/include/stdio.h:420:12:420:18
+declaration of sscanf	file:///usr/include/stdio.h:400:28:400:33	sscanf	int	sscanf	file:///usr/include/stdio.h:400:28:400:33
+declaration of sscanf	file:///usr/include/stdio.h:400:28:400:33	sscanf	int	sscanf	file:///usr/include/stdio.h:400:28:400:33
+declaration of scanf	file:///usr/include/stdio.h:398:24:398:28	scanf	int	scanf	file:///usr/include/stdio.h:398:24:398:28
+declaration of scanf	file:///usr/include/stdio.h:398:24:398:28	scanf	int	scanf	file:///usr/include/stdio.h:398:24:398:28
+declaration of fscanf	file:///usr/include/stdio.h:395:24:395:29	fscanf	int	fscanf	file:///usr/include/stdio.h:395:24:395:29
+declaration of fscanf	file:///usr/include/stdio.h:395:24:395:29	fscanf	int	fscanf	file:///usr/include/stdio.h:395:24:395:29
+declaration of sscanf	file:///usr/include/stdio.h:385:12:385:17	sscanf	int	sscanf	file:///usr/include/stdio.h:385:12:385:17
+declaration of sscanf	file:///usr/include/stdio.h:385:12:385:17	sscanf	int	sscanf	file:///usr/include/stdio.h:385:12:385:17
+declaration of scanf	file:///usr/include/stdio.h:383:12:383:16	scanf	int	scanf	file:///usr/include/stdio.h:383:12:383:16
+declaration of scanf	file:///usr/include/stdio.h:383:12:383:16	scanf	int	scanf	file:///usr/include/stdio.h:383:12:383:16
+declaration of fscanf	file:///usr/include/stdio.h:377:12:377:17	fscanf	int	fscanf	file:///usr/include/stdio.h:377:12:377:17
+declaration of fscanf	file:///usr/include/stdio.h:377:12:377:17	fscanf	int	fscanf	file:///usr/include/stdio.h:377:12:377:17
+declaration of dprintf	file:///usr/include/stdio.h:368:12:368:18	dprintf	int	dprintf	file:///usr/include/stdio.h:368:12:368:18
+declaration of vdprintf	file:///usr/include/stdio.h:365:12:365:19	vdprintf	int	vdprintf	file:///usr/include/stdio.h:365:12:365:19
+declaration of vsnprintf	file:///usr/include/stdio.h:344:12:344:20	vsnprintf	int	vsnprintf	file:///usr/include/stdio.h:344:12:344:20
+declaration of snprintf	file:///usr/include/stdio.h:340:12:340:19	snprintf	int	snprintf	file:///usr/include/stdio.h:340:12:340:19
+declaration of vsprintf	file:///usr/include/stdio.h:335:12:335:19	vsprintf	int	vsprintf	file:///usr/include/stdio.h:335:12:335:19
+declaration of vprintf	file:///usr/include/stdio.h:333:12:333:18	vprintf	int	vprintf	file:///usr/include/stdio.h:333:12:333:18
+declaration of vfprintf	file:///usr/include/stdio.h:327:12:327:19	vfprintf	int	vfprintf	file:///usr/include/stdio.h:327:12:327:19
+declaration of sprintf	file:///usr/include/stdio.h:320:12:320:18	sprintf	int	sprintf	file:///usr/include/stdio.h:320:12:320:18
+declaration of printf	file:///usr/include/stdio.h:318:12:318:17	printf	int	printf	file:///usr/include/stdio.h:318:12:318:17
+declaration of fprintf	file:///usr/include/stdio.h:312:12:312:18	fprintf	int	fprintf	file:///usr/include/stdio.h:312:12:312:18
+declaration of setlinebuf	file:///usr/include/stdio.h:304:13:304:22	setlinebuf	void	setlinebuf	file:///usr/include/stdio.h:304:13:304:22
+declaration of setbuffer	file:///usr/include/stdio.h:300:13:300:21	setbuffer	void	setbuffer	file:///usr/include/stdio.h:300:13:300:21
+declaration of setvbuf	file:///usr/include/stdio.h:294:12:294:18	setvbuf	int	setvbuf	file:///usr/include/stdio.h:294:12:294:18
+declaration of setbuf	file:///usr/include/stdio.h:290:13:290:18	setbuf	void	setbuf	file:///usr/include/stdio.h:290:13:290:18
+declaration of open_memstream	file:///usr/include/stdio.h:284:14:284:27	open_memstream	FILE *	open_memstream	file:///usr/include/stdio.h:284:14:284:27
+declaration of fmemopen	file:///usr/include/stdio.h:278:14:278:21	fmemopen	FILE *	fmemopen	file:///usr/include/stdio.h:278:14:278:21
+declaration of fdopen	file:///usr/include/stdio.h:265:14:265:19	fdopen	FILE *	fdopen	file:///usr/include/stdio.h:265:14:265:19
+declaration of freopen	file:///usr/include/stdio.h:238:14:238:20	freopen	FILE *	freopen	file:///usr/include/stdio.h:238:14:238:20
+declaration of fopen	file:///usr/include/stdio.h:232:14:232:18	fopen	FILE *	fopen	file:///usr/include/stdio.h:232:14:232:18
+declaration of fflush_unlocked	file:///usr/include/stdio.h:213:12:213:26	fflush_unlocked	int	fflush_unlocked	file:///usr/include/stdio.h:213:12:213:26
+declaration of fflush	file:///usr/include/stdio.h:204:12:204:17	fflush	int	fflush	file:///usr/include/stdio.h:204:12:204:17
+declaration of fclose	file:///usr/include/stdio.h:199:12:199:17	fclose	int	fclose	file:///usr/include/stdio.h:199:12:199:17
+declaration of tempnam	file:///usr/include/stdio.h:190:14:190:20	tempnam	char *	tempnam	file:///usr/include/stdio.h:190:14:190:20
+declaration of tmpnam_r	file:///usr/include/stdio.h:178:14:178:21	tmpnam_r	char *	tmpnam_r	file:///usr/include/stdio.h:178:14:178:21
+declaration of tmpnam	file:///usr/include/stdio.h:173:14:173:19	tmpnam	char *	tmpnam	file:///usr/include/stdio.h:173:14:173:19
+declaration of tmpfile	file:///usr/include/stdio.h:159:14:159:20	tmpfile	FILE *	tmpfile	file:///usr/include/stdio.h:159:14:159:20
+declaration of renameat	file:///usr/include/stdio.h:150:12:150:19	renameat	int	renameat	file:///usr/include/stdio.h:150:12:150:19
+declaration of rename	file:///usr/include/stdio.h:146:12:146:17	rename	int	rename	file:///usr/include/stdio.h:146:12:146:17
+declaration of remove	file:///usr/include/stdio.h:144:12:144:17	remove	int	remove	file:///usr/include/stdio.h:144:12:144:17
+definition of __bswap_64	file:///usr/include/x86_64-linux-gnu/bits/byteswap.h:109:1:109:10	__bswap_64	__uint64_t	__bswap_64	file:///usr/include/x86_64-linux-gnu/bits/byteswap.h:109:1:109:10
+definition of __bswap_32	file:///usr/include/x86_64-linux-gnu/bits/byteswap.h:45:1:45:10	__bswap_32	unsigned int	__bswap_32	file:///usr/include/x86_64-linux-gnu/bits/byteswap.h:45:1:45:10
+definition of __uint64_identity	file:///usr/include/x86_64-linux-gnu/bits/uintn-identity.h:45:1:45:17	__uint64_identity	__uint64_t	__uint64_identity	file:///usr/include/x86_64-linux-gnu/bits/uintn-identity.h:45:1:45:17
+definition of __uint32_identity	file:///usr/include/x86_64-linux-gnu/bits/uintn-identity.h:39:1:39:17	__uint32_identity	__uint32_t	__uint32_identity	file:///usr/include/x86_64-linux-gnu/bits/uintn-identity.h:39:1:39:17
+definition of __uint16_identity	file:///usr/include/x86_64-linux-gnu/bits/uintn-identity.h:33:1:33:17	__uint16_identity	__uint16_t	__uint16_identity	file:///usr/include/x86_64-linux-gnu/bits/uintn-identity.h:33:1:33:17
+declaration of pselect	file:///usr/include/x86_64-linux-gnu/sys/select.h:113:12:113:18	pselect	int	pselect	file:///usr/include/x86_64-linux-gnu/sys/select.h:113:12:113:18
+declaration of select	file:///usr/include/x86_64-linux-gnu/sys/select.h:101:12:101:17	select	int	select	file:///usr/include/x86_64-linux-gnu/sys/select.h:101:12:101:17
+declaration of gnu_dev_makedev	file:///usr/include/x86_64-linux-gnu/sys/sysmacros.h:75:1:75:52	gnu_dev_makedev	__dev_t	gnu_dev_makedev	file:///usr/include/x86_64-linux-gnu/sys/sysmacros.h:75:1:75:52
+declaration of gnu_dev_minor	file:///usr/include/x86_64-linux-gnu/sys/sysmacros.h:74:1:74:50	gnu_dev_minor	unsigned int	gnu_dev_minor	file:///usr/include/x86_64-linux-gnu/sys/sysmacros.h:74:1:74:50
+declaration of gnu_dev_major	file:///usr/include/x86_64-linux-gnu/sys/sysmacros.h:73:1:73:50	gnu_dev_major	unsigned int	gnu_dev_major	file:///usr/include/x86_64-linux-gnu/sys/sysmacros.h:73:1:73:50
+declaration of alloca	file:///usr/include/alloca.h:32:14:32:19	alloca	void *	alloca	file:///usr/include/alloca.h:32:14:32:19
+declaration of getloadavg	file:///usr/include/stdlib.h:1006:12:1006:21	getloadavg	int	getloadavg	file:///usr/include/stdlib.h:1006:12:1006:21
+declaration of getsubopt	file:///usr/include/stdlib.h:954:12:954:20	getsubopt	int	getsubopt	file:///usr/include/stdlib.h:954:12:954:20
+declaration of rpmatch	file:///usr/include/stdlib.h:943:12:943:18	rpmatch	int	rpmatch	file:///usr/include/stdlib.h:943:12:943:18
+declaration of wcstombs	file:///usr/include/stdlib.h:933:15:933:22	wcstombs	size_t	wcstombs	file:///usr/include/stdlib.h:933:15:933:22
+declaration of mbstowcs	file:///usr/include/stdlib.h:930:15:930:22	mbstowcs	size_t	mbstowcs	file:///usr/include/stdlib.h:930:15:930:22
+declaration of wctomb	file:///usr/include/stdlib.h:926:12:926:17	wctomb	int	wctomb	file:///usr/include/stdlib.h:926:12:926:17
+declaration of mbtowc	file:///usr/include/stdlib.h:922:12:922:17	mbtowc	int	mbtowc	file:///usr/include/stdlib.h:922:12:922:17
+declaration of mblen	file:///usr/include/stdlib.h:919:12:919:16	mblen	int	mblen	file:///usr/include/stdlib.h:919:12:919:16
+declaration of qfcvt_r	file:///usr/include/stdlib.h:910:12:910:18	qfcvt_r	int	qfcvt_r	file:///usr/include/stdlib.h:910:12:910:18
+declaration of qecvt_r	file:///usr/include/stdlib.h:906:12:906:18	qecvt_r	int	qecvt_r	file:///usr/include/stdlib.h:906:12:906:18
+declaration of fcvt_r	file:///usr/include/stdlib.h:902:12:902:17	fcvt_r	int	fcvt_r	file:///usr/include/stdlib.h:902:12:902:17
+declaration of ecvt_r	file:///usr/include/stdlib.h:899:12:899:17	ecvt_r	int	ecvt_r	file:///usr/include/stdlib.h:899:12:899:17
+declaration of qgcvt	file:///usr/include/stdlib.h:893:14:893:18	qgcvt	char *	qgcvt	file:///usr/include/stdlib.h:893:14:893:18
+declaration of qfcvt	file:///usr/include/stdlib.h:890:14:890:18	qfcvt	char *	qfcvt	file:///usr/include/stdlib.h:890:14:890:18
+declaration of qecvt	file:///usr/include/stdlib.h:887:14:887:18	qecvt	char *	qecvt	file:///usr/include/stdlib.h:887:14:887:18
+declaration of gcvt	file:///usr/include/stdlib.h:881:14:881:17	gcvt	char *	gcvt	file:///usr/include/stdlib.h:881:14:881:17
+declaration of fcvt	file:///usr/include/stdlib.h:875:14:875:17	fcvt	char *	fcvt	file:///usr/include/stdlib.h:875:14:875:17
+declaration of ecvt	file:///usr/include/stdlib.h:869:14:869:17	ecvt	char *	ecvt	file:///usr/include/stdlib.h:869:14:869:17
+declaration of lldiv	file:///usr/include/stdlib.h:855:30:855:34	lldiv	lldiv_t	lldiv	file:///usr/include/stdlib.h:855:30:855:34
+declaration of ldiv	file:///usr/include/stdlib.h:851:15:851:18	ldiv	ldiv_t	ldiv	file:///usr/include/stdlib.h:851:15:851:18
+declaration of div	file:///usr/include/stdlib.h:849:14:849:16	div	div_t	div	file:///usr/include/stdlib.h:849:14:849:16
+declaration of llabs	file:///usr/include/stdlib.h:841:36:841:40	llabs	long long	llabs	file:///usr/include/stdlib.h:841:36:841:40
+declaration of labs	file:///usr/include/stdlib.h:838:17:838:20	labs	long	labs	file:///usr/include/stdlib.h:838:17:838:20
+declaration of abs	file:///usr/include/stdlib.h:837:12:837:14	abs	int	abs	file:///usr/include/stdlib.h:837:12:837:14
+declaration of qsort	file:///usr/include/stdlib.h:827:13:827:17	qsort	void	qsort	file:///usr/include/stdlib.h:827:13:827:17
+declaration of bsearch	file:///usr/include/stdlib.h:817:14:817:20	bsearch	void *	bsearch	file:///usr/include/stdlib.h:817:14:817:20
+declaration of realpath	file:///usr/include/stdlib.h:797:14:797:21	realpath	char *	realpath	file:///usr/include/stdlib.h:797:14:797:21
+declaration of system	file:///usr/include/stdlib.h:781:12:781:17	system	int	system	file:///usr/include/stdlib.h:781:12:781:17
+declaration of mkdtemp	file:///usr/include/stdlib.h:728:14:728:20	mkdtemp	char *	mkdtemp	file:///usr/include/stdlib.h:728:14:728:20
+declaration of mkstemps	file:///usr/include/stdlib.h:707:12:707:19	mkstemps	int	mkstemps	file:///usr/include/stdlib.h:707:12:707:19
+declaration of mkstemp	file:///usr/include/stdlib.h:685:12:685:18	mkstemp	int	mkstemp	file:///usr/include/stdlib.h:685:12:685:18
+declaration of mktemp	file:///usr/include/stdlib.h:672:14:672:19	mktemp	char *	mktemp	file:///usr/include/stdlib.h:672:14:672:19
+declaration of clearenv	file:///usr/include/stdlib.h:661:12:661:19	clearenv	int	clearenv	file:///usr/include/stdlib.h:661:12:661:19
+declaration of unsetenv	file:///usr/include/stdlib.h:654:12:654:19	unsetenv	int	unsetenv	file:///usr/include/stdlib.h:654:12:654:19
+declaration of setenv	file:///usr/include/stdlib.h:650:12:650:17	setenv	int	setenv	file:///usr/include/stdlib.h:650:12:650:17
+declaration of putenv	file:///usr/include/stdlib.h:644:12:644:17	putenv	int	putenv	file:///usr/include/stdlib.h:644:12:644:17
+declaration of getenv	file:///usr/include/stdlib.h:631:14:631:19	getenv	char *	getenv	file:///usr/include/stdlib.h:631:14:631:19
+declaration of _Exit	file:///usr/include/stdlib.h:626:13:626:17	_Exit	void	_Exit	file:///usr/include/stdlib.h:626:13:626:17
+declaration of quick_exit	file:///usr/include/stdlib.h:620:13:620:22	quick_exit	void	quick_exit	file:///usr/include/stdlib.h:620:13:620:22
+declaration of exit	file:///usr/include/stdlib.h:614:13:614:16	exit	void	exit	file:///usr/include/stdlib.h:614:13:614:16
+declaration of on_exit	file:///usr/include/stdlib.h:607:12:607:18	on_exit	int	on_exit	file:///usr/include/stdlib.h:607:12:607:18
+declaration of at_quick_exit	file:///usr/include/stdlib.h:600:12:600:24	at_quick_exit	int	at_quick_exit	file:///usr/include/stdlib.h:600:12:600:24
+declaration of atexit	file:///usr/include/stdlib.h:592:12:592:17	atexit	int	atexit	file:///usr/include/stdlib.h:592:12:592:17
+declaration of abort	file:///usr/include/stdlib.h:588:13:588:17	abort	void	abort	file:///usr/include/stdlib.h:588:13:588:17
+declaration of aligned_alloc	file:///usr/include/stdlib.h:583:14:583:26	aligned_alloc	void *	aligned_alloc	file:///usr/include/stdlib.h:583:14:583:26
+declaration of posix_memalign	file:///usr/include/stdlib.h:577:12:577:25	posix_memalign	int	posix_memalign	file:///usr/include/stdlib.h:577:12:577:25
+declaration of valloc	file:///usr/include/stdlib.h:572:14:572:19	valloc	void *	valloc	file:///usr/include/stdlib.h:572:14:572:19
+declaration of free	file:///usr/include/stdlib.h:563:13:563:16	free	void	free	file:///usr/include/stdlib.h:563:13:563:16
+declaration of realloc	file:///usr/include/stdlib.h:549:14:549:20	realloc	void *	realloc	file:///usr/include/stdlib.h:549:14:549:20
+declaration of calloc	file:///usr/include/stdlib.h:541:14:541:19	calloc	void *	calloc	file:///usr/include/stdlib.h:541:14:541:19
+declaration of malloc	file:///usr/include/stdlib.h:539:14:539:19	malloc	void *	malloc	file:///usr/include/stdlib.h:539:14:539:19
+declaration of lcong48_r	file:///usr/include/stdlib.h:532:12:532:20	lcong48_r	int	lcong48_r	file:///usr/include/stdlib.h:532:12:532:20
+declaration of seed48_r	file:///usr/include/stdlib.h:529:12:529:19	seed48_r	int	seed48_r	file:///usr/include/stdlib.h:529:12:529:19
+declaration of srand48_r	file:///usr/include/stdlib.h:526:12:526:20	srand48_r	int	srand48_r	file:///usr/include/stdlib.h:526:12:526:20
+declaration of jrand48_r	file:///usr/include/stdlib.h:520:12:520:20	jrand48_r	int	jrand48_r	file:///usr/include/stdlib.h:520:12:520:20
+declaration of mrand48_r	file:///usr/include/stdlib.h:517:12:517:20	mrand48_r	int	mrand48_r	file:///usr/include/stdlib.h:517:12:517:20
+declaration of nrand48_r	file:///usr/include/stdlib.h:511:12:511:20	nrand48_r	int	nrand48_r	file:///usr/include/stdlib.h:511:12:511:20
+declaration of lrand48_r	file:///usr/include/stdlib.h:508:12:508:20	lrand48_r	int	lrand48_r	file:///usr/include/stdlib.h:508:12:508:20
+declaration of erand48_r	file:///usr/include/stdlib.h:503:12:503:20	erand48_r	int	erand48_r	file:///usr/include/stdlib.h:503:12:503:20
+declaration of drand48_r	file:///usr/include/stdlib.h:501:12:501:20	drand48_r	int	drand48_r	file:///usr/include/stdlib.h:501:12:501:20
+declaration of lcong48	file:///usr/include/stdlib.h:484:13:484:19	lcong48	void	lcong48	file:///usr/include/stdlib.h:484:13:484:19
+declaration of seed48	file:///usr/include/stdlib.h:482:28:482:33	seed48	unsigned short *	seed48	file:///usr/include/stdlib.h:482:28:482:33
+declaration of srand48	file:///usr/include/stdlib.h:481:13:481:19	srand48	void	srand48	file:///usr/include/stdlib.h:481:13:481:19
+declaration of jrand48	file:///usr/include/stdlib.h:477:17:477:23	jrand48	long	jrand48	file:///usr/include/stdlib.h:477:17:477:23
+declaration of mrand48	file:///usr/include/stdlib.h:476:17:476:23	mrand48	long	mrand48	file:///usr/include/stdlib.h:476:17:476:23
+declaration of nrand48	file:///usr/include/stdlib.h:472:17:472:23	nrand48	long	nrand48	file:///usr/include/stdlib.h:472:17:472:23
+declaration of lrand48	file:///usr/include/stdlib.h:471:17:471:23	lrand48	long	lrand48	file:///usr/include/stdlib.h:471:17:471:23
+declaration of erand48	file:///usr/include/stdlib.h:468:15:468:21	erand48	double	erand48	file:///usr/include/stdlib.h:468:15:468:21
+declaration of drand48	file:///usr/include/stdlib.h:467:15:467:21	drand48	double	drand48	file:///usr/include/stdlib.h:467:15:467:21
+declaration of rand_r	file:///usr/include/stdlib.h:459:12:459:17	rand_r	int	rand_r	file:///usr/include/stdlib.h:459:12:459:17
+declaration of srand	file:///usr/include/stdlib.h:455:13:455:17	srand	void	srand	file:///usr/include/stdlib.h:455:13:455:17
+declaration of rand	file:///usr/include/stdlib.h:453:12:453:15	rand	int	rand	file:///usr/include/stdlib.h:453:12:453:15
+declaration of setstate_r	file:///usr/include/stdlib.h:445:12:445:21	setstate_r	int	setstate_r	file:///usr/include/stdlib.h:445:12:445:21
+declaration of initstate_r	file:///usr/include/stdlib.h:440:12:440:22	initstate_r	int	initstate_r	file:///usr/include/stdlib.h:440:12:440:22
+declaration of srandom_r	file:///usr/include/stdlib.h:437:12:437:20	srandom_r	int	srandom_r	file:///usr/include/stdlib.h:437:12:437:20
+declaration of random_r	file:///usr/include/stdlib.h:434:12:434:19	random_r	int	random_r	file:///usr/include/stdlib.h:434:12:434:19
+declaration of setstate	file:///usr/include/stdlib.h:415:14:415:21	setstate	char *	setstate	file:///usr/include/stdlib.h:415:14:415:21
+declaration of initstate	file:///usr/include/stdlib.h:410:14:410:22	initstate	char *	initstate	file:///usr/include/stdlib.h:410:14:410:22
+declaration of srandom	file:///usr/include/stdlib.h:404:13:404:19	srandom	void	srandom	file:///usr/include/stdlib.h:404:13:404:19
+declaration of random	file:///usr/include/stdlib.h:401:17:401:22	random	long	random	file:///usr/include/stdlib.h:401:17:401:22
+declaration of a64l	file:///usr/include/stdlib.h:388:17:388:20	a64l	long	a64l	file:///usr/include/stdlib.h:388:17:388:20
+declaration of l64a	file:///usr/include/stdlib.h:385:14:385:17	l64a	char *	l64a	file:///usr/include/stdlib.h:385:14:385:17
+declaration of strtoull	file:///usr/include/stdlib.h:205:31:205:38	strtoull	unsigned long long	strtoull	file:///usr/include/stdlib.h:205:31:205:38
+declaration of strtoll	file:///usr/include/stdlib.h:200:22:200:28	strtoll	long long	strtoll	file:///usr/include/stdlib.h:200:22:200:28
+declaration of strtouq	file:///usr/include/stdlib.h:192:31:192:37	strtouq	unsigned long long	strtouq	file:///usr/include/stdlib.h:192:31:192:37
+declaration of strtoq	file:///usr/include/stdlib.h:187:22:187:27	strtoq	long long	strtoq	file:///usr/include/stdlib.h:187:22:187:27
+declaration of strtoul	file:///usr/include/stdlib.h:180:26:180:32	strtoul	unsigned long	strtoul	file:///usr/include/stdlib.h:180:26:180:32
+declaration of strtol	file:///usr/include/stdlib.h:176:17:176:22	strtol	long	strtol	file:///usr/include/stdlib.h:176:17:176:22
+declaration of strtold	file:///usr/include/stdlib.h:126:20:126:26	strtold	long double	strtold	file:///usr/include/stdlib.h:126:20:126:26
+declaration of strtof	file:///usr/include/stdlib.h:123:14:123:19	strtof	float	strtof	file:///usr/include/stdlib.h:123:14:123:19
+declaration of strtod	file:///usr/include/stdlib.h:117:15:117:20	strtod	double	strtod	file:///usr/include/stdlib.h:117:15:117:20
+declaration of atoll	file:///usr/include/stdlib.h:112:36:112:40	atoll	long long	atoll	file:///usr/include/stdlib.h:112:36:112:40
+declaration of atol	file:///usr/include/stdlib.h:107:17:107:20	atol	long	atol	file:///usr/include/stdlib.h:107:17:107:20
+declaration of atoi	file:///usr/include/stdlib.h:104:12:104:15	atoi	int	atoi	file:///usr/include/stdlib.h:104:12:104:15
+declaration of atof	file:///usr/include/stdlib.h:101:15:101:18	atof	double	atof	file:///usr/include/stdlib.h:101:15:101:18
+declaration of __ctype_get_mb_cur_max	file:///usr/include/stdlib.h:97:15:97:36	__ctype_get_mb_cur_max	size_t	__ctype_get_mb_cur_max	file:///usr/include/stdlib.h:97:15:97:36
+definition of good_cast5	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:22:6:22:15	good_cast5	void	good_cast5	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:22:6:22:15
+definition of good_cast4	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:18:6:18:15	good_cast4	void	good_cast4	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:18:6:18:15
+definition of good_cast3	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:12:6:12:15	good_cast3	void	good_cast3	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:12:6:12:15
+definition of good_cast2	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:8:6:8:15	good_cast2	void	good_cast2	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:8:6:8:15
+definition of good_cast1	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:4:6:4:15	good_cast1	void	good_cast1	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:4:6:4:15
+definition of bad_cast7	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:34:6:34:14	bad_cast7	void	bad_cast7	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:34:6:34:14
+definition of bad_cast6	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:30:6:30:14	bad_cast6	void	bad_cast6	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:30:6:30:14
+definition of bad_cast5	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:20:6:20:14	bad_cast5	void	bad_cast5	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:20:6:20:14
+definition of bad_cast4	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:16:6:16:14	bad_cast4	void	bad_cast4	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:16:6:16:14
+definition of bad_cast3	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:12:6:12:14	bad_cast3	void	bad_cast3	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:12:6:12:14
+definition of bad_cast2	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:8:6:8:14	bad_cast2	void	bad_cast2	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:8:6:8:14
+definition of bad_cast1	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:4:6:4:14	bad_cast1	void	bad_cast1	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:4:6:4:14
+definition of main	file:///home/aadityanaik/codeql-exploration/sample-code/main.c:6:5:6:8	main	int	main	file:///home/aadityanaik/codeql-exploration/sample-code/main.c:6:5:6:8

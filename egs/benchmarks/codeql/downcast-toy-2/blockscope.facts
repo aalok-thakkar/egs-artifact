@@ -1,0 +1,20 @@
+{ ... }	file:///usr/include/x86_64-linux-gnu/bits/byteswap.h:110:1:112:1	__bswap_64
+{ ... }	file:///usr/include/x86_64-linux-gnu/bits/byteswap.h:46:1:48:1	__bswap_32
+{ ... }	file:///usr/include/x86_64-linux-gnu/bits/uintn-identity.h:46:1:48:1	__uint64_identity
+{ ... }	file:///usr/include/x86_64-linux-gnu/bits/uintn-identity.h:40:1:42:1	__uint32_identity
+{ ... }	file:///usr/include/x86_64-linux-gnu/bits/uintn-identity.h:34:1:36:1	__uint16_identity
+{ ... }	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:24:19:26:5	{ ... }
+{ ... }	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:22:19:27:1	good_cast5
+{ ... }	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:18:19:20:1	good_cast4
+{ ... }	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:12:19:16:1	good_cast3
+{ ... }	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:8:19:10:1	good_cast2
+{ ... }	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:4:19:6:1	good_cast1
+{ ... }	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:34:18:36:1	bad_cast7
+{ ... }	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:30:18:32:1	bad_cast6
+{ ... }	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:30:25:5	{ ... }
+{ ... }	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:20:18:28:1	bad_cast5
+{ ... }	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:16:18:18:1	bad_cast4
+{ ... }	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:12:18:14:1	bad_cast3
+{ ... }	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:8:18:10:1	bad_cast2
+{ ... }	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:4:18:6:1	bad_cast1
+{ ... }	file:///home/aadityanaik/codeql-exploration/sample-code/main.c:6:12:20:1	main

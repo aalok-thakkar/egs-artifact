@@ -1,0 +1,227 @@
+... ? ... : ...	
+... ? ... : ...	0
+... ? ... : ...	1
+... ? ... : ...	__p
+... ? ... : ...	__x
+... ? ... : ...	8
+... ? ... : ...	63
+... ? ... : ...	4
+... ? ... : ...	32
+... ? ... : ...	__c
+... ? ... : ...	308
+... ? ... : ...	38
+... ? ... : ...	58
+... ? ... : ...	sizeof(unsigned long long)
+... ? ... : ...	sizeof(long long)
+... ? ... : ...	sizeof(unsigned long)
+... ? ... : ...	sizeof(long)
+... ? ... : ...	16
+... ? ... : ...	sizeof(int)
+... ? ... : ...	sizeof(char32_t)
+... ? ... : ...	sizeof(char16_t)
+... ? ... : ...	sizeof(wchar_t)
+... ? ... : ...	end
+... ? ... : ...	_S_local_capacity
+... ? ... : ...	npos
+... ? ... : ...	__off
+... ? ... : ...	res
+... ? ... : ...	7
+... ? ... : ...	fuzzy_match_exact
+... ? ... : ...	3
+... ? ... : ...	5
+... ? ... : ...	STATUS_CMD_OK
+... ? ... : ...	STATUS_CMD_ERROR
+... ? ... : ...	STATUS_CMD_UNKNOWN
+... ? ... : ...	125
+... ? ... : ...	ESCAPE_NO_TILDE
+... ? ... : ...	w
+... ? ... : ...	argv0
+... ? ... : ...	file
+... ? ... : ...	contents
+... ? ... : ...	redirection
+... ? ... : ...	11
+... ? ... : ...	next
+... ? ... : ...	pipe
+... ? ... : ...	39
+... ? ... : ...	49
+... ? ... : ...	82
+... ? ... : ...	111
+... ? ... : ...	112
+... ? ... : ...	256
+... ? ... : ...	 or 
+... ? ... : ...	token
+... ? ... : ...	and
+... ? ... : ...	parse_flag_leave_unterminated
+... ? ... : ...	forward
+... ? ... : ...	x
+... ? ... : ...	wcsncasecmp
+... ? ... : ...	__wc
+... ? ... : ...	backward
+... ? ... : ...	65533
+... ? ... : ...	memory_order_acquire
+... ? ... : ...	memory_order_relaxed
+... ? ... : ...	denorm_present
+... ? ... : ...	digits
+... ? ... : ...	_M_nxt
+... ? ... : ...	_S_min_alignment
+... ? ... : ...	function
+... ? ... : ...	wc
+... ? ... : ...	exports
+... ? ... : ...	ENV_OK
+... ? ... : ...	read_byte_limit
+... ? ... : ...	path
+... ? ... : ...	__nodes_to_add
+... ? ... : ...	no_timeout
+... ? ... : ...	history
+... ? ... : ...	enabled
+... ? ... : ...	caller_id
+... ? ... : ...	background
+... ? ... : ...	source_start
+... ? ... : ...	prefix
+... ? ... : ...	move_word_style_punctuation
+... ? ... : ...	move_word_style_path_components
+... ? ... : ...	move_word_style_whitespace
+... ? ... : ...	consumed
+... ? ... : ...	width
+... ? ... : ...	internal_exit
+... ? ... : ...	stopped
+... ? ... : ...	ret
+... ? ... : ...	pgid
+... ? ... : ...	nullglob
+... ? ... : ...	current_filename
+... ? ... : ...	breaks
+... ? ... : ...	function_call
+... ? ... : ...	strcasecmp
+... ? ... : ...	notfirst
+... ? ... : ...	mapping_list_
+... ? ... : ...	bind_mode
+... ? ... : ...	complete_remove_wrapper
+... ? ... : ...	COMPLETE_REPLACES_TOKEN
+... ? ... : ...	match
+... ? ... : ...	highlight_shell_no_io
+... ? ... : ...	woptarg
+... ? ... : ...	.
+... ? ... : ...	+:
+... ? ... : ...	st_size
+... ? ... : ...	tmp
+... ? ... : ...	 
+... ? ... : ...	62976
+... ? ... : ...	height
+... ? ... : ...	autoloaded
+... ? ... : ...	scope-shadowing
+... ? ... : ...	TE_ERROR_TOO_FEW_ARGS
+... ? ... : ...	bytes_read
+... ? ... : ...	⋯
+... ? ... : ...	CDPATH
+... ? ... : ...	color_support_term256
+... ? ... : ...	color_support_term24bit
+... ? ... : ...	bgcolor
+... ? ... : ...	<stdin>
+... ? ... : ...	TEST_FEATURE_ON
+... ? ... : ...	on
+... ? ... : ...	(
+... ? ... : ...	rlim_max
+... ? ... : ...	(seconds, 
+... ? ... : ...	9679
+... ? ... : ...	demangled
+... ? ... : ...	pw_name
+... ? ... : ...	COMPLETE_AUTOSUGGEST
+... ? ... : ...	PATH_ARRAY_SEP
+... ? ... : ...	ERASE
+... ? ... : ...	unexports
+... ? ... : ...	MISSING
+... ? ... : ...	i1
+... ? ... : ...	tmp1
+... ? ... : ...	i2
+... ? ... : ...	/share/fish
+... ? ... : ...	/etc/fish
+... ? ... : ...	/share/doc/fish
+... ? ... : ...	/bin
+... ? ... : ...	is_autoload
+... ? ... : ...	definition_file
+... ? ... : ...	save vacuum
+... ? ... : ...	yes
+... ? ... : ...	write_foreground_color
+... ? ... : ...	south
+... ? ... : ...	page_north
+... ? ... : ...	desc_width
+... ? ... : ...	dc
+... ? ... : ...	JOB_ENDED
+... ? ... : ...	STOPPED
+... ? ... : ...	Continue
+... ? ... : ...	COMPLETED
+... ? ... : ...	INTERACTIVE
+... ? ... : ...	buff_pos
+... ? ... : ...	to
+... ? ... : ...	left_prompt_width
+... ? ... : ...	skip_prefix
+... ? ... : ...	s_alphanumeric
+... ? ... : ...	call to expression
+... ? ... : ...	call to __builtin_clzll
+... ? ... : ...	call to c_str
+... ? ... : ...	call to hash
+... ? ... : ...	call to size
+... ? ... : ...	call to max_size
+... ? ... : ...	call to end
+... ? ... : ...	call to operator()
+... ? ... : ...	call to move
+... ? ... : ...	call to at
+... ? ... : ...	call to vector
+... ? ... : ...	call to basic_string
+... ? ... : ...	call to maybe_t
+... ? ... : ...	call to operator*
+... ? ... : ...	call to allocate
+... ? ... : ...	call to __addressof
+... ? ... : ...	call to mbrtowc
+... ? ... : ...	call to __overflow
+... ? ... : ...	call to __uflow
+... ? ... : ...	call to _M_get_use_count
+... ? ... : ...	call to exit_code
+... ? ... : ...	call to _M_bucket_index
+... ? ... : ...	call to _Node_iterator
+... ? ... : ...	call to _Node_const_iterator
+... ? ... : ...	call to _S_left
+... ? ... : ...	call to enum_set_t
+... ? ... : ...	call to highlight_spec_t
+... ? ... : ...	call to io_chain_t
+... ? ... : ...	call to str2wcstring
+... ? ... : ...	call to as_string
+... ? ... : ...	call to wcsdup
+... ? ... : ...	call to wcsrepeat_until
+... ? ... : ...	call to get_export_generation
+... ? ... : ...	call to file_id_for_fd
+... ? ... : ...	call to just
+... ? ... : ...	call to emit_semi
+... ? ... : ...	call to parse_util_compute_indents
+... ? ... : ...	call to readch_timed
+... ? ... : ...	call to black
+... ? ... : ...	call to read_i
+... ? ... : ...	call to undo
+... ? ... : ...	call to search_string
+... ? ... : ...	call to cursor_position
+... ? ... : ...	call to move_forwards
+... ? ... : ...	call to parse_fd
+... ? ... : ...	call to ifind_impl
+... ? ... : ...	access to array
+... ? ... : ...	... - ...
+... ? ... : ...	... * ...
+... ? ... : ...	... < ...
+... ? ... : ...	... + ...
+... ? ... : ...	... >= ...
+... ? ... : ...	... / ...
+... ? ... : ...	... << ...
+... ? ... : ...	... >> ...
+... ? ... : ...	... ? ... : ...
+... ? ... : ...	sizeof(unsigned int)
+... ? ... : ...	sizeof(char)
+... ? ... : ...	sizeof(bool)
+... ? ... : ...	sizeof(unsigned char)
+... ? ... : ...	sizeof(signed char)
+... ? ... : ...	sizeof(unsigned short)
+... ? ... : ...	sizeof(short)
+... ? ... : ...	! ...
+... ? ... : ...	* ...
+... ? ... : ...	& ...
+... ? ... : ...	- ...
+... ? ... : ...	~ ...
+... ? ... : ...	foreground\n

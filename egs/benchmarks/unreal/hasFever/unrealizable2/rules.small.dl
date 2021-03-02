@@ -1,0 +1,10 @@
+.type P, T
+
+.decl temperature(p: P, t: T)
+.input temperature
+
+.decl healthyRange(t: T)
+.input healthyRange
+
+.decl hasFever(p: P)
+.output hasFever

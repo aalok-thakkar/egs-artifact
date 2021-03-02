@@ -1,0 +1,136 @@
+size_t	unsigned long
+__off64_t	long
+__sig_atomic_t	int
+__socklen_t	unsigned int
+__intptr_t	long
+__caddr_t	char *
+__loff_t	__off64_t
+__syscall_ulong_t	unsigned long
+__syscall_slong_t	long
+__ssize_t	long
+__fsword_t	long
+__fsfilcnt64_t	unsigned long
+__fsfilcnt_t	unsigned long
+__fsblkcnt64_t	unsigned long
+__fsblkcnt_t	unsigned long
+__blkcnt64_t	long
+__blkcnt_t	long
+__blksize_t	long
+__timer_t	void *
+__clockid_t	int
+__key_t	int
+__daddr_t	int
+__suseconds_t	long
+__useconds_t	unsigned int
+__time_t	long
+__id_t	unsigned int
+__rlim64_t	unsigned long
+__rlim_t	unsigned long
+__clock_t	long
+__fsid_t	struct <unnamed>
+__pid_t	int
+__off_t	long
+__nlink_t	unsigned long
+__mode_t	unsigned int
+__ino64_t	unsigned long
+__ino_t	unsigned long
+__gid_t	unsigned int
+__uid_t	unsigned int
+__dev_t	unsigned long
+__uintmax_t	unsigned long
+__intmax_t	long
+__u_quad_t	unsigned long
+__quad_t	long
+__uint64_t	unsigned long
+__int64_t	signed long
+__uint32_t	unsigned int
+__int32_t	signed int
+__uint16_t	unsigned short
+__int16_t	signed short
+__uint8_t	unsigned char
+__int8_t	signed char
+__u_long	unsigned long
+__u_int	unsigned int
+__u_short	unsigned short
+__u_char	unsigned char
+__FILE	_IO_FILE
+FILE	_IO_FILE
+__mbstate_t	struct <unnamed>
+_G_fpos64_t	struct <unnamed>
+_G_fpos_t	struct <unnamed>
+__gnuc_va_list	__va_list_tag[1]
+_IO_FILE	_IO_FILE
+_IO_lock_t	void
+__io_close_fn	..()(..)
+__io_seek_fn	..()(..)
+__io_write_fn	..()(..)
+__io_read_fn	..()(..)
+fpos_t	_G_fpos_t
+ssize_t	__ssize_t
+off_t	__off_t
+va_list	__gnuc_va_list
+wchar_t	int
+idtype_t	(unnamed enum)
+clock_t	__clock_t
+clockid_t	__clockid_t
+time_t	__time_t
+timer_t	__timer_t
+int64_t	__int64_t
+int32_t	__int32_t
+int16_t	__int16_t
+int8_t	__int8_t
+__sigset_t	struct <unnamed>
+sigset_t	__sigset_t
+fd_set	struct <unnamed>
+__fd_mask	long
+fd_mask	__fd_mask
+suseconds_t	__suseconds_t
+__pthread_list_t	__pthread_internal_list
+pthread_barrierattr_t	union <unnamed>
+pthread_barrier_t	union <unnamed>
+pthread_spinlock_t	volatile int
+pthread_rwlockattr_t	union <unnamed>
+pthread_rwlock_t	union <unnamed>
+pthread_cond_t	union <unnamed>
+pthread_mutex_t	union <unnamed>
+pthread_attr_t	pthread_attr_t
+pthread_once_t	int
+pthread_key_t	unsigned int
+pthread_condattr_t	union <unnamed>
+pthread_mutexattr_t	union <unnamed>
+pthread_t	unsigned long
+fsfilcnt_t	__fsfilcnt_t
+fsblkcnt_t	__fsblkcnt_t
+blkcnt_t	__blkcnt_t
+blksize_t	__blksize_t
+register_t	long
+u_int64_t	unsigned long
+u_int32_t	unsigned int
+u_int16_t	unsigned short
+u_int8_t	unsigned char
+uint	unsigned int
+ushort	unsigned short
+ulong	unsigned long
+key_t	__key_t
+caddr_t	__caddr_t
+daddr_t	__daddr_t
+id_t	__id_t
+pid_t	__pid_t
+uid_t	__uid_t
+nlink_t	__nlink_t
+mode_t	__mode_t
+gid_t	__gid_t
+dev_t	__dev_t
+ino_t	__ino_t
+loff_t	__loff_t
+fsid_t	__fsid_t
+u_quad_t	__u_quad_t
+quad_t	__quad_t
+u_long	__u_long
+u_int	__u_int
+u_short	__u_short
+u_char	__u_char
+lldiv_t	struct <unnamed>
+ldiv_t	struct <unnamed>
+div_t	struct <unnamed>
+__compar_fn_t	..(*)(..)

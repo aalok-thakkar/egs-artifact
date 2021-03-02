@@ -1,0 +1,7 @@
+.type V
+
+.decl edge(v1: V, v2: V)
+.input edge
+
+.decl unreal(v1: V)
+.output unreal

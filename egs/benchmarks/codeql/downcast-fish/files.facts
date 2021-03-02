@@ -1,0 +1,614 @@
+/usr/include/c++/9/bits/stl_pair.h	/usr/include/c++/9/bits/stl_pair.h	stl_pair	h	0
+/usr/include/c++/9/bits/stl_iterator.h	/usr/include/c++/9/bits/stl_iterator.h	stl_iterator	h	0
+/usr/include/c++/9/bits/stl_algobase.h	/usr/include/c++/9/bits/stl_algobase.h	stl_algobase	h	0
+/usr/include/c++/9/bits/basic_string.h	/usr/include/c++/9/bits/basic_string.h	basic_string	h	0
+/usr/include/c++/9/bits/basic_string.tcc	/usr/include/c++/9/bits/basic_string.tcc	basic_string	tcc	0
+/usr/include/c++/9/array	/usr/include/c++/9/array	array		0
+/usr/include/c++/9/bits/unique_ptr.h	/usr/include/c++/9/bits/unique_ptr.h	unique_ptr	h	0
+/usr/include/c++/9/type_traits	/usr/include/c++/9/type_traits	type_traits		0
+/usr/include/c++/9/bits/stl_vector.h	/usr/include/c++/9/bits/stl_vector.h	stl_vector	h	0
+/opt/src/src/maybe.h	/opt/src/src/maybe.h	maybe	h	0
+/opt/src/src/common.h	/opt/src/src/common.h	common	h	0
+/opt/src/src/global_safety.h	/opt/src/src/global_safety.h	global_safety	h	0
+/opt/src/src/ast.h	/opt/src/src/ast.h	ast	h	0
+/opt/src/src/ast.cpp	/opt/src/src/ast.cpp	ast	cpp	0
+/usr/include/c++/9/bits/cpp_type_traits.h	/usr/include/c++/9/bits/cpp_type_traits.h	cpp_type_traits	h	0
+/usr/include/c++/9/ext/type_traits.h	/usr/include/c++/9/ext/type_traits.h	type_traits	h	0
+/usr/include/c++/9/ext/numeric_traits.h	/usr/include/c++/9/ext/numeric_traits.h	numeric_traits	h	0
+/usr/include/c++/9/bits/allocated_ptr.h	/usr/include/c++/9/bits/allocated_ptr.h	allocated_ptr	h	0
+/usr/include/c++/9/chrono	/usr/include/c++/9/chrono	chrono		0
+/usr/include/c++/9/bits/stl_deque.h	/usr/include/c++/9/bits/stl_deque.h	stl_deque	h	0
+/usr/include/c++/9/bits/hashtable.h	/usr/include/c++/9/bits/hashtable.h	hashtable	h	0
+/usr/include/c++/9/bits/hashtable_policy.h	/usr/include/c++/9/bits/hashtable_policy.h	hashtable_policy	h	0
+/usr/include/c++/9/bits/alloc_traits.h	/usr/include/c++/9/bits/alloc_traits.h	alloc_traits	h	0
+/usr/include/c++/9/bits/ptr_traits.h	/usr/include/c++/9/bits/ptr_traits.h	ptr_traits	h	0
+/usr/include/c++/9/bits/move.h	/usr/include/c++/9/bits/move.h	move	h	0
+/usr/include/c++/9/bits/stl_iterator_base_types.h	/usr/include/c++/9/bits/stl_iterator_base_types.h	stl_iterator_base_types	h	0
+/usr/include/c++/9/bits/stl_iterator_base_funcs.h	/usr/include/c++/9/bits/stl_iterator_base_funcs.h	stl_iterator_base_funcs	h	0
+/usr/include/c++/9/bits/predefined_ops.h	/usr/include/c++/9/bits/predefined_ops.h	predefined_ops	h	0
+/usr/include/c++/9/bits/exception_ptr.h	/usr/include/c++/9/bits/exception_ptr.h	exception_ptr	h	0
+/usr/include/c++/9/bits/nested_exception.h	/usr/include/c++/9/bits/nested_exception.h	nested_exception	h	0
+/usr/include/c++/9/ext/new_allocator.h	/usr/include/c++/9/ext/new_allocator.h	new_allocator	h	0
+/usr/include/c++/9/bits/allocator.h	/usr/include/c++/9/bits/allocator.h	allocator	h	0
+/usr/include/c++/9/ext/alloc_traits.h	/usr/include/c++/9/ext/alloc_traits.h	alloc_traits	h	0
+/usr/include/c++/9/bits/stl_construct.h	/usr/include/c++/9/bits/stl_construct.h	stl_construct	h	0
+/usr/include/c++/9/bits/stl_uninitialized.h	/usr/include/c++/9/bits/stl_uninitialized.h	stl_uninitialized	h	0
+/usr/include/c++/9/bits/stl_tempbuf.h	/usr/include/c++/9/bits/stl_tempbuf.h	stl_tempbuf	h	0
+/usr/include/c++/9/bits/stl_raw_storage_iter.h	/usr/include/c++/9/bits/stl_raw_storage_iter.h	stl_raw_storage_iter	h	0
+/usr/include/c++/9/bits/postypes.h	/usr/include/c++/9/bits/postypes.h	postypes	h	0
+/usr/include/c++/9/backward/binders.h	/usr/include/c++/9/backward/binders.h	binders	h	0
+/usr/include/c++/9/bits/stl_function.h	/usr/include/c++/9/bits/stl_function.h	stl_function	h	0
+/usr/include/c++/9/bits/uses_allocator.h	/usr/include/c++/9/bits/uses_allocator.h	uses_allocator	h	0
+/usr/include/c++/9/initializer_list	/usr/include/c++/9/initializer_list	initializer_list		0
+/usr/include/c++/9/utility	/usr/include/c++/9/utility	utility		0
+/usr/include/c++/9/bits/char_traits.h	/usr/include/c++/9/bits/char_traits.h	char_traits	h	0
+/usr/include/c++/9/ext/string_conversions.h	/usr/include/c++/9/ext/string_conversions.h	string_conversions	h	0
+/usr/include/c++/9/bits/functional_hash.h	/usr/include/c++/9/bits/functional_hash.h	functional_hash	h	0
+/usr/include/c++/9/bits/invoke.h	/usr/include/c++/9/bits/invoke.h	invoke	h	0
+/usr/include/c++/9/tuple	/usr/include/c++/9/tuple	tuple		0
+/usr/include/c++/9/bits/refwrap.h	/usr/include/c++/9/bits/refwrap.h	refwrap	h	0
+/usr/include/c++/9/ext/aligned_buffer.h	/usr/include/c++/9/ext/aligned_buffer.h	aligned_buffer	h	0
+/usr/include/c++/9/bits/shared_ptr_base.h	/usr/include/c++/9/bits/shared_ptr_base.h	shared_ptr_base	h	0
+/usr/include/c++/9/bits/shared_ptr.h	/usr/include/c++/9/bits/shared_ptr.h	shared_ptr	h	0
+/usr/include/c++/9/bits/atomic_base.h	/usr/include/c++/9/bits/atomic_base.h	atomic_base	h	0
+/usr/include/c++/9/backward/auto_ptr.h	/usr/include/c++/9/backward/auto_ptr.h	auto_ptr	h	0
+/usr/include/c++/9/limits	/usr/include/c++/9/limits	limits		0
+/usr/include/c++/9/bits/unordered_map.h	/usr/include/c++/9/bits/unordered_map.h	unordered_map	h	0
+/usr/include/c++/9/bits/unordered_set.h	/usr/include/c++/9/bits/unordered_set.h	unordered_set	h	0
+/usr/include/c++/9/bits/stl_heap.h	/usr/include/c++/9/bits/stl_heap.h	stl_heap	h	0
+/usr/include/c++/9/bits/uniform_int_dist.h	/usr/include/c++/9/bits/uniform_int_dist.h	uniform_int_dist	h	0
+/usr/include/c++/9/bits/stl_algo.h	/usr/include/c++/9/bits/stl_algo.h	stl_algo	h	0
+/usr/include/c++/9/bits/algorithmfwd.h	/usr/include/c++/9/bits/algorithmfwd.h	algorithmfwd	h	0
+/usr/include/c++/9/atomic	/usr/include/c++/9/atomic	atomic		0
+/usr/include/c++/9/bits/std_function.h	/usr/include/c++/9/bits/std_function.h	std_function	h	0
+/usr/include/c++/9/functional	/usr/include/c++/9/functional	functional		0
+/usr/include/c++/9/ratio	/usr/include/c++/9/ratio	ratio		0
+/usr/include/c++/9/system_error	/usr/include/c++/9/system_error	system_error		0
+/usr/include/c++/9/bits/std_mutex.h	/usr/include/c++/9/bits/std_mutex.h	std_mutex	h	0
+/usr/include/c++/9/bits/unique_lock.h	/usr/include/c++/9/bits/unique_lock.h	unique_lock	h	0
+/usr/include/c++/9/mutex	/usr/include/c++/9/mutex	mutex		0
+/usr/include/c++/9/bits/stl_bvector.h	/usr/include/c++/9/bits/stl_bvector.h	stl_bvector	h	0
+/opt/src/src/null_terminated_array.h	/opt/src/src/null_terminated_array.h	null_terminated_array	h	0
+/usr/include/c++/9/bits/deque.tcc	/usr/include/c++/9/bits/deque.tcc	deque	tcc	0
+/usr/include/c++/9/bits/stl_tree.h	/usr/include/c++/9/bits/stl_tree.h	stl_tree	h	0
+/usr/include/c++/9/bits/stl_map.h	/usr/include/c++/9/bits/stl_map.h	stl_map	h	0
+/usr/include/c++/9/bits/stl_multimap.h	/usr/include/c++/9/bits/stl_multimap.h	stl_multimap	h	0
+/usr/include/c++/9/thread	/usr/include/c++/9/thread	thread		0
+/usr/include/c++/9/condition_variable	/usr/include/c++/9/condition_variable	condition_variable		0
+/usr/include/c++/9/future	/usr/include/c++/9/future	future		0
+/opt/src/src/wcstringutil.h	/opt/src/src/wcstringutil.h	wcstringutil	h	0
+/opt/src/src/io.h	/opt/src/src/io.h	io	h	0
+/usr/include/c++/9/bits/locale_classes.h	/usr/include/c++/9/bits/locale_classes.h	locale_classes	h	0
+/usr/include/c++/9/streambuf	/usr/include/c++/9/streambuf	streambuf		0
+/usr/include/c++/9/bits/streambuf.tcc	/usr/include/c++/9/bits/streambuf.tcc	streambuf	tcc	0
+/usr/include/c++/9/bits/streambuf_iterator.h	/usr/include/c++/9/bits/streambuf_iterator.h	streambuf_iterator	h	0
+/usr/include/c++/9/bits/locale_facets.tcc	/usr/include/c++/9/bits/locale_facets.tcc	locale_facets	tcc	0
+/usr/include/c++/9/bits/locale_facets.h	/usr/include/c++/9/bits/locale_facets.h	locale_facets	h	0
+/usr/include/c++/9/bits/basic_ios.h	/usr/include/c++/9/bits/basic_ios.h	basic_ios	h	0
+/usr/include/c++/9/ostream	/usr/include/c++/9/ostream	ostream		0
+/usr/include/c++/9/bits/ostream.tcc	/usr/include/c++/9/bits/ostream.tcc	ostream	tcc	0
+/usr/include/c++/9/istream	/usr/include/c++/9/istream	istream		0
+/usr/include/c++/9/bits/istream.tcc	/usr/include/c++/9/bits/istream.tcc	istream	tcc	0
+/usr/include/c++/9/bits/stream_iterator.h	/usr/include/c++/9/bits/stream_iterator.h	stream_iterator	h	0
+/opt/src/src/enum_set.h	/opt/src/src/enum_set.h	enum_set	h	0
+/opt/src/src/lru.h	/opt/src/src/lru.h	lru	h	0
+/usr/include/c++/9/bits/stl_list.h	/usr/include/c++/9/bits/stl_list.h	stl_list	h	0
+/usr/include/c++/9/bits/range_access.h	/usr/include/c++/9/bits/range_access.h	range_access	h	0
+/usr/include/c++/9/bits/stl_queue.h	/usr/include/c++/9/bits/stl_queue.h	stl_queue	h	0
+/usr/include/c++/9/bits/stl_set.h	/usr/include/c++/9/bits/stl_set.h	stl_set	h	0
+/usr/include/c++/9/bits/stl_multiset.h	/usr/include/c++/9/bits/stl_multiset.h	stl_multiset	h	0
+/usr/include/c++/9/bits/random.h	/usr/include/c++/9/bits/random.h	random	h	0
+/usr/include/c++/9/bits/random.tcc	/usr/include/c++/9/bits/random.tcc	random	tcc	0
+/opt/src/src/builtin_string.cpp	/opt/src/src/builtin_string.cpp	builtin_string	cpp	0
+/opt/src/src/builtin_test.cpp	/opt/src/src/builtin_test.cpp	builtin_test	cpp	0
+/opt/src/src/common.cpp	/opt/src/src/common.cpp	common	cpp	0
+/opt/src/src/flog.h	/opt/src/src/flog.h	flog	h	0
+/opt/src/src/iothread.h	/opt/src/src/iothread.h	iothread	h	0
+/opt/src/src/env.cpp	/opt/src/src/env.cpp	env	cpp	0
+/usr/include/c++/9/bits/stl_stack.h	/usr/include/c++/9/bits/stl_stack.h	stl_stack	h	0
+/opt/src/src/expand.cpp	/opt/src/src/expand.cpp	expand	cpp	0
+/opt/src/src/widecharwidth/widechar_width.h	/opt/src/src/widecharwidth/widechar_width.h	widechar_width	h	0
+/opt/src/src/fish_indent.cpp	/opt/src/src/fish_indent.cpp	fish_indent	cpp	0
+/opt/src/src/history.cpp	/opt/src/src/history.cpp	history	cpp	0
+/usr/include/c++/9/bits/stl_numeric.h	/usr/include/c++/9/bits/stl_numeric.h	stl_numeric	h	0
+/opt/src/src/parse_execution.h	/opt/src/src/parse_execution.h	parse_execution	h	0
+/opt/src/src/parser.h	/opt/src/src/parser.h	parser	h	0
+/opt/src/src/reader.cpp	/opt/src/src/reader.cpp	reader	cpp	0
+/usr/include/c++/9/cmath	/usr/include/c++/9/cmath	cmath		0
+/usr/include/c++/9/bits/localefwd.h	/usr/include/c++/9/bits/localefwd.h	localefwd	h	0
+/usr/include/c++/9/bits/codecvt.h	/usr/include/c++/9/bits/codecvt.h	codecvt	h	0
+/usr/include/c++/9/bits/locale_facets_nonio.tcc	/usr/include/c++/9/bits/locale_facets_nonio.tcc	locale_facets_nonio	tcc	0
+/usr/include/c++/9/bits/locale_facets_nonio.h	/usr/include/c++/9/bits/locale_facets_nonio.h	locale_facets_nonio	h	0
+/usr/include/c++/9/bits/locale_conv.h	/usr/include/c++/9/bits/locale_conv.h	locale_conv	h	0
+/opt/src/src/wcstringutil.cpp	/opt/src/src/wcstringutil.cpp	wcstringutil	cpp	0
+/opt/src/src/wutil.cpp	/opt/src/src/wutil.cpp	wutil	cpp	0
+/usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h	/usr/include/x86_64-linux-gnu/c++/9/bits/c++config.h	c++config	h	0
+				0
+/usr/include/c++/9/debug/debug.h	/usr/include/c++/9/debug/debug.h	debug	h	0
+/usr/include/c++/9/bits/concept_check.h	/usr/include/c++/9/bits/concept_check.h	concept_check	h	0
+/usr/include/c++/9/bits/functexcept.h	/usr/include/c++/9/bits/functexcept.h	functexcept	h	0
+/usr/include/c++/9/ext/atomicity.h	/usr/include/c++/9/ext/atomicity.h	atomicity	h	0
+/usr/x86_64-linux-gnu/include/bits/wchar2.h	/usr/x86_64-linux-gnu/include/bits/wchar2.h	wchar2	h	0
+/usr/x86_64-linux-gnu/include/bits/stdio2.h	/usr/x86_64-linux-gnu/include/bits/stdio2.h	stdio2	h	0
+/usr/include/c++/9/iosfwd	/usr/include/c++/9/iosfwd	iosfwd		0
+/usr/include/c++/9/debug/assertions.h	/usr/include/c++/9/debug/assertions.h	assertions	h	0
+/usr/include/c++/9/stdexcept	/usr/include/c++/9/stdexcept	stdexcept		0
+/usr/include/c++/9/bits/vector.tcc	/usr/include/c++/9/bits/vector.tcc	vector	tcc	0
+/usr/include/c++/9/bits/exception_defines.h	/usr/include/c++/9/bits/exception_defines.h	exception_defines	h	0
+/usr/include/c++/9/cassert	/usr/include/c++/9/cassert	cassert		0
+/usr/x86_64-linux-gnu/include/assert.h	/usr/x86_64-linux-gnu/include/assert.h	assert	h	0
+/opt/src/src/fallback.h	/opt/src/src/fallback.h	fallback	h	0
+/usr/include/c++/9/vector	/usr/include/c++/9/vector	vector		0
+/usr/include/c++/9/string	/usr/include/c++/9/string	string		0
+/usr/include/c++/9/memory	/usr/include/c++/9/memory	memory		0
+/usr/include/c++/9/algorithm	/usr/include/c++/9/algorithm	algorithm		0
+/usr/x86_64-linux-gnu/include/sys/ioctl.h	/usr/x86_64-linux-gnu/include/sys/ioctl.h	ioctl	h	0
+/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdarg.h	stdarg	h	0
+/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed/limits.h	/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed/limits.h	limits	h	0
+/usr/x86_64-linux-gnu/include/errno.h	/usr/x86_64-linux-gnu/include/errno.h	errno	h	0
+/opt/src/_lgtm_build_dir/config.h	/opt/src/_lgtm_build_dir/config.h	config	h	0
+/usr/x86_64-linux-gnu/include/linux/limits.h	/usr/x86_64-linux-gnu/include/linux/limits.h	limits	h	0
+/opt/src/src/ast_node_types.inc	/opt/src/src/ast_node_types.inc	ast_node_types	inc	0
+/opt/src/src/tokenizer.h	/opt/src/src/tokenizer.h	tokenizer	h	0
+/opt/src/src/parse_constants.h	/opt/src/src/parse_constants.h	parse_constants	h	0
+/opt/src/src/wutil.h	/opt/src/src/wutil.h	wutil	h	0
+/opt/src/src/parse_tree.h	/opt/src/src/parse_tree.h	parse_tree	h	0
+/usr/x86_64-linux-gnu/include/stdint.h	/usr/x86_64-linux-gnu/include/stdint.h	stdint	h	0
+/usr/include/c++/9/new	/usr/include/c++/9/new	new		0
+/usr/x86_64-linux-gnu/include/stdc-predef.h	/usr/x86_64-linux-gnu/include/stdc-predef.h	stdc-predef	h	0
+/usr/x86_64-linux-gnu/include/bits/wordsize.h	/usr/x86_64-linux-gnu/include/bits/wordsize.h	wordsize	h	0
+/usr/x86_64-linux-gnu/include/bits/long-double.h	/usr/x86_64-linux-gnu/include/bits/long-double.h	long-double	h	0
+/usr/x86_64-linux-gnu/include/sys/cdefs.h	/usr/x86_64-linux-gnu/include/sys/cdefs.h	cdefs	h	0
+/usr/x86_64-linux-gnu/include/features.h	/usr/x86_64-linux-gnu/include/features.h	features	h	0
+/usr/x86_64-linux-gnu/include/gnu/stubs-64.h	/usr/x86_64-linux-gnu/include/gnu/stubs-64.h	stubs-64	h	0
+/usr/x86_64-linux-gnu/include/gnu/stubs.h	/usr/x86_64-linux-gnu/include/gnu/stubs.h	stubs	h	0
+/usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h	/usr/include/x86_64-linux-gnu/c++/9/bits/os_defines.h	os_defines	h	0
+/usr/include/x86_64-linux-gnu/c++/9/bits/cpu_defines.h	/usr/include/x86_64-linux-gnu/c++/9/bits/cpu_defines.h	cpu_defines	h	0
+/usr/include/c++/9/bits/exception.h	/usr/include/c++/9/bits/exception.h	exception	h	0
+/usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h	/usr/lib/gcc/x86_64-linux-gnu/9/include/stddef.h	stddef	h	0
+/usr/include/c++/9/bits/cxxabi_init_exception.h	/usr/include/c++/9/bits/cxxabi_init_exception.h	cxxabi_init_exception	h	0
+/usr/include/c++/9/bits/hash_bytes.h	/usr/include/c++/9/bits/hash_bytes.h	hash_bytes	h	0
+/usr/include/c++/9/typeinfo	/usr/include/c++/9/typeinfo	typeinfo		0
+/usr/include/c++/9/exception	/usr/include/c++/9/exception	exception		0
+/usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h	/usr/include/x86_64-linux-gnu/c++/9/bits/c++allocator.h	c++allocator	h	0
+/usr/include/c++/9/bits/memoryfwd.h	/usr/include/c++/9/bits/memoryfwd.h	memoryfwd	h	0
+/usr/include/c++/9/bits/stringfwd.h	/usr/include/c++/9/bits/stringfwd.h	stringfwd	h	0
+/usr/x86_64-linux-gnu/include/bits/libc-header-start.h	/usr/x86_64-linux-gnu/include/bits/libc-header-start.h	libc-header-start	h	0
+/usr/x86_64-linux-gnu/include/wchar.h	/usr/x86_64-linux-gnu/include/wchar.h	wchar	h	0
+/usr/x86_64-linux-gnu/include/bits/floatn-common.h	/usr/x86_64-linux-gnu/include/bits/floatn-common.h	floatn-common	h	0
+/usr/x86_64-linux-gnu/include/bits/floatn.h	/usr/x86_64-linux-gnu/include/bits/floatn.h	floatn	h	0
+/usr/x86_64-linux-gnu/include/bits/wchar.h	/usr/x86_64-linux-gnu/include/bits/wchar.h	wchar	h	0
+/usr/x86_64-linux-gnu/include/bits/types/wint_t.h	/usr/x86_64-linux-gnu/include/bits/types/wint_t.h	wint_t	h	0
+/usr/x86_64-linux-gnu/include/bits/types/__mbstate_t.h	/usr/x86_64-linux-gnu/include/bits/types/__mbstate_t.h	__mbstate_t	h	0
+/usr/x86_64-linux-gnu/include/bits/types/mbstate_t.h	/usr/x86_64-linux-gnu/include/bits/types/mbstate_t.h	mbstate_t	h	0
+/usr/x86_64-linux-gnu/include/bits/types/__FILE.h	/usr/x86_64-linux-gnu/include/bits/types/__FILE.h	__FILE	h	0
+/usr/x86_64-linux-gnu/include/bits/types/FILE.h	/usr/x86_64-linux-gnu/include/bits/types/FILE.h	FILE	h	0
+/usr/x86_64-linux-gnu/include/bits/types/__locale_t.h	/usr/x86_64-linux-gnu/include/bits/types/__locale_t.h	__locale_t	h	0
+/usr/x86_64-linux-gnu/include/bits/types/locale_t.h	/usr/x86_64-linux-gnu/include/bits/types/locale_t.h	locale_t	h	0
+/usr/include/c++/9/cwchar	/usr/include/c++/9/cwchar	cwchar		0
+/usr/x86_64-linux-gnu/include/bits/endian.h	/usr/x86_64-linux-gnu/include/bits/endian.h	endian	h	0
+/usr/x86_64-linux-gnu/include/endian.h	/usr/x86_64-linux-gnu/include/endian.h	endian	h	0
+/usr/x86_64-linux-gnu/include/bits/timesize.h	/usr/x86_64-linux-gnu/include/bits/timesize.h	timesize	h	0
+/usr/x86_64-linux-gnu/include/bits/typesizes.h	/usr/x86_64-linux-gnu/include/bits/typesizes.h	typesizes	h	0
+/usr/x86_64-linux-gnu/include/bits/types.h	/usr/x86_64-linux-gnu/include/bits/types.h	types	h	0
+/usr/x86_64-linux-gnu/include/bits/time64.h	/usr/x86_64-linux-gnu/include/bits/time64.h	time64	h	0
+/usr/x86_64-linux-gnu/include/bits/byteswap.h	/usr/x86_64-linux-gnu/include/bits/byteswap.h	byteswap	h	0
+/usr/x86_64-linux-gnu/include/bits/uintn-identity.h	/usr/x86_64-linux-gnu/include/bits/uintn-identity.h	uintn-identity	h	0
+/usr/x86_64-linux-gnu/include/sched.h	/usr/x86_64-linux-gnu/include/sched.h	sched	h	0
+/usr/x86_64-linux-gnu/include/bits/types/time_t.h	/usr/x86_64-linux-gnu/include/bits/types/time_t.h	time_t	h	0
+/usr/x86_64-linux-gnu/include/bits/types/struct_timespec.h	/usr/x86_64-linux-gnu/include/bits/types/struct_timespec.h	struct_timespec	h	0
+/usr/x86_64-linux-gnu/include/bits/types/struct_sched_param.h	/usr/x86_64-linux-gnu/include/bits/types/struct_sched_param.h	struct_sched_param	h	0
+/usr/x86_64-linux-gnu/include/bits/sched.h	/usr/x86_64-linux-gnu/include/bits/sched.h	sched	h	0
+/usr/x86_64-linux-gnu/include/bits/cpu-set.h	/usr/x86_64-linux-gnu/include/bits/cpu-set.h	cpu-set	h	0
+/usr/x86_64-linux-gnu/include/time.h	/usr/x86_64-linux-gnu/include/time.h	time	h	0
+/usr/x86_64-linux-gnu/include/bits/types/struct_timeval.h	/usr/x86_64-linux-gnu/include/bits/types/struct_timeval.h	struct_timeval	h	0
+/usr/x86_64-linux-gnu/include/bits/timex.h	/usr/x86_64-linux-gnu/include/bits/timex.h	timex	h	0
+/usr/x86_64-linux-gnu/include/bits/time.h	/usr/x86_64-linux-gnu/include/bits/time.h	time	h	0
+/usr/x86_64-linux-gnu/include/bits/types/clock_t.h	/usr/x86_64-linux-gnu/include/bits/types/clock_t.h	clock_t	h	0
+/usr/x86_64-linux-gnu/include/bits/types/struct_tm.h	/usr/x86_64-linux-gnu/include/bits/types/struct_tm.h	struct_tm	h	0
+/usr/x86_64-linux-gnu/include/bits/types/clockid_t.h	/usr/x86_64-linux-gnu/include/bits/types/clockid_t.h	clockid_t	h	0
+/usr/x86_64-linux-gnu/include/bits/types/timer_t.h	/usr/x86_64-linux-gnu/include/bits/types/timer_t.h	timer_t	h	0
+/usr/x86_64-linux-gnu/include/bits/types/struct_itimerspec.h	/usr/x86_64-linux-gnu/include/bits/types/struct_itimerspec.h	struct_itimerspec	h	0
+/usr/x86_64-linux-gnu/include/bits/pthreadtypes-arch.h	/usr/x86_64-linux-gnu/include/bits/pthreadtypes-arch.h	pthreadtypes-arch	h	0
+/usr/x86_64-linux-gnu/include/bits/thread-shared-types.h	/usr/x86_64-linux-gnu/include/bits/thread-shared-types.h	thread-shared-types	h	0
+/usr/x86_64-linux-gnu/include/bits/pthreadtypes.h	/usr/x86_64-linux-gnu/include/bits/pthreadtypes.h	pthreadtypes	h	0
+/usr/x86_64-linux-gnu/include/bits/setjmp.h	/usr/x86_64-linux-gnu/include/bits/setjmp.h	setjmp	h	0
+/usr/x86_64-linux-gnu/include/pthread.h	/usr/x86_64-linux-gnu/include/pthread.h	pthread	h	0
+/usr/include/x86_64-linux-gnu/c++/9/bits/gthr-default.h	/usr/include/x86_64-linux-gnu/c++/9/bits/gthr-default.h	gthr-default	h	0
+/usr/include/x86_64-linux-gnu/c++/9/bits/gthr.h	/usr/include/x86_64-linux-gnu/c++/9/bits/gthr.h	gthr	h	0
+/usr/include/x86_64-linux-gnu/c++/9/bits/atomic_word.h	/usr/include/x86_64-linux-gnu/c++/9/bits/atomic_word.h	atomic_word	h	0
+/usr/include/c++/9/ext/concurrence.h	/usr/include/c++/9/ext/concurrence.h	concurrence	h	0
+/usr/include/c++/9/bits/stl_relops.h	/usr/include/c++/9/bits/stl_relops.h	stl_relops	h	0
+/usr/x86_64-linux-gnu/include/bits/stdint-intn.h	/usr/x86_64-linux-gnu/include/bits/stdint-intn.h	stdint-intn	h	0
+/usr/x86_64-linux-gnu/include/bits/stdint-uintn.h	/usr/x86_64-linux-gnu/include/bits/stdint-uintn.h	stdint-uintn	h	0
+/usr/lib/gcc/x86_64-linux-gnu/9/include/stdint.h	/usr/lib/gcc/x86_64-linux-gnu/9/include/stdint.h	stdint	h	0
+/usr/include/c++/9/cstdint	/usr/include/c++/9/cstdint	cstdint		0
+/usr/x86_64-linux-gnu/include/locale.h	/usr/x86_64-linux-gnu/include/locale.h	locale	h	0
+/usr/x86_64-linux-gnu/include/bits/locale.h	/usr/x86_64-linux-gnu/include/bits/locale.h	locale	h	0
+/usr/include/c++/9/clocale	/usr/include/c++/9/clocale	clocale		0
+/usr/include/x86_64-linux-gnu/c++/9/bits/c++locale.h	/usr/include/x86_64-linux-gnu/c++/9/bits/c++locale.h	c++locale	h	0
+/usr/x86_64-linux-gnu/include/ctype.h	/usr/x86_64-linux-gnu/include/ctype.h	ctype	h	0
+/usr/include/c++/9/cctype	/usr/include/c++/9/cctype	cctype		0
+/usr/include/c++/9/bits/locale_classes.tcc	/usr/include/c++/9/bits/locale_classes.tcc	locale_classes	tcc	0
+/usr/include/c++/9/bits/cxxabi_forced.h	/usr/include/c++/9/bits/cxxabi_forced.h	cxxabi_forced	h	0
+/usr/include/c++/9/bits/ostream_insert.h	/usr/include/c++/9/bits/ostream_insert.h	ostream_insert	h	0
+/usr/x86_64-linux-gnu/include/stdlib.h	/usr/x86_64-linux-gnu/include/stdlib.h	stdlib	h	0
+/usr/x86_64-linux-gnu/include/bits/waitflags.h	/usr/x86_64-linux-gnu/include/bits/waitflags.h	waitflags	h	0
+/usr/x86_64-linux-gnu/include/bits/waitstatus.h	/usr/x86_64-linux-gnu/include/bits/waitstatus.h	waitstatus	h	0
+/usr/x86_64-linux-gnu/include/sys/types.h	/usr/x86_64-linux-gnu/include/sys/types.h	types	h	0
+/usr/x86_64-linux-gnu/include/bits/select.h	/usr/x86_64-linux-gnu/include/bits/select.h	select	h	0
+/usr/x86_64-linux-gnu/include/sys/select.h	/usr/x86_64-linux-gnu/include/sys/select.h	select	h	0
+/usr/x86_64-linux-gnu/include/bits/types/__sigset_t.h	/usr/x86_64-linux-gnu/include/bits/types/__sigset_t.h	__sigset_t	h	0
+/usr/x86_64-linux-gnu/include/bits/types/sigset_t.h	/usr/x86_64-linux-gnu/include/bits/types/sigset_t.h	sigset_t	h	0
+/usr/x86_64-linux-gnu/include/bits/select2.h	/usr/x86_64-linux-gnu/include/bits/select2.h	select2	h	0
+/usr/x86_64-linux-gnu/include/alloca.h	/usr/x86_64-linux-gnu/include/alloca.h	alloca	h	0
+/usr/x86_64-linux-gnu/include/bits/stdlib-bsearch.h	/usr/x86_64-linux-gnu/include/bits/stdlib-bsearch.h	stdlib-bsearch	h	0
+/usr/x86_64-linux-gnu/include/bits/stdlib-float.h	/usr/x86_64-linux-gnu/include/bits/stdlib-float.h	stdlib-float	h	0
+/usr/x86_64-linux-gnu/include/bits/stdlib.h	/usr/x86_64-linux-gnu/include/bits/stdlib.h	stdlib	h	0
+/usr/include/c++/9/bits/std_abs.h	/usr/include/c++/9/bits/std_abs.h	std_abs	h	0
+/usr/include/c++/9/cstdlib	/usr/include/c++/9/cstdlib	cstdlib		0
+/usr/x86_64-linux-gnu/include/stdio.h	/usr/x86_64-linux-gnu/include/stdio.h	stdio	h	0
+/usr/x86_64-linux-gnu/include/bits/types/__fpos_t.h	/usr/x86_64-linux-gnu/include/bits/types/__fpos_t.h	__fpos_t	h	0
+/usr/x86_64-linux-gnu/include/bits/types/__fpos64_t.h	/usr/x86_64-linux-gnu/include/bits/types/__fpos64_t.h	__fpos64_t	h	0
+/usr/x86_64-linux-gnu/include/bits/types/struct_FILE.h	/usr/x86_64-linux-gnu/include/bits/types/struct_FILE.h	struct_FILE	h	0
+/usr/x86_64-linux-gnu/include/bits/types/cookie_io_functions_t.h	/usr/x86_64-linux-gnu/include/bits/types/cookie_io_functions_t.h	cookie_io_functions_t	h	0
+/usr/x86_64-linux-gnu/include/bits/stdio_lim.h	/usr/x86_64-linux-gnu/include/bits/stdio_lim.h	stdio_lim	h	0
+/usr/x86_64-linux-gnu/include/bits/sys_errlist.h	/usr/x86_64-linux-gnu/include/bits/sys_errlist.h	sys_errlist	h	0
+/usr/x86_64-linux-gnu/include/bits/stdio.h	/usr/x86_64-linux-gnu/include/bits/stdio.h	stdio	h	0
+/usr/include/c++/9/cstdio	/usr/include/c++/9/cstdio	cstdio		0
+/usr/x86_64-linux-gnu/include/asm-generic/errno-base.h	/usr/x86_64-linux-gnu/include/asm-generic/errno-base.h	errno-base	h	0
+/usr/x86_64-linux-gnu/include/asm-generic/errno.h	/usr/x86_64-linux-gnu/include/asm-generic/errno.h	errno	h	0
+/usr/x86_64-linux-gnu/include/asm/errno.h	/usr/x86_64-linux-gnu/include/asm/errno.h	errno	h	0
+/usr/x86_64-linux-gnu/include/linux/errno.h	/usr/x86_64-linux-gnu/include/linux/errno.h	errno	h	0
+/usr/x86_64-linux-gnu/include/bits/errno.h	/usr/x86_64-linux-gnu/include/bits/errno.h	errno	h	0
+/usr/x86_64-linux-gnu/include/bits/types/error_t.h	/usr/x86_64-linux-gnu/include/bits/types/error_t.h	error_t	h	0
+/usr/include/c++/9/cerrno	/usr/include/c++/9/cerrno	cerrno		0
+/usr/include/c++/9/bits/atomic_lockfree_defines.h	/usr/include/c++/9/bits/atomic_lockfree_defines.h	atomic_lockfree_defines	h	0
+/usr/include/c++/9/bits/shared_ptr_atomic.h	/usr/include/c++/9/bits/shared_ptr_atomic.h	shared_ptr_atomic	h	0
+/usr/include/c++/9/bits/erase_if.h	/usr/include/c++/9/bits/erase_if.h	erase_if	h	0
+/usr/include/c++/9/unordered_map	/usr/include/c++/9/unordered_map	unordered_map		0
+/usr/include/c++/9/unordered_set	/usr/include/c++/9/unordered_set	unordered_set		0
+/usr/x86_64-linux-gnu/include/limits.h	/usr/x86_64-linux-gnu/include/limits.h	limits	h	0
+/usr/x86_64-linux-gnu/include/bits/local_lim.h	/usr/x86_64-linux-gnu/include/bits/local_lim.h	local_lim	h	0
+/usr/x86_64-linux-gnu/include/bits/posix1_lim.h	/usr/x86_64-linux-gnu/include/bits/posix1_lim.h	posix1_lim	h	0
+/usr/x86_64-linux-gnu/include/bits/posix2_lim.h	/usr/x86_64-linux-gnu/include/bits/posix2_lim.h	posix2_lim	h	0
+/usr/x86_64-linux-gnu/include/bits/uio_lim.h	/usr/x86_64-linux-gnu/include/bits/uio_lim.h	uio_lim	h	0
+/usr/x86_64-linux-gnu/include/bits/xopen_lim.h	/usr/x86_64-linux-gnu/include/bits/xopen_lim.h	xopen_lim	h	0
+/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed/syslimits.h	/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed/syslimits.h	syslimits	h	0
+/usr/x86_64-linux-gnu/include/asm-generic/ioctl.h	/usr/x86_64-linux-gnu/include/asm-generic/ioctl.h	ioctl	h	0
+/usr/x86_64-linux-gnu/include/asm/ioctl.h	/usr/x86_64-linux-gnu/include/asm/ioctl.h	ioctl	h	0
+/usr/x86_64-linux-gnu/include/linux/ioctl.h	/usr/x86_64-linux-gnu/include/linux/ioctl.h	ioctl	h	0
+/usr/x86_64-linux-gnu/include/asm-generic/ioctls.h	/usr/x86_64-linux-gnu/include/asm-generic/ioctls.h	ioctls	h	0
+/usr/x86_64-linux-gnu/include/asm/ioctls.h	/usr/x86_64-linux-gnu/include/asm/ioctls.h	ioctls	h	0
+/usr/x86_64-linux-gnu/include/bits/ioctls.h	/usr/x86_64-linux-gnu/include/bits/ioctls.h	ioctls	h	0
+/usr/x86_64-linux-gnu/include/bits/ioctl-types.h	/usr/x86_64-linux-gnu/include/bits/ioctl-types.h	ioctl-types	h	0
+/usr/x86_64-linux-gnu/include/sys/ttydefaults.h	/usr/x86_64-linux-gnu/include/sys/ttydefaults.h	ttydefaults	h	0
+/usr/include/c++/9/ctime	/usr/include/c++/9/ctime	ctime		0
+/usr/include/c++/9/bits/parse_numbers.h	/usr/include/c++/9/bits/parse_numbers.h	parse_numbers	h	0
+/usr/include/x86_64-linux-gnu/c++/9/bits/error_constants.h	/usr/include/x86_64-linux-gnu/c++/9/bits/error_constants.h	error_constants	h	0
+/usr/x86_64-linux-gnu/include/bits/posix_opt.h	/usr/x86_64-linux-gnu/include/bits/posix_opt.h	posix_opt	h	0
+/usr/x86_64-linux-gnu/include/bits/environments.h	/usr/x86_64-linux-gnu/include/bits/environments.h	environments	h	0
+/usr/x86_64-linux-gnu/include/unistd.h	/usr/x86_64-linux-gnu/include/unistd.h	unistd	h	0
+/usr/x86_64-linux-gnu/include/bits/confname.h	/usr/x86_64-linux-gnu/include/bits/confname.h	confname	h	0
+/usr/x86_64-linux-gnu/include/bits/getopt_core.h	/usr/x86_64-linux-gnu/include/bits/getopt_core.h	getopt_core	h	0
+/usr/x86_64-linux-gnu/include/bits/getopt_posix.h	/usr/x86_64-linux-gnu/include/bits/getopt_posix.h	getopt_posix	h	0
+/usr/x86_64-linux-gnu/include/bits/unistd.h	/usr/x86_64-linux-gnu/include/bits/unistd.h	unistd	h	0
+/usr/x86_64-linux-gnu/include/bits/unistd_ext.h	/usr/x86_64-linux-gnu/include/bits/unistd_ext.h	unistd_ext	h	0
+/opt/src/src/env.h	/opt/src/src/env.h	env	h	0
+/usr/x86_64-linux-gnu/include/bits/dirent.h	/usr/x86_64-linux-gnu/include/bits/dirent.h	dirent	h	0
+/usr/x86_64-linux-gnu/include/dirent.h	/usr/x86_64-linux-gnu/include/dirent.h	dirent	h	0
+/usr/x86_64-linux-gnu/include/bits/dirent_ext.h	/usr/x86_64-linux-gnu/include/bits/dirent_ext.h	dirent_ext	h	0
+/usr/x86_64-linux-gnu/include/bits/wctype-wchar.h	/usr/x86_64-linux-gnu/include/bits/wctype-wchar.h	wctype-wchar	h	0
+/usr/x86_64-linux-gnu/include/wctype.h	/usr/x86_64-linux-gnu/include/wctype.h	wctype	h	0
+/opt/src/src/autoload.h	/opt/src/src/autoload.h	autoload	h	0
+/usr/x86_64-linux-gnu/include/bits/signum-generic.h	/usr/x86_64-linux-gnu/include/bits/signum-generic.h	signum-generic	h	0
+/usr/x86_64-linux-gnu/include/signal.h	/usr/x86_64-linux-gnu/include/signal.h	signal	h	0
+/usr/x86_64-linux-gnu/include/bits/signum.h	/usr/x86_64-linux-gnu/include/bits/signum.h	signum	h	0
+/usr/x86_64-linux-gnu/include/bits/types/sig_atomic_t.h	/usr/x86_64-linux-gnu/include/bits/types/sig_atomic_t.h	sig_atomic_t	h	0
+/usr/x86_64-linux-gnu/include/bits/types/__sigval_t.h	/usr/x86_64-linux-gnu/include/bits/types/__sigval_t.h	__sigval_t	h	0
+/usr/x86_64-linux-gnu/include/bits/siginfo-arch.h	/usr/x86_64-linux-gnu/include/bits/siginfo-arch.h	siginfo-arch	h	0
+/usr/x86_64-linux-gnu/include/bits/types/siginfo_t.h	/usr/x86_64-linux-gnu/include/bits/types/siginfo_t.h	siginfo_t	h	0
+/usr/x86_64-linux-gnu/include/bits/siginfo-consts-arch.h	/usr/x86_64-linux-gnu/include/bits/siginfo-consts-arch.h	siginfo-consts-arch	h	0
+/usr/x86_64-linux-gnu/include/bits/siginfo-consts.h	/usr/x86_64-linux-gnu/include/bits/siginfo-consts.h	siginfo-consts	h	0
+/usr/x86_64-linux-gnu/include/bits/types/sigval_t.h	/usr/x86_64-linux-gnu/include/bits/types/sigval_t.h	sigval_t	h	0
+/usr/x86_64-linux-gnu/include/bits/types/sigevent_t.h	/usr/x86_64-linux-gnu/include/bits/types/sigevent_t.h	sigevent_t	h	0
+/usr/x86_64-linux-gnu/include/bits/sigevent-consts.h	/usr/x86_64-linux-gnu/include/bits/sigevent-consts.h	sigevent-consts	h	0
+/usr/x86_64-linux-gnu/include/bits/sigaction.h	/usr/x86_64-linux-gnu/include/bits/sigaction.h	sigaction	h	0
+/usr/x86_64-linux-gnu/include/bits/sigcontext.h	/usr/x86_64-linux-gnu/include/bits/sigcontext.h	sigcontext	h	0
+/usr/x86_64-linux-gnu/include/bits/types/stack_t.h	/usr/x86_64-linux-gnu/include/bits/types/stack_t.h	stack_t	h	0
+/usr/x86_64-linux-gnu/include/sys/ucontext.h	/usr/x86_64-linux-gnu/include/sys/ucontext.h	ucontext	h	0
+/usr/x86_64-linux-gnu/include/bits/sigstack.h	/usr/x86_64-linux-gnu/include/bits/sigstack.h	sigstack	h	0
+/usr/x86_64-linux-gnu/include/bits/ss_flags.h	/usr/x86_64-linux-gnu/include/bits/ss_flags.h	ss_flags	h	0
+/usr/x86_64-linux-gnu/include/bits/types/struct_sigstack.h	/usr/x86_64-linux-gnu/include/bits/types/struct_sigstack.h	struct_sigstack	h	0
+/usr/x86_64-linux-gnu/include/bits/sigthread.h	/usr/x86_64-linux-gnu/include/bits/sigthread.h	sigthread	h	0
+/usr/x86_64-linux-gnu/include/bits/signal_ext.h	/usr/x86_64-linux-gnu/include/bits/signal_ext.h	signal_ext	h	0
+/usr/x86_64-linux-gnu/include/sys/time.h	/usr/x86_64-linux-gnu/include/sys/time.h	time	h	0
+/usr/x86_64-linux-gnu/include/sys/wait.h	/usr/x86_64-linux-gnu/include/sys/wait.h	wait	h	0
+/usr/x86_64-linux-gnu/include/bits/termios-struct.h	/usr/x86_64-linux-gnu/include/bits/termios-struct.h	termios-struct	h	0
+/usr/x86_64-linux-gnu/include/termios.h	/usr/x86_64-linux-gnu/include/termios.h	termios	h	0
+/usr/x86_64-linux-gnu/include/bits/termios-c_cc.h	/usr/x86_64-linux-gnu/include/bits/termios-c_cc.h	termios-c_cc	h	0
+/usr/x86_64-linux-gnu/include/bits/termios-c_iflag.h	/usr/x86_64-linux-gnu/include/bits/termios-c_iflag.h	termios-c_iflag	h	0
+/usr/x86_64-linux-gnu/include/bits/termios-c_oflag.h	/usr/x86_64-linux-gnu/include/bits/termios-c_oflag.h	termios-c_oflag	h	0
+/usr/x86_64-linux-gnu/include/bits/termios-baud.h	/usr/x86_64-linux-gnu/include/bits/termios-baud.h	termios-baud	h	0
+/usr/x86_64-linux-gnu/include/bits/termios-c_cflag.h	/usr/x86_64-linux-gnu/include/bits/termios-c_cflag.h	termios-c_cflag	h	0
+/usr/x86_64-linux-gnu/include/bits/termios-c_lflag.h	/usr/x86_64-linux-gnu/include/bits/termios-c_lflag.h	termios-c_lflag	h	0
+/usr/x86_64-linux-gnu/include/bits/termios-tcflow.h	/usr/x86_64-linux-gnu/include/bits/termios-tcflow.h	termios-tcflow	h	0
+/usr/x86_64-linux-gnu/include/bits/termios-misc.h	/usr/x86_64-linux-gnu/include/bits/termios-misc.h	termios-misc	h	0
+/usr/x86_64-linux-gnu/include/bits/termios.h	/usr/x86_64-linux-gnu/include/bits/termios.h	termios	h	0
+/usr/include/c++/9/deque	/usr/include/c++/9/deque	deque		0
+/usr/include/c++/9/map	/usr/include/c++/9/map	map		0
+/usr/include/c++/9/stdlib.h	/usr/include/c++/9/stdlib.h	stdlib	h	0
+/usr/include/c++/9/bits/atomic_futex.h	/usr/include/c++/9/bits/atomic_futex.h	atomic_futex	h	0
+/opt/src/src/redirection.h	/opt/src/src/redirection.h	redirection	h	0
+/opt/src/src/event.h	/opt/src/src/event.h	event	h	0
+/usr/include/c++/9/bitset	/usr/include/c++/9/bitset	bitset		0
+/usr/include/c++/9/numeric	/usr/include/c++/9/numeric	numeric		0
+/usr/include/c++/9/bits/ios_base.h	/usr/include/c++/9/bits/ios_base.h	ios_base	h	0
+/usr/include/c++/9/cwctype	/usr/include/c++/9/cwctype	cwctype		0
+/usr/include/x86_64-linux-gnu/c++/9/bits/ctype_base.h	/usr/include/x86_64-linux-gnu/c++/9/bits/ctype_base.h	ctype_base	h	0
+/usr/include/x86_64-linux-gnu/c++/9/bits/ctype_inline.h	/usr/include/x86_64-linux-gnu/c++/9/bits/ctype_inline.h	ctype_inline	h	0
+/usr/include/c++/9/bits/basic_ios.tcc	/usr/include/c++/9/bits/basic_ios.tcc	basic_ios	tcc	0
+/usr/include/c++/9/ios	/usr/include/c++/9/ios	ios		0
+/usr/include/c++/9/iterator	/usr/include/c++/9/iterator	iterator		0
+/opt/src/src/topic_monitor.h	/opt/src/src/topic_monitor.h	topic_monitor	h	0
+/opt/src/src/proc.h	/opt/src/src/proc.h	proc	h	0
+/opt/src/src/exec.h	/opt/src/src/exec.h	exec	h	0
+/usr/include/c++/9/csignal	/usr/include/c++/9/csignal	csignal		0
+/usr/include/c++/9/bits/list.tcc	/usr/include/c++/9/bits/list.tcc	list	tcc	0
+/usr/include/c++/9/list	/usr/include/c++/9/list	list		0
+/opt/src/src/expand.h	/opt/src/src/expand.h	expand	h	0
+/opt/src/src/operation_context.h	/opt/src/src/operation_context.h	operation_context	h	0
+/opt/src/src/autoload.cpp	/opt/src/src/autoload.cpp	autoload	cpp	0
+/opt/src/src/builtin.h	/opt/src/src/builtin.h	builtin	h	0
+/usr/x86_64-linux-gnu/include/string.h	/usr/x86_64-linux-gnu/include/string.h	string	h	0
+/usr/x86_64-linux-gnu/include/strings.h	/usr/x86_64-linux-gnu/include/strings.h	strings	h	0
+/usr/x86_64-linux-gnu/include/bits/strings_fortified.h	/usr/x86_64-linux-gnu/include/bits/strings_fortified.h	strings_fortified	h	0
+/usr/x86_64-linux-gnu/include/bits/string_fortified.h	/usr/x86_64-linux-gnu/include/bits/string_fortified.h	string_fortified	h	0
+/usr/include/c++/9/cstring	/usr/include/c++/9/cstring	cstring		0
+/opt/src/src/builtin_argparse.h	/opt/src/src/builtin_argparse.h	builtin_argparse	h	0
+/opt/src/src/builtin_bg.h	/opt/src/src/builtin_bg.h	builtin_bg	h	0
+/usr/include/c++/9/queue	/usr/include/c++/9/queue	queue		0
+/opt/src/src/input_common.h	/opt/src/src/input_common.h	input_common	h	0
+/opt/src/src/input.h	/opt/src/src/input.h	input	h	0
+/opt/src/src/builtin_bind.h	/opt/src/src/builtin_bind.h	builtin_bind	h	0
+/opt/src/src/builtin_block.h	/opt/src/src/builtin_block.h	builtin_block	h	0
+/opt/src/src/builtin_builtin.h	/opt/src/src/builtin_builtin.h	builtin_builtin	h	0
+/opt/src/src/builtin_cd.h	/opt/src/src/builtin_cd.h	builtin_cd	h	0
+/opt/src/src/builtin_command.h	/opt/src/src/builtin_command.h	builtin_command	h	0
+/opt/src/src/builtin_commandline.h	/opt/src/src/builtin_commandline.h	builtin_commandline	h	0
+/opt/src/src/builtin_complete.h	/opt/src/src/builtin_complete.h	builtin_complete	h	0
+/opt/src/src/builtin_contains.h	/opt/src/src/builtin_contains.h	builtin_contains	h	0
+/opt/src/src/builtin_disown.h	/opt/src/src/builtin_disown.h	builtin_disown	h	0
+/opt/src/src/builtin_echo.h	/opt/src/src/builtin_echo.h	builtin_echo	h	0
+/opt/src/src/builtin_emit.h	/opt/src/src/builtin_emit.h	builtin_emit	h	0
+/opt/src/src/builtin_eval.h	/opt/src/src/builtin_eval.h	builtin_eval	h	0
+/opt/src/src/builtin_exit.h	/opt/src/src/builtin_exit.h	builtin_exit	h	0
+/opt/src/src/builtin_fg.h	/opt/src/src/builtin_fg.h	builtin_fg	h	0
+/opt/src/src/builtin_functions.h	/opt/src/src/builtin_functions.h	builtin_functions	h	0
+/opt/src/src/builtin_history.h	/opt/src/src/builtin_history.h	builtin_history	h	0
+/opt/src/src/builtin_jobs.h	/opt/src/src/builtin_jobs.h	builtin_jobs	h	0
+/opt/src/src/builtin_math.h	/opt/src/src/builtin_math.h	builtin_math	h	0
+/opt/src/src/builtin_printf.h	/opt/src/src/builtin_printf.h	builtin_printf	h	0
+/opt/src/src/builtin_pwd.h	/opt/src/src/builtin_pwd.h	builtin_pwd	h	0
+/opt/src/src/builtin_random.h	/opt/src/src/builtin_random.h	builtin_random	h	0
+/opt/src/src/builtin_read.h	/opt/src/src/builtin_read.h	builtin_read	h	0
+/opt/src/src/builtin_realpath.h	/opt/src/src/builtin_realpath.h	builtin_realpath	h	0
+/opt/src/src/builtin_return.h	/opt/src/src/builtin_return.h	builtin_return	h	0
+/opt/src/src/builtin_set.h	/opt/src/src/builtin_set.h	builtin_set	h	0
+/opt/src/src/builtin_set_color.h	/opt/src/src/builtin_set_color.h	builtin_set_color	h	0
+/opt/src/src/builtin_source.h	/opt/src/src/builtin_source.h	builtin_source	h	0
+/opt/src/src/builtin_status.h	/opt/src/src/builtin_status.h	builtin_status	h	0
+/opt/src/src/builtin_string.h	/opt/src/src/builtin_string.h	builtin_string	h	0
+/opt/src/src/builtin_test.h	/opt/src/src/builtin_test.h	builtin_test	h	0
+/opt/src/src/builtin_ulimit.h	/opt/src/src/builtin_ulimit.h	builtin_ulimit	h	0
+/opt/src/src/builtin_wait.h	/opt/src/src/builtin_wait.h	builtin_wait	h	0
+/opt/src/src/complete.h	/opt/src/src/complete.h	complete	h	0
+/opt/src/src/intern.h	/opt/src/src/intern.h	intern	h	0
+/opt/src/src/parse_util.h	/opt/src/src/parse_util.h	parse_util	h	0
+/opt/src/src/color.h	/opt/src/src/color.h	color	h	0
+/opt/src/src/highlight.h	/opt/src/src/highlight.h	highlight	h	0
+/opt/src/src/reader.h	/opt/src/src/reader.h	reader	h	0
+/opt/src/src/wgetopt.h	/opt/src/src/wgetopt.h	wgetopt	h	0
+/opt/src/src/builtin.cpp	/opt/src/src/builtin.cpp	builtin	cpp	0
+/opt/src/src/builtin_argparse.cpp	/opt/src/src/builtin_argparse.cpp	builtin_argparse	cpp	0
+/usr/include/c++/9/cstddef	/usr/include/c++/9/cstddef	cstddef		0
+/opt/src/src/builtin_bg.cpp	/opt/src/src/builtin_bg.cpp	builtin_bg	cpp	0
+/usr/include/c++/9/set	/usr/include/c++/9/set	set		0
+/opt/src/src/builtin_bind.cpp	/opt/src/src/builtin_bind.cpp	builtin_bind	cpp	0
+/opt/src/src/builtin_block.cpp	/opt/src/src/builtin_block.cpp	builtin_block	cpp	0
+/opt/src/src/builtin_builtin.cpp	/opt/src/src/builtin_builtin.cpp	builtin_builtin	cpp	0
+/usr/x86_64-linux-gnu/include/bits/types/struct_iovec.h	/usr/x86_64-linux-gnu/include/bits/types/struct_iovec.h	struct_iovec	h	0
+/usr/x86_64-linux-gnu/include/linux/falloc.h	/usr/x86_64-linux-gnu/include/linux/falloc.h	falloc	h	0
+/usr/x86_64-linux-gnu/include/bits/fcntl-linux.h	/usr/x86_64-linux-gnu/include/bits/fcntl-linux.h	fcntl-linux	h	0
+/usr/x86_64-linux-gnu/include/bits/fcntl.h	/usr/x86_64-linux-gnu/include/bits/fcntl.h	fcntl	h	0
+/usr/x86_64-linux-gnu/include/fcntl.h	/usr/x86_64-linux-gnu/include/fcntl.h	fcntl	h	0
+/usr/x86_64-linux-gnu/include/bits/stat.h	/usr/x86_64-linux-gnu/include/bits/stat.h	stat	h	0
+/usr/x86_64-linux-gnu/include/bits/fcntl2.h	/usr/x86_64-linux-gnu/include/bits/fcntl2.h	fcntl2	h	0
+/usr/x86_64-linux-gnu/include/sys/stat.h	/usr/x86_64-linux-gnu/include/sys/stat.h	stat	h	0
+/usr/x86_64-linux-gnu/include/bits/types/struct_statx_timestamp.h	/usr/x86_64-linux-gnu/include/bits/types/struct_statx_timestamp.h	struct_statx_timestamp	h	0
+/usr/x86_64-linux-gnu/include/bits/types/struct_statx.h	/usr/x86_64-linux-gnu/include/bits/types/struct_statx.h	struct_statx	h	0
+/usr/x86_64-linux-gnu/include/bits/statx-generic.h	/usr/x86_64-linux-gnu/include/bits/statx-generic.h	statx-generic	h	0
+/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed/x86_64-linux-gnu/bits/statx.h	/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed/x86_64-linux-gnu/bits/statx.h	statx	h	0
+/opt/src/src/path.h	/opt/src/src/path.h	path	h	0
+/opt/src/src/builtin_cd.cpp	/opt/src/src/builtin_cd.cpp	builtin_cd	cpp	0
+/opt/src/src/builtin_command.cpp	/opt/src/src/builtin_command.cpp	builtin_command	cpp	0
+/opt/src/src/builtin_commandline.cpp	/opt/src/src/builtin_commandline.cpp	builtin_commandline	cpp	0
+/opt/src/src/builtin_complete.cpp	/opt/src/src/builtin_complete.cpp	builtin_complete	cpp	0
+/opt/src/src/builtin_contains.cpp	/opt/src/src/builtin_contains.cpp	builtin_contains	cpp	0
+/opt/src/src/builtin_disown.cpp	/opt/src/src/builtin_disown.cpp	builtin_disown	cpp	0
+/usr/include/c++/9/climits	/usr/include/c++/9/climits	climits		0
+/opt/src/src/builtin_echo.cpp	/opt/src/src/builtin_echo.cpp	builtin_echo	cpp	0
+/opt/src/src/builtin_emit.cpp	/opt/src/src/builtin_emit.cpp	builtin_emit	cpp	0
+/opt/src/src/builtin_eval.cpp	/opt/src/src/builtin_eval.cpp	builtin_eval	cpp	0
+/opt/src/src/builtin_exit.cpp	/opt/src/src/builtin_exit.cpp	builtin_exit	cpp	0
+/opt/src/src/builtin_fg.cpp	/opt/src/src/builtin_fg.cpp	builtin_fg	cpp	0
+/opt/src/src/builtin_function.h	/opt/src/src/builtin_function.h	builtin_function	h	0
+/opt/src/src/function.h	/opt/src/src/function.h	function	h	0
+/opt/src/src/parser_keywords.h	/opt/src/src/parser_keywords.h	parser_keywords	h	0
+/opt/src/src/signal.h	/opt/src/src/signal.h	signal	h	0
+/opt/src/src/builtin_function.cpp	/opt/src/src/builtin_function.cpp	builtin_function	cpp	0
+/opt/src/src/termsize.h	/opt/src/src/termsize.h	termsize	h	0
+/opt/src/src/builtin_functions.cpp	/opt/src/src/builtin_functions.cpp	builtin_functions	cpp	0
+/opt/src/src/history.h	/opt/src/src/history.h	history	h	0
+/opt/src/src/builtin_history.cpp	/opt/src/src/builtin_history.cpp	builtin_history	cpp	0
+/opt/src/src/builtin_jobs.cpp	/opt/src/src/builtin_jobs.cpp	builtin_jobs	cpp	0
+/usr/x86_64-linux-gnu/include/math.h	/usr/x86_64-linux-gnu/include/math.h	math	h	0
+/usr/x86_64-linux-gnu/include/bits/libm-simd-decl-stubs.h	/usr/x86_64-linux-gnu/include/bits/libm-simd-decl-stubs.h	libm-simd-decl-stubs	h	0
+/usr/x86_64-linux-gnu/include/bits/math-vector.h	/usr/x86_64-linux-gnu/include/bits/math-vector.h	math-vector	h	0
+/usr/x86_64-linux-gnu/include/bits/flt-eval-method.h	/usr/x86_64-linux-gnu/include/bits/flt-eval-method.h	flt-eval-method	h	0
+/usr/x86_64-linux-gnu/include/bits/fp-logb.h	/usr/x86_64-linux-gnu/include/bits/fp-logb.h	fp-logb	h	0
+/usr/x86_64-linux-gnu/include/bits/fp-fast.h	/usr/x86_64-linux-gnu/include/bits/fp-fast.h	fp-fast	h	0
+/usr/x86_64-linux-gnu/include/bits/mathcalls-helper-functions.h	/usr/x86_64-linux-gnu/include/bits/mathcalls-helper-functions.h	mathcalls-helper-functions	h	0
+/usr/x86_64-linux-gnu/include/bits/mathcalls.h	/usr/x86_64-linux-gnu/include/bits/mathcalls.h	mathcalls	h	0
+/usr/x86_64-linux-gnu/include/bits/mathcalls-narrow.h	/usr/x86_64-linux-gnu/include/bits/mathcalls-narrow.h	mathcalls-narrow	h	0
+/usr/x86_64-linux-gnu/include/bits/iscanonical.h	/usr/x86_64-linux-gnu/include/bits/iscanonical.h	iscanonical	h	0
+/usr/x86_64-linux-gnu/include/bits/mathinline.h	/usr/x86_64-linux-gnu/include/bits/mathinline.h	mathinline	h	0
+/opt/src/src/tinyexpr.h	/opt/src/src/tinyexpr.h	tinyexpr	h	0
+/opt/src/src/builtin_math.cpp	/opt/src/src/builtin_math.cpp	builtin_math	cpp	0
+/usr/include/c++/9/cstdarg	/usr/include/c++/9/cstdarg	cstdarg		0
+/opt/src/src/builtin_printf.cpp	/opt/src/src/builtin_printf.cpp	builtin_printf	cpp	0
+/opt/src/src/builtin_pwd.cpp	/opt/src/src/builtin_pwd.cpp	builtin_pwd	cpp	0
+/usr/include/x86_64-linux-gnu/c++/9/bits/opt_random.h	/usr/include/x86_64-linux-gnu/c++/9/bits/opt_random.h	opt_random	h	0
+/usr/include/c++/9/random	/usr/include/c++/9/random	random		0
+/opt/src/src/builtin_random.cpp	/opt/src/src/builtin_random.cpp	builtin_random	cpp	0
+/opt/src/src/builtin_read.cpp	/opt/src/src/builtin_read.cpp	builtin_read	cpp	0
+/opt/src/src/builtin_realpath.cpp	/opt/src/src/builtin_realpath.cpp	builtin_realpath	cpp	0
+/opt/src/src/builtin_return.cpp	/opt/src/src/builtin_return.cpp	builtin_return	cpp	0
+/opt/src/src/builtin_set.cpp	/opt/src/src/builtin_set.cpp	builtin_set	cpp	0
+/usr/include/ncurses_dll.h	/usr/include/ncurses_dll.h	ncurses_dll	h	0
+/usr/include/curses.h	/usr/include/curses.h	curses	h	0
+/usr/include/unctrl.h	/usr/include/unctrl.h	unctrl	h	0
+/usr/include/term.h	/usr/include/term.h	term	h	0
+/opt/src/src/output.h	/opt/src/src/output.h	output	h	0
+/opt/src/src/builtin_set_color.cpp	/opt/src/src/builtin_set_color.cpp	builtin_set_color	cpp	0
+/opt/src/src/builtin_source.cpp	/opt/src/src/builtin_source.cpp	builtin_source	cpp	0
+/opt/src/src/future_feature_flags.h	/opt/src/src/future_feature_flags.h	future_feature_flags	h	0
+/opt/src/src/builtin_status.cpp	/opt/src/src/builtin_status.cpp	builtin_status	cpp	0
+/usr/include/pcre2.h	/usr/include/pcre2.h	pcre2	h	0
+/opt/src/src/wildcard.h	/opt/src/src/wildcard.h	wildcard	h	0
+/usr/x86_64-linux-gnu/include/bits/types/struct_rusage.h	/usr/x86_64-linux-gnu/include/bits/types/struct_rusage.h	struct_rusage	h	0
+/usr/x86_64-linux-gnu/include/bits/resource.h	/usr/x86_64-linux-gnu/include/bits/resource.h	resource	h	0
+/usr/x86_64-linux-gnu/include/sys/resource.h	/usr/x86_64-linux-gnu/include/sys/resource.h	resource	h	0
+/opt/src/src/builtin_ulimit.cpp	/opt/src/src/builtin_ulimit.cpp	builtin_ulimit	cpp	0
+/opt/src/src/builtin_wait.cpp	/opt/src/src/builtin_wait.cpp	builtin_wait	cpp	0
+/opt/src/src/color.cpp	/opt/src/src/color.cpp	color	cpp	0
+/usr/include/x86_64-linux-gnu/c++/9/bits/cxxabi_tweaks.h	/usr/include/x86_64-linux-gnu/c++/9/bits/cxxabi_tweaks.h	cxxabi_tweaks	h	0
+/usr/include/c++/9/cxxabi.h	/usr/include/c++/9/cxxabi.h	cxxabi	h	0
+/usr/x86_64-linux-gnu/include/dlfcn.h	/usr/x86_64-linux-gnu/include/dlfcn.h	dlfcn	h	0
+/usr/x86_64-linux-gnu/include/bits/dlfcn.h	/usr/x86_64-linux-gnu/include/bits/dlfcn.h	dlfcn	h	0
+/usr/x86_64-linux-gnu/include/paths.h	/usr/x86_64-linux-gnu/include/paths.h	paths	h	0
+/usr/x86_64-linux-gnu/include/execinfo.h	/usr/x86_64-linux-gnu/include/execinfo.h	execinfo	h	0
+/usr/x86_64-linux-gnu/include/bits/utsname.h	/usr/x86_64-linux-gnu/include/bits/utsname.h	utsname	h	0
+/usr/x86_64-linux-gnu/include/sys/utsname.h	/usr/x86_64-linux-gnu/include/sys/utsname.h	utsname	h	0
+/usr/x86_64-linux-gnu/include/pwd.h	/usr/x86_64-linux-gnu/include/pwd.h	pwd	h	0
+/opt/src/src/util.h	/opt/src/src/util.h	util	h	0
+/opt/src/src/complete.cpp	/opt/src/src/complete.cpp	complete	cpp	0
+/opt/src/src/env_universal_common.h	/opt/src/src/env_universal_common.h	env_universal_common	h	0
+/opt/src/src/env_dispatch.h	/opt/src/src/env_dispatch.h	env_dispatch	h	0
+/opt/src/src/fish_version.h	/opt/src/src/fish_version.h	fish_version	h	0
+/opt/src/src/screen.h	/opt/src/src/screen.h	screen	h	0
+/opt/src/src/env_dispatch.cpp	/opt/src/src/env_dispatch.cpp	env_dispatch	cpp	0
+/usr/x86_64-linux-gnu/include/sys/socket.h	/usr/x86_64-linux-gnu/include/sys/socket.h	socket	h	0
+/usr/x86_64-linux-gnu/include/bits/socket.h	/usr/x86_64-linux-gnu/include/bits/socket.h	socket	h	0
+/usr/x86_64-linux-gnu/include/netinet/in.h	/usr/x86_64-linux-gnu/include/netinet/in.h	in	h	0
+/usr/x86_64-linux-gnu/include/bits/socket_type.h	/usr/x86_64-linux-gnu/include/bits/socket_type.h	socket_type	h	0
+/usr/x86_64-linux-gnu/include/bits/sockaddr.h	/usr/x86_64-linux-gnu/include/bits/sockaddr.h	sockaddr	h	0
+/usr/x86_64-linux-gnu/include/linux/stddef.h	/usr/x86_64-linux-gnu/include/linux/stddef.h	stddef	h	0
+/usr/x86_64-linux-gnu/include/asm-generic/bitsperlong.h	/usr/x86_64-linux-gnu/include/asm-generic/bitsperlong.h	bitsperlong	h	0
+/usr/x86_64-linux-gnu/include/asm/bitsperlong.h	/usr/x86_64-linux-gnu/include/asm/bitsperlong.h	bitsperlong	h	0
+/usr/x86_64-linux-gnu/include/asm-generic/posix_types.h	/usr/x86_64-linux-gnu/include/asm-generic/posix_types.h	posix_types	h	0
+/usr/x86_64-linux-gnu/include/asm/posix_types_64.h	/usr/x86_64-linux-gnu/include/asm/posix_types_64.h	posix_types_64	h	0
+/usr/x86_64-linux-gnu/include/asm/posix_types.h	/usr/x86_64-linux-gnu/include/asm/posix_types.h	posix_types	h	0
+/usr/x86_64-linux-gnu/include/linux/posix_types.h	/usr/x86_64-linux-gnu/include/linux/posix_types.h	posix_types	h	0
+/usr/x86_64-linux-gnu/include/asm-generic/sockios.h	/usr/x86_64-linux-gnu/include/asm-generic/sockios.h	sockios	h	0
+/usr/x86_64-linux-gnu/include/asm/sockios.h	/usr/x86_64-linux-gnu/include/asm/sockios.h	sockios	h	0
+/usr/x86_64-linux-gnu/include/asm-generic/socket.h	/usr/x86_64-linux-gnu/include/asm-generic/socket.h	socket	h	0
+/usr/x86_64-linux-gnu/include/asm/socket.h	/usr/x86_64-linux-gnu/include/asm/socket.h	socket	h	0
+/usr/x86_64-linux-gnu/include/bits/types/struct_osockaddr.h	/usr/x86_64-linux-gnu/include/bits/types/struct_osockaddr.h	struct_osockaddr	h	0
+/usr/x86_64-linux-gnu/include/bits/socket2.h	/usr/x86_64-linux-gnu/include/bits/socket2.h	socket2	h	0
+/usr/x86_64-linux-gnu/include/bits/in.h	/usr/x86_64-linux-gnu/include/bits/in.h	in	h	0
+/usr/x86_64-linux-gnu/include/arpa/inet.h	/usr/x86_64-linux-gnu/include/arpa/inet.h	inet	h	0
+/usr/x86_64-linux-gnu/include/sys/file.h	/usr/x86_64-linux-gnu/include/sys/file.h	file	h	0
+/opt/src/src/utf8.h	/opt/src/src/utf8.h	utf8	h	0
+/usr/x86_64-linux-gnu/include/net/if.h	/usr/x86_64-linux-gnu/include/net/if.h	if	h	0
+/opt/src/src/env_universal_common.cpp	/opt/src/src/env_universal_common.cpp	env_universal_common	cpp	0
+/opt/src/src/event.cpp	/opt/src/src/event.cpp	event	cpp	0
+/usr/x86_64-linux-gnu/include/spawn.h	/usr/x86_64-linux-gnu/include/spawn.h	spawn	h	0
+/usr/include/c++/9/stack	/usr/include/c++/9/stack	stack		0
+/opt/src/src/postfork.h	/opt/src/src/postfork.h	postfork	h	0
+/opt/src/src/timer.h	/opt/src/src/timer.h	timer	h	0
+/opt/src/src/trace.h	/opt/src/src/trace.h	trace	h	0
+/opt/src/src/exec.cpp	/opt/src/src/exec.cpp	exec	cpp	0
+/usr/x86_64-linux-gnu/include/libintl.h	/usr/x86_64-linux-gnu/include/libintl.h	libintl	h	0
+/opt/src/src/fallback.cpp	/opt/src/src/fallback.cpp	fallback	cpp	0
+/opt/src/src/fd_monitor.h	/opt/src/src/fd_monitor.h	fd_monitor	h	0
+/opt/src/src/fd_monitor.cpp	/opt/src/src/fd_monitor.cpp	fd_monitor	cpp	0
+/usr/x86_64-linux-gnu/include/bits/getopt_ext.h	/usr/x86_64-linux-gnu/include/bits/getopt_ext.h	getopt_ext	h	0
+/usr/x86_64-linux-gnu/include/getopt.h	/usr/x86_64-linux-gnu/include/getopt.h	getopt	h	0
+/opt/src/src/fish.cpp	/opt/src/src/fish.cpp	fish	cpp	0
+/opt/src/src/print_help.h	/opt/src/src/print_help.h	print_help	h	0
+/opt/src/src/fish_key_reader.cpp	/opt/src/src/fish_key_reader.cpp	fish_key_reader	cpp	0
+/opt/src/src/fish_test_helper.cpp	/opt/src/src/fish_test_helper.cpp	fish_test_helper	cpp	0
+/opt/src/_lgtm_build_dir/FISH-BUILD-VERSION-FILE	/opt/src/_lgtm_build_dir/FISH-BUILD-VERSION-FILE	FISH-BUILD-VERSION-FILE		0
+/opt/src/src/fish_version.cpp	/opt/src/src/fish_version.cpp	fish_version	cpp	0
+/opt/src/src/flog.cpp	/opt/src/src/flog.cpp	flog	cpp	0
+/opt/src/src/function.cpp	/opt/src/src/function.cpp	function	cpp	0
+/opt/src/src/future_feature_flags.cpp	/opt/src/src/future_feature_flags.cpp	future_feature_flags	cpp	0
+/opt/src/src/highlight.cpp	/opt/src/src/highlight.cpp	highlight	cpp	0
+/usr/x86_64-linux-gnu/include/sys/mman.h	/usr/x86_64-linux-gnu/include/sys/mman.h	mman	h	0
+/usr/x86_64-linux-gnu/include/bits/mman-map-flags-generic.h	/usr/x86_64-linux-gnu/include/bits/mman-map-flags-generic.h	mman-map-flags-generic	h	0
+/usr/x86_64-linux-gnu/include/bits/mman-shared.h	/usr/x86_64-linux-gnu/include/bits/mman-shared.h	mman-shared	h	0
+/usr/x86_64-linux-gnu/include/bits/mman-linux.h	/usr/x86_64-linux-gnu/include/bits/mman-linux.h	mman-linux	h	0
+/usr/x86_64-linux-gnu/include/bits/mman.h	/usr/x86_64-linux-gnu/include/bits/mman.h	mman	h	0
+/opt/src/src/history_file.h	/opt/src/src/history_file.h	history_file	h	0
+/opt/src/src/history_file.cpp	/opt/src/src/history_file.cpp	history_file	cpp	0
+/opt/src/src/input.cpp	/opt/src/src/input.cpp	input	cpp	0
+/opt/src/src/input_common.cpp	/opt/src/src/input_common.cpp	input_common	cpp	0
+/opt/src/src/intern.cpp	/opt/src/src/intern.cpp	intern	cpp	0
+/opt/src/src/io.cpp	/opt/src/src/io.cpp	io	cpp	0
+/opt/src/src/iothread.cpp	/opt/src/src/iothread.cpp	iothread	cpp	0
+/opt/src/src/kill.cpp	/opt/src/src/kill.cpp	kill	cpp	0
+/opt/src/src/null_terminated_array.cpp	/opt/src/src/null_terminated_array.cpp	null_terminated_array	cpp	0
+/opt/src/src/operation_context.cpp	/opt/src/src/operation_context.cpp	operation_context	cpp	0
+/opt/src/src/output.cpp	/opt/src/src/output.cpp	output	cpp	0
+/opt/src/src/pager.h	/opt/src/src/pager.h	pager	h	0
+/opt/src/src/pager.cpp	/opt/src/src/pager.cpp	pager	cpp	0
+/opt/src/src/parse_execution.cpp	/opt/src/src/parse_execution.cpp	parse_execution	cpp	0
+/opt/src/src/parse_tree.cpp	/opt/src/src/parse_tree.cpp	parse_tree	cpp	0
+/opt/src/src/parse_util.cpp	/opt/src/src/parse_util.cpp	parse_util	cpp	0
+/opt/src/src/parser.cpp	/opt/src/src/parser.cpp	parser	cpp	0
+/opt/src/src/sanity.h	/opt/src/src/sanity.h	sanity	h	0
+/opt/src/src/parser_keywords.cpp	/opt/src/src/parser_keywords.cpp	parser_keywords	cpp	0
+/opt/src/src/path.cpp	/opt/src/src/path.cpp	path	cpp	0
+/opt/src/src/postfork.cpp	/opt/src/src/postfork.cpp	postfork	cpp	0
+/opt/src/src/print_help.cpp	/opt/src/src/print_help.cpp	print_help	cpp	0
+/opt/src/src/proc.cpp	/opt/src/src/proc.cpp	proc	cpp	0
+/opt/src/src/kill.h	/opt/src/src/kill.h	kill	h	0
+/opt/src/src/redirection.cpp	/opt/src/src/redirection.cpp	redirection	cpp	0
+/opt/src/src/sanity.cpp	/opt/src/src/sanity.cpp	sanity	cpp	0
+/opt/src/src/screen.cpp	/opt/src/src/screen.cpp	screen	cpp	0
+/opt/src/src/signal.cpp	/opt/src/src/signal.cpp	signal	cpp	0
+/opt/src/src/termsize.cpp	/opt/src/src/termsize.cpp	termsize	cpp	0
+/opt/src/src/timer.cpp	/opt/src/src/timer.cpp	timer	cpp	0
+/usr/include/c++/9/math.h	/usr/include/c++/9/math.h	math	h	0
+/opt/src/src/tinyexpr.cpp	/opt/src/src/tinyexpr.cpp	tinyexpr	cpp	0
+/opt/src/src/tokenizer.cpp	/opt/src/src/tokenizer.cpp	tokenizer	cpp	0
+/opt/src/src/topic_monitor.cpp	/opt/src/src/topic_monitor.cpp	topic_monitor	cpp	0
+/opt/src/src/trace.cpp	/opt/src/src/trace.cpp	trace	cpp	0
+/opt/src/src/utf8.cpp	/opt/src/src/utf8.cpp	utf8	cpp	0
+/opt/src/src/util.cpp	/opt/src/src/util.cpp	util	cpp	0
+/usr/include/x86_64-linux-gnu/c++/9/bits/time_members.h	/usr/include/x86_64-linux-gnu/c++/9/bits/time_members.h	time_members	h	0
+/usr/include/x86_64-linux-gnu/c++/9/bits/messages_members.h	/usr/include/x86_64-linux-gnu/c++/9/bits/messages_members.h	messages_members	h	0
+/usr/include/c++/9/locale	/usr/include/c++/9/locale	locale		0
+/opt/src/src/wgetopt.cpp	/opt/src/src/wgetopt.cpp	wgetopt	cpp	0
+/opt/src/src/wildcard.cpp	/opt/src/src/wildcard.cpp	wildcard	cpp	0
+/usr/x86_64-linux-gnu/include/libgen.h	/usr/x86_64-linux-gnu/include/libgen.h	libgen	h	0
+/usr/x86_64-linux-gnu/include/bits/statfs.h	/usr/x86_64-linux-gnu/include/bits/statfs.h	statfs	h	0
+/usr/x86_64-linux-gnu/include/sys/statfs.h	/usr/x86_64-linux-gnu/include/sys/statfs.h	statfs	h	0
+/usr/x86_64-linux-gnu/include/sys/mount.h	/usr/x86_64-linux-gnu/include/sys/mount.h	mount	h	0
+/usr/x86_64-linux-gnu/include/bits/statvfs.h	/usr/x86_64-linux-gnu/include/bits/statvfs.h	statvfs	h	0
+/usr/x86_64-linux-gnu/include/sys/statvfs.h	/usr/x86_64-linux-gnu/include/sys/statvfs.h	statvfs	h	0
+/opt/src/_lgtm_build_dir/fish	/opt/src/_lgtm_build_dir/fish	fish		0
+/opt/src/_lgtm_build_dir/fish_indent	/opt/src/_lgtm_build_dir/fish_indent	fish_indent		0
+/opt/src/_lgtm_build_dir/fish_key_reader	/opt/src/_lgtm_build_dir/fish_key_reader	fish_key_reader		0
+/opt/src/_lgtm_build_dir/fish_test_helper	/opt/src/_lgtm_build_dir/fish_test_helper	fish_test_helper		0
