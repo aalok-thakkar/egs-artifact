@@ -1,0 +1,95 @@
+file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:23:16:23:16	int	double
+file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:24:13:24:16	int	double
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:16:21:16	int	long
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:22:22:22:22	int	unsigned int
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:13:23:13	int	unsigned int
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:25:21:25	int	long
+file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:37:309:37	int	unsigned long
+file:///usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:7:27:7:40	int	unsigned long
+file:///usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:7:27:7:40	unsigned long	unsigned long
+file:///usr/include/x86_64-linux-gnu/sys/select.h:67:41:67:49	int	int
+file:///usr/include/x86_64-linux-gnu/sys/select.h:67:41:67:49	unsigned long	int
+file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:17:309:18	int	unsigned long
+file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:15:16:15:16	long long	double
+file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:13:19:13:25	int	long long
+file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:9:22:9:24	int	double
+file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:5:15:5:17	int	float
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:16:23:16	unsigned int	long
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:24:16:24:16	unsigned int	long
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:17:14:17:15	int	double
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:9:22:9:24	int	double
+file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:9:15:9:24	double	float
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:35:15:35:21	int	float
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:27:12:27:32	int	long
+file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:19:16:19:23	int	int
+file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:19:16:19:23	int	double
+file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:5:21:5:28	int	float
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:35:25:35:33	int	float
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:31:14:31:29	int	long double
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:27:17:27:32	long	long double
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:9:21:9:31	double	double
+file:///usr/include/stdlib.h:472:53:472:53	_Complex long double	int
+file:///usr/include/stdlib.h:472:53:472:53	_Complex __float128	int
+file:///usr/include/stdlib.h:472:53:472:53	_Imaginary float	int
+file:///usr/include/stdlib.h:472:53:472:53	_Imaginary double	int
+file:///usr/include/stdlib.h:472:53:472:53	_Imaginary long double	int
+file:///usr/include/stdlib.h:468:51:468:51	double	int
+file:///usr/include/stdlib.h:468:51:468:51	float	int
+file:///usr/include/stdlib.h:468:51:468:51	long double	int
+file:///usr/include/stdlib.h:468:51:468:51	__float128	int
+file:///usr/include/stdlib.h:468:51:468:51	_Decimal32	int
+file:///usr/include/stdlib.h:468:51:468:51	_Decimal64	int
+file:///usr/include/stdlib.h:468:51:468:51	_Decimal128	int
+file:///usr/include/stdlib.h:468:51:468:51	_Float32	int
+file:///usr/include/stdlib.h:468:51:468:51	_Float32x	int
+file:///usr/include/stdlib.h:468:51:468:51	_Float64	int
+file:///usr/include/stdlib.h:468:51:468:51	_Float64x	int
+file:///usr/include/stdlib.h:468:51:468:51	_Float128	int
+file:///usr/include/stdlib.h:468:51:468:51	_Float128x	int
+file:///usr/include/stdlib.h:468:51:468:51	_Complex float	int
+file:///usr/include/stdlib.h:468:51:468:51	_Complex double	int
+file:///usr/include/stdlib.h:468:51:468:51	_Complex long double	int
+file:///usr/include/stdlib.h:468:51:468:51	_Complex __float128	int
+file:///usr/include/stdlib.h:468:51:468:51	_Imaginary float	int
+file:///usr/include/stdlib.h:468:51:468:51	_Imaginary double	int
+file:///usr/include/stdlib.h:468:51:468:51	_Imaginary long double	int
+file:///usr/include/stdlib.h:493:32:493:32	double	int
+file:///usr/include/stdlib.h:493:32:493:32	float	int
+file:///usr/include/stdlib.h:493:32:493:32	long double	int
+file:///usr/include/stdlib.h:493:32:493:32	__float128	int
+file:///usr/include/stdlib.h:493:32:493:32	_Decimal32	int
+file:///usr/include/stdlib.h:493:32:493:32	_Decimal64	int
+file:///usr/include/stdlib.h:493:32:493:32	_Decimal128	int
+file:///usr/include/stdlib.h:493:32:493:32	_Float32	int
+file:///usr/include/stdlib.h:493:32:493:32	_Float32x	int
+file:///usr/include/stdlib.h:493:32:493:32	_Float64	int
+file:///usr/include/stdlib.h:493:32:493:32	_Float64x	int
+file:///usr/include/stdlib.h:493:32:493:32	_Float128	int
+file:///usr/include/stdlib.h:493:32:493:32	_Float128x	int
+file:///usr/include/stdlib.h:493:32:493:32	_Complex float	int
+file:///usr/include/stdlib.h:493:32:493:32	_Complex double	int
+file:///usr/include/stdlib.h:493:32:493:32	_Complex long double	int
+file:///usr/include/stdlib.h:493:32:493:32	_Complex __float128	int
+file:///usr/include/stdlib.h:493:32:493:32	_Imaginary float	int
+file:///usr/include/stdlib.h:493:32:493:32	_Imaginary double	int
+file:///usr/include/stdlib.h:493:32:493:32	_Imaginary long double	int
+file:///usr/include/stdlib.h:492:28:492:28	double	int
+file:///usr/include/stdlib.h:492:28:492:28	float	int
+file:///usr/include/stdlib.h:492:28:492:28	long double	int
+file:///usr/include/stdlib.h:492:28:492:28	__float128	int
+file:///usr/include/stdlib.h:492:28:492:28	_Decimal32	int
+file:///usr/include/stdlib.h:492:28:492:28	_Decimal64	int
+file:///usr/include/stdlib.h:492:28:492:28	_Decimal128	int
+file:///usr/include/stdlib.h:492:28:492:28	_Float32	int
+file:///usr/include/stdlib.h:492:28:492:28	_Float32x	int
+file:///usr/include/stdlib.h:492:28:492:28	_Float64	int
+file:///usr/include/stdlib.h:492:28:492:28	_Float64x	int
+file:///usr/include/stdlib.h:492:28:492:28	_Float128	int
+file:///usr/include/stdlib.h:492:28:492:28	_Float128x	int
+file:///usr/include/stdlib.h:492:28:492:28	_Complex float	int
+file:///usr/include/stdlib.h:492:28:492:28	_Complex double	int
+file:///usr/include/stdlib.h:492:28:492:28	_Complex long double	int
+file:///usr/include/stdlib.h:492:28:492:28	_Complex __float128	int
+file:///usr/include/stdlib.h:492:28:492:28	_Imaginary float	int
+file:///usr/include/stdlib.h:492:28:492:28	_Imaginary double	int
+file:///usr/include/stdlib.h:492:28:492:28	_Imaginary long double	int

@@ -1,0 +1,15 @@
+x	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:23:12:23:12	double	x
+x	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:13:15:13:15	long long	x
+x	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:31:10:31:10	char	x
+x	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:17:10:17:10	long	x
+x	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:9:10:9:10	char	x
+x	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:5:9:5:9	int	x
+avg	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:10:21:12	long	avg
+num	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:19:21:21	long	num
+i	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:22:18:22:18	unsigned int	i
+n	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:19:12:19:12	double	n
+z	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:15:12:15:12	double	z
+z	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:5:11:5:11	float	z
+z	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:35:11:35:11	short	z
+f	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:9:11:9:11	float	f
+d	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:13:15:13:15	long long	d

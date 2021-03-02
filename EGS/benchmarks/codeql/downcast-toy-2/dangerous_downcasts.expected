@@ -1,0 +1,7 @@
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:13:19:13:38	double	long long
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:17:14:17:20	double	long
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:35:15:35:33	float	short
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:27:12:27:32	long double	int
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:5:13:5:22	double	int
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:31:14:31:29	long double	char
+file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:9:14:9:31	double	char

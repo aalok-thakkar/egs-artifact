@@ -1,0 +1,34 @@
+__va_list_tag
+struct <unnamed>
+_IO_FILE
+struct <unnamed>
+union <unnamed>
+struct <unnamed>
+struct <unnamed>
+_IO_marker
+struct <unnamed>
+timeval
+timespec
+struct <unnamed>
+__pthread_rwlock_arch_t
+__pthread_internal_list
+__pthread_cond_s
+union <unnamed>
+struct <unnamed>
+struct <unnamed>
+union <unnamed>
+__pthread_mutex_s
+pthread_attr_t
+union <unnamed>
+union <unnamed>
+union <unnamed>
+union <unnamed>
+union <unnamed>
+union <unnamed>
+union <unnamed>
+union <unnamed>
+struct <unnamed>
+struct <unnamed>
+struct <unnamed>
+drand48_data
+random_data

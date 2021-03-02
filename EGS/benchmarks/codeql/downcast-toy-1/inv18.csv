@@ -1,0 +1,126 @@
+0	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:23:16:23:16	int	1
+0	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:24:13:24:16	int	1
+0	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:16:21:16	int	1
+0	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:22:22:22:22	int	1
+0	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:13:23:13	int	1
+0	file://:0:0:0:0	int	1
+0	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:19:22:19:22	int	1
+0	file:///home/aadityanaik/codeql-exploration/sample-code/main.c:19:12:19:12	int	1
+(long)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:16:21:16	int	1
+(long)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:16:21:16	long	1
+(long)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:25:21:25	int	1
+(long)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:25:21:25	long	1
+(long)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:16:23:16	unsigned int	1
+(long)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:16:23:16	long	1
+(long)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:24:16:24:16	unsigned int	1
+(long)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:24:16:24:16	long	1
+(long)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:17:14:17:20	long	1
+(long)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:27:12:27:32	int	1
+(long)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:27:12:27:32	long	1
+(unsigned int)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:22:22:22:22	int	1
+(unsigned int)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:22:22:22:22	unsigned int	1
+(unsigned int)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:13:23:13	int	1
+(unsigned int)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:13:23:13	unsigned int	1
+5	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:25:21:25	int	1
+4	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:37:309:37	int	1
+4	file:///usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:19:17:19:17	int	1
+4	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:116:15:116:44	int	1
+4	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:43:15:43:41	int	1
+4	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:34:15:34:42	int	1
+(unsigned long)...	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:37:309:37	int	1
+(unsigned long)...	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:37:309:37	unsigned long	1
+(unsigned long)...	file:///usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:7:27:7:40	int	1
+(unsigned long)...	file:///usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:7:27:7:40	unsigned long	1
+(unsigned long)...	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:17:309:18	int	1
+(unsigned long)...	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:17:309:18	unsigned long	1
+3	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:5:28:5:28	int	1
+3	file://:0:0:0:0	int	1
+3	file:///usr/include/stdlib.h:529:51:529:51	int	1
+3	file:///usr/include/stdlib.h:520:50:520:50	int	1
+3	file:///usr/include/stdlib.h:511:50:511:50	int	1
+3	file:///usr/include/stdlib.h:503:50:503:50	int	1
+3	file:///usr/include/stdlib.h:482:65:482:65	int	1
+3	file:///usr/include/stdlib.h:477:53:477:53	int	1
+3	file:///usr/include/stdlib.h:472:53:472:53	int	1
+3	file:///usr/include/stdlib.h:468:51:468:51	int	1
+3	file:///usr/include/stdlib.h:493:32:493:32	int	1
+3	file:///usr/include/stdlib.h:492:28:492:28	int	1
+8	file:///usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:7:27:7:40	int	1
+8	file:///usr/include/x86_64-linux-gnu/sys/select.h:67:41:67:49	int	1
+8	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:95:15:95:43	int	1
+1024	file:///usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:7:27:7:40	int	1
+1024	file:///usr/include/x86_64-linux-gnu/sys/select.h:67:26:67:37	int	1
+15	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:17:309:18	int	1
+x	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:15:16:15:16	long long	1
+1000000	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:13:19:13:25	int	1
+(long long)...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:13:19:13:25	int	1
+(long long)...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:13:19:13:25	long long	1
+(long long)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:13:19:13:38	long long	1
+100	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:9:22:9:24	int	1
+200	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:5:15:5:17	int	1
+num	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:27:30:27:32	long	1
+num	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:27:17:27:32	long	1
+num	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:20:23:22	long	1
+(long double)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:27:30:27:32	long	1
+(long double)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:27:12:27:32	long double	1
+i	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:16:23:16	unsigned int	1
+i	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:24:16:24:16	unsigned int	1
+i	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:9:23:9	unsigned int	3
+i	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:25:23:25	unsigned int	3
+10	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:17:14:17:15	int	1
+10000000.19184769318	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:13:19:13:38	double	1
+203	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:9:22:9:24	int	1
+1.004999999999999893	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:5:13:5:22	double	1
+(int)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:5:13:5:22	int	1
+(int)...	file:///usr/include/x86_64-linux-gnu/sys/select.h:67:41:67:49	int	1
+(int)...	file:///usr/include/x86_64-linux-gnu/sys/select.h:67:41:67:49	unsigned long	1
+(int)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:27:12:27:32	int	1
+(int)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:27:12:27:32	long double	1
+... * ...	file:///usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:7:27:7:40	unsigned long	1
+... * ...	file:///usr/include/x86_64-linux-gnu/sys/select.h:67:41:67:49	int	1
+... * ...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:17:14:17:20	double	1
+... * ...	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:17:309:33	unsigned long	1
+... * ...	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:37:309:55	unsigned long	1
+(...)	file:///usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:7:27:7:40	unsigned long	1
+(...)	file:///usr/include/x86_64-linux-gnu/sys/select.h:67:41:67:49	int	1
+(...)	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:19:17:19:22	int	1
+(...)	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:19:16:19:23	int	1
+(...)	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:9:14:9:31	double	1
+... / ...	file:///usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:7:27:7:40	unsigned long	1
+... / ...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:9:21:9:31	double	1
+... / ...	file:///usr/include/x86_64-linux-gnu/sys/select.h:67:26:67:49	int	1
+... != ...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:19:17:19:22	int	1
+... != ...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:19:16:19:23	int	1
+(char)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:9:14:9:31	char	1
+sizeof(__fd_mask)	file:///usr/include/x86_64-linux-gnu/sys/select.h:67:41:67:49	unsigned long	1
+1	file://:0:0:0:0	int	1
+1	file:///usr/include/x86_64-linux-gnu/bits/libio.h:280:18:280:18	int	1
+1	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:19:17:19:17	int	1
+7	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:81:24:81:24	int	1
+7	file:///usr/include/stdlib.h:532:50:532:50	int	1
+7	file:///usr/include/stdlib.h:484:49:484:49	int	1
+2	file://:0:0:0:0	int	1
+2	file:///usr/include/x86_64-linux-gnu/bits/types.h:143:12:143:24	int	1
+2	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:175:28:175:28	int	1
+2	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:172:25:172:25	int	1
+2	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:171:25:171:25	int	1
+32	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:110:15:110:40	int	1
+__bsx	file:///usr/include/x86_64-linux-gnu/bits/byteswap.h:47:29:47:33	unsigned int	1
+48	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:78:15:78:37	int	1
+56	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:89:15:89:39	int	1
+56	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:58:15:58:37	int	1
+40	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:70:15:70:38	int	1
+avg	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:24:9:24:11	long	3
+avg	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:27:5:27:7	long	3
+... = ...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:9:23:13	unsigned int	1
+... += ...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:24:9:24:16	long	1
+... /= ...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:27:5:27:32	long	1
+... - ...	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:17:309:55	unsigned long	1
+... - ...	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:17:309:73	unsigned long	1
+... == ...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:24:8:24:16	int	1
+... < ...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:16:23:22	int	1
+sizeof(int)	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:22:309:33	unsigned long	1
+sizeof(unsigned long)	file:///usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:7:27:7:40	unsigned long	1
+sizeof(void *)	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:41:309:55	unsigned long	1
+sizeof(size_t)	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:59:309:73	unsigned long	1
+... ++	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:25:23:27	unsigned int	1

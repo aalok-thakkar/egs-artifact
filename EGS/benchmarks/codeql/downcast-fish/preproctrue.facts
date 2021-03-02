@@ -1,0 +1,2895 @@
+#ifndef _STL_PAIR_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus > 201402L || !defined(__STRICT_ANSI__)
+#if __cplusplus > 201402L || !defined(__STRICT_ANSI__)
+#if __cplusplus >= 201103L
+#ifndef _STL_ITERATOR_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _STL_ALGOBASE_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _BASIC_STRING_H
+#if __cplusplus >= 201103L
+#if _GLIBCXX_USE_CXX11_ABI
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if __cplusplus >= 201103L
+#if _GLIBCXX_USE_C99_STDLIB
+#if _GLIBCXX_USE_C99_STDIO
+#if defined(_GLIBCXX_USE_WCHAR_T) && _GLIBCXX_USE_C99_WCHAR
+#ifndef _GLIBCXX_HAVE_BROKEN_VSWPRINTF
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_COMPATIBILITY_CXX0X
+#ifdef _GLIBCXX_USE_WCHAR_T
+#ifndef _GLIBCXX_ARRAY
+#if __cplusplus > 201402L || !defined(__STRICT_ANSI__)
+#if __cplusplus > 201402L || !defined(__STRICT_ANSI__)
+#ifndef _UNIQUE_PTR_H
+#if _GLIBCXX_USE_DEPRECATED
+#if _GLIBCXX_USE_DEPRECATED
+#if __cplusplus > 201402L || !defined(__STRICT_ANSI__)
+#if __cplusplus > 201402L || !defined(__STRICT_ANSI__)
+#ifndef _STL_VECTOR_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if !_GLIBCXX_INLINE_VERSION
+#if __cplusplus >= 201103L
+#if !_GLIBCXX_INLINE_VERSION
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef FISH_MAYBE_H
+#ifndef FISH_COMMON_H
+#ifdef HAVE_SYS_IOCTL_H
+#if 3 < __GNUC__ + (4 <= __GNUC_MINOR__)
+#ifndef CONST_WCSTRING_HASH
+#ifndef FISH_GLOBAL_SAFETY_H
+#ifndef FISH_AST_H
+#ifndef ELEMLIST
+#ifndef ELEMLIST
+#ifndef _DARWIN_USE_64_BIT_INODE
+#if __GNUC__ >= 3
+#ifndef __warn_unused
+#if defined __x86_64__ && !defined __ILP32__
+#ifdef __x86_64__
+#ifndef _SYS_CDEFS_H
+#ifdef __GNUC__
+#if __GNUC_PREREQ (4, 6) && !defined _LIBC
+#if defined __cplusplus && __GNUC_PREREQ (2,8)
+#ifdef __cplusplus
+#if __GNUC_PREREQ (4,3)
+#elif __GNUC_PREREQ (2,97)
+#if defined __GNUC__ && __GNUC__ >= 2
+#ifdef __cplusplus
+#if __GNUC_PREREQ (2,96)
+#if __GNUC_PREREQ (4, 3)
+#if __GNUC_PREREQ (2,96)
+#if __GNUC_PREREQ (2,5)
+#if __GNUC_PREREQ (3,1)
+#if __GNUC_PREREQ (3,2)
+#if __GNUC_PREREQ (4,5) \
+#if __GNUC_PREREQ (2,8)
+#if __GNUC_PREREQ (2,97)
+#if __GNUC_PREREQ (3,3)
+#if __GNUC_PREREQ (3,4)
+#if __USE_FORTIFY_LEVEL > 0
+#if __GNUC_PREREQ (3,2)
+#if __GNUC_PREREQ (4,3)
+#if (!defined __cplusplus || __GNUC_PREREQ (4,3) \
+#if defined __GNUC_STDC_INLINE__ || defined __cplusplus
+#ifdef __extern_always_inline
+#if __GNUC_PREREQ (4,3)
+#ifdef __GNUC__
+#if __GNUC__ >= 3
+#ifdef __has_include
+#if __GNUC_PREREQ (8, 0)
+#if __GNUC_PREREQ (9, 0)
+#if !defined __LDBL_COMPAT || !defined __REDIRECT
+#ifdef __REDIRECT
+#if __GNUC_PREREQ (4,8) || __glibc_clang_prereq (3,5)
+#if defined __x86_64__ && defined __LP64__
+#ifndef _FEATURES_H
+#ifndef _LOOSE_KERNEL_NAMES
+#if defined __GNUC__ && defined __GNUC_MINOR__
+#ifdef _GNU_SOURCE
+"#if (defined _DEFAULT_SOURCE					\"
+#if (defined _ISOC11_SOURCE \
+#if (defined _ISOC99_SOURCE || defined _ISOC11_SOURCE \
+#if (defined _ISOC99_SOURCE || defined _ISOC11_SOURCE \
+#ifdef __cplusplus
+#if __cplusplus >= 201103L || defined __GXX_EXPERIMENTAL_CXX0X__
+#ifdef _DEFAULT_SOURCE
+"#if (defined _POSIX_SOURCE					\"
+#if defined _POSIX_C_SOURCE && _POSIX_C_SOURCE >= 2 || defined _XOPEN_SOURCE
+#if defined _POSIX_C_SOURCE && (_POSIX_C_SOURCE - 0) >= 199309L
+#if defined _POSIX_C_SOURCE && (_POSIX_C_SOURCE - 0) >= 199506L
+#if defined _POSIX_C_SOURCE && (_POSIX_C_SOURCE - 0) >= 200112L
+#if defined _POSIX_C_SOURCE && (_POSIX_C_SOURCE - 0) >= 200809L
+#ifdef _XOPEN_SOURCE
+#if (_XOPEN_SOURCE - 0) >= 500
+#if (_XOPEN_SOURCE - 0) >= 600
+#if (_XOPEN_SOURCE - 0) >= 700
+#ifdef _LARGEFILE_SOURCE
+#ifdef _LARGEFILE64_SOURCE
+#if defined _DEFAULT_SOURCE
+#ifdef _ATFILE_SOURCE
+#ifdef _GNU_SOURCE
+#if defined _FORTIFY_SOURCE && _FORTIFY_SOURCE > 0 \
+#if _FORTIFY_SOURCE > 1
+#ifndef __ASSEMBLER__
+#ifndef _SYS_CDEFS_H
+#if __GNUC_PREREQ (2, 7) && defined __OPTIMIZE__ \
+#ifndef _GLIBCXX_OS_DEFINES
+#if __GLIBC_PREREQ(2,15) && defined(_GNU_SOURCE)
+#ifndef _GLIBCXX_CPU_DEFINES
+#ifndef _GLIBCXX_CXX_CONFIG_H
+#ifndef _GLIBCXX_PURE
+#ifndef _GLIBCXX_CONST
+#ifndef _GLIBCXX_NORETURN
+#ifndef _GLIBCXX_NOTHROW
+#if _GLIBCXX_HAVE_ATTRIBUTE_VISIBILITY
+#ifndef _GLIBCXX_USE_DEPRECATED
+#if defined(__DEPRECATED) && (__cplusplus >= 201103L)
+#ifndef _GLIBCXX_ABI_TAG_CXX11
+#if __cplusplus
+#ifndef _GLIBCXX_CONSTEXPR
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX14_CONSTEXPR
+#ifndef _GLIBCXX17_CONSTEXPR
+#ifndef _GLIBCXX20_CONSTEXPR
+#ifndef _GLIBCXX17_INLINE
+#ifndef _GLIBCXX_NOEXCEPT
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_NOTHROW
+#ifndef _GLIBCXX_THROW_OR_ABORT
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_USE_CXX11_ABI
+#if _GLIBCXX_USE_CXX11_ABI
+#if _GLIBCXX_USE_CXX11_ABI
+#ifndef _GLIBCXX_SYNCHRONIZATION_HAPPENS_BEFORE
+#ifndef _GLIBCXX_SYNCHRONIZATION_HAPPENS_AFTER
+#ifndef _GLIBCXX_PSEUDO_VISIBILITY
+#ifndef _GLIBCXX_WEAK_DEFINITION
+#ifndef _GLIBCXX_USE_WEAK_REF
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_USE_C99_MATH
+#ifndef _GLIBCXX_USE_C99_COMPLEX
+#ifndef _GLIBCXX_USE_C99_STDIO
+#ifndef _GLIBCXX_USE_C99_STDLIB
+#ifndef _GLIBCXX_USE_C99_WCHAR
+#ifndef _GLIBCXX_USE_CHAR8_T
+#if defined(__FLOAT128__) || defined(__SIZEOF_FLOAT128__)
+#if __GNUC__ >= 7
+#if __GNUC__ >= 9
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifdef _ASSERT_H
+#ifdef __USE_GNU
+#if defined __cplusplus && __GNUC_PREREQ (2,95)
+#ifndef _ASSERT_H_DECLS
+#if defined __cplusplus
+#ifdef __USE_GNU
+#if defined __cplusplus ? __GNUC_PREREQ (2, 6) : __GNUC_PREREQ (2, 4)
+#ifndef _EXCEPTION_DEFINES_H
+#if ! __cpp_exceptions
+#ifndef _FUNCTEXCEPT_H
+#ifndef _CPP_TYPE_TRAITS_H
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if __cplusplus >= 201103L
+#ifdef __GLIBCXX_TYPE_INT_N_0
+#ifdef _GLIBCXX_USE_WCHAR_T
+#ifndef _EXT_TYPE_TRAITS
+#if __cplusplus >= 201103L
+#ifndef _EXT_NUMERIC_TRAITS
+#ifndef _CONCEPT_CHECK_H
+#if !defined(_GLIBCXX_CONCEPT_CHECKS) || !_GLIBCXX_HOSTED
+#ifndef _GLIBCXX_TYPE_TRAITS
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if defined(__GLIBCXX_TYPE_INT_N_0)
+#if !defined(__STRICT_ANSI__) && defined(_GLIBCXX_USE_FLOAT128) && !defined(__CUDACC__)
+#if defined(__GLIBCXX_TYPE_INT_N_0)
+#if defined(_GLIBCXX_USE_WCHAR_T)
+#if defined(__GLIBCXX_TYPE_INT_N_0)
+#if defined(_GLIBCXX_USE_WCHAR_T)
+#if __cplusplus >= 201703L || !defined(__STRICT_ANSI__)
+#if __cplusplus > 201402L || !defined(__STRICT_ANSI__)
+#ifndef _MOVE_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _STL_ITERATOR_BASE_TYPES_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_DEBUG_ASSERTIONS_H
+#ifndef _GLIBCXX_DEBUG
+#ifndef _GLIBCXX_ASSERTIONS
+#ifndef _STL_ITERATOR_BASE_FUNCS_H
+#if _GLIBCXX_USE_CXX11_ABI
+#if __cplusplus >= 201103L
+#ifndef _PTR_TRAITS_H
+#if __cplusplus >= 201103L
+#if __cplusplus <= 201703L
+#ifndef _GLIBCXX_DEBUG_MACRO_SWITCH_H
+#ifndef _GLIBCXX_DEBUG
+#ifndef _GLIBCXX_PREDEFINED_OPS_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef __EXCEPTION_H
+#if __cplusplus >= 201103L
+#if (!defined(_STDDEF_H) && !defined(_STDDEF_H_) && !defined(_ANSI_STDDEF_H) \
+"#if (!defined(__need_wchar_t) && !defined(__need_size_t)	\"
+#ifndef __sys_stdtypes_h
+#if defined (_STDDEF_H) || defined (__need_ptrdiff_t)
+#ifndef _PTRDIFF_T
+#ifndef _T_PTRDIFF_
+#ifndef _T_PTRDIFF
+#ifndef __PTRDIFF_T
+#ifndef _PTRDIFF_T_
+#ifndef _BSD_PTRDIFF_T_
+#ifndef ___int_ptrdiff_t_h
+#ifndef _GCC_PTRDIFF_T
+#ifndef _PTRDIFF_T_DECLARED
+#if defined (_STDDEF_H) || defined (__need_size_t)
+#ifndef __size_t__
+#ifndef __SIZE_T__
+#ifndef _SIZE_T
+#ifndef _SYS_SIZE_T_H
+#ifndef _T_SIZE_
+#ifndef _T_SIZE
+#ifndef __SIZE_T
+#ifndef _SIZE_T_
+#ifndef _BSD_SIZE_T_
+#ifndef _SIZE_T_DEFINED_
+#ifndef _SIZE_T_DEFINED
+#ifndef _BSD_SIZE_T_DEFINED_
+#ifndef _SIZE_T_DECLARED
+#ifndef ___int_size_t_h
+#ifndef _GCC_SIZE_T
+#ifndef _SIZET_
+#ifndef __size_t
+#if !(defined (__GNUG__) && defined (size_t))
+#if defined (_STDDEF_H) || defined (__need_wchar_t)
+#ifndef __wchar_t__
+#ifndef __WCHAR_T__
+#if defined (_STDDEF_H) || defined (__need_NULL)
+#ifdef __GNUG__
+#ifdef _STDDEF_H
+#if (defined (__STDC_VERSION__) && __STDC_VERSION__ >= 201112L) \
+#ifndef _GCC_MAX_ALIGN_T
+#if defined(__cplusplus) && __cplusplus >= 201103L
+#ifndef _GXX_NULLPTR_T
+#ifndef _CXXABI_INIT_EXCEPTION_H
+#ifndef _GLIBCXX_CDTOR_CALLABI
+#ifdef __cplusplus
+#ifndef _HASH_BYTES_H
+#ifndef _TYPEINFO
+#if __cplusplus >= 201103L
+#ifndef __GXX_MERGED_TYPEINFO_NAMES
+#ifndef __GXX_TYPEINFO_EQUALITY_INLINE
+#if !__GXX_MERGED_TYPEINFO_NAMES
+#if __cplusplus >= 201103L
+#if !__GXX_MERGED_TYPEINFO_NAMES
+#ifndef _NEW
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _EXCEPTION_PTR_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_NESTED_EXCEPTION_H
+#ifndef __EXCEPTION__
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201703L || !defined(__STRICT_ANSI__)
+#if (__cplusplus >= 201103L)
+#ifndef _NEW_ALLOCATOR_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __PTRDIFF_MAX__ < __SIZE_MAX__
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_CXX_ALLOCATOR_H
+#if __cplusplus >= 201103L
+#ifndef _MEMORYFWD_H
+#ifndef _ALLOCATOR_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if _GLIBCXX_EXTERN_TEMPLATE
+#if __cplusplus >= 201103L
+#ifndef _ALLOC_TRAITS_H
+#if __cplusplus >= 201103L
+#ifndef _EXT_ALLOC_TRAITS_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _STL_CONSTRUCT_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _STL_UNINITIALIZED_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _STL_TEMPBUF_H
+#ifndef _STL_RAW_STORAGE_ITERATOR_H
+#if __cplusplus >= 201103L
+#ifndef _STRINGFWD_H
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if __cplusplus >= 201103L
+"#if (defined __USE_GNU							\"
+#if defined __USE_GNU || defined __STDC_WANT_IEC_60559_BFP_EXT__
+#if defined __USE_GNU || defined __STDC_WANT_IEC_60559_FUNCS_EXT__
+#if defined __USE_GNU || defined __STDC_WANT_IEC_60559_TYPES_EXT__
+#ifndef _BITS_FLOATN_COMMON_H
+#ifndef __ASSEMBLER__
+#if __HAVE_FLOAT32
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus
+#if __HAVE_FLOAT64
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus
+#if __HAVE_FLOAT32X
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus
+#if __HAVE_FLOAT64X
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus
+#if __HAVE_FLOAT64X_LONG_DOUBLE
+#if __HAVE_FLOAT32
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus
+#if __HAVE_FLOAT64
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus
+#if __HAVE_FLOAT32X
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus
+#if __HAVE_FLOAT64X
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus
+#if __HAVE_FLOAT64X_LONG_DOUBLE
+#if __HAVE_FLOAT32
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus
+#if __HAVE_FLOAT64
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus
+#if __HAVE_FLOAT32X
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus
+#if __HAVE_FLOAT64X
+#if __HAVE_FLOAT64X_LONG_DOUBLE
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus
+#ifndef _BITS_FLOATN_H
+"#if (defined __x86_64__							\"
+#if __HAVE_FLOAT128
+#ifndef __ASSEMBLER__
+#if __HAVE_FLOAT128
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus
+#if __HAVE_FLOAT128
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus
+#if __HAVE_FLOAT128
+#if !__GNUC_PREREQ (7, 0) || defined __cplusplus
+#ifndef _STDARG_H
+#ifndef _ANSI_STDARG_H_
+#ifndef __need___va_list
+#ifndef __GNUC_VA_LIST
+#ifdef _STDARG_H
+#if !defined(__STRICT_ANSI__) || __STDC_VERSION__ + 0 >= 199900L \
+#if !defined (_VA_LIST_) || defined (__BSD_NET2__) || defined (____386BSD____) || defined (__bsdi__) || defined (__sequent__) || defined (__FreeBSD__) || defined(WINNT)
+#ifndef _VA_LIST_DEFINED
+#ifndef _VA_LIST
+#ifndef _VA_LIST_T_H
+#ifndef __va_list__
+#if !(defined (__BSD_NET2__) || defined (____386BSD____) || defined (__bsdi__) || defined (__sequent__) || defined (__FreeBSD__))
+#ifndef _VA_LIST
+#ifndef _VA_LIST_DEFINED
+#ifndef _VA_LIST_T_H
+#ifndef __va_list__
+#ifndef _BITS_WCHAR_H
+#ifdef __WCHAR_MAX__
+#ifdef __WCHAR_MIN__
+#ifndef __wint_t_defined
+#ifndef _WINT_T
+#ifndef ____mbstate_t_defined
+#ifndef __mbstate_t_defined
+#ifndef ____FILE_defined
+#ifndef __FILE_defined
+#ifndef _BITS_TYPES___LOCALE_T_H
+#ifndef _BITS_TYPES_LOCALE_T_H
+#ifdef __USE_GNU
+#ifdef __va_arg_pack
+#if __USE_FORTIFY_LEVEL > 1
+#ifdef __va_arg_pack
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifndef _WCHAR_H
+#if defined __USE_UNIX98 || defined __USE_XOPEN2K
+#ifdef __USE_XOPEN2K8
+#if defined __cplusplus && __GNUC_PREREQ (4, 4)
+#ifndef WCHAR_MIN
+#ifndef WEOF
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_XOPEN2K8
+#ifdef __CORRECT_ISO_CPP_WCHAR_H_PROTO
+#ifdef __CORRECT_ISO_CPP_WCHAR_H_PROTO
+#ifdef __USE_GNU
+#ifdef __CORRECT_ISO_CPP_WCHAR_H_PROTO
+#ifdef __CORRECT_ISO_CPP_WCHAR_H_PROTO
+#ifdef __USE_XOPEN
+#ifdef __CORRECT_ISO_CPP_WCHAR_H_PROTO
+#ifdef __USE_XOPEN2K8
+#ifdef __CORRECT_ISO_CPP_WCHAR_H_PROTO
+#ifdef __USE_GNU
+#ifdef __USE_EXTERN_INLINES
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_XOPEN
+#ifdef __USE_ISOC99
+#if __HAVE_FLOAT32 && defined __USE_GNU
+#if __HAVE_FLOAT64 && defined __USE_GNU
+#if __HAVE_FLOAT128 && defined __USE_GNU
+#if __HAVE_FLOAT32X && defined __USE_GNU
+#if __HAVE_FLOAT64X && defined __USE_GNU
+#ifdef __USE_ISOC99
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#if __HAVE_FLOAT32
+#if __HAVE_FLOAT64
+#if __HAVE_FLOAT128
+#if __HAVE_FLOAT32X
+#if __HAVE_FLOAT64X
+#ifdef __USE_XOPEN2K8
+#if defined __USE_XOPEN2K8 || __GLIBC_USE (LIB_EXT2)
+#if defined __USE_ISOC95 || defined __USE_UNIX98
+#if !__GLIBC_USE (DEPRECATED_SCANF) && !defined __LDBL_COMPAT
+#ifdef __REDIRECT
+#ifdef __USE_ISOC99
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#if __USE_FORTIFY_LEVEL > 0 && defined __fortify_function
+#if _GLIBCXX_HAVE_WCHAR_H
+#ifndef _GLIBCXX_CWCHAR
+#if _GLIBCXX_HAVE_VFWSCANF
+#if _GLIBCXX_HAVE_VSWSCANF
+#if _GLIBCXX_HAVE_VWSCANF
+#if _GLIBCXX_HAVE_WCSTOF
+#if _GLIBCXX_USE_WCHAR_T
+#ifndef _GLIBCXX_HAVE_BROKEN_VSWPRINTF
+#if _GLIBCXX_HAVE_VFWSCANF
+#ifndef _GLIBCXX_HAVE_BROKEN_VSWPRINTF
+#if _GLIBCXX_HAVE_VSWSCANF
+#if _GLIBCXX_HAVE_VWSCANF
+#if _GLIBCXX_HAVE_WCSTOF
+#if _GLIBCXX_USE_C99_WCHAR
+#if !_GLIBCXX_USE_C99_DYNAMIC
+#if !_GLIBCXX_USE_C99_LONG_LONG_DYNAMIC
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if _GLIBCXX_HAVE_WCSTOF
+#if _GLIBCXX_HAVE_VFWSCANF
+#if _GLIBCXX_HAVE_VSWSCANF
+#if _GLIBCXX_HAVE_VWSCANF
+#if _GLIBCXX_USE_C99_WCHAR
+#ifndef _GLIBCXX_POSTYPES_H
+#ifdef _GLIBCXX_HAVE_INT64_T_LONG
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_IOSFWD
+#ifdef _GLIBCXX_USE_WCHAR_T
+#ifndef _BITS_TYPESIZES_H
+#ifdef __x86_64__
+#ifdef __x86_64__
+#ifndef _BITS_TIME64_H
+#if __TIMESIZE == 64
+#ifndef _BITS_TYPES_H
+#if __WORDSIZE == 64
+#if __WORDSIZE == 64
+#if __WORDSIZE == 64
+#elif __WORDSIZE == 64
+#ifndef _BITS_BYTESWAP_H
+#if __GNUC_PREREQ (4, 8)
+#if __GNUC_PREREQ (4, 3)
+#if __GNUC_PREREQ (4, 3)
+#ifndef _BITS_UINTN_IDENTITY_H
+#ifndef _ENDIAN_H
+#ifndef __FLOAT_WORD_ORDER
+#ifdef __USE_MISC
+#if __BYTE_ORDER == __LITTLE_ENDIAN
+#if defined __USE_MISC && !defined __ASSEMBLER__
+#if __BYTE_ORDER == __LITTLE_ENDIAN
+#ifndef __time_t_defined
+#ifndef _STRUCT_TIMESPEC
+#ifndef _BITS_TYPES_STRUCT_SCHED_PARAM
+#ifndef _BITS_SCHED_H
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifndef _BITS_CPU_SET_H
+#if __GNUC_PREREQ (2, 91)
+#if __GNUC_PREREQ (2, 91)
+#ifndef _SCHED_H
+#ifndef __pid_t_defined
+#ifdef __USE_GNU
+#ifndef __timeval_defined
+#ifndef _BITS_TIMEX_H
+#ifndef _BITS_TIME_H
+#ifdef __USE_POSIX199309
+#ifdef __USE_GNU
+#ifndef __clock_t_defined
+#ifndef __struct_tm_defined
+#ifdef __USE_MISC
+#ifndef __clockid_t_defined
+#ifndef __timer_t_defined
+#ifndef __itimerspec_defined
+#ifndef _TIME_H
+#if defined __USE_POSIX199309 || defined __USE_ISOC11
+#ifdef __USE_POSIX199309
+#ifdef __USE_XOPEN2K
+#ifndef __pid_t_defined
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_ISOC11
+#ifdef __USE_XOPEN
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_GNU
+#ifdef __USE_POSIX
+#ifdef __USE_POSIX
+#ifdef __USE_POSIX
+#if defined __USE_MISC || defined __USE_XOPEN
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_POSIX199309
+#ifdef __USE_XOPEN2K
+#ifdef __USE_ISOC11
+#ifdef __USE_XOPEN_EXTENDED
+#ifdef __USE_GNU
+#ifndef _BITS_PTHREADTYPES_ARCH_H
+#ifdef __x86_64__
+#if __WORDSIZE == 64
+#ifdef __x86_64__
+#ifdef __x86_64__
+#ifndef _THREAD_SHARED_TYPES_H
+#if !__PTHREAD_MUTEX_USE_UNION
+#if __PTHREAD_MUTEX_LOCK_ELISION
+#if !__PTHREAD_MUTEX_USE_UNION
+#if !__PTHREAD_MUTEX_NUSERS_AFTER_KIND
+#if !__PTHREAD_MUTEX_USE_UNION
+#ifndef _BITS_PTHREADTYPES_COMMON_H
+#ifndef __have_pthread_attr_t
+#if defined __USE_UNIX98 || defined __USE_XOPEN2K
+#ifdef __USE_XOPEN2K
+#ifndef _BITS_SETJMP_H
+#ifndef _ASM
+#if __WORDSIZE == 64
+#ifndef _PTHREAD_H
+#if defined __USE_UNIX98 || defined __USE_XOPEN2K8
+#ifdef __USE_GNU
+#ifdef __USE_XOPEN2K
+#if defined __USE_POSIX199506 || defined __USE_UNIX98
+#if __PTHREAD_MUTEX_HAVE_PREV
+#ifdef __USE_GNU
+#if defined __USE_UNIX98 || defined __USE_XOPEN2K
+#ifdef __USE_GNU
+#ifdef __PTHREAD_RWLOCK_INT_FLAGS_SHARED
+#ifdef __USE_XOPEN2K
+#ifdef __USE_GNU
+#ifdef __USE_XOPEN2K
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_UNIX98
+#ifdef __USE_GNU
+#ifndef __cleanup_fct_attribute
+#ifdef __USE_GNU
+#ifndef SHARED
+#ifdef __USE_XOPEN2K
+#ifdef __USE_GNU
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_GNU
+#if defined __USE_UNIX98 || defined __USE_XOPEN2K8
+#ifdef __USE_XOPEN2K
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#if defined __USE_UNIX98 || defined __USE_XOPEN2K
+#ifdef __USE_XOPEN2K
+#ifdef __USE_GNU
+#ifdef __USE_XOPEN2K
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_XOPEN2K
+#ifdef __USE_XOPEN2K
+#ifdef __USE_XOPEN2K
+#ifdef __USE_EXTERN_INLINES
+#ifndef _GLIBCXX_GCC_GTHR_POSIX_H
+#elif defined(PTHREAD_RECURSIVE_MUTEX_INITIALIZER_NP)
+#if __GXX_WEAK__ && _GLIBCXX_GTHREAD_USE_WEAK
+#ifndef __gthrw_pragma
+#ifndef __BIONIC__
+#if _GTHREAD_USE_MUTEX_TIMEDLOCK
+#if __GXX_WEAK__ && _GLIBCXX_GTHREAD_USE_WEAK
+#ifdef __GLIBC__
+#if _GTHREAD_USE_MUTEX_TIMEDLOCK
+#if _GTHREAD_USE_MUTEX_TIMEDLOCK
+#ifndef _GLIBCXX_GCC_GTHR_H
+#ifndef _GLIBCXX_HIDE_EXPORTS
+#if __GXX_WEAK__
+#ifndef _GLIBCXX_GTHREAD_USE_WEAK
+#ifndef _GLIBCXX_HIDE_EXPORTS
+#ifndef _GLIBCXX_ATOMIC_WORD_H
+#ifndef _GLIBCXX_ATOMICITY_H
+#ifdef _GLIBCXX_ATOMIC_BUILTINS
+#ifdef __GTHREADS
+#ifdef __GTHREADS
+#ifndef _CONCURRENCE_H
+#elif defined _GLIBCXX_HAVE_ATOMIC_LOCK_POLICY
+#ifdef __GTHREAD_HAS_COND
+#if __GTHREADS && defined __GTHREAD_MUTEX_INIT
+#if __GTHREADS
+#if __GTHREADS
+#if __GTHREADS && defined __GTHREAD_RECURSIVE_MUTEX_INIT
+#if __GTHREADS
+#if __GTHREADS
+#ifdef __GTHREAD_HAS_COND
+#if __GTHREADS && defined __GTHREAD_COND_INIT
+#if __GTHREADS
+#if __GTHREADS
+#if __GTHREADS
+#ifndef _BACKWARD_BINDERS_H
+#ifndef _STL_FUNCTION_H
+#if __cplusplus >= 201103L
+#if (__cplusplus < 201103L) || _GLIBCXX_USE_DEPRECATED
+#ifndef _USES_ALLOCATOR_H
+#ifndef _STL_RELOPS_H
+#ifndef _INITIALIZER_LIST
+#ifndef _GLIBCXX_UTILITY
+#if __cplusplus >= 201103L
+#ifndef _BITS_STDINT_INTN_H
+#ifndef _BITS_STDINT_UINTN_H
+#ifndef _STDINT_H
+#if __WORDSIZE == 64
+#if __WORDSIZE == 64
+#if __WORDSIZE == 64
+#ifndef __intptr_t_defined
+#if __WORDSIZE == 64
+#if __WORDSIZE == 64
+#if __WORDSIZE == 64
+#if __WORDSIZE == 64
+#if __WORDSIZE == 64
+#if __WORDSIZE == 64
+#if __WORDSIZE == 64
+#ifndef WCHAR_MIN
+#if __WORDSIZE == 64
+#if __WORDSIZE == 64
+#if __WORDSIZE == 64
+#if __GLIBC_USE (IEC_60559_BFP_EXT)
+#ifndef _GCC_WRAP_STDINT_H
+#if __STDC_HOSTED__
+#if defined __cplusplus && __cplusplus >= 201103L
+#ifndef _GLIBCXX_CSTDINT
+#if _GLIBCXX_HAVE_STDINT_H
+#ifdef _GLIBCXX_USE_C99_STDINT_TR1
+#ifndef _CHAR_TRAITS_H
+#ifndef _GLIBCXX_ALWAYS_INLINE
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_USE_C99_STDINT_TR1
+#ifdef _GLIBCXX_USE_C99_STDINT_TR1
+#ifndef _BITS_LOCALE_H
+#ifndef _LOCALE_H
+#ifdef __USE_ISOC99
+#ifdef __USE_XOPEN2K8
+#ifndef _GLIBCXX_CLOCALE
+#ifndef _GLIBCXX_CXX_LOCALE_H
+#if __GLIBC__ > 2 || (__GLIBC__ == 2 && __GLIBC_MINOR__ > 2)
+#if __GLIBC__ > 2 || (__GLIBC__ == 2 && __GLIBC_MINOR__ > 2)
+#if _GLIBCXX_USE_C99_STDIO
+#if __GLIBC__ > 2 || (__GLIBC__ == 2 && __GLIBC_MINOR__ > 2)
+#ifndef _CTYPE_H
+#ifndef _ISbit
+#elif defined __USE_EXTERN_INLINES
+#ifdef __USE_ISOC99
+#ifdef __USE_GNU
+#if defined __USE_MISC || defined __USE_XOPEN
+#if !defined __NO_CTYPE
+#ifdef __isctype_f
+#ifdef __USE_ISOC99
+#ifdef __USE_EXTERN_INLINES
+#if defined __USE_MISC || defined __USE_XOPEN
+#ifdef __USE_XOPEN2K8
+#ifndef __NO_CTYPE
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifndef _GLIBCXX_CCTYPE
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_USE_C99_CTYPE_TR1
+#ifndef _LOCALE_FWD_H
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_USE_WCHAR_T
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if __cplusplus >= 201103L
+#ifndef _CXXABI_FORCED_H
+#ifdef __cplusplus
+#ifndef _OSTREAM_INSERT_H
+#if _GLIBCXX_EXTERN_TEMPLATE
+#ifdef _GLIBCXX_USE_WCHAR_T
+#ifndef _GLIBCXX_RANGE_ACCESS_H
+#if __cplusplus >= 201103L
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8
+#ifndef __ENUM_IDTYPE_T
+#ifdef WCONTINUED
+#if defined __GNUC__ && __GNUC__ >= 2
+#if __WORDSIZE == 64
+#ifndef ____sigset_t_defined
+#ifndef __sigset_t_defined
+#ifndef _SYS_SELECT_H
+#ifdef __USE_XOPEN2K
+#ifndef __suseconds_t_defined
+#ifdef __USE_XOPEN
+#ifdef __USE_MISC
+#ifdef __USE_XOPEN2K
+#if __USE_FORTIFY_LEVEL > 0 && defined __GNUC__
+#ifndef _SYS_TYPES_H
+#ifdef __USE_MISC
+#ifndef __u_char_defined
+#ifndef __ino_t_defined
+#ifndef __USE_FILE_OFFSET64
+#if defined __USE_LARGEFILE64 && !defined __ino64_t_defined
+#ifndef __dev_t_defined
+#ifndef __gid_t_defined
+#ifndef __mode_t_defined
+#ifndef __nlink_t_defined
+#ifndef __uid_t_defined
+#ifndef __off_t_defined
+#ifndef __USE_FILE_OFFSET64
+#if defined __USE_LARGEFILE64 && !defined __off64_t_defined
+#ifndef __pid_t_defined
+#if (defined __USE_XOPEN || defined __USE_XOPEN2K8) \
+#ifndef __ssize_t_defined
+#ifdef __USE_MISC
+#ifndef __daddr_t_defined
+#if (defined __USE_MISC || defined __USE_XOPEN) && !defined __key_t_defined
+#if defined __USE_XOPEN || defined __USE_XOPEN2K8
+#ifdef __USE_XOPEN
+#ifndef __useconds_t_defined
+#ifndef __suseconds_t_defined
+#ifdef __USE_MISC
+#if __GNUC_PREREQ (2, 7)
+#ifdef __USE_MISC
+#if (defined __USE_UNIX98 || defined __USE_XOPEN2K8) \
+#ifndef __USE_FILE_OFFSET64
+#ifndef __blkcnt_t_defined
+#ifndef __fsblkcnt_t_defined
+#ifndef __fsfilcnt_t_defined
+#ifdef __USE_LARGEFILE64
+#if defined __USE_POSIX199506 || defined __USE_UNIX98
+#ifndef _ALLOCA_H
+#ifdef __GNUC__
+#ifdef __USE_EXTERN_INLINES
+#if defined _LIBC_LIMITS_H_ && defined PATH_MAX
+#ifndef _STDLIB_H
+#if (defined __USE_XOPEN || defined __USE_XOPEN2K8) && !defined _SYS_WAIT_H
+#ifdef __WIFCONTINUED
+#ifndef __ldiv_t_defined
+#if defined __USE_ISOC99 && !defined __lldiv_t_defined
+#ifdef __USE_ISOC99
+#ifdef __USE_ISOC99
+#if __HAVE_FLOAT32 && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_FLOAT64 && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_FLOAT128 && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_FLOAT32X && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_FLOAT64X && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#ifdef __USE_MISC
+#ifdef __USE_ISOC99
+#if __GLIBC_USE (IEC_60559_BFP_EXT)
+#if __HAVE_FLOAT32 && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_FLOAT64 && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_FLOAT128 && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_FLOAT32X && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_FLOAT64X && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#ifdef __USE_GNU
+#if __HAVE_FLOAT32
+#if __HAVE_FLOAT64
+#if __HAVE_FLOAT128
+#if __HAVE_FLOAT32X
+#if __HAVE_FLOAT64X
+#ifdef __USE_EXTERN_INLINES
+#ifdef __USE_ISOC99
+#if defined __USE_MISC || defined __USE_XOPEN_EXTENDED
+#if defined __USE_MISC || defined __USE_XOPEN_EXTENDED
+#ifdef __USE_MISC
+#ifdef __USE_POSIX199506
+#if defined __USE_MISC || defined __USE_XOPEN
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#if (defined __USE_XOPEN_EXTENDED && !defined __USE_XOPEN2K) \
+#ifdef __USE_XOPEN2K
+#ifdef __USE_ISOC11
+#if defined __USE_ISOC11 || defined __USE_ISOCXX11
+#ifdef __cplusplus
+#ifdef __USE_MISC
+#if defined __USE_ISOC11 || defined __USE_ISOCXX11
+#ifdef __USE_ISOC99
+#ifdef __USE_GNU
+#if defined __USE_MISC || defined __USE_XOPEN
+#ifdef __USE_XOPEN2K
+#ifdef __USE_MISC
+#if defined __USE_MISC \
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_MISC
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_GNU
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_GNU
+#if defined __USE_MISC || defined __USE_XOPEN_EXTENDED
+#ifndef __COMPAR_FN_T
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_EXTERN_INLINES
+#ifdef __USE_GNU
+#ifdef __USE_ISOC99
+#ifdef __USE_ISOC99
+#if (defined __USE_XOPEN_EXTENDED && !defined __USE_XOPEN2K8) \
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8
+#ifdef __USE_XOPEN2KXSI
+#ifdef __USE_XOPEN_EXTENDED
+#ifdef __USE_GNU
+#ifdef __USE_MISC
+#if __USE_FORTIFY_LEVEL > 0 && defined __fortify_function
+#ifndef _GLIBCXX_BITS_STD_ABS_H
+#ifndef __CORRECT_ISO_CPP_STDLIB_H_PROTO
+#ifdef _GLIBCXX_USE_LONG_LONG
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#if defined(__GLIBCXX_TYPE_INT_N_0)
+#if !defined(__STRICT_ANSI__) && defined(_GLIBCXX_USE_FLOAT128) && !defined(__CUDACC__)
+#ifndef _GLIBCXX_CSTDLIB
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_HAVE_AT_QUICK_EXIT
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_HAVE_QUICK_EXIT
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_HAVE_AT_QUICK_EXIT
+#ifdef _GLIBCXX_HAVE_MBSTATE_T
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_HAVE_QUICK_EXIT
+#ifdef _GLIBCXX_USE_WCHAR_T
+#ifndef __CORRECT_ISO_CPP_STDLIB_H_PROTO
+#if _GLIBCXX_USE_C99_STDLIB
+#if !_GLIBCXX_USE_C99_LONG_LONG_DYNAMIC
+#if !_GLIBCXX_USE_C99_DYNAMIC
+#if !_GLIBCXX_USE_C99_LONG_LONG_DYNAMIC
+#if !_GLIBCXX_USE_C99_LONG_LONG_DYNAMIC
+#if !_GLIBCXX_USE_C99_LONG_LONG_DYNAMIC
+#if !_GLIBCXX_USE_C99_LONG_LONG_DYNAMIC
+#ifndef _____fpos_t_defined
+#ifndef _____fpos64_t_defined
+#ifndef __struct_FILE_defined
+#ifndef _IO_lock_t_defined
+#ifndef __cookie_io_functions_t_defined
+#ifndef _BITS_STDIO_LIM_H
+#ifdef __USE_POSIX
+#if !defined __USE_XOPEN2K || defined __USE_GNU
+#ifdef __USE_MISC
+#ifdef __USE_GNU
+#ifndef _BITS_STDIO_H
+#ifdef __USE_EXTERN_INLINES
+#ifdef __USE_MISC
+#ifdef __USE_POSIX
+#ifdef __USE_MISC
+#ifdef __USE_POSIX
+#ifdef __USE_GNU
+#ifdef __USE_MISC
+#ifndef _BITS_STDIO2_H
+#ifdef __va_arg_pack
+#if defined __USE_ISOC99 || defined __USE_UNIX98
+#ifdef __va_arg_pack
+#if __USE_FORTIFY_LEVEL > 1
+#ifdef __va_arg_pack
+#ifdef __USE_EXTERN_INLINES
+#ifdef __USE_XOPEN2K8
+#ifdef __va_arg_pack
+#ifdef __USE_GNU
+#ifdef __va_arg_pack
+#if __GLIBC_USE (DEPRECATED_GETS)
+#ifdef __USE_GNU
+#ifdef __USE_MISC
+#ifdef __USE_EXTERN_INLINES
+#ifndef _STDIO_H
+#ifdef __USE_GNU
+#if defined __USE_XOPEN || defined __USE_XOPEN2K8
+#ifdef __GNUC__
+#ifndef _VA_LIST_DEFINED
+#if defined __USE_UNIX98 || defined __USE_XOPEN2K
+#ifndef __off_t_defined
+#ifndef __USE_FILE_OFFSET64
+#if defined __USE_LARGEFILE64 && !defined __off64_t_defined
+#ifdef __USE_XOPEN2K8
+#ifndef __ssize_t_defined
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_GNU
+#if defined __USE_MISC || defined __USE_XOPEN
+#ifdef __USE_ATFILE
+#ifdef __USE_GNU
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_MISC
+#if defined __USE_MISC || defined __USE_XOPEN
+#ifdef __USE_MISC
+#ifdef __USE_GNU
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_POSIX
+#ifdef __USE_GNU
+#if defined __USE_XOPEN2K8 || __GLIBC_USE (LIB_EXT2)
+#ifdef __USE_MISC
+#if defined __USE_ISOC99 || defined __USE_UNIX98
+#if __GLIBC_USE (LIB_EXT2)
+#ifdef __USE_XOPEN2K8
+#if !__GLIBC_USE (DEPRECATED_SCANF) && !defined __LDBL_COMPAT
+#ifdef __REDIRECT
+#ifdef __USE_ISOC99
+#if !__GLIBC_USE (DEPRECATED_SCANF)
+#if defined __REDIRECT && !defined __LDBL_COMPAT
+#ifdef __USE_POSIX199506
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_POSIX199506
+#if defined __USE_MISC \
+#if __GLIBC_USE (DEPRECATED_GETS)
+#ifdef __USE_GNU
+#if defined __USE_XOPEN2K8 || __GLIBC_USE (LIB_EXT2)
+#ifdef __USE_GNU
+#ifdef __USE_MISC
+#if defined __USE_LARGEFILE || defined __USE_XOPEN2K
+#ifndef __USE_FILE_OFFSET64
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_MISC
+#ifdef __USE_POSIX
+#ifdef __USE_MISC
+#ifdef __USE_POSIX2
+#ifdef __USE_POSIX
+#if (defined __USE_XOPEN && !defined __USE_XOPEN2K) || defined __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_POSIX199506
+#ifdef __USE_EXTERN_INLINES
+#if __USE_FORTIFY_LEVEL > 0 && defined __fortify_function
+#ifndef _GLIBCXX_CSTDIO
+#if __cplusplus <= 201103L
+#if __cplusplus <= 201103L
+#if _GLIBCXX_USE_TMPNAM
+#if _GLIBCXX_USE_C99_STDIO
+#if !_GLIBCXX_USE_C99_DYNAMIC
+#ifndef _ASM_GENERIC_ERRNO_BASE_H
+#ifndef _ASM_GENERIC_ERRNO_H
+#ifndef _BITS_ERRNO_H
+#ifndef ENOTSUP
+#ifndef __error_t_defined
+#ifndef _ERRNO_H
+#ifndef __ASSEMBLER__
+#ifdef __USE_GNU
+#ifndef _GLIBCXX_CERRNO
+#ifndef _STRING_CONVERSIONS_H
+#ifndef _FUNCTIONAL_HASH_H
+#ifdef __GLIBCXX_TYPE_INT_N_0
+#ifndef _BASIC_STRING_TCC
+#if _GLIBCXX_USE_CXX11_ABI
+#if _GLIBCXX_EXTERN_TEMPLATE
+#if __cplusplus <= 201703L && _GLIBCXX_EXTERN_TEMPLATE > 0
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if __cplusplus <= 201703L && _GLIBCXX_EXTERN_TEMPLATE > 0
+#ifndef _GLIBCXX_STRING
+#ifndef _GLIBCXX_STDEXCEPT
+#if _GLIBCXX_USE_DUAL_ABI
+#if _GLIBCXX_USE_CXX11_ABI
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if _GLIBCXX_USE_CXX11_ABI || _GLIBCXX_DEFINE_STDEXCEPT_COPY_OPS
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if _GLIBCXX_USE_CXX11_ABI || _GLIBCXX_DEFINE_STDEXCEPT_COPY_OPS
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_INVOKE_H
+#ifndef _GLIBCXX_TUPLE
+#if __cplusplus > 201402L || !defined(__STRICT_ANSI__)
+#if __cplusplus > 201402L || !defined(__STRICT_ANSI__)
+#ifndef _ALLOCATED_PTR_H
+#ifndef _GLIBCXX_REFWRAP_H
+#if __cplusplus <= 201703L
+#if __cplusplus <= 201703L
+#ifndef _ALIGNED_BUFFER_H
+#if __cplusplus >= 201103L
+#ifndef _SHARED_PTR_BASE_H
+#if _GLIBCXX_USE_DEPRECATED
+#if __cpp_rtti
+#if __cpp_rtti
+#if _GLIBCXX_USE_DEPRECATED
+#if __cplusplus <= 201402L
+#if __cplusplus <= 201402L && _GLIBCXX_USE_DEPRECATED
+#if _GLIBCXX_USE_DEPRECATED
+#if _GLIBCXX_USE_DEPRECATED
+#if __cplusplus > 201402L || !defined(__STRICT_ANSI__)
+#ifndef _SHARED_PTR_H
+#if __cpp_rtti
+#if __cpp_rtti
+#if _GLIBCXX_USE_DEPRECATED
+#if __cplusplus <= 201402L && _GLIBCXX_USE_DEPRECATED
+#if _GLIBCXX_USE_DEPRECATED
+#if __cplusplus > 201402L || !defined(__STRICT_ANSI__)
+#ifndef _GLIBCXX_ATOMIC_LOCK_FREE_H
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_ATOMIC_BASE_H
+#ifndef _GLIBCXX_ALWAYS_INLINE
+#if __GCC_ATOMIC_TEST_AND_SET_TRUEVAL == 1
+#ifndef _SHARED_PTR_ATOMIC_H
+#ifdef __GTHREADS
+#ifdef __GTHREADS
+#ifndef _BACKWARD_AUTO_PTR_H
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_MEMORY
+#if __cplusplus >= 201103L
+#if _GLIBCXX_USE_DEPRECATED
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_USE_C99_STDINT_TR1
+#ifndef _GLIBCXX_NUMERIC_LIMITS
+#ifndef __glibcxx_integral_traps
+#ifndef __glibcxx_float_has_denorm_loss
+#ifndef __glibcxx_float_traps
+#ifndef __glibcxx_float_tinyness_before
+#ifndef __glibcxx_double_has_denorm_loss
+#ifndef __glibcxx_double_traps
+#ifndef __glibcxx_double_tinyness_before
+#ifndef __glibcxx_long_double_has_denorm_loss
+#ifndef __glibcxx_long_double_traps
+#ifndef __glibcxx_long_double_tinyness_before
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if !defined(__STRICT_ANSI__)
+#if __cplusplus >= 201103L
+#ifdef __GLIBCXX_TYPE_INT_N_0
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _HASHTABLE_POLICY_H
+#ifndef _HASHTABLE_H
+#ifndef _UNORDERED_MAP_H
+#ifndef _GLIBCXX_ERASE_IF_H
+#ifndef _GLIBCXX_UNORDERED_MAP
+#ifndef _UNORDERED_SET_H
+#ifndef _GLIBCXX_UNORDERED_SET
+#ifndef _LINUX_LIMITS_H
+#ifndef NR_OPEN
+#ifndef LINK_MAX
+#ifndef OPEN_MAX
+#ifndef ARG_MAX
+#ifdef __undef_NR_OPEN
+#ifdef __undef_LINK_MAX
+#ifdef __undef_OPEN_MAX
+#ifdef __undef_ARG_MAX
+#ifndef _BITS_POSIX1_LIM_H
+#ifdef __USE_XOPEN2K
+#ifdef __USE_XOPEN2K
+#ifdef __USE_XOPEN2K
+#if !defined __USE_XOPEN2K || defined __USE_GNU
+#ifdef __USE_XOPEN2K
+#if !defined __USE_XOPEN2K || defined __USE_GNU
+#ifndef SSIZE_MAX
+#if __WORDSIZE == 64 || __WORDSIZE32_SIZE_ULONG
+#ifndef _BITS_POSIX2_LIM_H
+#ifndef BC_BASE_MAX
+#ifndef BC_DIM_MAX
+#ifndef BC_SCALE_MAX
+#ifndef BC_STRING_MAX
+#ifndef COLL_WEIGHTS_MAX
+#ifndef EXPR_NEST_MAX
+#ifndef LINE_MAX
+#ifndef CHARCLASS_NAME_MAX
+#ifndef _BITS_UIO_LIM_H
+#ifndef _XOPEN_LIM_H
+#ifdef __IOV_MAX
+#if defined __USE_GNU || !defined __USE_XOPEN2K8
+#elif defined __INT_MAX__
+#if __INT_MAX__ == 2147483647
+#elif defined __LONG_MAX__
+#ifndef _LIBC_LIMITS_H_
+#if defined __USE_ISOC99 && defined __GNUC__
+#ifndef LLONG_MIN
+#ifndef LLONG_MAX
+#ifndef ULLONG_MAX
+#if __GLIBC_USE (IEC_60559_BFP_EXT)
+#ifndef CHAR_WIDTH
+#ifndef SCHAR_WIDTH
+#ifndef UCHAR_WIDTH
+#ifndef SHRT_WIDTH
+#ifndef USHRT_WIDTH
+#ifndef INT_WIDTH
+#ifndef UINT_WIDTH
+#ifndef LONG_WIDTH
+#ifndef ULONG_WIDTH
+#ifndef LLONG_WIDTH
+#ifndef ULLONG_WIDTH
+#ifdef __USE_POSIX
+#ifdef __USE_POSIX2
+#ifdef __USE_XOPEN
+#ifndef _GCC_LIMITS_H_
+#ifndef _LIBC_LIMITS_H_
+#ifndef _LIMITS_H___
+#if defined (__GNU_LIBRARY__) ? defined (__USE_GNU) : !defined (__STRICT_ANSI__)
+#ifdef _GCC_NEXT_LIMITS_H
+#ifndef _ASM_GENERIC_IOCTL_H
+#ifndef _IOC_SIZEBITS
+#ifndef _IOC_DIRBITS
+#ifndef _IOC_NONE
+#ifndef _IOC_WRITE
+#ifndef _IOC_READ
+#ifndef _LINUX_IOCTL_H
+#ifndef __ASM_GENERIC_IOCTLS_H
+#ifndef TIOCSRS485
+#ifndef FIOQSIZE
+#ifndef _SYS_TTYDEFAULTS_H_
+#ifdef _POSIX_VDISABLE
+#ifdef _POSIX_VDISABLE
+#ifndef _SYS_IOCTL_H
+#ifndef _GLIBCXX_ALGORITHMFWD_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if (__cplusplus >= 201103L) && defined(_GLIBCXX_USE_C99_STDINT_TR1)
+#if __cplusplus >= 201103L
+#ifndef _STL_HEAP_H
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_BITS_UNIFORM_INT_DIST_H
+#ifndef _STL_ALGO_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_USE_C99_STDINT_TR1
+#if _GLIBCXX_HOSTED
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_ALGORITHM
+#ifndef _GLIBCXX_ATOMIC
+#ifdef _GLIBCXX_USE_C99_STDINT_TR1
+#ifdef _GLIBCXX_USE_C99_STDINT_TR1
+#ifndef _GLIBCXX_STD_FUNCTION_H
+#if __cpp_rtti
+#if __cpp_rtti
+#if __cpp_rtti
+#if __cpp_rtti
+#if __cpp_rtti
+#ifndef _GLIBCXX_FUNCTIONAL
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_RATIO
+#ifndef _GLIBCXX_CTIME
+#ifndef _GLIBCXX_PARSE_NUMBERS_H
+#ifndef _GLIBCXX_CHRONO
+#ifdef _GLIBCXX_USE_C99_STDINT_TR1
+#ifndef _GLIBCXX_ERROR_CONSTANTS
+#ifdef _GLIBCXX_HAVE_EBADMSG
+#ifdef _GLIBCXX_HAVE_EIDRM
+#ifdef _GLIBCXX_HAVE_ENOLINK
+#ifdef _GLIBCXX_HAVE_ENODATA
+#ifdef _GLIBCXX_HAVE_ENOSR
+#ifdef _GLIBCXX_HAVE_ENOSTR
+#ifdef _GLIBCXX_HAVE_ENOTSUP
+#ifdef _GLIBCXX_HAVE_ECANCELED
+#ifdef _GLIBCXX_HAVE_EOWNERDEAD
+#ifdef _GLIBCXX_HAVE_EPROTO
+#ifdef _GLIBCXX_HAVE_ENOTRECOVERABLE
+#ifdef _GLIBCXX_HAVE_ETIME
+#ifdef _GLIBCXX_HAVE_ETXTBSY
+#ifdef _GLIBCXX_HAVE_EOVERFLOW
+#ifndef _GLIBCXX_SYSTEM_ERROR
+#if _GLIBCXX_USE_CXX11_ABI
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_COMPATIBILITY_CXX0X
+#ifndef _GLIBCXX_MUTEX_H
+#ifdef _GLIBCXX_HAS_GTHREADS
+#ifdef __GTHREAD_MUTEX_INIT
+#ifdef __GTHREAD_MUTEX_INIT
+#ifndef _GLIBCXX_UNIQUE_LOCK_H
+#ifndef _GLIBCXX_MUTEX
+#ifdef _GLIBCXX_HAS_GTHREADS
+#ifdef __GTHREAD_RECURSIVE_MUTEX_INIT
+#if _GTHREAD_USE_MUTEX_TIMEDLOCK
+#ifdef _GLIBCXX_HAS_GTHREADS
+#ifdef _GLIBCXX_HAVE_TLS
+#ifdef _GLIBCXX_HAVE_TLS
+#ifndef _STL_BVECTOR_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _VECTOR_TCC
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_VECTOR
+#ifndef _GLIBCXX_EXPORT_TEMPLATE
+#ifndef _BITS_POSIX_OPT_H
+#ifdef __USE_XOPEN2K8
+#if __WORDSIZE == 64
+#ifndef _GETOPT_CORE_H
+#ifndef _GETOPT_POSIX_H
+#ifdef __USE_UNIX98
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K
+#ifdef __USE_ATFILE
+#if defined __USE_MISC || defined __USE_XOPEN_EXTENDED
+#ifdef __USE_POSIX199506
+#if defined __USE_MISC || defined __USE_UNIX98
+#if defined __USE_MISC || (defined __USE_XOPEN && !defined __USE_UNIX98)
+#ifdef __USE_GNU
+#ifndef _UNISTD_H
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_XOPEN2K8
+#if defined __USE_UNIX98 || defined __USE_XOPEN2K
+#ifndef __ssize_t_defined
+#if defined __USE_XOPEN || defined __USE_XOPEN2K
+#ifndef __gid_t_defined
+#ifndef __uid_t_defined
+#ifndef __off_t_defined
+#ifndef __USE_FILE_OFFSET64
+#if defined __USE_LARGEFILE64 && !defined __off64_t_defined
+#ifndef __useconds_t_defined
+#ifndef __pid_t_defined
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K
+#ifndef __intptr_t_defined
+#if defined __USE_MISC || defined __USE_XOPEN
+#ifndef __socklen_t_defined
+#ifdef __USE_GNU
+#ifdef __USE_ATFILE
+#ifndef _STDIO_H
+#ifdef __USE_GNU
+#if defined __USE_MISC && !defined L_SET
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#if defined __USE_UNIX98 || defined __USE_XOPEN2K8
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_GNU
+#if (defined __USE_XOPEN_EXTENDED && !defined __USE_XOPEN2K8) \
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8
+#ifdef __USE_ATFILE
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8
+#ifdef __USE_GNU
+#if (defined __USE_XOPEN_EXTENDED && !defined __USE_XOPEN2K8) \
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_GNU
+#if defined __USE_MISC || defined __USE_XOPEN
+#ifdef __USE_POSIX2
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8
+#if defined __USE_MISC || defined __USE_XOPEN_EXTENDED
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8
+#ifdef __USE_GNU
+#if defined __USE_MISC || defined __USE_XOPEN_EXTENDED
+#ifdef __USE_XOPEN2K
+#if defined __USE_MISC || defined __USE_XOPEN_EXTENDED
+#ifdef __USE_XOPEN2K
+#ifdef __USE_GNU
+#if (defined __USE_XOPEN_EXTENDED && !defined __USE_XOPEN2K8) \
+#ifdef __USE_MISC
+#ifdef __USE_ATFILE
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K
+#ifdef __USE_ATFILE
+#ifdef __USE_ATFILE
+#ifdef __USE_POSIX199506
+#ifdef __USE_MISC
+#ifdef __USE_POSIX2
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K
+#if defined __USE_MISC
+#if defined __USE_MISC || (defined __USE_XOPEN && !defined __USE_XOPEN2K)
+#ifdef __USE_GNU
+#if defined __USE_MISC || defined __USE_XOPEN_EXTENDED
+#if defined __USE_MISC || !defined __USE_XOPEN2K
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#if defined __USE_POSIX199309 \
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#if (defined __USE_XOPEN_EXTENDED && !defined __USE_XOPEN2K) \
+#ifdef __USE_MISC
+#if (defined __USE_MISC || defined __USE_XOPEN_EXTENDED) && !defined F_LOCK
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_GNU
+#if defined __USE_POSIX199309 || defined __USE_UNIX98
+#ifdef __USE_MISC
+#ifdef __USE_XOPEN
+#ifdef __USE_MISC
+#if __USE_FORTIFY_LEVEL > 0 && defined __fortify_function
+#ifndef FISH_FALLBACK_H
+#if HAVE_CX11_THREAD_LOCAL
+#if defined(NCURSES_VERSION) || defined(__NetBSD__)
+#ifndef HAVE_WCSNDUP
+#ifndef HAVE_WCSLCPY
+#ifndef FISH_NULL_TERMINATED_ARRAY_H
+#ifndef FISH_ENV_H
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#if defined __OFF_T_MATCHES_OFF64_T && defined __INO_T_MATCHES_INO64_T
+#ifdef __USE_GNU
+#ifndef _DIRENT_H
+#ifdef __USE_XOPEN
+#ifndef __ino_t_defined
+#ifndef __USE_FILE_OFFSET64
+#if defined __USE_LARGEFILE64 && !defined __ino64_t_defined
+#ifdef _DIRENT_HAVE_D_RECLEN
+#ifdef __USE_MISC
+#ifdef __USE_XOPEN2K8
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_POSIX
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#if defined __USE_MISC || defined __USE_XOPEN
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_MISC
+#ifndef MAXNAMLEN
+#ifdef NAME_MAX
+#ifndef __USE_FILE_OFFSET64
+#if defined __USE_GNU && defined __USE_LARGEFILE64
+#ifdef __USE_GNU
+#ifndef __USE_FILE_OFFSET64
+#ifndef __USE_FILE_OFFSET64
+#if defined __USE_GNU && defined __USE_LARGEFILE64
+#ifdef __USE_MISC
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_GNU
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifndef _BITS_WCTYPE_WCHAR_H
+#ifndef _ISwbit
+#ifdef __USE_ISOC99
+#ifndef _WCTYPE_H
+#ifndef WEOF
+#ifdef __USE_XOPEN2K8
+#ifndef FISH_WUTIL_H
+#ifndef FISH_NO_ISW_WRAPPERS
+#ifndef HASH_FILE_ID
+#ifndef FISH_AUTOLOAD_H
+#ifndef _BITS_SIGNUM_GENERIC_H
+#ifdef __USE_XOPEN
+#ifndef _BITS_SIGNUM_H
+#ifndef __sig_atomic_t_defined
+#ifndef ____sigval_t_defined
+#ifdef __USE_POSIX199309
+#ifndef _BITS_SIGINFO_ARCH_H
+#ifndef __siginfo_t_defined
+#if __WORDSIZE == 64
+#ifndef __SI_ALIGNMENT
+#ifndef __SI_BAND_TYPE
+#ifndef __SI_CLOCK_T
+#ifndef __SI_ERRNO_THEN_CODE
+#ifndef __SI_HAVE_SIGSYS
+#ifndef __SI_SIGFAULT_ADDL
+#if __SI_ERRNO_THEN_CODE
+#if __WORDSIZE == 64
+#if __SI_HAVE_SIGSYS
+#if __SI_HAVE_SIGSYS
+#ifndef _BITS_SIGINFO_CONSTS_ARCH_H
+#ifndef _BITS_SIGINFO_CONSTS_H
+#ifndef __SI_ASYNCIO_AFTER_SIGIO
+#if __SI_ASYNCIO_AFTER_SIGIO
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8
+#ifdef __USE_XOPEN_EXTENDED
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8
+#ifdef __USE_GNU
+#ifndef __sigval_t_defined
+#ifndef __sigevent_t_defined
+#if __WORDSIZE == 64
+#ifndef __have_pthread_attr_t
+#ifndef _BITS_SIGEVENT_CONSTS_H
+#ifndef _BITS_SIGACTION_H
+#if defined __USE_POSIX199309 || defined __USE_XOPEN_EXTENDED
+#if defined __USE_XOPEN_EXTENDED || defined __USE_MISC
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8
+#ifdef __USE_MISC
+#ifndef _BITS_SIGCONTEXT_H
+#ifndef __stack_t_defined
+#ifndef _SYS_UCONTEXT_H
+#ifdef __USE_MISC
+#ifdef __x86_64__
+#ifdef __USE_MISC
+#ifdef __USE_GNU
+#ifndef _BITS_SIGSTACK_H
+#ifndef _BITS_SS_FLAGS_H
+#ifndef __sigstack_defined
+#ifndef _BITS_SIGTHREAD_H
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifndef _SIGNAL_H
+#if defined __USE_POSIX
+#if defined __USE_XOPEN || defined __USE_XOPEN2K
+#ifndef __pid_t_defined
+#ifdef __USE_XOPEN
+#ifndef __uid_t_defined
+#ifdef __USE_POSIX199309
+#if defined __USE_POSIX199309 || defined __USE_XOPEN_EXTENDED
+#ifdef __USE_MISC
+#ifdef __USE_POSIX199309
+#ifdef __USE_GNU
+#ifdef __USE_MISC
+#ifdef __USE_POSIX
+#if defined __USE_MISC || defined __USE_XOPEN_EXTENDED
+#ifdef __USE_MISC
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_XOPEN_EXTENDED
+#ifdef __GNUC__
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_GNU
+#ifdef __USE_MISC
+#ifdef __USE_POSIX
+#ifdef __USE_GNU
+#ifdef __USE_POSIX199506
+#ifdef __USE_POSIX199309
+#ifdef __USE_MISC
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8
+#if defined __USE_XOPEN || defined __USE_XOPEN2K8
+#if defined __USE_XOPEN_EXTENDED || defined __USE_MISC
+"#if ((defined __USE_XOPEN_EXTENDED && !defined __USE_XOPEN2K8)	\"
+"#if ((defined __USE_XOPEN_EXTENDED && !defined __USE_XOPEN2K)	\"
+#ifdef __USE_XOPEN_EXTENDED
+#if defined __USE_POSIX199506 || defined __USE_UNIX98
+#ifndef _SYS_TIME_H
+#ifndef __suseconds_t_defined
+#ifdef __USE_GNU
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_GNU
+#ifdef __USE_MISC
+#ifndef _SYS_WAIT_H
+#ifndef __pid_t_defined
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8
+#if !defined _STDLIB_H || (!defined __USE_XOPEN && !defined __USE_XOPEN2K8)
+#ifdef __WIFCONTINUED
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8
+#ifndef __id_t_defined
+#if defined __USE_MISC \
+#ifdef __USE_MISC
+#if defined __USE_MISC || defined __USE_XOPEN
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#if defined __USE_MISC || (defined __USE_XOPEN && !defined __USE_XOPEN2K)
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifndef _TERMIOS_H
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8
+#ifndef __pid_t_defined
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8
+#ifdef __USE_MISC
+#ifndef _STL_DEQUE_H
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_DEQUE_BUF_SIZE
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _DEQUE_TCC
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_DEQUE
+#ifndef _STL_TREE_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _STL_MAP_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _STL_MULTIMAP_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_MAP
+#ifndef _GLIBCXX_STDLIB_H
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_HAVE_AT_QUICK_EXIT
+#ifdef _GLIBCXX_HAVE_QUICK_EXIT
+#if _GLIBCXX_HOSTED
+#ifdef _GLIBCXX_HAVE_MBSTATE_T
+#ifdef _GLIBCXX_USE_WCHAR_T
+#ifndef _GLIBCXX_THREAD
+#if defined(_GLIBCXX_HAS_GTHREADS)
+#ifdef GTHR_ACTIVE_PROXY
+#ifdef __GLIBC__
+#ifdef _GLIBCXX_USE_SCHED_YIELD
+#ifdef _GLIBCXX_USE_NANOSLEEP
+#ifndef _GLIBCXX_CONDITION_VARIABLE
+#if defined(_GLIBCXX_HAS_GTHREADS)
+#ifdef __GTHREAD_COND_INIT
+#ifndef _GLIBCXX_ATOMIC_FUTEX_H
+#ifdef _GLIBCXX_HAS_GTHREADS
+#if defined(_GLIBCXX_HAVE_LINUX_FUTEX) && ATOMIC_INT_LOCK_FREE > 1
+#ifndef _GLIBCXX_FUTURE
+#if defined(_GLIBCXX_HAS_GTHREADS)
+#ifndef _GLIBCXX_ASYNC_ABI_COMPAT
+#ifndef FISH_WCSTRINGUTIL_H
+#ifndef FISH_FLOG_H
+#ifndef FISH_REDIRECTION_H
+#ifndef FISH_IO_H
+#ifndef FISH_EVENT_H
+#ifndef FISH_PARSE_CONSTANTS_H
+#ifndef FISH_TOKENIZER_H
+#ifndef FISH_PARSE_PRODUCTIONS_H
+#ifndef _GLIBCXX_BITSET
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _STL_NUMERIC_H
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_NUMERIC
+#ifndef _LOCALE_CLASSES_TCC
+#if __cpp_rtti
+#if __cpp_rtti
+#if _GLIBCXX_EXTERN_TEMPLATE
+#ifdef _GLIBCXX_USE_WCHAR_T
+#ifndef _LOCALE_CLASSES_H
+#if __cplusplus >= 201103L
+#ifdef __GTHREADS
+#if _GLIBCXX_USE_CXX11_ABI
+#ifdef __GTHREADS
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if __cplusplus >= 201103L
+#ifndef _IOS_BASE_H
+#if __cplusplus >= 201103L
+#if _GLIBCXX_USE_CXX11_ABI
+#if _GLIBCXX_USE_CXX11_ABI
+#if __cplusplus >= 201103L
+#if __cplusplus <= 201402L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _STREAMBUF_TCC
+#if _GLIBCXX_EXTERN_TEMPLATE
+#ifdef _GLIBCXX_USE_WCHAR_T
+#ifndef _GLIBXX_STREAMBUF
+#if _GLIBCXX_USE_DEPRECATED && __cplusplus <= 201402L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if _GLIBCXX_HAVE_WCTYPE_H
+#ifndef _GLIBCXX_CWCTYPE
+#if _GLIBCXX_HAVE_ISWBLANK
+#if _GLIBCXX_USE_WCHAR_T
+#if _GLIBCXX_HAVE_ISWBLANK
+#if __cplusplus >= 201103L
+#ifndef _STREAMBUF_ITERATOR_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _LOCALE_FACETS_TCC
+#if _GLIBCXX_USE_C99_STDIO && !_GLIBCXX_HAVE_BROKEN_VSNPRINTF
+#if _GLIBCXX_EXTERN_TEMPLATE
+#ifdef _GLIBCXX_USE_WCHAR_T
+#ifndef _LOCALE_FACETS_H
+#ifdef _GLIBCXX_USE_WCHAR_T
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_USE_LONG_LONG
+#ifdef _GLIBCXX_USE_LONG_LONG
+#ifdef _GLIBCXX_USE_LONG_LONG
+#ifdef _GLIBCXX_USE_LONG_LONG
+#if __cplusplus >= 201103L
+#ifndef _BASIC_IOS_TCC
+#if _GLIBCXX_EXTERN_TEMPLATE
+#ifdef _GLIBCXX_USE_WCHAR_T
+#ifndef _BASIC_IOS_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_IOS
+#ifndef _OSTREAM_TCC
+#if _GLIBCXX_EXTERN_TEMPLATE
+#ifdef _GLIBCXX_USE_LONG_LONG
+#ifdef _GLIBCXX_USE_WCHAR_T
+#ifdef _GLIBCXX_USE_LONG_LONG
+#ifndef _GLIBCXX_OSTREAM
+#ifdef _GLIBCXX_USE_LONG_LONG
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _ISTREAM_TCC
+#if _GLIBCXX_EXTERN_TEMPLATE
+#ifdef _GLIBCXX_USE_LONG_LONG
+#ifdef _GLIBCXX_USE_WCHAR_T
+#ifdef _GLIBCXX_USE_LONG_LONG
+#ifndef _GLIBCXX_ISTREAM
+#ifdef _GLIBCXX_USE_LONG_LONG
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _STREAM_ITERATOR_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_ITERATOR
+#ifndef FISH_ENUM_SET_H
+#ifndef FISH_TOPIC_MONITOR_H
+#ifndef FISH_PROC_H
+#ifdef W_EXITCODE
+#ifndef FISH_EXEC_H
+#ifndef FISH_LRU_H
+#ifndef _GLIBCXX_CSIGNAL
+#ifndef _STL_LIST_H
+#if __cplusplus >= 201103L
+#if _GLIBCXX_USE_CXX11_ABI
+#if __cplusplus >= 201103L
+#if _GLIBCXX_USE_CXX11_ABI
+#if _GLIBCXX_USE_CXX11_ABI
+#if _GLIBCXX_USE_CXX11_ABI
+#if __cplusplus >= 201103L
+#if !_GLIBCXX_INLINE_VERSION
+#if __cplusplus >= 201103L
+#if _GLIBCXX_USE_CXX11_ABI
+#if !_GLIBCXX_INLINE_VERSION
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if !_GLIBCXX_INLINE_VERSION
+#if __cplusplus >= 201103L
+#if _GLIBCXX_USE_CXX11_ABI
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if _GLIBCXX_USE_CXX11_ABI
+#if _GLIBCXX_USE_CXX11_ABI
+#ifndef _LIST_TCC
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if _GLIBCXX_USE_CXX11_ABI
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_LIST
+#ifndef FISH_EXPAND_H
+#ifndef FISH_OPERATION_CONTEXT_H
+#ifndef FISH_PARSE_EXECUTION_H
+#ifndef FISH_PARSER_H
+#ifndef FISH_BUILTIN_H
+#ifndef __STRINGS_FORTIFIED
+#ifndef _STRINGS_H
+#if defined __cplusplus && __GNUC_PREREQ (4, 4)
+#if defined __USE_MISC || !defined __USE_XOPEN2K8
+#ifdef __CORRECT_ISO_CPP_STRINGS_H_PROTO
+#if defined __OPTIMIZE__
+#ifdef __CORRECT_ISO_CPP_STRINGS_H_PROTO
+#if defined __OPTIMIZE__
+#if defined __USE_MISC || !defined __USE_XOPEN2K8 || defined __USE_XOPEN2K8XSI
+#ifdef __USE_MISC
+#ifdef __USE_XOPEN2K8
+#if __GNUC_PREREQ (3,4) && __USE_FORTIFY_LEVEL > 0 \
+#if defined __USE_MISC || !defined __USE_XOPEN2K8
+#ifndef _BITS_STRING_FORTIFIED_H
+#ifdef __USE_GNU
+#ifdef __USE_MISC
+#ifdef __USE_GNU
+#ifndef _STRING_H
+#if defined __cplusplus && __GNUC_PREREQ (4, 4)
+#if defined __USE_MISC || defined __USE_XOPEN
+#ifdef __CORRECT_ISO_CPP_STRING_H_PROTO
+#ifdef __OPTIMIZE__
+#ifdef __USE_GNU
+#ifdef __CORRECT_ISO_CPP_STRING_H_PROTO
+#ifdef __CORRECT_ISO_CPP_STRING_H_PROTO
+#ifdef __USE_XOPEN2K8
+"#if (defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K8	\"
+#if defined __USE_XOPEN2K8 || __GLIBC_USE (LIB_EXT2)
+#if defined __USE_GNU && defined __GNUC__
+#ifdef __CORRECT_ISO_CPP_STRING_H_PROTO
+#ifdef __OPTIMIZE__
+#ifdef __CORRECT_ISO_CPP_STRING_H_PROTO
+#ifdef __OPTIMIZE__
+#ifdef __USE_GNU
+#ifdef __CORRECT_ISO_CPP_STRING_H_PROTO
+#ifdef __CORRECT_ISO_CPP_STRING_H_PROTO
+#ifdef __OPTIMIZE__
+#ifdef __CORRECT_ISO_CPP_STRING_H_PROTO
+#ifdef __OPTIMIZE__
+#ifdef __USE_POSIX
+#ifdef __USE_GNU
+#ifdef __CORRECT_ISO_CPP_STRING_H_PROTO
+#ifdef __USE_GNU
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_XOPEN2K
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_MISC
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_GNU
+#ifndef basename
+#ifdef __CORRECT_ISO_CPP_STRING_H_PROTO
+#if __GNUC_PREREQ (3,4)
+#if __USE_FORTIFY_LEVEL > 0 && defined __fortify_function
+#ifndef _GLIBCXX_CSTRING
+#ifndef FISH_BUILTIN_ARGPARSE_H
+#ifndef FISH_BUILTIN_BG_H
+#ifndef _STL_QUEUE_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus > 201402L || !defined(__STRICT_ANSI__)
+#if __cplusplus >= 201103L
+#if __cplusplus > 201402L || !defined(__STRICT_ANSI__)
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus > 201402L || !defined(__STRICT_ANSI__)
+#if __cplusplus >= 201103L
+#if __cplusplus > 201402L || !defined(__STRICT_ANSI__)
+#ifndef _GLIBCXX_QUEUE
+#ifndef INPUT_COMMON_H
+#ifndef FISH_INPUT_H
+#ifndef FISH_BUILTIN_BIND_H
+#ifndef FISH_BUILTIN_BLOCK_H
+#ifndef FISH_BUILTIN_BUILTIN_H
+#ifndef FISH_BUILTIN_CD_H
+#ifndef FISH_BUILTIN_COMMAND_H
+#ifndef FISH_BUILTIN_COMMANDLINE_H
+#ifndef FISH_BUILTIN_COMPLETE_H
+#ifndef FISH_BUILTIN_CONTAINS_H
+#ifndef FISH_BUILTIN_DISOWN_H
+#ifndef FISH_BUILTIN_ECHO_H
+#ifndef FISH_BUILTIN_EMIT_H
+#ifndef FISH_BUILTIN_EVAL_H
+#ifndef FISH_BUILTIN_EXIT_H
+#ifndef FISH_BUILTIN_FG_H
+#ifndef FISH_BUILTIN_FUNCTIONS_H
+#ifndef FISH_BUILTIN_HISTORY_H
+#ifndef FISH_BUILTIN_JOBS_H
+#ifndef FISH_BUILTIN_MATH_H
+#ifndef FISH_BUILTIN_PRINTF_H
+#ifndef FISH_BUILTIN_PWD_H
+#ifndef FISH_BUILTIN_RANDOM_H
+#ifndef FISH_BUILTIN_READ_H
+#ifndef FISH_BUILTIN_REALPATH_H
+#ifndef FISH_BUILTIN_RETURN_H
+#ifndef FISH_BUILTIN_SET_H
+#ifndef FISH_BUILTIN_SET_COLOR_H
+#ifndef FISH_BUILTIN_SOURCE_H
+#ifndef FISH_BUILTIN_STATUS_H
+#ifndef FISH_BUILTIN_STRING_H
+#ifndef FISH_BUILTIN_TEST_H
+#ifndef FISH_BUILTIN_ULIMIT_H
+#ifndef FISH_BUILTIN_WAIT_H
+#ifndef FISH_COMPLETE_H
+#ifndef FISH_INTERN_H
+#ifndef FISH_PARSE_UTIL_H
+#ifndef FISH_COLOR_H
+#ifndef FISH_HIGHLIGHT_H
+#ifndef FISH_READER_H
+#ifndef FISH_WGETOPT_H
+#ifndef _GLIBCXX_CSTDDEF
+#if __cplusplus >= 201103L
+#ifndef _STL_SET_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _STL_MULTISET_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_SET
+#ifndef __iovec_defined
+#ifndef _FALLOC_H_
+#ifdef __USE_GNU
+#ifndef O_CREAT
+#ifndef O_EXCL
+#ifndef O_NOCTTY
+#ifndef O_TRUNC
+#ifndef O_APPEND
+#ifndef O_NONBLOCK
+#ifndef O_NDELAY
+#ifndef O_SYNC
+#ifndef O_ASYNC
+#ifndef __O_DIRECTORY
+#ifndef __O_NOFOLLOW
+#ifndef __O_CLOEXEC
+#ifndef __O_DIRECT
+#ifndef __O_NOATIME
+#ifndef __O_PATH
+#ifndef __O_DSYNC
+#ifndef __O_TMPFILE
+#ifndef F_GETLK
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_GNU
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_XOPEN2K8
+#ifdef __USE_GNU
+#if defined __USE_POSIX199309 || defined __USE_UNIX98
+#ifndef __F_SETOWN
+#if defined __USE_UNIX98 || defined __USE_XOPEN2K8
+#ifndef __F_SETSIG
+#ifndef __F_SETOWN_EX
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_XOPEN2K8
+#ifndef F_RDLCK
+#ifndef F_EXLCK
+#ifdef __USE_MISC
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_MISC
+#ifndef __POSIX_FADV_DONTNEED
+#ifdef __USE_XOPEN2K
+#ifdef __USE_GNU
+#ifdef __USE_ATFILE
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __x86_64__
+#ifdef __x86_64__
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifndef _BITS_STAT_H
+#if defined __x86_64__ || !defined __USE_FILE_OFFSET64
+#ifdef __x86_64__
+#if defined __x86_64__ || !defined __USE_FILE_OFFSET64
+#if defined __x86_64__  || !defined __USE_FILE_OFFSET64
+#ifdef __USE_XOPEN2K8
+#ifdef __x86_64__
+#ifdef __USE_LARGEFILE64
+#ifdef __x86_64__
+#ifdef __x86_64__
+#ifdef __USE_XOPEN2K8
+#ifdef __x86_64__
+#ifdef __USE_ATFILE
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_ATFILE
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifndef _FCNTL_H
+#ifdef __O_TMPFILE
+#ifndef __mode_t_defined
+#ifndef __off_t_defined
+#ifndef __USE_FILE_OFFSET64
+#if defined __USE_LARGEFILE64 && !defined __off64_t_defined
+#ifndef __pid_t_defined
+#ifdef __USE_XOPEN2K8
+#if defined __USE_XOPEN || defined __USE_XOPEN2K8
+#ifdef __S_IFIFO
+#ifdef __S_IFLNK
+#if (defined __USE_UNIX98 || defined __USE_XOPEN2K8) && defined __S_IFSOCK
+#if defined __USE_MISC || defined __USE_XOPEN
+#ifdef __USE_MISC
+#ifndef R_OK
+#if defined __USE_XOPEN || defined __USE_XOPEN2K8
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_ATFILE
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#if !defined F_LOCK && (defined __USE_MISC || (defined __USE_XOPEN_EXTENDED \
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_XOPEN2K
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#if __USE_FORTIFY_LEVEL > 0 && defined __fortify_function \
+#ifndef __statx_timestamp_defined
+#ifndef __statx_defined
+#ifndef STATX_TYPE
+#ifndef _SYS_STAT_H
+#ifdef __USE_XOPEN2K8
+#if defined __USE_XOPEN || defined __USE_XOPEN2K
+#ifndef __dev_t_defined
+#ifndef __gid_t_defined
+#ifndef __ino_t_defined
+#ifndef __USE_FILE_OFFSET64
+#ifndef __mode_t_defined
+#ifndef __nlink_t_defined
+#ifndef __off_t_defined
+#ifndef __USE_FILE_OFFSET64
+#ifndef __uid_t_defined
+#ifdef __USE_UNIX98
+#ifndef __blkcnt_t_defined
+#ifndef __USE_FILE_OFFSET64
+#ifndef __blksize_t_defined
+#if defined __USE_MISC || defined __USE_XOPEN
+#ifdef __S_IFIFO
+#ifdef __S_IFLNK
+#if (defined __USE_MISC || defined __USE_XOPEN_EXTENDED) \
+#ifdef __S_IFIFO
+#ifdef __S_IFLNK
+#if (defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K) \
+#ifdef __USE_POSIX199309
+#if defined __USE_MISC || defined __USE_XOPEN
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_ATFILE
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#if defined __USE_XOPEN_EXTENDED || defined __USE_XOPEN2K
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_MISC
+#if defined __USE_POSIX199309 || defined __USE_XOPEN_EXTENDED
+#ifdef __USE_ATFILE
+#ifdef __USE_GNU
+#ifdef __USE_ATFILE
+#if defined __USE_MISC || defined __USE_XOPEN_EXTENDED
+#ifdef __USE_ATFILE
+#ifdef __USE_ATFILE
+#ifdef __USE_ATFILE
+#ifdef __USE_XOPEN2K8
+#ifndef _MKNOD_VER
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_GNU
+#ifdef __USE_EXTERN_INLINES
+#if defined __USE_MISC || defined __USE_XOPEN_EXTENDED
+#ifdef __USE_ATFILE
+#ifdef __USE_MISC
+#ifdef __USE_ATFILE
+#if defined __USE_LARGEFILE64 \
+#if defined __USE_MISC || defined __USE_XOPEN_EXTENDED
+#ifdef __USE_ATFILE
+#ifndef FISH_PATH_H
+#ifndef _GLIBCXX_CLIMITS
+#ifndef FISH_BUILTIN_FUNCTION_H
+#ifndef FISH_FUNCTION_H
+#ifndef FISH_PARSER_KEYWORD_H
+#ifndef FISH_SIGNALH
+#ifndef FISH_TERMSIZE_H
+#ifndef FISH_HISTORY_H
+#ifndef _BITS_LIBM_SIMD_DECL_STUBS_H
+#ifdef __FLT_EVAL_METHOD__
+#ifdef __USE_ISOC99
+#ifdef __USE_GNU
+#if defined __USE_XOPEN_EXTENDED || defined __USE_ISOC99
+#if __GLIBC_USE (IEC_60559_FUNCS_EXT)
+#if defined __USE_XOPEN_EXTENDED || defined __USE_ISOC99
+#ifdef __USE_ISOC99
+#if defined __USE_XOPEN || defined __USE_ISOC99
+#if defined __USE_XOPEN_EXTENDED || defined __USE_ISOC99
+#ifdef __USE_MISC
+#if ((!defined __cplusplus \
+#if !__MATH_DECLARING_FLOATN
+#ifdef __USE_ISOC99
+#ifdef __USE_ISOC99
+#if defined __USE_MISC || (defined __USE_XOPEN && !defined __USE_XOPEN2K)
+#if ((!defined __cplusplus \
+#if defined __USE_MISC || (defined __USE_XOPEN && __MATH_DECLARING_DOUBLE)
+#if defined __USE_XOPEN || defined __USE_ISOC99
+#ifdef __USE_ISOC99
+#if defined __USE_MISC || (defined __USE_XOPEN && !defined __USE_XOPEN2K)
+#if !__MATH_DECLARING_FLOATN
+#ifdef __USE_MISC
+#if defined __USE_XOPEN_EXTENDED || defined __USE_ISOC99
+#if defined __USE_ISOC99 && !defined __LDBL_COMPAT && !__MATH_DECLARING_FLOATN
+#if __GLIBC_USE (IEC_60559_BFP_EXT) || __MATH_DECLARING_FLOATN
+#ifdef __USE_ISOC99
+#if __GLIBC_USE (IEC_60559_BFP_EXT) || __MATH_DECLARING_FLOATN
+#ifdef __USE_ISOC99
+#if __GLIBC_USE (IEC_60559_BFP_EXT) || __MATH_DECLARING_FLOATN
+#if (defined __USE_MISC || (defined __USE_XOPEN_EXTENDED \
+#if __HAVE_DISTINCT_FLOAT128
+#if __HAVE_DISTINCT_FLOAT128
+#if !defined __NO_MATH_INLINES && defined __OPTIMIZE__
+#ifndef _MATH_H
+#if __GNUC_PREREQ (3, 3)
+#ifdef __USE_ISOC99
+#if __GNUC_PREREQ (3, 3)
+#if __HAVE_FLOAT32 && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_FLOAT64 && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_FLOAT128 && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_FLOAT32X && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_FLOAT64X && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#ifdef __USE_ISOC99
+#if __GNUC_PREREQ (3, 3)
+#if __GNUC_PREREQ (3, 3)
+#if __GLIBC_USE (IEC_60559_BFP_EXT)
+#if __GNUC_PREREQ (3, 3)
+#if __HAVE_FLOAT32 && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_FLOAT64 && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_FLOAT128 && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_FLOAT32X && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_FLOAT64X && __GLIBC_USE (IEC_60559_TYPES_EXT)
+#ifdef __USE_ISOC99
+#if __GLIBC_FLT_EVAL_METHOD == 0 || __GLIBC_FLT_EVAL_METHOD == 16
+#ifdef __USE_ISOC99
+#if __FP_LOGB0_IS_MIN
+#if __FP_LOGBNAN_IS_MIN
+#if __GLIBC_USE (IEC_60559_BFP_EXT)
+#if __FP_LOGB0_IS_MIN
+#if __FP_LOGBNAN_IS_MIN
+#if __GLIBC_USE (IEC_60559_BFP_EXT)
+#ifdef __USE_ISOC99
+#if !(defined __NO_LONG_DOUBLE_MATH && defined _LIBC) \
+#if __HAVE_DISTINCT_FLOAT32 || (__HAVE_FLOAT32 && !defined _LIBC)
+#if __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_DISTINCT_FLOAT64 || (__HAVE_FLOAT64 && !defined _LIBC)
+#if __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_DISTINCT_FLOAT128 || (__HAVE_FLOAT128 && !defined _LIBC)
+#if __HAVE_DISTINCT_FLOAT128
+#if __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_DISTINCT_FLOAT32X || (__HAVE_FLOAT32X && !defined _LIBC)
+#if __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_DISTINCT_FLOAT64X || (__HAVE_FLOAT64X && !defined _LIBC)
+#if __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __GLIBC_USE (IEC_60559_BFP_EXT)
+#if __GLIBC_USE (IEC_60559_TYPES_EXT)
+#if __HAVE_FLOAT32 && __HAVE_FLOAT32X
+#if __HAVE_FLOAT32 && __HAVE_FLOAT64
+#if __HAVE_FLOAT32 && __HAVE_FLOAT64X
+#if __HAVE_FLOAT32 && __HAVE_FLOAT128
+#if __HAVE_FLOAT32X && __HAVE_FLOAT64
+#if __HAVE_FLOAT32X && __HAVE_FLOAT64X
+#if __HAVE_FLOAT32X && __HAVE_FLOAT128
+#if __HAVE_FLOAT64 && __HAVE_FLOAT64X
+#if __HAVE_FLOAT64 && __HAVE_FLOAT128
+#if __HAVE_FLOAT64X && __HAVE_FLOAT128
+#if defined __USE_MISC || defined __USE_XOPEN
+#elif __HAVE_DISTINCT_FLOAT128
+#ifdef __USE_ISOC99
+"#if ((__GNUC_PREREQ (4,4) && !defined __SUPPORT_SNAN__)		      \"
+#if __GNUC_PREREQ (6,0) || __glibc_clang_prereq (3,3)
+#if (__GNUC_PREREQ (4,4) && !defined __SUPPORT_SNAN__) \
+#if (__GNUC_PREREQ (4,4) && !defined __SUPPORT_SNAN__) \
+#if (__GNUC_PREREQ (4,4) && !defined __SUPPORT_SNAN__) \
+#elif (__GNUC_PREREQ (4,4) && !defined __SUPPORT_SNAN__) \
+#if __GLIBC_USE (IEC_60559_BFP_EXT)
+#if __HAVE_FLOAT128_UNLIKE_LDBL
+#ifdef __USE_XOPEN
+#if defined __USE_MISC || defined __USE_XOPEN
+#ifdef __USE_GNU
+#if __HAVE_FLOAT32 && defined __USE_GNU
+#if __HAVE_FLOAT64 && defined __USE_GNU
+#if __HAVE_FLOAT128 && defined __USE_GNU
+#if __HAVE_FLOAT32X && defined __USE_GNU
+#if __HAVE_FLOAT64X && defined __USE_GNU
+#ifdef __USE_ISOC99
+#if __GNUC_PREREQ (3, 1)
+#ifdef __USE_EXTERN_INLINES
+#if __GLIBC_USE (IEC_60559_BFP_EXT)
+#elif __FLT_EVAL_METHOD__ == 0 || __FLT_EVAL_METHOD__ == 32
+#ifndef __NO_LONG_DOUBLE_MATH
+#if __HAVE_FLOAT128_UNLIKE_LDBL
+#if __cplusplus >= 201103L
+#ifndef _GLIBCXX_CMATH
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#ifndef __CORRECT_ISO_CPP_MATH_H_PROTO
+#if _GLIBCXX_USE_C99_MATH
+#if !_GLIBCXX_USE_C99_FP_MACROS_DYNAMIC
+#if __cplusplus >= 201103L
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_USE_C99_MATH_TR1
+#ifndef _GLIBCXX_NO_C99_ROUNDING_FUNCS
+#ifndef _GLIBCXX_NO_C99_ROUNDING_FUNCS
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_FP
+#ifndef __CORRECT_ISO_CPP11_MATH_H_PROTO_INT
+#ifndef __TINYEXPR_H__
+#ifndef _GLIBCXX_CSTDARG
+#if defined(__STDC_ISO_10646__)
+#ifndef _RANDOM_H
+#ifdef _GLIBCXX_USE_INT128
+#ifdef _GLIBCXX_USE_DEV_RANDOM
+#ifdef _GLIBCXX_USE_DEV_RANDOM
+#ifdef _GLIBCXX_USE_DEV_RANDOM
+#if _GLIBCXX_USE_C99_MATH_TR1
+#ifdef _GLIBCXX_USE_C99_MATH_TR1
+#if _GLIBCXX_USE_C99_MATH_TR1
+#ifdef _GLIBCXX_USE_C99_MATH_TR1
+#ifndef _BITS_OPT_RANDOM_H
+#ifndef _RANDOM_TCC
+#if _GLIBCXX_USE_C99_MATH_TR1
+#if _GLIBCXX_USE_C99_MATH_TR1
+#if _GLIBCXX_USE_C99_MATH_TR1
+#if _GLIBCXX_USE_C99_MATH_TR1
+#if _GLIBCXX_USE_C99_MATH_TR1
+#ifndef _GLIBCXX_RANDOM
+#ifdef _GLIBCXX_USE_C99_STDINT_TR1
+#ifndef NCURSES_DLL_H_incl
+#if !defined(NCURSES_IMPEXP)
+#if !defined(NCURSES_API)
+#if !defined(NCURSES_EXPORT)
+#if !defined(NCURSES_EXPORT_VAR)
+#ifndef __NCURSES_H
+#if 1
+#ifndef NCURSES_ENABLE_STDBOOL_H
+#ifndef NCURSES_ATTR_T
+#ifndef NCURSES_INTERNALS
+#ifndef NCURSES_WATTR_MACROS
+#ifndef NCURSES_REENTRANT
+#if 1 && defined(_LP64)
+#ifndef NCURSES_WIDECHAR
+#if defined(_XOPEN_SOURCE_EXTENDED) || (defined(_XOPEN_SOURCE) && (_XOPEN_SOURCE - 0 >= 500))
+#if NCURSES_WIDECHAR
+#if defined(__cplusplus)
+#ifdef __cplusplus
+#if 1
+#if NCURSES_WIDECHAR
+#if 1
+#if 1
+#if !NCURSES_OPAQUE
+#if NCURSES_WIDECHAR
+#if 1
+#if 1
+#ifndef GCC_PRINTFLIKE
+#ifndef GCC_SCANFLIKE
+#ifndef GCC_NORETURN
+#ifndef GCC_UNUSED
+#if (__GNUC__ - 0 > 3 || (__GNUC__ - 0 == 3 && __GNUC_MINOR__ - 0 >= 2))
+#if NCURSES_TPARM_VARARGS
+#if 1
+#if 1
+#if 1
+#if 1
+#if NCURSES_WIDECHAR
+#if NCURSES_SP_FUNCS
+#if NCURSES_MOUSE_VERSION > 1
+#if NCURSES_MOUSE_VERSION > 1
+#if NCURSES_SP_FUNCS
+#if NCURSES_SP_FUNCS
+#if NCURSES_WIDECHAR
+#ifdef __cplusplus
+#ifndef NCURSES_UNCTRL_H_incl
+#ifdef __cplusplus
+#if 1
+#ifdef __cplusplus
+#ifndef NCURSES_TERM_H_incl
+#ifdef __cplusplus
+#if 1 && 1
+#ifdef TERMIOS
+#ifndef micro_char_size
+#if NCURSES_XNAMES
+#if !defined(NCURSES_TERMCAP_H_incl)
+#if defined(NCURSES_SP_FUNCS) && (NCURSES_SP_FUNCS != 0)
+#if 1
+#ifdef __cplusplus
+#ifndef FISH_OUTPUT_H
+#if HAVE_CURSES_H
+#if HAVE_TERM_H
+#ifndef FISH_FUTURE_FEATURE_FLAGS_H
+#ifndef PCRE2_H_IDEMPOTENT_GUARD
+#ifndef PCRE2_EXP_DECL
+#ifdef __cplusplus
+#ifndef PCRE2_CALL_CONVENTION
+#if PCRE2_HAVE_STDINT_H
+#ifdef __cplusplus
+#if PCRE2_CODE_UNIT_WIDTH == 8 || \
+#ifdef __cplusplus
+#ifndef FISH_WILDCARD_H
+#ifdef S_ISVTX
+#ifndef __rusage_defined
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifndef _SYS_RESOURCE_H
+#ifndef __id_t_defined
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef RLIMIT_MEMLOCK
+#ifdef RLIMIT_RSS
+#ifdef RLIMIT_NPROC
+#ifdef RLIMIT_AS
+#ifdef RLIMIT_MEMLOCK
+#ifdef RLIMIT_RSS
+#ifdef RLIMIT_NPROC
+#ifdef RLIMIT_AS
+#ifndef _CXXABI_TWEAKS_H
+#ifdef __cplusplus
+#ifdef __cplusplus
+#ifndef _CXXABI_H
+#ifdef __cplusplus
+#ifdef __cplusplus
+#ifdef __cplusplus
+#ifdef __USE_GNU
+#ifndef _DLFCN_H
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#if __GNUC_PREREQ (3, 0)
+#ifndef _PATHS_H_
+#ifndef _EXECINFO_H
+#ifndef _SYS_UTSNAME_H
+#ifndef _UTSNAME_SYSNAME_LENGTH
+#ifndef _UTSNAME_NODENAME_LENGTH
+#ifndef _UTSNAME_RELEASE_LENGTH
+#ifndef _UTSNAME_VERSION_LENGTH
+#ifndef _UTSNAME_MACHINE_LENGTH
+#if _UTSNAME_DOMAIN_LENGTH - 0
+#ifdef __USE_GNU
+#ifdef __USE_MISC
+#ifndef FISH_IOTHREAD_H
+#ifdef HAVE_BACKTRACE_SYMBOLS
+#ifdef HAVE_EXECINFO_H
+#ifdef __linux__
+#ifdef HAVE_BACKTRACE_SYMBOLS
+#elif defined(P_tmpdir)
+#ifndef _PWD_H
+#if defined __USE_XOPEN || defined __USE_XOPEN2K
+#ifndef __gid_t_defined
+#ifndef __uid_t_defined
+#ifdef __USE_MISC
+#if defined __USE_MISC || defined __USE_XOPEN_EXTENDED
+#ifdef __USE_MISC
+#ifdef __USE_POSIX
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_GNU
+#ifndef FISH_UTIL_H
+#ifdef HAVE_GETTEXT
+#ifndef FISH_ENV_UNIVERSAL_COMMON_H
+#ifndef FISH_ENV_DISPATCH_H
+#if defined(_CS_PATH)
+#ifndef FISH_SCREEN_H
+#if HAVE_CURSES_H
+#if HAVE_TERM_H
+#ifdef HAVE__NL_MSG_CAT_CNTR
+#ifndef _BITS_SOCKADDR_H
+#ifndef __ASM_GENERIC_BITS_PER_LONG
+#ifndef __ASM_X86_BITSPERLONG_H
+#if defined(__x86_64__) && !defined(__ILP32__)
+#ifndef __ASM_GENERIC_POSIX_TYPES_H
+#ifndef __kernel_long_t
+#ifndef __kernel_ino_t
+#ifndef __kernel_mode_t
+#ifndef __kernel_pid_t
+#ifndef __kernel_ipc_pid_t
+#ifndef __kernel_uid_t
+#ifndef __kernel_suseconds_t
+#ifndef __kernel_daddr_t
+#ifndef __kernel_uid32_t
+#ifndef __kernel_size_t
+#ifndef __kernel_fsid_t
+#ifndef _ASM_X86_POSIX_TYPES_64_H
+#ifndef _LINUX_POSIX_TYPES_H
+#ifndef __ASM_GENERIC_SOCKIOS_H
+#ifndef __ASM_GENERIC_SOCKET_H
+#ifndef SO_PASSCRED
+#if __BITS_PER_LONG == 64 || (defined(__x86_64__) && defined(__ILP32__))
+#ifndef __BITS_SOCKET_H
+#ifndef __socklen_t_defined
+#ifdef __USE_GNU
+#if __glibc_c99_flexarr_available
+#if __glibc_c99_flexarr_available
+#ifdef __USE_EXTERN_INLINES
+#ifndef _EXTERN_INLINE
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_MISC
+#ifndef __osockaddr_defined
+#ifndef _SYS_SOCKET_H
+#ifdef __USE_MISC
+#if defined __cplusplus || !__GNUC_PREREQ (2, 7) || !defined __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifdef __USE_XOPEN2K
+#ifdef __USE_MISC
+#if __USE_FORTIFY_LEVEL > 0 && defined __fortify_function
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#if !__USE_KERNEL_IPV6_DEFS
+#ifndef _NETINET_IN_H
+#if !__USE_KERNEL_IPV6_DEFS
+#ifndef INADDR_LOOPBACK
+#if !__USE_KERNEL_IPV6_DEFS
+#ifdef __USE_MISC
+#if !__USE_KERNEL_IPV6_DEFS
+#ifdef __USE_MISC
+#if !__USE_KERNEL_IPV6_DEFS
+#ifdef __USE_MISC
+#ifdef __OPTIMIZE__
+#if __BYTE_ORDER == __LITTLE_ENDIAN
+#ifdef __GNUC__
+#ifdef __USE_MISC
+#ifdef __USE_GNU
+#if !__USE_KERNEL_IPV6_DEFS
+#ifndef _ARPA_INET_H
+#ifdef __USE_MISC
+#ifndef _SYS_FILE_H
+#ifndef L_SET
+#ifndef _UTF8_H_
+#ifndef _NET_IF_H
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#if !defined(__APPLE__) && !defined(__CYGWIN__)
+#ifdef HAVE_SYS_SELECT_H
+#if HAVE_CLOCK_GETTIME && HAVE_FUTIMENS
+#ifdef SIOCGIFHWADDR
+#if !defined(__APPLE__) && !defined(__CYGWIN__)
+#if !defined(__APPLE__) && !defined(__CYGWIN__)
+#if !defined(__APPLE__) && !defined(__CYGWIN__)
+#ifndef _SPAWN_H
+#ifdef __USE_GNU
+#ifdef __USE_GNU
+#ifndef _STL_STACK_H
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus > 201402L || !defined(__STRICT_ANSI__)
+#if __cplusplus >= 201103L
+#if __cplusplus > 201402L || !defined(__STRICT_ANSI__)
+#ifndef _GLIBCXX_STACK
+#ifndef FISH_POSTFORK_H
+#if HAVE_SPAWN_H
+#ifndef FISH_USE_POSIX_SPAWN
+#ifdef FISH_USE_POSIX_SPAWN
+#ifndef FISH_TIMER_H
+#ifndef FISH_TRACE_H
+#ifdef HAVE_SPAWN_H
+#if FISH_USE_POSIX_SPAWN
+#ifndef _LIBINTL_H
+#ifndef WIDECHAR_WIDTH_H
+#if HAVE_GETTEXT
+#if HAVE_CURSES_H
+#if HAVE_TERM_H
+#if HAVE_MKOSTEMP
+#ifndef HAVE_WCSNDUP
+#ifndef HAVE_WCSLCPY
+#if HAVE_GETTEXT
+#ifndef FISH_FD_MONITOR_H
+#ifndef _GETOPT_EXT_H
+#ifndef _GETOPT_H
+#ifndef __getopt_argv_const
+#ifdef CMAKE_BINARY_DIR
+#ifndef FISH_PRINT_HELP_H
+#ifndef FISH_BUILD_VERSION
+#ifdef __USE_MISC
+#ifdef __USE_GNU
+#ifndef MFD_CLOEXEC
+#ifndef MLOCK_ONFAULT
+#ifndef PKEY_DISABLE_ACCESS
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_MISC
+#ifdef __USE_XOPEN2K
+#ifndef MCL_CURRENT
+#ifdef __USE_MISC
+#ifndef _SYS_MMAN_H
+#ifndef __off_t_defined
+#ifndef __USE_FILE_OFFSET64
+#ifndef __mode_t_defined
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_MISC
+#ifdef __USE_XOPEN2K
+#ifdef __USE_MISC
+#ifdef __USE_GNU
+#ifndef FISH_HISTORY_FILE_H
+#ifdef MAP_ANON
+#if HAVE_TERM_H
+#ifdef HAVE_SYS_SELECT_H
+#if HAVE_CURSES_H
+#if HAVE_TERM_H
+#ifndef FISH_PAGER_H
+#ifndef FISH_SANITY_H
+#ifndef JOIN_THREADS_BEFORE_FORK
+#if FISH_USE_POSIX_SPAWN
+#if HAVE_TERM_H
+#ifdef HAVE_SYS_SELECT_H
+#ifndef FISH_KILL_H
+#ifdef HAVE_SYS_SELECT_H
+#ifdef _POSIX_VDISABLE
+#if HAVE_CURSES_H
+#if HAVE_TERM_H
+#elif defined HAVE_STRUCT_STAT_ST_MTIM_TV_NSEC
+#ifdef SIGHUP
+#ifdef SIGINT
+#ifdef SIGQUIT
+#ifdef SIGILL
+#ifdef SIGTRAP
+#ifdef SIGABRT
+#ifdef SIGBUS
+#ifdef SIGFPE
+#ifdef SIGKILL
+#ifdef SIGUSR1
+#ifdef SIGUSR2
+#ifdef SIGSEGV
+#ifdef SIGPIPE
+#ifdef SIGALRM
+#ifdef SIGTERM
+#ifdef SIGCHLD
+#ifdef SIGCONT
+#ifdef SIGSTOP
+#ifdef SIGTSTP
+#ifdef SIGTTIN
+#ifdef SIGTTOU
+#ifdef SIGURG
+#ifdef SIGXCPU
+#ifdef SIGXFSZ
+#ifdef SIGVTALRM
+#ifdef SIGPROF
+#ifdef SIGWINCH
+#ifdef SIGIO
+#ifdef SIGPWR
+#ifdef SIGSYS
+#ifdef SIGSTKFLT
+#ifdef SIGIOT
+#ifdef SIGWINCH
+#ifdef SIGWINCH
+#ifdef HAVE_WINSIZE
+#ifndef _GLIBCXX_MATH_H
+#if _GLIBCXX_USE_C99_MATH
+#if __cplusplus >= 201103L && defined(_GLIBCXX_USE_C99_MATH_TR1)
+#ifdef _GLIBCXX_USE_WCHAR_T
+#ifndef _CODECVT_H
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if _GLIBCXX_EXTERN_TEMPLATE
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if __cplusplus >= 201103L
+#ifndef _LOCALE_FACETS_NONIO_TCC
+#if _GLIBCXX_USE_C99_STDIO
+#if _GLIBCXX_USE_C99
+#if __cplusplus >= 201103L
+#if _GLIBCXX_EXTERN_TEMPLATE
+#ifdef _GLIBCXX_USE_WCHAR_T
+#ifndef _LOCALE_FACETS_NONIO_H
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if !_GLIBCXX_INLINE_VERSION
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#if _GLIBCXX_USE_CXX11_ABI
+#if __cplusplus >= 201103L
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if __cplusplus >= 201103L
+#ifdef _GLIBCXX_USE_WCHAR_T
+#if __cplusplus >= 201103L
+#ifndef _LOCALE_CONV_H
+#ifdef _GLIBCXX_USE_WCHAR_T
+#ifndef _GLIBCXX_LOCALE
+#if __cplusplus >= 201103L
+#ifndef _LIBGEN_H
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifndef _SYS_STATFS_H
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifndef _SYS_MOUNT_H
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifdef __USE_GNU
+#ifndef _SYS_STATVFS_H
+#ifndef __USE_FILE_OFFSET64
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#ifndef __USE_FILE_OFFSET64
+#ifdef __USE_LARGEFILE64
+#if defined(__linux__)
+#ifdef HAVE_STRUCT_DIRENT_D_TYPE
+#if HAVE_STRUCT_DIRENT_D_TYPE
+#ifdef O_CLOEXEC
+#if defined(__linux__)
+#elif defined(HAVE__SYS__ERRS) || defined(HAVE_SYS_ERRLIST)
+#ifdef HAVE_SYS_ERRLIST
+#elif defined(_BSD_SOURCE) || defined(_SVID_SOURCE) || defined(_XOPEN_SOURCE)

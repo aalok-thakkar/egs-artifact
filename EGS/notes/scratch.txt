@@ -1,0 +1,328 @@
+Goal: Find a small "good" automaton
+Definition: An automaton is "good" if:
+  1. it produces every good tuple,
+  2. does not produce any bad tuple, and
+  3. all of whose derivation trees are well-typed
+
+Claim 1: Once UCQ generation complete, we can trivially generate a good automaton of bounded size
+Proof: Simply use the automaton corresponding to the UCQ.
+
+Goal: We want to shrink this automaton.
+
+// a = (Require (); _ * Edge; select (v0, v1); project (v1, v0))
+// b = (Require (V, V); _ * Edge; select (v0, v1, v0, v3); project (v3, v1))
+// c = (Require (V, V); _ * Edge; select (v0, v1, v0, v1); project (v0, v0))
+// d = (Require (V, V); _ * Edge; select (v0, v1, v0, v1); project (v1, v0))
+// e = (Require (V, V); _ * Edge; select (v0, v1, v0, v3); project (v1, v3))
+// f = (Require (V, V); _ * Edge; select (v0, v1, v2, v0); project (v1, v2, v0))
+// g = (Require (V, V, V); _ * Edge; select (v0, v1, v2, v0, v1); project (v0, v2))
+// h = (Require (V, V); _ * Edge; select (v0, v1, v0, v1); project (v0, v1))
+
+// Derivations:
+6 x abbc
+4 x abbd
+6 x abbh
+3 x abc
+3 x abd
+3 x abh
+4 x aefg
+
+// List of prefixes:
+abbc
+abb
+ab
+a
+epsilon
+abbd
+abbh
+abc
+abd
+abh
+aefg
+aef
+ae
+
+1. Let W_seed be the set of words corresponding to the rules in the learned UCQ query
+2. Let W_pre be the set of all prefixes of all words in W_seed.
+   Initialize T to be the set of all suffixes of all words in W_seed.
+3. eval(w) = "w is well-typed and it produces only good tuples"
+4. Define two strings w1, w2 in W_pre as being T-equivalent if for all w3 in T, eval(w1 w3) = eval(w2 w3).
+5. Issue: this is not a right congruence.
+   If w1 and w2 are T-equivalent, then there might still be a such that w1.a is not T-equivalent to w2.a.
+   There might be w1, w2 in W_pre such that for all w3 in T, eval(w1 w3) = eval(w2 w3), but:
+                    there exists a in Sigma, w3 in T such that eval(w1 a w2) != eval(w2 a w3).
+6. Solution: Fix this by adding a.w3 to T.
+7. Build DFA
+8. If equivalence query fails, then it produces some counter-example word w.
+   Add w and all suffixes to T. repeat from step 3.
+
+7. Never create more than |W_pre| equivalence classes in W_pre.
+
+
+
+
+Idea:
+1. Q is upper-bounded by the list of prefixes
+2. T is initialized to the list of suffixes
+3. Add to T as usual
+4. T is suffix-closed
+
+Claim: Say there are two prefixes w1, w2 in Q which are T-equivalent.
+   Pick an a in Sigma suh that there is a suffix a.w3 such that w1.a.w3 is accepted.
+   Then, w1.a and w2.a are also T-equivalent.
+
+Say some suffix u which distinguishes w1.a and w2.a. Say au not in T.
+
+DFA minimization algorithm based on state merging:
+1. Repeat until no progress possible:
+   a. Pick a pair of states q1, q2, such that for every suffix w in T, eval(q1 w) = eval(q2 w).
+      Merge q1, q2.
+      - All incoming transitions to q1 instead go to q2
+      - Remove q1
+2. Here eval(w) = "w is well-typed and for all t in [[w]], t is good".
+
+// List of suffixes:
+abbc
+bbc
+bc
+c
+epsilon
+abbd
+bbd
+bd
+d
+abbh
+bbh
+bh
+h
+abc
+abd
+abh
+aefg
+efg
+fg
+g
+
+// (8, 8):
+// SCC(v5, v5) :- Edge(v0, v1), Edge(v1, v3), Edge(v3, v5), Edge(v5, v0).
+x abbc
+//   a
+//   b
+//   b
+//   c
+
+// (10, 9):
+// SCC(v5, v3) :- Edge(v5, v0), Edge(v0, v1), Edge(v1, v3), Edge(v3, v5).
+x abbd
+//   a
+//   b
+//   b
+//   d
+
+// (6, 5):
+// SCC(v2, v1) :- Edge(v2, v0), Edge(v0, v1), Edge(v1, v2).
+x abd
+//   a
+//   b
+//   d
+
+// (5, 4):
+// SCC(v2, v1) :- Edge(v2, v0), Edge(v0, v1), Edge(v1, v2).
+x abd
+//   a
+//   b
+//   d
+
+// (7, 10):
+// SCC(v5, v3) :- Edge(v5, v0), Edge(v0, v1), Edge(v1, v3), Edge(v3, v5).
+x abbd
+//   a
+//   b
+//   b
+//   d
+
+// (10, 8):
+// SCC(v5, v1) :- Edge(v1, v3), Edge(v3, v5), Edge(v0, v1), Edge(v5, v0).
+x aefg
+//   a
+//   e
+//   f
+//   g
+
+// (3, 2):
+// SCC(v4, v2) :- Edge(v2, v0), Edge(v0, v1), Edge(v1, v4), Edge(v4, v2).
+x abbh
+//   a
+//   b
+//   b
+//   h
+
+// (8, 9):
+// SCC(v4, v2) :- Edge(v2, v0), Edge(v0, v1), Edge(v1, v4), Edge(v4, v2).
+x abbh
+//   a
+//   b
+//   b
+//   h
+
+// (6, 4):
+// SCC(v2, v0) :- Edge(v0, v1), Edge(v1, v2), Edge(v2, v0).
+x abh
+//   a
+//   b
+//   h
+
+// (8, 10):
+// SCC(v5, v1) :- Edge(v1, v3), Edge(v3, v5), Edge(v0, v1), Edge(v5, v0).
+x aefg
+//   a
+//   e
+//   f
+//   g
+
+// (3, 3):
+// SCC(v5, v5) :- Edge(v0, v1), Edge(v1, v3), Edge(v3, v5), Edge(v5, v0).
+x abbc
+//   a
+//   b
+//   b
+//   c
+
+// (4, 6):
+// SCC(v2, v1) :- Edge(v2, v0), Edge(v0, v1), Edge(v1, v2).
+x abd
+//   a
+//   b
+//   d
+
+// (9, 10):
+// SCC(v4, v2) :- Edge(v2, v0), Edge(v0, v1), Edge(v1, v4), Edge(v4, v2).
+x abbh
+//   a
+//   b
+//   b
+//   h
+
+// (5, 6):
+// SCC(v2, v0) :- Edge(v0, v1), Edge(v1, v2), Edge(v2, v0).
+x abh
+//   a
+//   b
+//   h
+
+// (10, 7):
+// SCC(v4, v2) :- Edge(v2, v0), Edge(v0, v1), Edge(v1, v4), Edge(v4, v2).
+x abbh
+//   a
+//   b
+//   b
+//   h
+
+// (8, 7):
+// SCC(v5, v3) :- Edge(v5, v0), Edge(v0, v1), Edge(v1, v3), Edge(v3, v5).
+x abbd
+//   a
+//   b
+//   b
+//   d
+
+// (9, 8):
+// SCC(v5, v3) :- Edge(v5, v0), Edge(v0, v1), Edge(v1, v3), Edge(v3, v5).
+x abbd
+//   a
+//   b
+//   b
+//   d
+
+// (7, 9):
+// SCC(v5, v1) :- Edge(v1, v3), Edge(v3, v5), Edge(v0, v1), Edge(v5, v0).
+x aefg
+//   a
+//   e
+//   f
+//   g
+
+// (7, 7):
+// SCC(v5, v5) :- Edge(v0, v1), Edge(v1, v3), Edge(v3, v5), Edge(v5, v0).
+x abbc
+//   a
+//   b
+//   b
+//   c
+
+// (2, 2):
+// SCC(v5, v5) :- Edge(v0, v1), Edge(v1, v3), Edge(v3, v5), Edge(v5, v0).
+x abbc
+//   a
+//   b
+//   b
+//   c
+
+// (10, 10):
+// SCC(v5, v5) :- Edge(v0, v1), Edge(v1, v3), Edge(v3, v5), Edge(v5, v0).
+x abbc
+//   a
+//   b
+//   b
+//   c
+
+// (9, 9):
+// SCC(v5, v5) :- Edge(v0, v1), Edge(v1, v3), Edge(v3, v5), Edge(v5, v0).
+x abbc
+//   a
+//   b
+//   b
+//   c
+
+// (4, 5):
+// SCC(v2, v0) :- Edge(v0, v1), Edge(v1, v2), Edge(v2, v0).
+x abh
+//   a
+//   b
+//   h
+
+// (6, 6):
+// SCC(v2, v2) :- Edge(v0, v1), Edge(v1, v2), Edge(v2, v0).
+x abc
+//   a
+//   b
+//   c
+
+// (9, 7):
+// SCC(v5, v1) :- Edge(v1, v3), Edge(v3, v5), Edge(v0, v1), Edge(v5, v0).
+x aefg
+//   a
+//   e
+//   f
+//   g
+
+// (5, 5):
+// SCC(v2, v2) :- Edge(v0, v1), Edge(v1, v2), Edge(v2, v0).
+x abc
+//   a
+//   b
+//   c
+
+// (2, 3):
+// SCC(v4, v2) :- Edge(v2, v0), Edge(v0, v1), Edge(v1, v4), Edge(v4, v2).
+x abbh
+//   a
+//   b
+//   b
+//   h
+
+// (4, 4):
+// SCC(v2, v2) :- Edge(v0, v1), Edge(v1, v2), Edge(v2, v0).
+x abc
+//   a
+//   b
+//   c
+
+// (7, 8):
+// SCC(v4, v2) :- Edge(v2, v0), Edge(v0, v1), Edge(v1, v4), Edge(v4, v2).
+x abbh
+//   a
+//   b
+//   b
+//   h
+

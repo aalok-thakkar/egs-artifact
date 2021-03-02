@@ -1,0 +1,12 @@
+call to __builtin_bswap64	file:///usr/include/x86_64-linux-gnu/bits/byteswap.h:111:10:111:26	__builtin_bswap64
+call to __builtin_bswap32	file:///usr/include/x86_64-linux-gnu/bits/byteswap.h:47:10:47:26	__builtin_bswap32
+call to good_cast1	file:///home/aadityanaik/codeql-exploration/sample-code/main.c:8:5:8:14	good_cast1
+call to bad_cast1	file:///home/aadityanaik/codeql-exploration/sample-code/main.c:9:5:9:13	bad_cast1
+call to good_cast2	file:///home/aadityanaik/codeql-exploration/sample-code/main.c:10:5:10:14	good_cast2
+call to bad_cast2	file:///home/aadityanaik/codeql-exploration/sample-code/main.c:11:5:11:13	bad_cast2
+call to good_cast3	file:///home/aadityanaik/codeql-exploration/sample-code/main.c:12:5:12:14	good_cast3
+call to bad_cast3	file:///home/aadityanaik/codeql-exploration/sample-code/main.c:13:5:13:13	bad_cast3
+call to good_cast4	file:///home/aadityanaik/codeql-exploration/sample-code/main.c:14:5:14:14	good_cast4
+call to bad_cast4	file:///home/aadityanaik/codeql-exploration/sample-code/main.c:15:5:15:13	bad_cast4
+call to good_cast5	file:///home/aadityanaik/codeql-exploration/sample-code/main.c:16:5:16:14	good_cast5
+call to bad_cast5	file:///home/aadityanaik/codeql-exploration/sample-code/main.c:17:5:17:13	bad_cast5

@@ -1,0 +1,20 @@
+long double
+double
+float
+__float128
+_Float128
+_Decimal32
+_Decimal64
+_Decimal128
+_Float32
+_Float32x
+_Float64
+_Float64x
+_Float128x
+_Complex float
+_Complex double
+_Complex long double
+_Complex __float128
+_Imaginary float
+_Imaginary double
+_Imaginary long double

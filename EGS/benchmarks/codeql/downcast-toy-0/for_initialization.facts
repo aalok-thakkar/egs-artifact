@@ -1,0 +1,1 @@
+for(...;...;...) ...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:5:25:5	ExprStmt	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:9:23:14

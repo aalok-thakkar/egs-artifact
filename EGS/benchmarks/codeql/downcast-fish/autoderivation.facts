@@ -1,0 +1,1550 @@
+__size	const auto
+__ptr	auto &
+r	auto
+s	auto
+r	auto
+r	auto
+old_errno	auto
+h	const auto *
+h	const auto *
+h	const auto *
+h	const auto *
+h	const auto *
+h	const auto *
+old_errno	auto
+old_errno	auto
+arg	auto
+redir	auto
+r	auto
+peek	const auto &
+p	auto
+peek	const auto &
+tok	const auto &
+got_error	auto
+token1	const auto &
+token2	const auto &
+old_errno	auto
+type	auto
+old_errno	auto
+old_errno	auto
+node	auto
+old_errno	auto
+nexttok	const auto &
+type	auto
+tok1	auto
+token	const auto &
+tok	auto
+tok	auto
+old_errno	auto
+peek	const auto &
+tok	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+mtoken	auto
+pipespace	auto
+node	const auto *
+n	const auto *
+argsrc	auto
+n	const auto *
+n	const auto *
+strsource	auto
+strsource	auto
+end	auto
+n	const auto *
+n	const auto *
+old_errno	auto
+old_errno	auto
+peek	const auto &
+p	auto
+old_errno	auto
+peek	const auto &
+p	auto
+old_errno	auto
+type	auto
+old_errno	auto
+old_errno	auto
+node	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+type	auto
+old_errno	auto
+old_errno	auto
+node	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+peek	const auto &
+old_errno	auto
+type	auto
+old_errno	auto
+old_errno	auto
+node	auto
+old_errno	auto
+old_errno	auto
+peek	const auto &
+old_errno	auto
+peek	const auto &
+old_errno	auto
+old_errno	auto
+peek	const auto &
+p	auto
+peek	const auto &
+old_errno	auto
+type	auto
+old_errno	auto
+old_errno	auto
+node	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+peek	const auto &
+p	auto
+old_errno	auto
+peek	const auto &
+p	auto
+old_errno	auto
+peek	const auto &
+p	auto
+old_errno	auto
+type	auto
+old_errno	auto
+old_errno	auto
+node	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+type	auto
+old_errno	auto
+old_errno	auto
+node	auto
+old_errno	auto
+old_errno	auto
+peek	const auto &
+p	auto
+old_errno	auto
+old_errno	auto
+peek	const auto &
+p	auto
+old_errno	auto
+type	auto
+old_errno	auto
+old_errno	auto
+node	auto
+old_errno	auto
+old_errno	auto
+peek	const auto &
+p	auto
+old_errno	auto
+peek	const auto &
+p	auto
+peek	const auto &
+p	auto
+old_errno	auto
+peek	const auto &
+p	auto
+old_errno	auto
+peek	const auto &
+p	auto
+old_errno	auto
+peek	const auto &
+p	auto
+peek	const auto &
+old_errno	auto
+old_errno	auto
+peek	const auto &
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+end	auto
+__ptr	auto &
+__ptr	auto &
+old_errno	auto
+type	auto
+old_errno	auto
+old_errno	auto
+node	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+type	auto
+old_errno	auto
+old_errno	auto
+node	auto
+old_errno	auto
+old_errno	auto
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+__len	const auto
+__alloc	auto
+__ptr	auto
+__guard	auto
+__pi	auto
+__ptr	auto
+__intptr	const auto
+__aligned	const auto
+__diff	const auto
+__max_width	const auto
+__max_bkt	const auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__nptr	auto
+__callable	auto
+__res	auto
+elem	const auto &
+count	auto
+iter_inserted	auto
+iter	auto
+where	auto
+where	auto
+iter	auto
+count	auto
+kv	const auto &
+mfile	auto
+iter	auto
+cache	auto
+now	const auto
+iter	auto
+ins	auto
+seconds	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__len	const auto
+__alloc	auto
+__ptr	auto
+where	auto
+where	auto
+__ptr	auto &
+elem	const auto &
+__ptr	auto &
+__callable	auto
+__ptr	auto &
+__callable	auto
+__ptr	auto &
+__size	const auto
+__size	const auto
+iter	auto
+iter_inserted	auto
+iter	auto
+__nptr	auto
+__nptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__nptr	auto
+__res	auto
+__guard	auto
+__pi	auto
+__guard	auto
+__pi	auto
+__guard	auto
+__pi	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+count	auto
+builtin_data	const auto &
+builtin_data	const auto &
+old_errno	auto
+b	const auto &
+__ptr	auto
+__guard	auto
+__pi	auto
+kv	const auto &
+opt_spec	const auto &
+pos	auto &
+argv	auto
+found	auto
+found	auto
+opt_spec	const auto &
+vars	auto &
+output	const auto &
+kv	const auto &
+opt_spec	const auto &
+ins	auto
+flag	const auto &
+x	auto
+kv	const auto &
+opt_spec	const auto &
+xarg_set	const auto &
+xflag	const auto &
+xopt_spec_iter	auto
+xopt_spec	const auto &
+__ptr	auto &
+__nptr	auto
+__ptr	auto
+__ptr	auto
+__nptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+j	const auto &
+p	auto
+ecmd	const auto &
+mode	const auto &
+name	const auto &
+seq	auto
+__p	auto
+__alloc	auto &
+__p	auto
+__alloc	auto &
+name	const auto &
+el	auto
+maybe_dir_in	auto
+evt	const auto &
+__ptr	auto
+__guard	auto
+__pi	auto
+path	const auto &
+current_cursor_pos	auto
+ld	const auto &
+mc	auto
+token	auto
+error	const auto &
+next	const auto &
+wrap_target	const auto &
+i	const auto &
+j	const auto &
+j	const auto &
+pgid	auto
+res	auto
+j	const auto &
+__res	auto
+props	auto
+var	auto
+__ptr	auto
+__ptr	auto
+__res	auto
+__guard	auto
+__pi	auto
+__guard	auto
+__pi	auto
+name	const auto &
+name	const auto &
+props	auto
+props	auto
+next	const auto &
+name	const auto &
+kv	const auto &
+arg	const auto &
+j	const auto &
+j	const auto &
+job_pgid	auto
+idx	auto
+width	auto
+prec	auto
+arg	auto
+arg	auto
+arg	auto
+tmp	auto
+real_pwd	auto
+__iter	auto
+engine_lock	auto
+parse_ll	auto
+parse_ull	auto
+safe_abs	auto
+__iter	auto
+vars_left	auto
+clear_remaining_vars	auto
+t	auto
+text	auto
+text	auto
+ifs	auto
+it	auto
+end	auto
+c	const auto &
+split	const auto &
+mline	auto
+real_path	auto
+b	const auto &
+evt	const auto &
+var_str	const auto
+var_str	auto
+dest_var	const auto
+evt	const auto &
+vars	const auto &
+name	const auto &
+var	const auto
+dest_str	auto
+idx	auto
+key	const auto &
+var	auto
+var_str	auto
+existing_variable	const auto
+global_dest	auto
+color_name	const auto &
+cursor	auto
+ld	auto &
+cursor	auto
+job_control_mode	auto
+new_mode	auto
+metadata	auto
+res	auto
+var	const auto
+job_mode	auto
+md	const auto &
+arg	auto
+n	auto
+buff	auto &
+begin	auto
+end	auto
+splits	auto &
+split	auto &
+buff	auto &
+field	const auto &
+field	const auto &
+escape_len	auto
+fn	auto
+cmp_func	auto &
+output	auto
+new_output	auto
+ovector	auto
+__ptr	auto &
+__ptr	auto &
+__size	const auto
+__n	const auto
+eval_error	const auto &
+t	auto
+__ptr	auto &
+__n	const auto
+j	const auto &
+id	auto
+id	auto
+j	const auto &
+j	const auto &
+j	const auto &
+color	auto &
+best_distance	auto
+best_index	auto
+diff	auto
+named_color	const auto &
+named_colors_begin	auto
+named_colors_end	auto
+c	auto &
+result	auto
+normal_len	auto
+reset_len	auto
+len	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+mutex	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+escape_chars	auto
+c	auto
+c	auto
+c1	auto
+c1	auto &
+old_errno	auto
+wc	auto
+old_errno	auto
+out	auto
+__callable	auto
+__beg	const auto
+__cbeg	const auto
+locked_map	auto
+iter	auto
+locked_map	auto
+current_targets_iter	auto
+where	auto
+locked_map	auto
+completion_set	auto
+locked_wrappers	auto
+entry	const auto &
+parser	auto &
+completion_set	auto
+completion_set	auto
+iter	auto
+entry	auto &
+completion_set	auto
+ins	auto
+comp	const auto &
+pred	auto
+expand_ret	auto
+completion	auto &
+tok	const auto &
+receiver	auto
+arg	const auto &
+comp	const auto &
+cached_entry	auto
+var	auto
+c	const auto &
+completion	auto &
+new_desc_iter	auto
+kv	const auto &
+desc_func	auto
+old_errno	auto
+old_errno	auto
+run_on_main_thread	auto
+old_errno	auto
+completion_set	auto
+iter	auto
+iter	auto
+__beg	const auto
+__cbeg	const auto
+__p	auto
+__alloc	auto &
+__nptr	auto
+__nptr	auto
+__ptr	auto
+__nptr	auto
+__nptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__a	auto &
+__this_alloc	auto &
+__that_alloc	auto &
+kv	const auto &
+pwuid	auto
+old_errno	auto
+old_errno	auto
+next	auto
+result	auto
+kv	const auto &
+user_var	auto
+termsize	auto
+kv	const auto &
+vars	auto &
+path	const auto
+vars	auto &
+val	auto
+ev	auto
+first	auto
+last	auto
+binsearch	auto
+s_empty_result	const auto
+popped	auto
+kv	const auto &
+impl	auto
+old_errno	auto
+munged_vals	auto
+iter	auto
+cursor	auto
+oldvar	auto
+cursor	auto
+iter	auto
+cursor	auto
+s_global_node	const auto
+local	auto
+popped	auto
+node	auto
+cursor	auto
+var	const auto &
+remove_from_uvars	auto
+ret	auto
+node	auto
+old_errno	auto
+var	auto
+kv	const auto &
+cursor	auto
+end	auto
+node	auto
+var	auto
+where	auto
+cursor	auto
+where	auto
+js	const auto &
+js	const auto &
+js	const auto &
+ret	auto
+add_keys	auto
+cursor	auto
+ev	const auto &
+pwd_var	auto
+it	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+node	auto
+node	auto
+__ptr	auto &
+__this_alloc	auto &
+__that_alloc	auto &
+__nptr	auto
+__nptr	auto
+__nptr	auto
+__a	auto &
+__ptr	auto
+__ptr	auto
+__nptr	auto
+__guard	auto
+__pi	auto
+__guard	auto
+__pi	auto
+__guard	auto
+__pi	auto
+__guard	auto
+__pi	auto
+__guard	auto
+__pi	auto
+__guard	auto
+__pi	auto
+__ptr	auto
+where	auto
+where	auto
+var_name	const auto &
+var	const auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+var_name	const auto &
+var	const auto
+old_errno	auto
+old_errno	auto
+term	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+term_var	const auto
+vars	auto &
+term_var	auto
+term_env	auto
+old_errno	auto
+old_errno	auto
+term_var	auto
+fish_term256	auto
+old_errno	auto
+old_errno	auto
+tp	auto
+tpv	auto
+old_errno	auto
+old_errno	auto
+fish_term24bit	auto
+old_errno	auto
+var_dispatch_table	auto
+var_name	const auto &
+var_name	const auto &
+read_byte_limit_var	auto
+old_errno	auto
+use_posix_spawn	auto
+width_str	auto
+width_str	auto
+old_errno	auto
+term_var	auto
+version_var	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+var	const auto
+old_errno	auto
+named	auto
+anon	auto
+__ptr	auto &
+__n	const auto
+__ptr	auto
+__ptr	auto
+__nptr	auto
+__nptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+newline_or_end	auto
+i	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+path	auto
+kv	const auto &
+old_errno	auto
+def_vars_path	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+vars_path	auto
+dir	auto
+kv	const auto &
+kv	const auto &
+where	auto
+where	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+key	const auto &
+src_iter	auto
+kv	const auto &
+kv	const auto &
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+iter	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+__ptr	auto &
+newline_or_end	auto
+em	const auto &
+em	const auto &
+ld	auto &
+signals	auto
+e	auto
+evt	const auto &
+ld	auto &
+handler	const auto &
+prev_statuses	auto
+handlers	auto
+handlers	auto
+begin	auto
+end	auto
+current	auto
+signal	auto &
+__ptr	auto
+__beg	const auto
+__cbeg	const auto
+__guard	auto
+__pi	auto
+__guard	auto
+__pi	auto
+ld	auto &
+prev_statuses	auto
+bufferfill	auto
+elem	const auto &
+stop	auto
+p	const auto &
+spec	const auto &
+p	const auto &
+pipes	auto
+old_errno	auto
+old_errno	auto
+pgid	auto
+i	auto
+p	const auto &
+assignment	const auto &
+block_output_buffer	auto
+props	auto
+argv	auto
+old_errno	auto
+vars	auto &
+kv	const auto &
+dup2s	auto
+export_arr	auto
+old_errno	auto
+stdout_buffer	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+in	const auto
+redir	const auto &
+out_io	auto
+err_io	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+f	auto
+old_errno	auto
+jt	auto &
+shlvl_var	auto
+action	const auto &
+export_vars	auto
+envv	const auto
+argv	const auto
+res	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+elem	const auto &
+__guard	auto
+__pi	auto
+__guard	auto
+__pi	auto
+__guard	auto
+__pi	auto
+__guard	auto
+__pi	auto
+__guard	auto
+__pi	auto
+paths_var	auto
+effective_working_dir	const auto &
+i	auto &
+names	auto
+var_value	auto
+comp	auto &
+idx	auto &
+completion	const auto &
+comp	auto &
+home_var	auto
+pos	auto
+c	auto &
+item_map	auto
+iter	auto
+it	const auto &
+__len	const auto
+__alloc	auto
+__ptr	auto
+__res	auto
+__ptr	auto
+__ptr	auto
+where	auto
+res	auto
+out	auto
+where	auto
+where	auto
+where	auto
+where	auto
+where	auto
+where	auto
+where	auto
+where	auto
+__s	auto
+__ns	auto
+data	auto
+old_errno	auto
+now	auto
+servicer	auto
+item	auto &
+data	auto
+old_errno	auto
+self_pipe	auto
+callback	auto
+old_errno	auto
+__s	auto
+__ns	auto
+__beg	const auto
+__cbeg	const auto
+old_errno	auto
+features_var	auto
+ld	auto &
+old_errno	auto
+cat	auto
+cats	auto
+cat	auto
+cat	auto
+cmd	const auto &
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+ast	auto
+last	auto &
+range	const auto &
+old_errno	auto
+flags	auto
+quote	auto
+goodchars	auto
+errs	const auto &
+range_is_before	auto
+where	auto
+mark_as_semi	auto
+node	const auto &
+ifc	const auto *
+wc	const auto *
+node	const auto &
+job_list	const auto *
+start	auto
+end	auto
+range_compare	auto
+r	auto
+bind_char	auto
+cmd	const auto &
+cmd	const auto &
+grp	const auto
+__ptr	auto &
+__ptr	auto &
+funcset	auto
+kv	const auto &
+funcset	const auto
+source_range	auto
+funcset	const auto
+funcset	const auto
+funcset	auto
+func	const auto &
+funcset	auto
+iter	auto
+funcset	auto
+iter	auto
+funcset	const auto
+funcset	const auto
+props	const auto &
+header_src	auto
+end_kw_src	auto
+funcset	auto
+funcset	auto
+funcset	auto
+funcset	auto
+info	auto
+funcset	auto
+ins	auto
+vars	auto &
+path_var	const auto
+funcset	auto
+info	auto
+iter	auto
+__nptr	auto
+__nptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+md	const auto &
+fill_color	auto
+path	auto
+ast	auto
+arg_or_redir	const auto *
+wc	auto
+vars	const auto &
+var	auto
+var2	auto
+cdpath	auto
+next_path	auto
+c	auto
+extras	const auto &
+source_range	auto
+__ptr	auto &
+popleft	auto
+popright	auto
+old_errno	auto
+old_errno	auto
+histories	auto
+p	auto &
+var	const auto
+old_errno	auto
+max_index	const auto
+validated_paths	auto
+imp	auto
+iter	auto
+ast	auto
+imp	auto
+hs	auto
+iter	auto
+iter_inserted	auto
+item	auto
+iter	auto
+iter	auto
+line	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+local_file	auto
+offset	auto
+iter	auto
+key_item	const auto
+old_errno	auto
+offset	auto
+old_errno	auto
+__ptr	auto &
+__ptr	auto &
+__ptr	auto &
+where	auto
+iter_inserted	auto
+iter	auto
+__res	auto
+popleft	auto
+popright	auto
+iter	auto
+__res	auto
+__nptr	auto
+__ptr	auto
+tm	auto
+append	auto
+wpath	const auto &
+result	auto
+a_newline	auto
+a_newline	auto
+ptr	auto
+offset	auto
+mtype	auto
+md	const auto &
+md	const auto &
+mappings	const auto &
+input_mapping	auto
+parser	auto &
+vintr	auto
+loc	auto
+mode	auto
+result	auto
+evt	auto
+iter	auto
+evt	auto
+iter	auto
+vars	const auto &
+ml	auto
+m	const auto &
+evt	auto
+mapping	auto
+evt	auto
+old_errno	auto
+it	auto
+end	auto
+last_statuses	auto
+evt	auto
+m	const auto &
+ml	const auto &
+it	auto
+end	auto
+should_erase	auto
+__ptr	auto
+__beg	const auto
+__cbeg	const auto
+__n	const auto
+__guard	auto
+__pi	auto
+escape_time_ms	auto
+mc	auto
+evt	auto
+old_errno	auto
+interrupt_evt	auto
+mc	auto
+mc	auto
+mc	auto
+evt	auto
+result	auto
+__pos	const auto
+table	auto
+iter	auto
+__pos	const auto
+__raw	auto
+rhs_elem	const auto &
+old_errno	auto
+read	auto
+write	auto
+fdm	auto
+io	const auto &
+io	const auto &
+spec	const auto &
+target_fd	auto
+old_errno	auto
+old_errno	auto
+iter	auto
+data	const auto &
+iter	auto
+buffer	auto
+pipes	auto
+old_errno	auto
+buffer	auto
+rhs_elem	const auto &
+promise	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+rhs_elem	const auto &
+__raw	auto
+__raw	auto
+__guard	auto
+__pi	auto
+__guard	auto
+__pi	auto
+__guard	auto
+__pi	auto
+__guard	auto
+__pi	auto
+__s	auto
+__ns	auto
+__reltime	auto
+__delta	const auto
+__s_atime	const auto
+tid	auto
+vf	auto
+vf	auto
+old_errno	auto
+pool	auto &
+data	auto
+data	auto
+old_errno	auto
+data	auto
+req	auto
+old_errno	auto
+old_errno	auto
+pool	auto &
+data	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+d	auto
+impl	auto
+d	auto
+__ptr	auto
+__reltime	auto
+__delta	const auto
+__s_atime	const auto
+__s	auto
+__ns	auto
+__guard	auto
+__pi	auto
+iter	auto
+__p	auto
+__alloc	auto &
+base	auto
+pointers	auto
+strings	auto
+base	auto
+pointers	auto
+strings	auto
+base	auto
+pointers	auto
+strings	auto
+term	auto
+old_errno	auto
+color	const auto &
+old_errno	auto
+base	auto
+width_c	auto
+info	const auto &
+modify_role	auto
+i	const auto &
+info	auto &
+__nptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+j	auto
+source_range	auto
+infinite_recursive_node	const auto *
+block	const auto *
+ifstat	const auto *
+switchstat	const auto *
+old_errno	auto
+range	auto
+range	auto
+parsed_pipe	auto
+specs	auto
+result	auto
+result	auto
+reason	auto
+reason	auto
+reason	auto
+ret	auto
+old_errno	auto
+ld	const auto &
+job_control_mode	auto
+proc	const auto &
+expand_ret	auto
+ret	auto
+cond_saved_status	auto
+ld	auto &
+cancel_reason	auto
+reason	auto
+expand_ret	auto
+ret	auto
+elseif_clause	const auto *
+ret	auto
+ret	auto
+ret	auto
+var	auto
+ld	auto &
+reason	auto
+fh	const auto *
+wh	const auto *
+fh	const auto *
+old_errno	auto
+old_errno	auto
+reason	auto
+ret	auto
+reason	auto
+flags	auto &
+old_errno	auto
+old_errno	auto
+equals_pos	auto
+expand_ret	auto
+completion	auto &
+no_redirs	auto
+statement_recurses	auto
+s	const auto *
+old_errno	auto
+r	auto
+ld	const auto &
+__ptr	auto
+__pos	const auto
+reason	auto
+reason	auto
+reason	auto
+__n	const auto
+__guard	auto
+__pi	auto
+__ptr	auto &
+__ptr	auto
+__guard	auto
+__pi	auto
+get_error_text	auto
+ast	auto
+ast	auto
+block	const auto *
+ifs	const auto *
+switchs	const auto *
+first_arg	const auto *
+source_start	auto
+arg	const auto *
+bs	const auto *
+block	const auto *
+source_range	auto
+ast	auto
+token	auto
+range	auto
+__base	auto
+b	const auto &
+b	const auto &
+b	const auto &
+old_errno	auto
+job	const auto &
+job	const auto &
+job	const auto &
+b	const auto &
+b	const auto &
+b	const auto &
+b	const auto &
+evt	const auto &
+ast	auto
+check_cancel_signal	auto
+status	auto
+job_list	const auto *
+status	auto
+__ptr	auto &
+check_cancel_signal	auto
+status	auto
+check_cancel_signal	auto
+status	auto
+__base	auto
+__guard	auto
+__pi	auto
+__ptr	auto &
+__nb_elems	auto
+__bkt_count	auto
+max_len	const auto
+not_found	const auto
+max_len	const auto
+not_found	const auto
+max_len	const auto
+not_found	const auto
+w	const auto &
+__nb_elems	auto
+__bkt_count	auto
+dir	const auto &
+dir	const auto &
+data	const auto &
+config	const auto &
+vars	const auto &
+xdg_dir	const auto
+home	const auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+cdpaths	auto
+old_errno	auto
+path_var	auto
+path	auto
+next_path	auto
+old_errno	auto
+act	const auto &
+job_pgid	auto
+act	const auto &
+j	const auto &
+pgid	auto
+j	const auto &
+old_errno	auto
+old_errno	auto
+old_errno	auto
+pgid	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+mpgid	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+job	const auto &
+saved_statuses	auto
+should_process_job	auto
+j	const auto &
+should_remove	auto
+jobs	auto &
+evt	const auto &
+s	auto
+iter	auto
+j	const auto &
+prev_statuses	auto
+j	const auto &
+proc	const auto &
+mtopic	auto
+changed_topics	auto
+j	auto &
+proc	const auto &
+mtopic	auto
+old_errno	auto
+pid	auto
+old_errno	auto
+old_errno	auto
+disowned_pids	auto
+try_reap1	auto
+j	const auto &
+job	const auto &
+consumed_job_ids	auto
+locked_consumed_job_ids	const auto
+where	auto
+consumed_job_ids	auto
+p	const auto &
+status	auto
+pgid	auto
+p	const auto &
+tmp	auto
+old_errno	auto
+old_errno	auto
+p	auto &
+p	auto &
+p	const auto &
+p	const auto &
+p	const auto &
+old_errno	auto
+__beg	const auto
+__cbeg	const auto
+result	auto
+old_errno	auto
+ast	auto
+c	auto
+token	auto
+bg_jobs	auto
+b	const auto &
+j	const auto &
+var	const auto
+vars	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+i	const auto &
+vars	auto
+vars	auto &
+i	const auto &
+ast	auto
+msource	auto
+abbreviation	auto
+old_errno	auto
+old_errno	auto
+res	auto
+res	auto
+i	const auto &
+i	const auto &
+highlight_performer	auto
+shared_this	auto
+performer	auto
+shared_this	auto
+vars	const auto &
+fish_color_cancel	auto
+move_style	auto
+move_style	auto
+move_style	auto
+direction	auto
+precision	auto
+evt	auto
+old_errno	auto
+edit	auto
+cthis	auto
+token	auto
+i	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+result	auto
+result	auto
+__beg	const auto
+__cbeg	const auto
+__guard	auto
+__pi	auto
+__base	auto
+__guard	auto
+__pi	auto
+__guard	auto
+__pi	auto
+iter	auto
+io	const auto &
+old_errno	auto
+old_errno	auto
+old_errno	auto
+old_errno	auto
+c	auto
+width	auto
+outp	auto &
+p	auto
+p	auto
+start	auto
+end	auto
+iter	auto
+entry	const auto *
+__p	auto
+__alloc	auto &
+data	const auto &
+data	const auto &
+data	const auto &
+data	const auto &
+data	const auto &
+tm	auto &
+tm	auto &
+__callable	auto
+__callable	auto
+res	auto *
+data	auto
+data	auto
+t1	auto
+t2	auto
+output	auto
+get_unit	auto
+unit_name	auto
+unit_short_name	auto
+convert	auto
+wall_unit	auto
+cpu_unit	auto
+wall_time	auto
+usr_time	auto
+sys_time	auto
+fish_unit	auto
+child_unit	auto
+fish_usr_time	auto
+fish_sys_time	auto
+child_usr_time	auto
+child_sys_time	auto
+column2_unit_len	auto
+t	auto
+t	auto
+t	auto
+end	const auto
+ua	auto
+ret	auto
+token	auto
+token	auto
+redir	auto
+pipe	auto
+redir_or_pipe	auto
+try_consume	auto
+consume	auto
+rawtopics	auto
+oldtopics	auto
+pipes	auto
+data	auto
+unused	auto
+data	auto
+old_errno	auto
+data	auto
+current	auto
+old_errno	auto
+relaxed	const auto
+topics	auto
+old_errno	auto
+ld	const auto &
+tmp_input	auto
+tmp	auto
+ieq	auto
+result	auto
+prefix	auto
+ieq	auto
+result	auto
+ieq	auto
+result	auto
+ieq	auto
+result	auto
+ieq	auto
+result	auto
+desc_func	auto
+binsearch	auto
+match	auto
+resolved_completion	const auto &
+tmp	auto
+__nptr	auto
+__ptr	auto
+__ptr	auto
+__ptr	auto
+is_digit	auto
+wmap	auto
+old_errno	auto
+__beg	const auto
+__cbeg	const auto
+__nptr	auto

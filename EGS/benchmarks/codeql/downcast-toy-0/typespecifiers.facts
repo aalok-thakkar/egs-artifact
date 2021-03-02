@@ -1,0 +1,31 @@
+_IO_FILE *__restrict__	restrict
+const char	const
+const char *__restrict__	restrict
+int *__restrict__	restrict
+const char *const	const
+const fpos_t	const
+FILE *__restrict__	restrict
+fpos_t *__restrict__	restrict
+const void	const
+const void *__restrict__	restrict
+void *__restrict__	restrict
+char **__restrict__	restrict
+size_t *__restrict__	restrict
+char *__restrict__	restrict
+fd_set *__restrict__	restrict
+const timespec	const
+const timespec *__restrict__	restrict
+const __sigset_t	const
+const __sigset_t *__restrict__	restrict
+timeval *__restrict__	restrict
+volatile int	volatile
+char *const	const
+char *const *__restrict__	restrict
+const wchar_t	const
+const wchar_t *__restrict__	restrict
+wchar_t *__restrict__	restrict
+drand48_data *__restrict__	restrict
+long *__restrict__	restrict
+double *__restrict__	restrict
+random_data *__restrict__	restrict
+int32_t *__restrict__	restrict

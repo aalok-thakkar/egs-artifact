@@ -1,0 +1,19 @@
+                                      # https://www.lihaoyi.com/hands-on-scala-js/
+                                      # https://www.scala-sbt.org/sbt-native-packager/formats/graalvm-native-image.html
+
+$ sdk current                         # Note current JVM
+# java: 11.0.6.hs-adpt
+# sbt: 1.3.8
+# scala: 2.13.1
+
+$ sdk install java 20.1.0.r11-grl     # Install GraalVM
+                                      # https://sdkman.io/jdks
+
+$ sdk current                         # Observe updated JVM
+# java: 20.1.0.r11-grl
+# sbt: 1.3.8
+# scala: 2.13.1
+
+$ gu install native-image             # Install native-image plugin through Graal updater
+                                      # https://www.graalvm.org/docs/reference-manual/native-image/
+                                      # https://ajurasz.github.io/2019-06-08-build-native-imge-with-graalvm/

@@ -1,0 +1,1367 @@
+sizeof(long long)	long long
+sizeof(long long)	long long
+sizeof(long)	long
+sizeof(long)	long
+sizeof(int)	int
+sizeof(int)	int
+sizeof(_Tp)	_Tp
+sizeof(unsigned long long)	unsigned long long
+sizeof(long long)	long long
+sizeof(unsigned long)	unsigned long
+sizeof(long)	long
+sizeof(unsigned int)	unsigned int
+sizeof(int)	int
+sizeof(unsigned long long)	unsigned long long
+sizeof(long long)	long long
+sizeof(unsigned long)	unsigned long
+sizeof(long)	long
+sizeof(unsigned int)	unsigned int
+sizeof(int)	int
+sizeof(char32_t)	char32_t
+sizeof(char16_t)	char16_t
+sizeof(wchar_t)	wchar_t
+sizeof(_CharT)	_CharT
+sizeof(_Tp)	_Tp
+sizeof(_Tp)	_Tp
+sizeof(unique_ptr<case_item_t, default_delete<case_item_t>>)	unique_ptr<case_item_t, default_delete<case_item_t>>
+sizeof(unique_ptr<case_item_t, default_delete<case_item_t>>)	unique_ptr<case_item_t, default_delete<case_item_t>>
+sizeof(unique_ptr<elseif_clause_t, default_delete<elseif_clause_t>>)	unique_ptr<elseif_clause_t, default_delete<elseif_clause_t>>
+sizeof(unique_ptr<elseif_clause_t, default_delete<elseif_clause_t>>)	unique_ptr<elseif_clause_t, default_delete<elseif_clause_t>>
+sizeof(unique_ptr<andor_job_t, default_delete<andor_job_t>>)	unique_ptr<andor_job_t, default_delete<andor_job_t>>
+sizeof(unique_ptr<andor_job_t, default_delete<andor_job_t>>)	unique_ptr<andor_job_t, default_delete<andor_job_t>>
+sizeof(unique_ptr<argument_or_redirection_t, default_delete<argument_or_redirection_t>>)	unique_ptr<argument_or_redirection_t, default_delete<argument_or_redirection_t>>
+sizeof(unique_ptr<argument_or_redirection_t, default_delete<argument_or_redirection_t>>)	unique_ptr<argument_or_redirection_t, default_delete<argument_or_redirection_t>>
+sizeof(unique_ptr<argument_t, default_delete<argument_t>>)	unique_ptr<argument_t, default_delete<argument_t>>
+sizeof(unique_ptr<argument_t, default_delete<argument_t>>)	unique_ptr<argument_t, default_delete<argument_t>>
+sizeof(unique_ptr<job_conjunction_continuation_t, default_delete<job_conjunction_continuation_t>>)	unique_ptr<job_conjunction_continuation_t, default_delete<job_conjunction_continuation_t>>
+sizeof(unique_ptr<job_conjunction_continuation_t, default_delete<job_conjunction_continuation_t>>)	unique_ptr<job_conjunction_continuation_t, default_delete<job_conjunction_continuation_t>>
+sizeof(unique_ptr<job_continuation_t, default_delete<job_continuation_t>>)	unique_ptr<job_continuation_t, default_delete<job_continuation_t>>
+sizeof(unique_ptr<job_continuation_t, default_delete<job_continuation_t>>)	unique_ptr<job_continuation_t, default_delete<job_continuation_t>>
+sizeof(unique_ptr<variable_assignment_t, default_delete<variable_assignment_t>>)	unique_ptr<variable_assignment_t, default_delete<variable_assignment_t>>
+sizeof(unique_ptr<variable_assignment_t, default_delete<variable_assignment_t>>)	unique_ptr<variable_assignment_t, default_delete<variable_assignment_t>>
+sizeof(unique_ptr<job_conjunction_t, default_delete<job_conjunction_t>>)	unique_ptr<job_conjunction_t, default_delete<job_conjunction_t>>
+sizeof(unique_ptr<job_conjunction_t, default_delete<job_conjunction_t>>)	unique_ptr<job_conjunction_t, default_delete<job_conjunction_t>>
+sizeof(source_range_t)	source_range_t
+sizeof(source_range_t)	source_range_t
+sizeof(source_range_t)	source_range_t
+sizeof(source_range_t)	source_range_t
+sizeof(source_range_t)	source_range_t
+sizeof(source_range_t)	source_range_t
+sizeof(unique_ptr<variable_assignment_t, default_delete<variable_assignment_t>>)	unique_ptr<variable_assignment_t, default_delete<variable_assignment_t>>
+sizeof(unique_ptr<job_continuation_t, default_delete<job_continuation_t>>)	unique_ptr<job_continuation_t, default_delete<job_continuation_t>>
+sizeof(unique_ptr<job_conjunction_continuation_t, default_delete<job_conjunction_continuation_t>>)	unique_ptr<job_conjunction_continuation_t, default_delete<job_conjunction_continuation_t>>
+sizeof(unique_ptr<argument_or_redirection_t, default_delete<argument_or_redirection_t>>)	unique_ptr<argument_or_redirection_t, default_delete<argument_or_redirection_t>>
+sizeof(unique_ptr<andor_job_t, default_delete<andor_job_t>>)	unique_ptr<andor_job_t, default_delete<andor_job_t>>
+sizeof(unique_ptr<elseif_clause_t, default_delete<elseif_clause_t>>)	unique_ptr<elseif_clause_t, default_delete<elseif_clause_t>>
+sizeof(unique_ptr<case_item_t, default_delete<case_item_t>>)	unique_ptr<case_item_t, default_delete<case_item_t>>
+sizeof(unique_ptr<argument_t, default_delete<argument_t>>)	unique_ptr<argument_t, default_delete<argument_t>>
+sizeof(unique_ptr<job_conjunction_t, default_delete<job_conjunction_t>>)	unique_ptr<job_conjunction_t, default_delete<job_conjunction_t>>
+sizeof(_Tp)	_Tp
+sizeof(_Tp)	_Tp
+sizeof(_Tp)	_Tp
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(__cpu_mask)	__cpu_mask
+sizeof(char_type)	char_type
+sizeof(char_type)	char_type
+sizeof(char_type)	char_type
+sizeof(char_type)	char_type
+sizeof(unsigned long)	unsigned long
+sizeof(__fd_mask)	__fd_mask
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(int)	int
+sizeof(void *)	void *
+sizeof(size_t)	size_t
+sizeof(size_t)	size_t
+sizeof(size_t)	size_t
+sizeof(size_t)	size_t
+sizeof(_CharT)	_CharT
+sizeof(_CharT)	_CharT
+sizeof(_CharT)	_CharT
+sizeof(const char *)	const char *
+sizeof(_Tp)	_Tp
+sizeof(type_info)	type_info
+sizeof(char32_t)	char32_t
+sizeof(char32_t)	char32_t
+sizeof(char16_t)	char16_t
+sizeof(char16_t)	char16_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(char)	char
+sizeof(char)	char
+sizeof(unsigned long long)	unsigned long long
+sizeof(unsigned long long)	unsigned long long
+sizeof(long long)	long long
+sizeof(long long)	long long
+sizeof(unsigned long)	unsigned long
+sizeof(unsigned long)	unsigned long
+sizeof(long)	long
+sizeof(long)	long
+sizeof(unsigned int)	unsigned int
+sizeof(unsigned int)	unsigned int
+sizeof(int)	int
+sizeof(int)	int
+sizeof(unsigned short)	unsigned short
+sizeof(unsigned short)	unsigned short
+sizeof(short)	short
+sizeof(short)	short
+sizeof(char32_t)	char32_t
+sizeof(char32_t)	char32_t
+sizeof(char16_t)	char16_t
+sizeof(char16_t)	char16_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(unsigned char)	unsigned char
+sizeof(unsigned char)	unsigned char
+sizeof(signed char)	signed char
+sizeof(signed char)	signed char
+sizeof(char)	char
+sizeof(char)	char
+sizeof(size_t)	size_t
+sizeof(long)	long
+sizeof(size_t)	size_t
+sizeof(__bucket_type)	__bucket_type
+sizeof(__bucket_type)	__bucket_type
+sizeof(_Tp)	_Tp
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(intmax_t)	intmax_t
+sizeof(intmax_t)	intmax_t
+sizeof(intmax_t)	intmax_t
+sizeof(uintmax_t)	uintmax_t
+sizeof(unsigned long long)	unsigned long long
+sizeof(intmax_t)	intmax_t
+sizeof(_Bit_type)	_Bit_type
+sizeof(_Bit_type)	_Bit_type
+sizeof(__gid_t)	__gid_t
+sizeof(int)	int
+sizeof(int)	int
+sizeof(topic_set_raw_t)	topic_set_raw_t
+alignof(proc_status_t)	proc_status_t
+alignof(proc_status_t)	proc_status_t
+sizeof(proc_status_t)	proc_status_t
+sizeof(proc_status_t)	proc_status_t
+sizeof(proc_status_t)	proc_status_t
+sizeof(proc_status_t)	proc_status_t
+sizeof(long)	long
+sizeof(..(*)(..))	..(*)(..)
+alignof(..(*)(..))	..(*)(..)
+alignof(..(*)(..))	..(*)(..)
+sizeof(_Setter<void, __exception_ptr_tag>)	_Setter<void, __exception_ptr_tag>
+alignof(_Setter<void, __exception_ptr_tag>)	_Setter<void, __exception_ptr_tag>
+alignof(_Setter<void, __exception_ptr_tag>)	_Setter<void, __exception_ptr_tag>
+sizeof(_Setter<void, void>)	_Setter<void, void>
+alignof(_Setter<void, void>)	_Setter<void, void>
+alignof(_Setter<void, void>)	_Setter<void, void>
+sizeof(bool)	bool
+alignof(bool)	bool
+sizeof(bool)	bool
+alignof(bool)	bool
+sizeof(char)	char
+alignof(char)	char
+sizeof(char)	char
+alignof(char)	char
+sizeof(signed char)	signed char
+alignof(signed char)	signed char
+sizeof(signed char)	signed char
+alignof(signed char)	signed char
+sizeof(unsigned char)	unsigned char
+alignof(unsigned char)	unsigned char
+sizeof(unsigned char)	unsigned char
+alignof(unsigned char)	unsigned char
+sizeof(short)	short
+alignof(short)	short
+sizeof(short)	short
+alignof(short)	short
+sizeof(unsigned short)	unsigned short
+alignof(unsigned short)	unsigned short
+sizeof(unsigned short)	unsigned short
+alignof(unsigned short)	unsigned short
+sizeof(int)	int
+alignof(int)	int
+sizeof(int)	int
+alignof(int)	int
+sizeof(unsigned int)	unsigned int
+alignof(unsigned int)	unsigned int
+sizeof(unsigned int)	unsigned int
+alignof(unsigned int)	unsigned int
+sizeof(long)	long
+alignof(long)	long
+sizeof(long)	long
+alignof(long)	long
+sizeof(unsigned long)	unsigned long
+alignof(unsigned long)	unsigned long
+sizeof(unsigned long)	unsigned long
+alignof(unsigned long)	unsigned long
+sizeof(long long)	long long
+alignof(long long)	long long
+sizeof(long long)	long long
+alignof(long long)	long long
+sizeof(unsigned long long)	unsigned long long
+alignof(unsigned long long)	unsigned long long
+sizeof(unsigned long long)	unsigned long long
+alignof(unsigned long long)	unsigned long long
+sizeof(wchar_t)	wchar_t
+alignof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+alignof(wchar_t)	wchar_t
+sizeof(char16_t)	char16_t
+alignof(char16_t)	char16_t
+sizeof(char16_t)	char16_t
+alignof(char16_t)	char16_t
+sizeof(char32_t)	char32_t
+alignof(char32_t)	char32_t
+sizeof(char32_t)	char32_t
+alignof(char32_t)	char32_t
+sizeof(_Tp)	_Tp
+alignof(_Tp)	_Tp
+sizeof(int)	int
+sizeof(int)	int
+sizeof(char)	char
+sizeof(char16_t)	char16_t
+sizeof(char32_t)	char32_t
+alignof(_Tp)	_Tp
+sizeof(_Tp)	_Tp
+sizeof(_Tp)	_Tp
+sizeof(unsigned int)	unsigned int
+sizeof(unsigned short)	unsigned short
+sizeof(unsigned char)	unsigned char
+sizeof(wchar_t)	wchar_t
+sizeof(proc_status_t)	proc_status_t
+sizeof(char)	char
+sizeof(char)	char
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(unsigned long)	unsigned long
+sizeof(env_var_t)	env_var_t
+sizeof(basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>)	basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>
+sizeof(int)	int
+sizeof(pipe_or_redir_t)	pipe_or_redir_t
+sizeof(source_range_t)	source_range_t
+sizeof(topic_t)	topic_t
+sizeof(termios)	termios
+sizeof(event_t)	event_t
+sizeof(autoloadable_file_t)	autoloadable_file_t
+sizeof(const node_t *)	const node_t *
+sizeof(const node_t *)	const node_t *
+sizeof(element_t)	element_t
+sizeof(element_t)	element_t
+sizeof(element_t)	element_t
+sizeof(element_t)	element_t
+sizeof(unsigned long)	unsigned long
+sizeof(unsigned long)	unsigned long
+sizeof(action_t)	action_t
+sizeof(action_t)	action_t
+sizeof(_Hash_node<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, true>)	_Hash_node<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, true>
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, file_id_t>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, file_id_t>, true>
+sizeof(basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>)	basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>
+sizeof(basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>)	basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>
+sizeof(int)	int
+sizeof(int)	int
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, known_file_t>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, known_file_t>, true>
+sizeof(_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>>)	_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>>
+sizeof(char)	char
+sizeof(basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>)	basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>
+sizeof(topic_t)	topic_t
+sizeof(int)	int
+sizeof(__bucket_type)	__bucket_type
+sizeof(__bucket_type)	__bucket_type
+sizeof(__bucket_type)	__bucket_type
+sizeof(autoloadable_file_t)	autoloadable_file_t
+sizeof(autoloadable_file_t)	autoloadable_file_t
+sizeof(autoloadable_file_t)	autoloadable_file_t
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>
+sizeof(autoloadable_file_t)	autoloadable_file_t
+sizeof(env_var_t)	env_var_t
+sizeof(basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>)	basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>
+sizeof(int)	int
+sizeof(source_range_t)	source_range_t
+sizeof(basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>)	basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>
+sizeof(_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>>)	_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>>
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, known_file_t>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, known_file_t>, true>
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, file_id_t>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, file_id_t>, true>
+sizeof(_Hash_node<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, true>)	_Hash_node<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, true>
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, known_file_t>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, known_file_t>
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, file_id_t>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, file_id_t>
+sizeof(unsigned long)	unsigned long
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>
+sizeof(const node_t *)	const node_t *
+sizeof(int)	int
+sizeof(int)	int
+sizeof(action_t)	action_t
+sizeof(const node_t *)	const node_t *
+sizeof(int)	int
+sizeof(action_t)	action_t
+sizeof(element_t)	element_t
+sizeof(element_t)	element_t
+sizeof(const node_t *)	const node_t *
+sizeof(_Sp_counted_ptr_inplace<vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>, allocator<vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>, _S_atomic>)	_Sp_counted_ptr_inplace<vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>, allocator<vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<mutex, allocator<mutex>, _S_atomic>)	_Sp_counted_ptr_inplace<mutex, allocator<mutex>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<_State_baseV2, allocator<_State_baseV2>, _S_atomic>)	_Sp_counted_ptr_inplace<_State_baseV2, allocator<_State_baseV2>, _S_atomic>
+sizeof(__bucket_type)	__bucket_type
+sizeof(action_t)	action_t
+sizeof(__bucket_type)	__bucket_type
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>
+sizeof(__bucket_type)	__bucket_type
+sizeof(_Sp_counted_ptr_inplace<_State_baseV2, allocator<_State_baseV2>, _S_atomic>)	_Sp_counted_ptr_inplace<_State_baseV2, allocator<_State_baseV2>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<mutex, allocator<mutex>, _S_atomic>)	_Sp_counted_ptr_inplace<mutex, allocator<mutex>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>, allocator<vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>, _S_atomic>)	_Sp_counted_ptr_inplace<vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>, allocator<vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>, _S_atomic>
+sizeof(_Hash_node_base *)	_Hash_node_base *
+sizeof(_Hash_node_base *)	_Hash_node_base *
+sizeof(_CharT)	_CharT
+sizeof(_Tp)	_Tp
+sizeof(_Tp)	_Tp
+sizeof(_Tp)	_Tp
+sizeof(_Tp)	_Tp
+sizeof(_Tp)	_Tp
+sizeof(_Tp)	_Tp
+sizeof(rgb_color_t)	rgb_color_t
+sizeof(char_event_t)	char_event_t
+sizeof(char_event_t)	char_event_t
+sizeof(char_event_t)	char_event_t
+sizeof(char_event_t)	char_event_t
+sizeof(completion_t)	completion_t
+sizeof(completion_t)	completion_t
+sizeof(shared_ptr<const io_data_t>)	shared_ptr<const io_data_t>
+sizeof(char_event_t *)	char_event_t *
+sizeof(char_event_t)	char_event_t
+sizeof(block_t)	block_t
+sizeof(completion_t)	completion_t
+sizeof(char_event_t)	char_event_t
+sizeof(char_event_t)	char_event_t
+sizeof(char_event_t *)	char_event_t *
+sizeof(shared_ptr<const io_data_t>)	shared_ptr<const io_data_t>
+sizeof(_Sp_counted_ptr_inplace<io_fd_t, allocator<io_fd_t>, _S_atomic>)	_Sp_counted_ptr_inplace<io_fd_t, allocator<io_fd_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<io_fd_t, allocator<io_fd_t>, _S_atomic>)	_Sp_counted_ptr_inplace<io_fd_t, allocator<io_fd_t>, _S_atomic>
+sizeof(_CharT)	_CharT
+sizeof(_Tp)	_Tp
+sizeof(__bucket_type)	__bucket_type
+sizeof(woption)	woption
+sizeof(woption)	woption
+sizeof(vector<wchar_t, allocator<wchar_t>>)	vector<wchar_t, allocator<wchar_t>>
+sizeof(vector<wchar_t, allocator<wchar_t>>)	vector<wchar_t, allocator<wchar_t>>
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, wchar_t>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, wchar_t>, true>
+sizeof(_Hash_node<pair<const wchar_t, unique_ptr<option_spec_t, default_delete<option_spec_t>>>, false>)	_Hash_node<pair<const wchar_t, unique_ptr<option_spec_t, default_delete<option_spec_t>>>, false>
+sizeof(__bucket_type)	__bucket_type
+sizeof(__bucket_type)	__bucket_type
+sizeof(_Hash_node<pair<const wchar_t, unique_ptr<option_spec_t, default_delete<option_spec_t>>>, false>)	_Hash_node<pair<const wchar_t, unique_ptr<option_spec_t, default_delete<option_spec_t>>>, false>
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, wchar_t>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, wchar_t>, true>
+sizeof(pair<const wchar_t, unique_ptr<option_spec_t, default_delete<option_spec_t>>>)	pair<const wchar_t, unique_ptr<option_spec_t, default_delete<option_spec_t>>>
+sizeof(vector<wchar_t, allocator<wchar_t>>)	vector<wchar_t, allocator<wchar_t>>
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(woption)	woption
+sizeof(woption)	woption
+sizeof(wchar_t)	wchar_t
+sizeof(__bucket_type)	__bucket_type
+sizeof(woption)	woption
+sizeof(__bucket_type)	__bucket_type
+sizeof(_CharT)	_CharT
+sizeof(_Tp)	_Tp
+sizeof(shared_ptr<job_t>)	shared_ptr<job_t>
+sizeof(_Tp)	_Tp
+sizeof(_CharT)	_CharT
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(_Tp)	_Tp
+sizeof(_Rb_tree_node<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>)	_Rb_tree_node<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>
+sizeof(basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>)	basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>
+sizeof(_Rb_tree_node<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>)	_Rb_tree_node<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>
+sizeof(basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>)	basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>
+sizeof(basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>)	basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>
+sizeof(_List_node<event_blockage_t>)	_List_node<event_blockage_t>
+sizeof(event_blockage_t)	event_blockage_t
+sizeof(block_t)	block_t
+sizeof(_List_node<event_blockage_t>)	_List_node<event_blockage_t>
+sizeof(event_blockage_t)	event_blockage_t
+sizeof(_CharT)	_CharT
+sizeof(_Tp)	_Tp
+sizeof(_CharT)	_CharT
+sizeof(type_info)	type_info
+sizeof(env_var_t)	env_var_t
+sizeof(_Sp_counted_ptr_inplace<const autoclose_fd_t, allocator<autoclose_fd_t>, _S_atomic>)	_Sp_counted_ptr_inplace<const autoclose_fd_t, allocator<autoclose_fd_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<const autoclose_fd_t, allocator<autoclose_fd_t>, _S_atomic>)	_Sp_counted_ptr_inplace<const autoclose_fd_t, allocator<autoclose_fd_t>, _S_atomic>
+sizeof(_CharT)	_CharT
+sizeof(readline_cmd_t)	readline_cmd_t
+sizeof(tok_t)	tok_t
+sizeof(tok_t)	tok_t
+sizeof(readline_cmd_t)	readline_cmd_t
+sizeof(_CharT)	_CharT
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(lambda [] type at line 146522, col. 36)	decltype([...](...){...})
+alignof(lambda [] type at line 146522, col. 36)	decltype([...](...){...})
+alignof(lambda [] type at line 146522, col. 36)	decltype([...](...){...})
+sizeof(_CharT)	_CharT
+sizeof(unsigned long)	unsigned long
+sizeof(int)	int
+sizeof(_Rb_tree_node<job_t *>)	_Rb_tree_node<job_t *>
+sizeof(job_t *)	job_t *
+sizeof(int)	int
+sizeof(_Rb_tree_node<job_t *>)	_Rb_tree_node<job_t *>
+sizeof(job_t *)	job_t *
+sizeof(job_t *)	job_t *
+sizeof(_Tp)	_Tp
+sizeof(_Bit_type)	_Bit_type
+sizeof(_CharT)	_CharT
+sizeof(type_info)	type_info
+sizeof(_CharT)	_CharT
+sizeof(type_info)	type_info
+sizeof(topic_set_raw_t)	topic_set_raw_t
+sizeof(_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>>)	_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>>
+sizeof(event_description_t)	event_description_t
+sizeof(event_description_t)	event_description_t
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>
+sizeof(_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>>)	_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>>
+sizeof(event_description_t)	event_description_t
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>
+sizeof(_Sp_counted_ptr_inplace<function_properties_t, allocator<function_properties_t>, _S_atomic>)	_Sp_counted_ptr_inplace<function_properties_t, allocator<function_properties_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<event_handler_t, allocator<event_handler_t>, _S_atomic>)	_Sp_counted_ptr_inplace<event_handler_t, allocator<event_handler_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<event_handler_t, allocator<event_handler_t>, _S_atomic>)	_Sp_counted_ptr_inplace<event_handler_t, allocator<event_handler_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<function_properties_t, allocator<function_properties_t>, _S_atomic>)	_Sp_counted_ptr_inplace<function_properties_t, allocator<function_properties_t>, _S_atomic>
+sizeof(_CharT)	_CharT
+sizeof(event_type_t)	event_type_t
+sizeof(termsize_t)	termsize_t
+sizeof(event_type_t)	event_type_t
+sizeof(event_type_t)	event_type_t
+sizeof(event_type_t)	event_type_t
+sizeof(event_type_t)	event_type_t
+sizeof(_CharT)	_CharT
+sizeof(wchar_t)	wchar_t
+sizeof(history_item_t)	history_item_t
+sizeof(unsigned long)	unsigned long
+sizeof(__fd_mask)	__fd_mask
+sizeof(_CharT)	_CharT
+sizeof(__fd_mask)	__fd_mask
+sizeof(_CharT)	_CharT
+sizeof(_CharT)	_CharT
+sizeof(unsigned int)	unsigned int
+sizeof(unsigned int)	unsigned int
+sizeof(unsigned int)	unsigned int
+sizeof(unsigned int)	unsigned int
+sizeof(unsigned int)	unsigned int
+sizeof(_CharT)	_CharT
+sizeof(tok_t)	tok_t
+sizeof(_CharT)	_CharT
+sizeof(_Tp)	_Tp
+sizeof(_Rb_tree_node<long>)	_Rb_tree_node<long>
+sizeof(long)	long
+sizeof(long)	long
+sizeof(long)	long
+sizeof(_Rb_tree_node<long>)	_Rb_tree_node<long>
+sizeof(long)	long
+sizeof(long)	long
+sizeof(long)	long
+sizeof(long)	long
+sizeof(long)	long
+sizeof(_CharT)	_CharT
+sizeof(rgb_color_t)	rgb_color_t
+sizeof(rgb_color_t)	rgb_color_t
+sizeof(rgb_color_t)	rgb_color_t
+sizeof(wchar_t)	wchar_t
+sizeof(job_control_t)	job_control_t
+sizeof(job_control_t)	job_control_t
+sizeof(job_control_t)	job_control_t
+sizeof(job_control_t)	job_control_t
+sizeof(job_control_t)	job_control_t
+sizeof(_CharT)	_CharT
+sizeof(_Tp)	_Tp
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>)	vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>
+sizeof(vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>)	vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>
+sizeof(basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>)	basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>
+sizeof(basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>)	basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>
+sizeof(unsigned long)	unsigned long
+sizeof(pair<const char, ..(..)>)	pair<const char, ..(..)>
+sizeof(vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>)	vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>
+sizeof(int)	int
+sizeof(_CharT)	_CharT
+sizeof(_Tp)	_Tp
+sizeof(_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, const token_info_t>>)	_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, const token_info_t>>
+sizeof(token_t)	token_t
+sizeof(token_t)	token_t
+sizeof(unique_ptr<expression, default_delete<expression>>)	unique_ptr<expression, default_delete<expression>>
+sizeof(unique_ptr<expression, default_delete<expression>>)	unique_ptr<expression, default_delete<expression>>
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, const token_info_t>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, const token_info_t>
+sizeof(_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, const token_info_t>>)	_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, const token_info_t>>
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, const token_info_t>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, const token_info_t>
+sizeof(token_t)	token_t
+sizeof(token_t)	token_t
+sizeof(token_t)	token_t
+sizeof(token_t)	token_t
+sizeof(unique_ptr<expression, default_delete<expression>>)	unique_ptr<expression, default_delete<expression>>
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, const token_info_t>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, const token_info_t>
+sizeof(int)	int
+sizeof(int)	int
+sizeof(shared_ptr<job_t>)	shared_ptr<job_t>
+sizeof(_CharT)	_CharT
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(type_info)	type_info
+sizeof(_Bit_type)	_Bit_type
+sizeof(named_color_t)	named_color_t
+sizeof(named_color_t)	named_color_t
+sizeof(named_color_t)	named_color_t
+sizeof(named_color_t)	named_color_t
+sizeof(_Tp)	_Tp
+sizeof(_CharT)	_CharT
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(unsigned long)	unsigned long
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(unsigned long)	unsigned long
+sizeof(unsigned long)	unsigned long
+sizeof(unsigned long)	unsigned long
+sizeof(_Tp)	_Tp
+sizeof(_CharT)	_CharT
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(_Tp)	_Tp
+sizeof(_Tp)	_Tp
+sizeof(lambda [] type at line 154915, col. 29)	decltype([...](...){...})
+alignof(lambda [] type at line 154915, col. 29)	decltype([...](...){...})
+alignof(lambda [] type at line 154915, col. 29)	decltype([...](...){...})
+sizeof(lambda [] type at line 154963, col. 25)	decltype([...](...){...})
+alignof(lambda [] type at line 154963, col. 25)	decltype([...](...){...})
+alignof(lambda [] type at line 154963, col. 25)	decltype([...](...){...})
+sizeof(lambda [] type at line 154944, col. 37)	decltype([...](...){...})
+alignof(lambda [] type at line 154944, col. 37)	decltype([...](...){...})
+alignof(lambda [] type at line 154944, col. 37)	decltype([...](...){...})
+sizeof(lambda [] type at line 154262, col. 28)	decltype([...](...){...})
+alignof(lambda [] type at line 154262, col. 28)	decltype([...](...){...})
+alignof(lambda [] type at line 154262, col. 28)	decltype([...](...){...})
+sizeof(lambda [] type at line 154237, col. 38)	decltype([...](...){...})
+alignof(lambda [] type at line 154237, col. 38)	decltype([...](...){...})
+alignof(lambda [] type at line 154237, col. 38)	decltype([...](...){...})
+sizeof(lambda [] type at line 154067, col. 22)	decltype([...](...){...})
+alignof(lambda [] type at line 154067, col. 22)	decltype([...](...){...})
+alignof(lambda [] type at line 154067, col. 22)	decltype([...](...){...})
+sizeof(..(*)(..))	..(*)(..)
+alignof(..(*)(..))	..(*)(..)
+alignof(..(*)(..))	..(*)(..)
+sizeof(..(*)(..))	..(*)(..)
+alignof(..(*)(..))	..(*)(..)
+alignof(..(*)(..))	..(*)(..)
+sizeof(lambda [] type at line 153532, col. 12)	decltype([...](...){...})
+alignof(lambda [] type at line 153532, col. 12)	decltype([...](...){...})
+alignof(lambda [] type at line 153532, col. 12)	decltype([...](...){...})
+sizeof(_Rb_tree_node<pair<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>)	_Rb_tree_node<pair<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>
+sizeof(reference_wrapper<const completion_entry_t>)	reference_wrapper<const completion_entry_t>
+sizeof(reference_wrapper<const completion_entry_t>)	reference_wrapper<const completion_entry_t>
+sizeof(list<complete_entry_opt, allocator<complete_entry_opt>>)	list<complete_entry_opt, allocator<complete_entry_opt>>
+sizeof(list<complete_entry_opt, allocator<complete_entry_opt>>)	list<complete_entry_opt, allocator<complete_entry_opt>>
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>, true>
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>, true>
+sizeof(_Hash_node<completion_entry_t, false>)	_Hash_node<completion_entry_t, false>
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, bool>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, bool>, true>
+sizeof(_List_node<complete_entry_opt>)	_List_node<complete_entry_opt>
+sizeof(__bucket_type)	__bucket_type
+sizeof(__bucket_type)	__bucket_type
+sizeof(__bucket_type)	__bucket_type
+sizeof(__bucket_type)	__bucket_type
+sizeof(complete_entry_opt)	complete_entry_opt
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>
+sizeof(pair<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>)	pair<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>
+sizeof(_List_node<complete_entry_opt>)	_List_node<complete_entry_opt>
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, bool>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, bool>, true>
+sizeof(_Hash_node<completion_entry_t, false>)	_Hash_node<completion_entry_t, false>
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>, true>
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>, true>
+sizeof(_Rb_tree_node<pair<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>)	_Rb_tree_node<pair<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>
+sizeof(complete_entry_opt)	complete_entry_opt
+sizeof(completion_t)	completion_t
+sizeof(completion_t)	completion_t
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>
+sizeof(complete_entry_opt)	complete_entry_opt
+sizeof(list<complete_entry_opt, allocator<complete_entry_opt>>)	list<complete_entry_opt, allocator<complete_entry_opt>>
+sizeof(reference_wrapper<const completion_entry_t>)	reference_wrapper<const completion_entry_t>
+sizeof(tok_t)	tok_t
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>
+sizeof(__bucket_type)	__bucket_type
+sizeof(pair<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>)	pair<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>
+sizeof(reference_wrapper<const completion_entry_t>)	reference_wrapper<const completion_entry_t>
+sizeof(__bucket_type)	__bucket_type
+sizeof(pair<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>)	pair<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>
+sizeof(__bucket_type)	__bucket_type
+sizeof(__bucket_type)	__bucket_type
+sizeof(_CharT)	_CharT
+sizeof(_Tp)	_Tp
+sizeof(type_info)	type_info
+sizeof(_Yp)	_Yp
+sizeof(__bucket_type)	__bucket_type
+sizeof(__bucket_type)	__bucket_type
+sizeof(bool)	bool
+sizeof(electric_var_t)	electric_var_t
+sizeof(electric_var_t)	electric_var_t
+sizeof(event_t)	event_t
+sizeof(event_t)	event_t
+sizeof(basic_string<char, char_traits<char>, allocator<char>>)	basic_string<char, char_traits<char>, allocator<char>>
+sizeof(basic_string<char, char_traits<char>, allocator<char>>)	basic_string<char, char_traits<char>, allocator<char>>
+sizeof(shared_ptr<env_node_t>)	shared_ptr<env_node_t>
+sizeof(shared_ptr<env_node_t>)	shared_ptr<env_node_t>
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, env_var_t>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, env_var_t>, true>
+sizeof(__bucket_type)	__bucket_type
+sizeof(basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>)	basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>
+sizeof(int)	int
+sizeof(bool)	bool
+sizeof(bool)	bool
+sizeof(env_var_t)	env_var_t
+sizeof(env_var_t)	env_var_t
+sizeof(env_var_t)	env_var_t
+sizeof(basic_string<char, char_traits<char>, allocator<char>>)	basic_string<char, char_traits<char>, allocator<char>>
+sizeof(bool)	bool
+sizeof(bool)	bool
+sizeof(env_var_t)	env_var_t
+sizeof(__bucket_type)	__bucket_type
+sizeof(__bucket_type)	__bucket_type
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, env_var_t>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, env_var_t>, true>
+sizeof(electric_var_t)	electric_var_t
+sizeof(__bucket_type)	__bucket_type
+sizeof(electric_var_t)	electric_var_t
+sizeof(event_t)	event_t
+sizeof(shared_ptr<env_node_t>)	shared_ptr<env_node_t>
+sizeof(_Sp_counted_ptr_inplace<const vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>, allocator<vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>, _S_atomic>)	_Sp_counted_ptr_inplace<const vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>, allocator<vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<null_terminated_array_t<char>, allocator<null_terminated_array_t<char>>, _S_atomic>)	_Sp_counted_ptr_inplace<null_terminated_array_t<char>, allocator<null_terminated_array_t<char>>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<env_scoped_impl_t, allocator<env_scoped_impl_t>, _S_atomic>)	_Sp_counted_ptr_inplace<env_scoped_impl_t, allocator<env_scoped_impl_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<env_node_t, allocator<env_node_t>, _S_atomic>)	_Sp_counted_ptr_inplace<env_node_t, allocator<env_node_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<env_node_t, allocator<env_node_t>, _S_atomic>)	_Sp_counted_ptr_inplace<env_node_t, allocator<env_node_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<env_scoped_impl_t, allocator<env_scoped_impl_t>, _S_atomic>)	_Sp_counted_ptr_inplace<env_scoped_impl_t, allocator<env_scoped_impl_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<null_terminated_array_t<char>, allocator<null_terminated_array_t<char>>, _S_atomic>)	_Sp_counted_ptr_inplace<null_terminated_array_t<char>, allocator<null_terminated_array_t<char>>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<const vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>, allocator<vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>, _S_atomic>)	_Sp_counted_ptr_inplace<const vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>, allocator<vector<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, allocator<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>>, _S_atomic>
+sizeof(_CharT)	_CharT
+sizeof(_Tp)	_Tp
+sizeof(..(*)(..))	..(*)(..)
+alignof(..(*)(..))	..(*)(..)
+alignof(..(*)(..))	..(*)(..)
+sizeof(..(*)(..))	..(*)(..)
+alignof(..(*)(..))	..(*)(..)
+alignof(..(*)(..))	..(*)(..)
+sizeof(..(*)(..))	..(*)(..)
+alignof(..(*)(..))	..(*)(..)
+alignof(..(*)(..))	..(*)(..)
+sizeof(cursor_t)	cursor_t
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, function<..(..)>>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, function<..(..)>>, true>
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, function<..(..)>>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, function<..(..)>>, true>
+sizeof(line_t)	line_t
+sizeof(line_t)	line_t
+sizeof(highlighted_char_t)	highlighted_char_t
+sizeof(highlighted_char_t)	highlighted_char_t
+sizeof(__bucket_type)	__bucket_type
+sizeof(__bucket_type)	__bucket_type
+sizeof(prompt_cache_entry_t)	prompt_cache_entry_t
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, function<..(..)>>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, function<..(..)>>, true>
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, function<..(..)>>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, function<..(..)>>, true>
+sizeof(line_t)	line_t
+sizeof(highlighted_char_t)	highlighted_char_t
+sizeof(prompt_cache_entry_t)	prompt_cache_entry_t
+sizeof(highlighted_char_t)	highlighted_char_t
+sizeof(highlighted_char_t)	highlighted_char_t
+sizeof(__bucket_type)	__bucket_type
+sizeof(__bucket_type)	__bucket_type
+sizeof(long)	long
+sizeof(cmsghdr)	cmsghdr
+sizeof(size_t)	size_t
+sizeof(size_t)	size_t
+sizeof(size_t)	size_t
+sizeof(size_t)	size_t
+sizeof(unsigned short)	unsigned short
+sizeof(unsigned long)	unsigned long
+sizeof(sockaddr)	sockaddr
+sizeof(unsigned short)	unsigned short
+sizeof(in_port_t)	in_port_t
+sizeof(in_addr)	in_addr
+sizeof(_CharT)	_CharT
+sizeof(_Tp)	_Tp
+sizeof(type_info)	type_info
+sizeof(fd_set)	fd_set
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(unsigned char)	unsigned char
+sizeof(pair<reference_wrapper<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>, reference_wrapper<const env_var_t>>)	pair<reference_wrapper<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>, reference_wrapper<const env_var_t>>
+sizeof(pair<reference_wrapper<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>, reference_wrapper<const env_var_t>>)	pair<reference_wrapper<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>, reference_wrapper<const env_var_t>>
+sizeof(callback_data_t)	callback_data_t
+sizeof(callback_data_t)	callback_data_t
+sizeof(unsigned char)	unsigned char
+sizeof(pair<reference_wrapper<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>, reference_wrapper<const env_var_t>>)	pair<reference_wrapper<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>, reference_wrapper<const env_var_t>>
+sizeof(callback_data_t)	callback_data_t
+sizeof(shared_ptr<event_handler_t>)	shared_ptr<event_handler_t>
+sizeof(shared_ptr<event_handler_t>)	shared_ptr<event_handler_t>
+sizeof(shared_ptr<event_t>)	shared_ptr<event_t>
+sizeof(shared_ptr<event_t>)	shared_ptr<event_t>
+sizeof(event_type_t)	event_type_t
+sizeof(shared_ptr<event_handler_t>)	shared_ptr<event_handler_t>
+sizeof(shared_ptr<event_t>)	shared_ptr<event_t>
+sizeof(_Sp_counted_ptr_inplace<event_t, allocator<event_t>, _S_atomic>)	_Sp_counted_ptr_inplace<event_t, allocator<event_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<event_t, allocator<event_t>, _S_atomic>)	_Sp_counted_ptr_inplace<event_t, allocator<event_t>, _S_atomic>
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(_Tp)	_Tp
+sizeof(type_info)	type_info
+sizeof(_Tp)	_Tp
+sizeof(_Tp)	_Tp
+sizeof(_Tp)	_Tp
+sizeof(_Bit_type)	_Bit_type
+sizeof(lambda [] type at line 150557, col. 30)	decltype([...](...){...})
+alignof(lambda [] type at line 150557, col. 30)	decltype([...](...){...})
+alignof(lambda [] type at line 150557, col. 30)	decltype([...](...){...})
+sizeof(lambda [] type at line 150280, col. 25)	decltype([...](...){...})
+alignof(lambda [] type at line 150280, col. 25)	decltype([...](...){...})
+alignof(lambda [] type at line 150280, col. 25)	decltype([...](...){...})
+sizeof(lambda [] type at line 150130, col. 16)	decltype([...](...){...})
+alignof(lambda [] type at line 150130, col. 16)	decltype([...](...){...})
+alignof(lambda [] type at line 150130, col. 16)	decltype([...](...){...})
+sizeof(lambda [] type at line 150119, col. 16)	decltype([...](...){...})
+alignof(lambda [] type at line 150119, col. 16)	decltype([...](...){...})
+alignof(lambda [] type at line 150119, col. 16)	decltype([...](...){...})
+sizeof(lambda [] type at line 150044, col. 37)	decltype([...](...){...})
+alignof(lambda [] type at line 150044, col. 37)	decltype([...](...){...})
+alignof(lambda [] type at line 150044, col. 37)	decltype([...](...){...})
+sizeof(lambda [] type at line 149742, col. 31)	decltype([...](...){...})
+alignof(lambda [] type at line 149742, col. 31)	decltype([...](...){...})
+alignof(lambda [] type at line 149742, col. 31)	decltype([...](...){...})
+sizeof(shared_ptr<job_t>)	shared_ptr<job_t>
+sizeof(shared_ptr<job_t>)	shared_ptr<job_t>
+sizeof(shared_ptr<job_t>)	shared_ptr<job_t>
+sizeof(shared_ptr<job_t>)	shared_ptr<job_t>
+sizeof(autoclose_pipes_t)	autoclose_pipes_t
+sizeof(posix_spawn_file_actions_t)	posix_spawn_file_actions_t
+sizeof(posix_spawnattr_t)	posix_spawnattr_t
+sizeof(dup2_list_t)	dup2_list_t
+sizeof(shared_ptr<job_t> *)	shared_ptr<job_t> *
+sizeof(shared_ptr<job_t>)	shared_ptr<job_t>
+sizeof(dup2_list_t)	dup2_list_t
+sizeof(dup2_list_t)	dup2_list_t
+sizeof(autoclose_pipes_t)	autoclose_pipes_t
+sizeof(posix_spawnattr_t)	posix_spawnattr_t
+sizeof(posix_spawn_file_actions_t)	posix_spawn_file_actions_t
+sizeof(shared_ptr<job_t>)	shared_ptr<job_t>
+sizeof(shared_ptr<job_t> *)	shared_ptr<job_t> *
+sizeof(shared_ptr<const io_data_t>)	shared_ptr<const io_data_t>
+sizeof(shared_ptr<job_t>)	shared_ptr<job_t>
+sizeof(_Sp_counted_ptr_inplace<write_fields_t, allocator<write_fields_t>, _S_atomic>)	_Sp_counted_ptr_inplace<write_fields_t, allocator<write_fields_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<internal_proc_t, allocator<internal_proc_t>, _S_atomic>)	_Sp_counted_ptr_inplace<internal_proc_t, allocator<internal_proc_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<io_pipe_t, allocator<io_pipe_t>, _S_atomic>)	_Sp_counted_ptr_inplace<io_pipe_t, allocator<io_pipe_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<io_close_t, allocator<io_close_t>, _S_atomic>)	_Sp_counted_ptr_inplace<io_close_t, allocator<io_close_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<io_close_t, allocator<io_close_t>, _S_atomic>)	_Sp_counted_ptr_inplace<io_close_t, allocator<io_close_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<io_pipe_t, allocator<io_pipe_t>, _S_atomic>)	_Sp_counted_ptr_inplace<io_pipe_t, allocator<io_pipe_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<internal_proc_t, allocator<internal_proc_t>, _S_atomic>)	_Sp_counted_ptr_inplace<internal_proc_t, allocator<internal_proc_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<write_fields_t, allocator<write_fields_t>, _S_atomic>)	_Sp_counted_ptr_inplace<write_fields_t, allocator<write_fields_t>, _S_atomic>
+sizeof(_CharT)	_CharT
+sizeof(_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>)	_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>
+sizeof(parse_error_t)	parse_error_t
+sizeof(parse_error_t)	parse_error_t
+sizeof(char)	char
+sizeof(__bucket_type)	__bucket_type
+sizeof(_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>)	_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>>
+sizeof(parse_error_t)	parse_error_t
+sizeof(int)	int
+sizeof(char32_t)	char32_t
+sizeof(char16_t)	char16_t
+sizeof(wchar_t)	wchar_t
+sizeof(_CharT)	_CharT
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(intmax_t)	intmax_t
+sizeof(intmax_t)	intmax_t
+sizeof(intmax_t)	intmax_t
+sizeof(uintmax_t)	uintmax_t
+sizeof(unsigned long long)	unsigned long long
+sizeof(intmax_t)	intmax_t
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(fd_set)	fd_set
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(lambda [] type at line 101876, col. 21)	decltype([...](...){...})
+alignof(lambda [] type at line 101876, col. 21)	decltype([...](...){...})
+alignof(lambda [] type at line 101876, col. 21)	decltype([...](...){...})
+sizeof(fd_monitor_item_t)	fd_monitor_item_t
+sizeof(fd_monitor_item_t)	fd_monitor_item_t
+sizeof(time_point<steady_clock, duration<signed long, ratio<1L, 1000000000L>>>)	time_point<steady_clock, duration<signed long, ratio<1L, 1000000000L>>>
+sizeof(time_point<steady_clock, duration<signed long, ratio<1L, 1000000000L>>>)	time_point<steady_clock, duration<signed long, ratio<1L, 1000000000L>>>
+sizeof(time_point<steady_clock, duration<signed long, ratio<1L, 1000000000L>>>)	time_point<steady_clock, duration<signed long, ratio<1L, 1000000000L>>>
+sizeof(time_point<steady_clock, duration<signed long, ratio<1L, 1000000000L>>>)	time_point<steady_clock, duration<signed long, ratio<1L, 1000000000L>>>
+sizeof(fd_monitor_item_t)	fd_monitor_item_t
+sizeof(_CharT)	_CharT
+sizeof(_CharT)	_CharT
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(token_range_t)	token_range_t
+sizeof(token_range_t)	token_range_t
+sizeof(token_range_t)	token_range_t
+sizeof(token_range_t)	token_range_t
+sizeof(token_range_t)	token_range_t
+sizeof(_CharT)	_CharT
+sizeof(fth_command_t)	fth_command_t
+sizeof(_CharT)	_CharT
+sizeof(_Tp)	_Tp
+sizeof(const category_t *)	const category_t *
+sizeof(const category_t *)	const category_t *
+sizeof(category_t *)	category_t *
+sizeof(category_t *)	category_t *
+sizeof(const category_t *)	const category_t *
+sizeof(category_t *)	category_t *
+sizeof(category_t *)	category_t *
+sizeof(category_t *)	category_t *
+sizeof(const category_t *)	const category_t *
+sizeof(_CharT)	_CharT
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, function_info_t>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, function_info_t>, true>
+sizeof(__bucket_type)	__bucket_type
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, function_info_t>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, function_info_t>, true>
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, function_info_t>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, function_info_t>
+sizeof(__bucket_type)	__bucket_type
+sizeof(_CharT)	_CharT
+sizeof(_CharT)	_CharT
+sizeof(lambda [] type at line 149720, col. 39)	decltype([...](...){...})
+alignof(lambda [] type at line 149720, col. 39)	decltype([...](...){...})
+alignof(lambda [] type at line 149720, col. 39)	decltype([...](...){...})
+sizeof(highlight_role_t)	highlight_role_t
+sizeof(highlight_spec_t)	highlight_spec_t
+sizeof(highlight_spec_t)	highlight_spec_t
+sizeof(unsigned long)	unsigned long
+sizeof(highlight_role_t)	highlight_role_t
+sizeof(highlight_role_t)	highlight_role_t
+sizeof(highlight_role_t)	highlight_role_t
+sizeof(pipe_or_redir_t)	pipe_or_redir_t
+sizeof(unsigned long)	unsigned long
+sizeof(highlight_spec_t)	highlight_spec_t
+sizeof(highlight_spec_t)	highlight_spec_t
+sizeof(_CharT)	_CharT
+sizeof(lambda [] type at line 172408, col. 60)	decltype([...](...){...})
+alignof(lambda [] type at line 172408, col. 60)	decltype([...](...){...})
+alignof(lambda [] type at line 172408, col. 60)	decltype([...](...){...})
+sizeof(lambda [] type at line 172363, col. 26)	decltype([...](...){...})
+alignof(lambda [] type at line 172363, col. 26)	decltype([...](...){...})
+alignof(lambda [] type at line 172363, col. 26)	decltype([...](...){...})
+sizeof(history_item_t)	history_item_t
+sizeof(history_item_t)	history_item_t
+sizeof(history_item_t)	history_item_t
+sizeof(history_item_t)	history_item_t
+sizeof(unsigned long)	unsigned long
+sizeof(unsigned long)	unsigned long
+sizeof(unsigned long)	unsigned long
+sizeof(unsigned long)	unsigned long
+sizeof(_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, unique_ptr<history_t, default_delete<history_t>>>>)	_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, unique_ptr<history_t, default_delete<history_t>>>>
+sizeof(_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>>)	_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>>
+sizeof(_Hash_node<pair<const long, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>, false>)	_Hash_node<pair<const long, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>, false>
+sizeof(unsigned long *)	unsigned long *
+sizeof(history_item_t *)	history_item_t *
+sizeof(history_item_t)	history_item_t
+sizeof(history_item_t)	history_item_t
+sizeof(history_item_t)	history_item_t
+sizeof(history_item_t)	history_item_t
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, unique_ptr<history_t, default_delete<history_t>>>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, unique_ptr<history_t, default_delete<history_t>>>
+sizeof(history_item_t)	history_item_t
+sizeof(basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>)	basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>
+sizeof(history_item_t)	history_item_t
+sizeof(history_item_t)	history_item_t
+sizeof(history_item_t)	history_item_t
+sizeof(unsigned long)	unsigned long
+sizeof(history_item_t *)	history_item_t *
+sizeof(unsigned long *)	unsigned long *
+sizeof(_Hash_node<pair<const long, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>, false>)	_Hash_node<pair<const long, basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>, false>
+sizeof(_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>>)	_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>>
+sizeof(_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, unique_ptr<history_t, default_delete<history_t>>>>)	_Rb_tree_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, unique_ptr<history_t, default_delete<history_t>>>>
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, unique_ptr<history_t, default_delete<history_t>>>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, unique_ptr<history_t, default_delete<history_t>>>
+sizeof(unsigned long)	unsigned long
+sizeof(unsigned long)	unsigned long
+sizeof(history_item_t)	history_item_t
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, unique_ptr<history_t, default_delete<history_t>>>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, unique_ptr<history_t, default_delete<history_t>>>
+sizeof(pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>)	pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, lru_node_t>
+sizeof(__bucket_type)	__bucket_type
+sizeof(unsigned long *)	unsigned long *
+sizeof(unsigned long *)	unsigned long *
+sizeof(history_item_t *)	history_item_t *
+sizeof(history_item_t *)	history_item_t *
+sizeof(_CharT)	_CharT
+sizeof(_Tp)	_Tp
+sizeof(history_file_type_t)	history_file_type_t
+sizeof(history_file_type_t)	history_file_type_t
+sizeof(history_file_type_t)	history_file_type_t
+sizeof(history_file_type_t)	history_file_type_t
+sizeof(_CharT)	_CharT
+sizeof(basic_string<char, char_traits<char>, allocator<char>>)	basic_string<char, char_traits<char>, allocator<char>>
+sizeof(char_event_t)	char_event_t
+sizeof(input_mapping_t)	input_mapping_t
+sizeof(basic_string<char, char_traits<char>, allocator<char>>)	basic_string<char, char_traits<char>, allocator<char>>
+sizeof(input_mapping_name_t)	input_mapping_name_t
+sizeof(input_mapping_name_t)	input_mapping_name_t
+sizeof(terminfo_mapping_t)	terminfo_mapping_t
+sizeof(terminfo_mapping_t)	terminfo_mapping_t
+sizeof(input_mapping_t)	input_mapping_t
+sizeof(input_mapping_t)	input_mapping_t
+sizeof(readline_cmd_t)	readline_cmd_t
+sizeof(char_event_t)	char_event_t
+sizeof(input_mapping_t)	input_mapping_t
+sizeof(basic_string<char, char_traits<char>, allocator<char>>)	basic_string<char, char_traits<char>, allocator<char>>
+sizeof(basic_string<char, char_traits<char>, allocator<char>>)	basic_string<char, char_traits<char>, allocator<char>>
+sizeof(basic_string<char, char_traits<char>, allocator<char>>)	basic_string<char, char_traits<char>, allocator<char>>
+sizeof(basic_string<char, char_traits<char>, allocator<char>>)	basic_string<char, char_traits<char>, allocator<char>>
+sizeof(input_mapping_name_t)	input_mapping_name_t
+sizeof(input_mapping_t)	input_mapping_t
+sizeof(basic_string<char, char_traits<char>, allocator<char>>)	basic_string<char, char_traits<char>, allocator<char>>
+sizeof(terminfo_mapping_t)	terminfo_mapping_t
+sizeof(char_event_t)	char_event_t
+sizeof(input_mapping_t)	input_mapping_t
+sizeof(_Sp_counted_ptr_inplace<const vector<input_mapping_t, allocator<input_mapping_t>>, allocator<vector<input_mapping_t, allocator<input_mapping_t>>>, _S_atomic>)	_Sp_counted_ptr_inplace<const vector<input_mapping_t, allocator<input_mapping_t>>, allocator<vector<input_mapping_t, allocator<input_mapping_t>>>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<const vector<input_mapping_t, allocator<input_mapping_t>>, allocator<vector<input_mapping_t, allocator<input_mapping_t>>>, _S_atomic>)	_Sp_counted_ptr_inplace<const vector<input_mapping_t, allocator<input_mapping_t>>, allocator<vector<input_mapping_t, allocator<input_mapping_t>>>, _S_atomic>
+sizeof(__fd_mask)	__fd_mask
+sizeof(_CharT)	_CharT
+sizeof(type_info)	type_info
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(fd_set)	fd_set
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(fd_set)	fd_set
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(char_event_t)	char_event_t
+sizeof(char_event_t *)	char_event_t *
+sizeof(char_event_t *)	char_event_t *
+sizeof(const wchar_t *)	const wchar_t *
+sizeof(const wchar_t *)	const wchar_t *
+sizeof(const wchar_t *)	const wchar_t *
+sizeof(const wchar_t *)	const wchar_t *
+sizeof(const wchar_t *)	const wchar_t *
+sizeof(const wchar_t *)	const wchar_t *
+sizeof(_CharT)	_CharT
+sizeof(_Tp)	_Tp
+sizeof(type_info)	type_info
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(lambda [] type at line 140078, col. 21)	decltype([...](...){...})
+alignof(lambda [] type at line 140078, col. 21)	decltype([...](...){...})
+alignof(lambda [] type at line 140078, col. 21)	decltype([...](...){...})
+sizeof(time_point<steady_clock, duration<signed long, ratio<1L, 1000000000L>>>)	time_point<steady_clock, duration<signed long, ratio<1L, 1000000000L>>>
+sizeof(autoclose_pipes_t)	autoclose_pipes_t
+sizeof(time_point<steady_clock, duration<signed long, ratio<1L, 1000000000L>>>)	time_point<steady_clock, duration<signed long, ratio<1L, 1000000000L>>>
+sizeof(_Sp_counted_deleter<io_fd_t *, default_delete<io_fd_t>, allocator<void>, _S_atomic>)	_Sp_counted_deleter<io_fd_t *, default_delete<io_fd_t>, allocator<void>, _S_atomic>
+sizeof(_Sp_counted_deleter<io_close_t *, default_delete<io_close_t>, allocator<void>, _S_atomic>)	_Sp_counted_deleter<io_close_t *, default_delete<io_close_t>, allocator<void>, _S_atomic>
+sizeof(_Sp_counted_deleter<io_close_t *, default_delete<io_close_t>, allocator<void>, _S_atomic>)	_Sp_counted_deleter<io_close_t *, default_delete<io_close_t>, allocator<void>, _S_atomic>
+sizeof(_Sp_counted_deleter<io_fd_t *, default_delete<io_fd_t>, allocator<void>, _S_atomic>)	_Sp_counted_deleter<io_fd_t *, default_delete<io_fd_t>, allocator<void>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<promise<void>, allocator<promise<void>>, _S_atomic>)	_Sp_counted_ptr_inplace<promise<void>, allocator<promise<void>>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<io_buffer_t, allocator<io_buffer_t>, _S_atomic>)	_Sp_counted_ptr_inplace<io_buffer_t, allocator<io_buffer_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<io_bufferfill_t, allocator<io_bufferfill_t>, _S_atomic>)	_Sp_counted_ptr_inplace<io_bufferfill_t, allocator<io_bufferfill_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<io_file_t, allocator<io_file_t>, _S_atomic>)	_Sp_counted_ptr_inplace<io_file_t, allocator<io_file_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<io_file_t, allocator<io_file_t>, _S_atomic>)	_Sp_counted_ptr_inplace<io_file_t, allocator<io_file_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<io_bufferfill_t, allocator<io_bufferfill_t>, _S_atomic>)	_Sp_counted_ptr_inplace<io_bufferfill_t, allocator<io_bufferfill_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<io_buffer_t, allocator<io_buffer_t>, _S_atomic>)	_Sp_counted_ptr_inplace<io_buffer_t, allocator<io_buffer_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<promise<void>, allocator<promise<void>>, _S_atomic>)	_Sp_counted_ptr_inplace<promise<void>, allocator<promise<void>>, _S_atomic>
+sizeof(_CharT)	_CharT
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(type_info)	type_info
+sizeof(intmax_t)	intmax_t
+sizeof(intmax_t)	intmax_t
+sizeof(intmax_t)	intmax_t
+sizeof(uintmax_t)	uintmax_t
+sizeof(unsigned long long)	unsigned long long
+sizeof(intmax_t)	intmax_t
+sizeof(fd_set)	fd_set
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(lambda [] type at line 100272, col. 26)	decltype([...](...){...})
+alignof(lambda [] type at line 100272, col. 26)	decltype([...](...){...})
+alignof(lambda [] type at line 100272, col. 26)	decltype([...](...){...})
+sizeof(main_thread_request_t *)	main_thread_request_t *
+sizeof(main_thread_request_t *)	main_thread_request_t *
+sizeof(main_thread_request_t *)	main_thread_request_t *
+sizeof(main_thread_request_t *)	main_thread_request_t *
+sizeof(function<..(..)>)	function<..(..)>
+sizeof(function<..(..)>)	function<..(..)>
+sizeof(function<..(..)>)	function<..(..)>
+sizeof(function<..(..)>)	function<..(..)>
+sizeof(work_request_t)	work_request_t
+sizeof(work_request_t)	work_request_t
+sizeof(work_request_t)	work_request_t
+sizeof(work_request_t)	work_request_t
+sizeof(work_request_t)	work_request_t
+sizeof(work_request_t *)	work_request_t *
+sizeof(work_request_t)	work_request_t
+sizeof(work_request_t)	work_request_t
+sizeof(function<..(..)> *)	function<..(..)> *
+sizeof(function<..(..)>)	function<..(..)>
+sizeof(function<..(..)>)	function<..(..)>
+sizeof(main_thread_request_t **)	main_thread_request_t **
+sizeof(main_thread_request_t *)	main_thread_request_t *
+sizeof(main_thread_request_t *)	main_thread_request_t *
+sizeof(work_request_t)	work_request_t
+sizeof(work_request_t)	work_request_t
+sizeof(work_request_t)	work_request_t
+sizeof(main_thread_request_t *)	main_thread_request_t *
+sizeof(function<..(..)>)	function<..(..)>
+sizeof(work_request_t)	work_request_t
+sizeof(main_thread_request_t **)	main_thread_request_t **
+sizeof(function<..(..)> *)	function<..(..)> *
+sizeof(work_request_t *)	work_request_t *
+sizeof(function<..(..)>)	function<..(..)>
+sizeof(main_thread_request_t *)	main_thread_request_t *
+sizeof(work_request_t)	work_request_t
+sizeof(_Sp_counted_ptr_inplace<impl_t, allocator<impl_t>, _S_atomic>)	_Sp_counted_ptr_inplace<impl_t, allocator<impl_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<impl_t, allocator<impl_t>, _S_atomic>)	_Sp_counted_ptr_inplace<impl_t, allocator<impl_t>, _S_atomic>
+sizeof(main_thread_request_t **)	main_thread_request_t **
+sizeof(main_thread_request_t **)	main_thread_request_t **
+sizeof(function<..(..)> *)	function<..(..)> *
+sizeof(function<..(..)> *)	function<..(..)> *
+sizeof(work_request_t *)	work_request_t *
+sizeof(work_request_t *)	work_request_t *
+sizeof(_CharT)	_CharT
+sizeof(_List_node<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>)	_List_node<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>
+sizeof(_List_node<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>)	_List_node<basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>>
+sizeof(_CharT)	_CharT
+sizeof(CharT *)	CharT *
+sizeof(CharT)	CharT
+sizeof(CharT)	CharT
+sizeof(CharT)	CharT
+sizeof(wchar_t *)	wchar_t *
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(char *)	char *
+sizeof(char)	char
+sizeof(char)	char
+sizeof(char)	char
+sizeof(char)	char
+sizeof(_CharT)	_CharT
+sizeof(type_info)	type_info
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(_CharT)	_CharT
+sizeof(_CharT)	_CharT
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, unsigned long>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, unsigned long>, true>
+sizeof(comp_t)	comp_t
+sizeof(comp_t)	comp_t
+sizeof(edit_t)	edit_t
+sizeof(__bucket_type)	__bucket_type
+sizeof(comp_t)	comp_t
+sizeof(edit_t)	edit_t
+sizeof(_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, unsigned long>, true>)	_Hash_node<pair<const basic_string<wchar_t, char_traits<wchar_t>, allocator<wchar_t>>, unsigned long>, true>
+sizeof(__bucket_type)	__bucket_type
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(type_info)	type_info
+sizeof(lambda [] type at line 148145, col. 25)	decltype([...](...){...})
+alignof(lambda [] type at line 148145, col. 25)	decltype([...](...){...})
+alignof(lambda [] type at line 148145, col. 25)	decltype([...](...){...})
+sizeof(lambda [] type at line 147997, col. 21)	decltype([...](...){...})
+alignof(lambda [] type at line 147997, col. 21)	decltype([...](...){...})
+alignof(lambda [] type at line 147997, col. 21)	decltype([...](...){...})
+sizeof(end_execution_reason_t)	end_execution_reason_t
+sizeof(const argument_t *)	const argument_t *
+sizeof(const argument_t *)	const argument_t *
+sizeof(unique_ptr<process_t, default_delete<process_t>>)	unique_ptr<process_t, default_delete<process_t>>
+sizeof(unique_ptr<process_t, default_delete<process_t>>)	unique_ptr<process_t, default_delete<process_t>>
+sizeof(concrete_assignment)	concrete_assignment
+sizeof(concrete_assignment)	concrete_assignment
+sizeof(redirection_spec_t)	redirection_spec_t
+sizeof(redirection_spec_t)	redirection_spec_t
+sizeof(end_execution_reason_t)	end_execution_reason_t
+sizeof(end_execution_reason_t)	end_execution_reason_t
+sizeof(end_execution_reason_t)	end_execution_reason_t
+sizeof(unique_ptr<process_t, default_delete<process_t>>)	unique_ptr<process_t, default_delete<process_t>>
+sizeof(const argument_t *)	const argument_t *
+sizeof(redirection_spec_t)	redirection_spec_t
+sizeof(const argument_t *)	const argument_t *
+sizeof(concrete_assignment)	concrete_assignment
+sizeof(_Sp_counted_ptr_inplace<job_t, allocator<job_t>, _S_atomic>)	_Sp_counted_ptr_inplace<job_t, allocator<job_t>, _S_atomic>
+sizeof(const argument_t *)	const argument_t *
+sizeof(const argument_t *)	const argument_t *
+sizeof(_Sp_counted_ptr_inplace<job_t, allocator<job_t>, _S_atomic>)	_Sp_counted_ptr_inplace<job_t, allocator<job_t>, _S_atomic>
+sizeof(_CharT)	_CharT
+sizeof(_Sp_counted_ptr_inplace<parsed_source_t, allocator<parsed_source_t>, _S_atomic>)	_Sp_counted_ptr_inplace<parsed_source_t, allocator<parsed_source_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<parsed_source_t, allocator<parsed_source_t>, _S_atomic>)	_Sp_counted_ptr_inplace<parsed_source_t, allocator<parsed_source_t>, _S_atomic>
+sizeof(_CharT)	_CharT
+sizeof(tok_t)	tok_t
+sizeof(tok_t)	tok_t
+sizeof(tok_t)	tok_t
+sizeof(type_info)	type_info
+sizeof(_Yp)	_Yp
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(lambda [] type at line 147262, col. 29)	decltype([...](...){...})
+alignof(lambda [] type at line 147262, col. 29)	decltype([...](...){...})
+alignof(lambda [] type at line 147262, col. 29)	decltype([...](...){...})
+sizeof(lambda [] type at line 147262, col. 29)	decltype([...](...){...})
+alignof(lambda [] type at line 147262, col. 29)	decltype([...](...){...})
+alignof(lambda [] type at line 147262, col. 29)	decltype([...](...){...})
+sizeof(lambda [] type at line 146894, col. 12)	decltype([...](...){...})
+alignof(lambda [] type at line 146894, col. 12)	decltype([...](...){...})
+alignof(lambda [] type at line 146894, col. 12)	decltype([...](...){...})
+sizeof(block_t)	block_t
+sizeof(block_t)	block_t
+sizeof(block_t)	block_t
+sizeof(block_t)	block_t
+sizeof(block_t *)	block_t *
+sizeof(unique_ptr<profile_item_t, default_delete<profile_item_t>>)	unique_ptr<profile_item_t, default_delete<profile_item_t>>
+sizeof(unique_ptr<profile_item_t, default_delete<profile_item_t>>)	unique_ptr<profile_item_t, default_delete<profile_item_t>>
+sizeof(block_t)	block_t
+sizeof(block_t)	block_t
+sizeof(event_t)	event_t
+sizeof(event_t)	event_t
+sizeof(event_t)	event_t
+sizeof(event_t)	event_t
+sizeof(block_t *)	block_t *
+sizeof(block_t)	block_t
+sizeof(event_blockage_t)	event_blockage_t
+sizeof(unique_ptr<profile_item_t, default_delete<profile_item_t>>)	unique_ptr<profile_item_t, default_delete<profile_item_t>>
+sizeof(shared_ptr<job_t> *)	shared_ptr<job_t> *
+sizeof(shared_ptr<job_t> *)	shared_ptr<job_t> *
+sizeof(block_t *)	block_t *
+sizeof(block_t *)	block_t *
+sizeof(_CharT)	_CharT
+sizeof(_CharT)	_CharT
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(posix_spawnattr_t)	posix_spawnattr_t
+sizeof(posix_spawn_file_actions_t)	posix_spawn_file_actions_t
+sizeof(int)	int
+sizeof(posix_spawn_file_actions_t)	posix_spawn_file_actions_t
+sizeof(posix_spawnattr_t)	posix_spawnattr_t
+sizeof(_Tp)	_Tp
+sizeof(_CharT)	_CharT
+sizeof(type_info)	type_info
+sizeof(_Yp)	_Yp
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(topic_set_raw_t)	topic_set_raw_t
+sizeof(lambda [] type at line 153223, col. 30)	decltype([...](...){...})
+alignof(lambda [] type at line 153223, col. 30)	decltype([...](...){...})
+alignof(lambda [] type at line 153223, col. 30)	decltype([...](...){...})
+sizeof(lambda [] type at line 152907, col. 29)	decltype([...](...){...})
+alignof(lambda [] type at line 152907, col. 29)	decltype([...](...){...})
+alignof(lambda [] type at line 152907, col. 29)	decltype([...](...){...})
+alignof(job_control_t)	job_control_t
+alignof(job_control_t)	job_control_t
+sizeof(job_control_t)	job_control_t
+sizeof(job_control_t)	job_control_t
+sizeof(job_control_t)	job_control_t
+sizeof(job_control_t)	job_control_t
+alignof(session_interactivity_t)	session_interactivity_t
+alignof(session_interactivity_t)	session_interactivity_t
+sizeof(session_interactivity_t)	session_interactivity_t
+sizeof(session_interactivity_t)	session_interactivity_t
+sizeof(session_interactivity_t)	session_interactivity_t
+sizeof(session_interactivity_t)	session_interactivity_t
+sizeof(termios)	termios
+sizeof(termios)	termios
+sizeof(job_control_t)	job_control_t
+sizeof(session_interactivity_t)	session_interactivity_t
+sizeof(int)	int
+sizeof(topic_t)	topic_t
+sizeof(termios)	termios
+sizeof(termios)	termios
+sizeof(_Tp)	_Tp
+sizeof(_CharT)	_CharT
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(_Tp)	_Tp
+sizeof(type_info)	type_info
+sizeof(fd_set)	fd_set
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(__fd_mask)	__fd_mask
+sizeof(lambda [] type at line 148893, col. 28)	decltype([...](...){...})
+alignof(lambda [] type at line 148893, col. 28)	decltype([...](...){...})
+alignof(lambda [] type at line 148893, col. 28)	decltype([...](...){...})
+sizeof(lambda [] type at line 148892, col. 25)	decltype([...](...){...})
+alignof(lambda [] type at line 148892, col. 25)	decltype([...](...){...})
+alignof(lambda [] type at line 148892, col. 25)	decltype([...](...){...})
+sizeof(lambda [] type at line 161827, col. 12)	decltype([...](...){...})
+alignof(lambda [] type at line 161827, col. 12)	decltype([...](...){...})
+alignof(lambda [] type at line 161827, col. 12)	decltype([...](...){...})
+sizeof(lambda [] type at line 161456, col. 28)	decltype([...](...){...})
+alignof(lambda [] type at line 161456, col. 28)	decltype([...](...){...})
+alignof(lambda [] type at line 161456, col. 28)	decltype([...](...){...})
+sizeof(lambda [] type at line 148893, col. 28)	decltype([...](...){...})
+alignof(lambda [] type at line 148893, col. 28)	decltype([...](...){...})
+alignof(lambda [] type at line 148893, col. 28)	decltype([...](...){...})
+sizeof(lambda [] type at line 148892, col. 25)	decltype([...](...){...})
+alignof(lambda [] type at line 148892, col. 25)	decltype([...](...){...})
+alignof(lambda [] type at line 148892, col. 25)	decltype([...](...){...})
+sizeof(lambda [] type at line 161027, col. 12)	decltype([...](...){...})
+alignof(lambda [] type at line 161027, col. 12)	decltype([...](...){...})
+alignof(lambda [] type at line 161027, col. 12)	decltype([...](...){...})
+sizeof(lambda [] type at line 159687, col. 39)	decltype([...](...){...})
+alignof(lambda [] type at line 159687, col. 39)	decltype([...](...){...})
+alignof(lambda [] type at line 159687, col. 39)	decltype([...](...){...})
+sizeof(edit_t)	edit_t
+sizeof(shared_ptr<reader_data_t>)	shared_ptr<reader_data_t>
+sizeof(shared_ptr<reader_data_t>)	shared_ptr<reader_data_t>
+sizeof(edit_t)	edit_t
+sizeof(edit_t)	edit_t
+sizeof(char_event_t)	char_event_t
+sizeof(char_event_t)	char_event_t
+sizeof(autosuggestion_result_t)	autosuggestion_result_t
+sizeof(highlight_result_t)	highlight_result_t
+sizeof(autosuggestion_result_t)	autosuggestion_result_t
+sizeof(highlight_result_t)	highlight_result_t
+sizeof(readline_cmd_t)	readline_cmd_t
+sizeof(readline_cmd_t)	readline_cmd_t
+sizeof(edit_t)	edit_t
+sizeof(char_event_t)	char_event_t
+sizeof(cursor_t)	cursor_t
+sizeof(highlight_result_t)	highlight_result_t
+sizeof(autosuggestion_result_t)	autosuggestion_result_t
+sizeof(edit_t)	edit_t
+sizeof(shared_ptr<reader_data_t>)	shared_ptr<reader_data_t>
+sizeof(highlight_spec_t)	highlight_spec_t
+sizeof(_Sp_counted_ptr_inplace<maybe_t<autosuggestion_result_t>, allocator<maybe_t<autosuggestion_result_t>>, _S_atomic>)	_Sp_counted_ptr_inplace<maybe_t<autosuggestion_result_t>, allocator<maybe_t<autosuggestion_result_t>>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<maybe_t<highlight_result_t>, allocator<maybe_t<highlight_result_t>>, _S_atomic>)	_Sp_counted_ptr_inplace<maybe_t<highlight_result_t>, allocator<maybe_t<highlight_result_t>>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<reader_data_t, allocator<reader_data_t>, _S_atomic>)	_Sp_counted_ptr_inplace<reader_data_t, allocator<reader_data_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<reader_data_t, allocator<reader_data_t>, _S_atomic>)	_Sp_counted_ptr_inplace<reader_data_t, allocator<reader_data_t>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<maybe_t<highlight_result_t>, allocator<maybe_t<highlight_result_t>>, _S_atomic>)	_Sp_counted_ptr_inplace<maybe_t<highlight_result_t>, allocator<maybe_t<highlight_result_t>>, _S_atomic>
+sizeof(_Sp_counted_ptr_inplace<maybe_t<autosuggestion_result_t>, allocator<maybe_t<autosuggestion_result_t>>, _S_atomic>)	_Sp_counted_ptr_inplace<maybe_t<autosuggestion_result_t>, allocator<maybe_t<autosuggestion_result_t>>, _S_atomic>
+sizeof(_CharT)	_CharT
+sizeof(_List_node<prompt_cache_entry_t>)	_List_node<prompt_cache_entry_t>
+sizeof(cursor_t)	cursor_t
+sizeof(_List_node<prompt_cache_entry_t>)	_List_node<prompt_cache_entry_t>
+sizeof(termsize_t)	termsize_t
+sizeof(termsize_t)	termsize_t
+sizeof(termsize_t)	termsize_t
+sizeof(termsize_t)	termsize_t
+sizeof(termsize_t)	termsize_t
+sizeof(intmax_t)	intmax_t
+sizeof(intmax_t)	intmax_t
+sizeof(intmax_t)	intmax_t
+sizeof(uintmax_t)	uintmax_t
+sizeof(unsigned long long)	unsigned long long
+sizeof(intmax_t)	intmax_t
+sizeof(lambda [] type at line 144531, col. 13)	decltype([...](...){...})
+alignof(lambda [] type at line 144531, col. 13)	decltype([...](...){...})
+alignof(lambda [] type at line 144531, col. 13)	decltype([...](...){...})
+sizeof(lambda [] type at line 144529, col. 27)	decltype([...](...){...})
+alignof(lambda [] type at line 144529, col. 27)	decltype([...](...){...})
+alignof(lambda [] type at line 144529, col. 27)	decltype([...](...){...})
+sizeof(timer_snapshot_t)	timer_snapshot_t
+sizeof(timer_snapshot_t)	timer_snapshot_t
+sizeof(timer_snapshot_t)	timer_snapshot_t
+sizeof(te_expr *)	te_expr *
+sizeof(te_expr)	te_expr
+sizeof(_CharT)	_CharT
+sizeof(tok_t)	tok_t
+sizeof(tok_t)	tok_t
+sizeof(tok_t)	tok_t
+sizeof(pipe_or_redir_t)	pipe_or_redir_t
+sizeof(pipe_or_redir_t)	pipe_or_redir_t
+sizeof(char)	char
+sizeof(char)	char
+sizeof(char)	char
+sizeof(_Tp)	_Tp
+sizeof(topic_set_raw_t)	topic_set_raw_t
+sizeof(unsigned long)	unsigned long
+sizeof(_CharT)	_CharT
+sizeof(_CharT)	_CharT
+sizeof(wchar_t)	wchar_t
+sizeof(utf8_wchar_t)	utf8_wchar_t
+sizeof(wchar_t)	wchar_t
+sizeof(utf8_wchar_t)	utf8_wchar_t
+sizeof(_CharT)	_CharT
+sizeof(_CharT)	_CharT
+sizeof(_Nocopy_types)	_Nocopy_types
+alignof(_Nocopy_types)	_Nocopy_types
+sizeof(_Nocopy_types)	_Nocopy_types
+sizeof(_Hash_node<file_id_t, false>)	_Hash_node<file_id_t, false>
+sizeof(__bucket_type)	__bucket_type
+sizeof(_Hash_node<file_id_t, false>)	_Hash_node<file_id_t, false>
+sizeof(unsigned int)	unsigned int
+sizeof(__bucket_type)	__bucket_type
+sizeof(_CharT)	_CharT

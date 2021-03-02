@@ -1,0 +1,23 @@
+unsigned long long
+long long
+unsigned long
+long
+unsigned int
+int
+char32_t
+char16_t
+wchar_t
+char
+bool
+unsigned char
+signed char
+unsigned __int128
+__int128
+unsigned short
+short
+signed int
+signed short
+signed long
+char8_t
+signed long long
+signed __int128

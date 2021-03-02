@@ -1,0 +1,97 @@
+1	file:///usr/include/x86_64-linux-gnu/bits/libio.h:280:18:280:18	1	1
+1	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:19:17:19:17	1	1
+0	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:23:16:23:16	0	0
+0	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:24:13:24:16	0	'\0'
+0	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:19:22:19:22	0	0
+0	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:35:15:35:15	0	0
+0	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:16:21:16	0	0
+0	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:22:22:22:22	0	0
+0	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:13:23:13	0	0
+0	file:///home/aadityanaik/codeql-exploration/sample-code/main.c:19:12:19:12	0	0
+7	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes-arch.h:81:24:81:24	7	7
+7	file:///usr/include/stdlib.h:532:50:532:50	7	7
+7	file:///usr/include/stdlib.h:484:49:484:49	7	7
+5	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:25:21:25	5	5
+4	file:///usr/include/x86_64-linux-gnu/bits/types/__mbstate_t.h:19:17:19:17	4	4
+4	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:37:309:37	4	4
+4	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:116:15:116:44	4	__SIZEOF_PTHREAD_BARRIERATTR_T
+4	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:43:15:43:41	4	__SIZEOF_PTHREAD_CONDATTR_T
+4	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:34:15:34:42	4	__SIZEOF_PTHREAD_MUTEXATTR_T
+3	file:///usr/include/stdlib.h:529:51:529:51	3	3
+3	file:///usr/include/stdlib.h:520:50:520:50	3	3
+3	file:///usr/include/stdlib.h:511:50:511:50	3	3
+3	file:///usr/include/stdlib.h:503:50:503:50	3	3
+3	file:///usr/include/stdlib.h:482:65:482:65	3	3
+3	file:///usr/include/stdlib.h:477:53:477:53	3	3
+3	file:///usr/include/stdlib.h:472:53:472:53	3	3
+3	file:///usr/include/stdlib.h:468:51:468:51	3	3
+3	file:///usr/include/stdlib.h:493:32:493:32	3	3
+3	file:///usr/include/stdlib.h:492:28:492:28	3	3
+3	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:5:28:5:28	3	3
+8	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:95:15:95:43	8	__SIZEOF_PTHREAD_RWLOCKATTR_T
+2	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:175:28:175:28	2	2
+2	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:172:25:172:25	2	2
+2	file:///usr/include/x86_64-linux-gnu/bits/thread-shared-types.h:171:25:171:25	2	2
+1024	file:///usr/include/x86_64-linux-gnu/sys/select.h:67:26:67:37	1024	__FD_SETSIZE
+15	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:17:309:18	15	15
+32	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:110:15:110:40	32	__SIZEOF_PTHREAD_BARRIER_T
+48	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:78:15:78:37	48	__SIZEOF_PTHREAD_COND_T
+56	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:89:15:89:39	56	__SIZEOF_PTHREAD_RWLOCK_T
+56	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:58:15:58:37	56	__SIZEOF_PTHREAD_ATTR_T
+40	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:70:15:70:38	40	__SIZEOF_PTHREAD_MUTEX_T
+0.5	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:25:14:25:16	0.5	0.5
+0.5	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:17:19:17:20	0.5	.5
+0.5	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:9:28:9:30	0.5	0.5
+1000000	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:13:19:13:25	1000000	1000000
+10.5	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:9:15:9:18	10.5	10.5
+100	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:9:22:9:24	100	'd'
+100	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:31:27:31:29	100	100
+200	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:5:15:5:17	200	200
+200	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:35:19:35:21	200	200
+30	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:35:32:35:33	30	30
+10	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:17:14:17:15	10	10
+10000000.19184769318	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:13:19:13:38	10000000.19184769318	10000000.19184769402
+203	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:9:22:9:24	203	203
+1.004999999999999893	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:5:18:5:22	1.004999999999999893	1.005
+... * ...	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:17:309:33	60	15 * sizeof (int)
+... * ...	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:37:309:55	32	4 * sizeof (void *)
+... * ...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:9:15:9:24	1050.0	10.5 * 'd'
+... * ...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:35:15:35:21	0.0	0 * 200
+... * ...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:17:14:17:20	5	10 * .5
+... - ...	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:17:309:55	28	15 * sizeof (int) - 4 * sizeof (void *)
+... - ...	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:17:309:73	20	15 * sizeof (int) - 4 * sizeof (void *) - sizeof (size_t)
+... / ...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:5:15:5:28	66.66666412	200 / (float)3
+... / ...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:35:15:35:33	0	0 * 200 / (float)30
+... / ...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:9:22:9:30	406.0	203 / 0.5
+... != ...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:19:17:19:22	1	1 != 0
+(unsigned long)...	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:17:309:18	15	15
+(unsigned long)...	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:37:309:37	4	4
+(int)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:5:13:5:22	1	(int)1.005
+(double)...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:23:16:23:16	0.0	0
+(double)...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:24:13:24:16	0.0	'\0'
+(double)...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:19:16:19:23	1.0	(1 != 0)
+(double)...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:9:22:9:24	100.0	'd'
+(double)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:17:14:17:15	10.0	10
+(double)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:9:22:9:24	203.0	203
+(long long)...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:13:19:13:25	1000000	1000000
+(long long)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:13:19:13:38	10000000	10000000.19184769402
+(float)...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:9:15:9:24	1050.0	10.5 * 'd'
+(float)...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:5:15:5:17	200.0	200
+(float)...	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:5:21:5:28	3.0	(float)3
+(float)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:35:15:35:21	0.0	0 * 200
+(float)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:35:25:35:33	30.0	(float)30
+(short)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:35:15:35:33	0	0 * 200 / (float)30
+(long double)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:31:14:31:29	100	(long double)100
+(char)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:31:14:31:29	100	(long double)100
+(long)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:16:21:16	0	0
+(long)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:21:25:21:25	5	5
+(long)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:17:14:17:20	5	10 * .5
+(unsigned int)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:22:22:22:22	0	0
+(unsigned int)...	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:23:13:23:13	0	0
+(...)	file:///usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:7:27:7:40	16	_SIGSET_NWORDS
+(...)	file:///usr/include/x86_64-linux-gnu/sys/select.h:67:41:67:49	64	__NFDBITS
+(...)	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:19:16:19:23	1.0	(1 != 0)
+(...)	file:///home/aadityanaik/codeql-exploration/sample-code/bad_casts.h:9:21:9:31	406.0	(203 / 0.5)
+sizeof(int)	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:22:309:33	4	sizeof (int)
+sizeof(void *)	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:41:309:55	8	sizeof (void *)
+sizeof(size_t)	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:59:309:73	8	sizeof (size_t)

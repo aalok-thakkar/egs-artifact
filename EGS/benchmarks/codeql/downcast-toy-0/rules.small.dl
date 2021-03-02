@@ -1,0 +1,18 @@
+.type EXPR
+.type NUM
+.type STR
+.type LOC
+
+.decl exprconv(v0: EXPR,v1:  LOC,v2:  EXPR,v3:  LOC)
+.input exprconv
+.decl expr_types(v0: EXPR,v1:  LOC,v2:  TYPE)
+.input expr_types
+.decl conversionkinds(v0: EXPR,v1:  LOC)
+.input conversionkinds
+.decl float_types(v0: TYPE)
+.input float_types
+.decl integral_types(v0: TYPE)
+.input integral_types
+.decl dangerous_downcasts(v0: LOC,v1:  TYPE,v2:  TYPE)
+.output dangerous_downcasts
+

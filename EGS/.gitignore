@@ -1,0 +1,10 @@
+.idea
+project
+target
+
+*.class
+*.log
+
+*.out
+
+.DS_Store

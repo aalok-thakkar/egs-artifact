@@ -1,0 +1,5 @@
+sizeof(int)	int
+sizeof(void *)	void *
+sizeof(size_t)	size_t
+sizeof(unsigned long)	unsigned long
+sizeof(__fd_mask)	__fd_mask

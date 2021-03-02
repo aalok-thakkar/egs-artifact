@@ -1,0 +1,263 @@
+__glibc_clang_has_extension(ext)	0	c_generic_selections
+__GNUC_PREREQ(maj,min)	0	4
+__GNUC_PREREQ(maj,min)	1	9
+__glibc_clang_prereq(maj,min)	0	3
+__glibc_clang_prereq(maj,min)	1	5
+__GNUC_PREREQ(maj,min)	0	4
+__GNUC_PREREQ(maj,min)	1	8
+__GNUC_PREREQ(maj,min)	0	4
+__GNUC_PREREQ(maj,min)	1	6
+__GNUC_PREREQ(maj,min)	0	8
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	4
+__GNUC_PREREQ(maj,min)	1	7
+__GNUC_PREREQ(maj,min)	0	3
+__GNUC_PREREQ(maj,min)	1	1
+__GNUC_PREREQ(maj,min)	0	2
+__GNUC_PREREQ(maj,min)	1	92
+__GNUC_PREREQ(maj,min)	0	2
+__GNUC_PREREQ(maj,min)	1	8
+__GNUC_PREREQ(maj,min)	0	4
+__GNUC_PREREQ(maj,min)	1	3
+__GNUC_PREREQ(maj,min)	0	4
+__GNUC_PREREQ(maj,min)	1	3
+__GNUC_PREREQ(maj,min)	0	4
+__GNUC_PREREQ(maj,min)	1	3
+__GNUC_PREREQ(maj,min)	0	3
+__GNUC_PREREQ(maj,min)	1	2
+__GNUC_PREREQ(maj,min)	0	3
+__GNUC_PREREQ(maj,min)	1	4
+__GNUC_PREREQ(maj,min)	0	3
+__GNUC_PREREQ(maj,min)	1	3
+__GNUC_PREREQ(maj,min)	0	2
+__GNUC_PREREQ(maj,min)	1	97
+__GNUC_PREREQ(maj,min)	0	2
+__GNUC_PREREQ(maj,min)	1	8
+__glibc_clang_has_extension(ext)	0	__attribute_deprecated_with_message__
+__GNUC_PREREQ(maj,min)	0	4
+__GNUC_PREREQ(maj,min)	1	5
+__GNUC_PREREQ(maj,min)	0	3
+__GNUC_PREREQ(maj,min)	1	2
+__GNUC_PREREQ(maj,min)	0	3
+__GNUC_PREREQ(maj,min)	1	1
+__GNUC_PREREQ(maj,min)	0	2
+__GNUC_PREREQ(maj,min)	1	5
+__GNUC_PREREQ(maj,min)	0	2
+__GNUC_PREREQ(maj,min)	1	96
+__GNUC_PREREQ(maj,min)	0	4
+__GNUC_PREREQ(maj,min)	1	3
+__GNUC_PREREQ(maj,min)	0	2
+__GNUC_PREREQ(maj,min)	1	96
+__GNUC_PREREQ(maj,min)	0	4
+__GNUC_PREREQ(maj,min)	1	3
+__GNUC_PREREQ(maj,min)	0	3
+__GNUC_PREREQ(maj,min)	1	3
+__GNUC_PREREQ(maj,min)	0	4
+__GNUC_PREREQ(maj,min)	1	6
+__GNUC_PREREQ(maj,min)	0	2
+__GNUC_PREREQ(maj,min)	1	7
+__GNUC_PREREQ(maj,min)	0	4
+__GNUC_PREREQ(maj,min)	1	1
+__REDIRECT_NTH(name,proto,alias)	0	vsscanf
+__REDIRECT_NTH(name,proto,alias)	1	(const char *__restrict __s, const char *__restrict __format, _G_va_list __arg)
+__REDIRECT_NTH(name,proto,alias)	2	__isoc99_vsscanf
+__REDIRECT(name,proto,alias)	0	vscanf
+__REDIRECT(name,proto,alias)	1	(const char *__restrict __format, _G_va_list __arg)
+__REDIRECT(name,proto,alias)	2	__isoc99_vscanf
+__REDIRECT(name,proto,alias)	0	vfscanf
+__REDIRECT(name,proto,alias)	1	(FILE *__restrict __s, const char *__restrict __format, _G_va_list __arg)
+__REDIRECT(name,proto,alias)	2	__isoc99_vfscanf
+__REDIRECT_NTH(name,proto,alias)	0	sscanf
+__REDIRECT_NTH(name,proto,alias)	1	(const char *__restrict __s, const char *__restrict __format, ...)
+__REDIRECT_NTH(name,proto,alias)	2	__isoc99_sscanf
+__REDIRECT(name,proto,alias)	0	scanf
+__REDIRECT(name,proto,alias)	1	(const char *__restrict __format, ...)
+__REDIRECT(name,proto,alias)	2	__isoc99_scanf
+__REDIRECT(name,proto,alias)	0	fscanf
+__REDIRECT(name,proto,alias)	1	(FILE *__restrict __stream, const char *__restrict __format, ...)
+__REDIRECT(name,proto,alias)	2	__isoc99_fscanf
+__GLIBC_USE(F)	0	LIB_EXT2
+__GLIBC_USE(F)	0	LIB_EXT2
+__GLIBC_USE(F)	0	DEPRECATED_GETS
+__STRING(x)	0	
+__ASMNAME2(prefix,cname)	0	__USER_LABEL_PREFIX__
+__ASMNAME2(prefix,cname)	1	"""__isoc99_vsscanf"""
+__ASMNAME(cname)	0	"""__isoc99_vsscanf"""
+__STRING(x)	0	
+__ASMNAME2(prefix,cname)	0	__USER_LABEL_PREFIX__
+__ASMNAME2(prefix,cname)	1	"""__isoc99_vscanf"""
+__ASMNAME(cname)	0	"""__isoc99_vscanf"""
+__STRING(x)	0	
+__ASMNAME2(prefix,cname)	0	__USER_LABEL_PREFIX__
+__ASMNAME2(prefix,cname)	1	"""__isoc99_vfscanf"""
+__ASMNAME(cname)	0	"""__isoc99_vfscanf"""
+__STRING(x)	0	
+__ASMNAME2(prefix,cname)	0	__USER_LABEL_PREFIX__
+__ASMNAME2(prefix,cname)	1	"""__isoc99_sscanf"""
+__ASMNAME(cname)	0	"""__isoc99_sscanf"""
+__STRING(x)	0	
+__ASMNAME2(prefix,cname)	0	__USER_LABEL_PREFIX__
+__ASMNAME2(prefix,cname)	1	"""__isoc99_scanf"""
+__ASMNAME(cname)	0	"""__isoc99_scanf"""
+__STRING(x)	0	
+__ASMNAME2(prefix,cname)	0	__USER_LABEL_PREFIX__
+__ASMNAME2(prefix,cname)	1	"""__isoc99_fscanf"""
+__ASMNAME(cname)	0	"""__isoc99_fscanf"""
+__GLIBC_USE(F)	0	LIB_EXT2
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	6
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	7
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	4
+__GNUC_PREREQ(maj,min)	1	4
+__GNUC_PREREQ(maj,min)	0	4
+__GNUC_PREREQ(maj,min)	1	5
+__GNUC_PREREQ(maj,min)	0	4
+__GNUC_PREREQ(maj,min)	1	3
+__GNUC_PREREQ(maj,min)	0	4
+__GNUC_PREREQ(maj,min)	1	3
+__GNUC_PREREQ(maj,min)	0	2
+__GNUC_PREREQ(maj,min)	1	0
+__GNUC_PREREQ(maj,min)	0	4
+__GNUC_PREREQ(maj,min)	1	3
+__SYSMACROS_DECLARE_MAKEDEV(DECL_TEMPL)	0	__SYSMACROS_DECL_TEMPL
+__SYSMACROS_DECL_TEMPL(rtype,name,proto)	0	__dev_t
+__SYSMACROS_DECL_TEMPL(rtype,name,proto)	1	makedev
+__SYSMACROS_DECL_TEMPL(rtype,name,proto)	2	(unsigned int __major, unsigned int __minor)
+__SYSMACROS_DECLARE_MINOR(DECL_TEMPL)	0	__SYSMACROS_DECL_TEMPL
+__SYSMACROS_DECL_TEMPL(rtype,name,proto)	0	unsigned int
+__SYSMACROS_DECL_TEMPL(rtype,name,proto)	1	minor
+__SYSMACROS_DECL_TEMPL(rtype,name,proto)	2	(__dev_t __dev)
+__SYSMACROS_DECLARE_MAJOR(DECL_TEMPL)	0	__SYSMACROS_DECL_TEMPL
+__SYSMACROS_DECL_TEMPL(rtype,name,proto)	0	unsigned int
+__SYSMACROS_DECL_TEMPL(rtype,name,proto)	1	major
+__SYSMACROS_DECL_TEMPL(rtype,name,proto)	2	(__dev_t __dev)
+__u_intN_t(N,MODE)	0	64
+__u_intN_t(N,MODE)	1	__DI__
+__u_intN_t(N,MODE)	0	32
+__u_intN_t(N,MODE)	1	__SI__
+__u_intN_t(N,MODE)	0	16
+__u_intN_t(N,MODE)	1	__HI__
+__u_intN_t(N,MODE)	0	8
+__u_intN_t(N,MODE)	1	__QI__
+__GNUC_PREREQ(maj,min)	0	2
+__GNUC_PREREQ(maj,min)	1	7
+__GLIBC_USE(F)	0	IEC_60559_TYPES_EXT
+__GLIBC_USE(F)	0	IEC_60559_TYPES_EXT
+__GLIBC_USE(F)	0	IEC_60559_TYPES_EXT
+__GLIBC_USE(F)	0	IEC_60559_TYPES_EXT
+__GLIBC_USE(F)	0	IEC_60559_TYPES_EXT
+__GLIBC_USE(F)	0	IEC_60559_TYPES_EXT
+__GLIBC_USE(F)	0	IEC_60559_BFP_EXT
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__GLIBC_USE(F)	0	IEC_60559_TYPES_EXT
+__GLIBC_USE(F)	0	IEC_60559_TYPES_EXT
+__GLIBC_USE(F)	0	IEC_60559_TYPES_EXT
+__GLIBC_USE(F)	0	IEC_60559_TYPES_EXT
+__GLIBC_USE(F)	0	IEC_60559_TYPES_EXT
+__GLIBC_USE(F)	0	IEC_60559_TYPES_EXT
+__GLIBC_USE(F)	0	IEC_60559_TYPES_EXT
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(3, 4, 5)
+__nonnull(params)	0	(3, 4, 5)
+__nonnull(params)	0	(3, 4, 5)
+__nonnull(params)	0	(3, 4, 5)
+__nonnull(params)	0	(3)
+__nonnull(params)	0	(3, 4)
+__nonnull(params)	0	(3, 4)
+__nonnull(params)	0	(3)
+__nonnull(params)	0	(3, 4)
+__nonnull(params)	0	(3, 4)
+__nonnull(params)	0	(1, 4)
+__nonnull(params)	0	(1, 2, 5)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(2)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1, 2, 3)
+__nonnull(params)	0	(1)
+__attribute_alloc_size__(params)	0	(2)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1, 2)
+__nonnull(params)	0	(1, 2)
+__nonnull(params)	0	(2)
+__nonnull(params)	0	(1, 2)
+__nonnull(params)	0	(1, 2)
+__nonnull(params)	0	(1, 2)
+__nonnull(params)	0	(1, 2)
+__nonnull(params)	0	(1, 2)
+__nonnull(params)	0	(1, 2)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(1, 2)
+__nonnull(params)	0	(2, 4)
+__nonnull(params)	0	(2)
+__nonnull(params)	0	(1, 2)
+__nonnull(params)	0	(1)
+__nonnull(params)	0	(2)
+__nonnull(params)	0	(1)
+__GLIBC_USE(F)	0	IEC_60559_TYPES_EXT

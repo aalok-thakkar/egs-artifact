@@ -1,0 +1,42 @@
+std	std
+__gnu_cxx	__gnu_cxx
+std::__cxx11	__cxx11
+ast	ast
+maybe_detail	maybe_detail
+detail	detail
+ast::template_goo	template_goo
+(unnamed namespace)	(unnamed namespace)
+std::__swappable_with_details	__swappable_with_details
+std::__swappable_details	__swappable_details
+std::chrono	chrono
+std::__detail	__detail
+__gnu_cxx::__ops	__ops
+std::__exception_ptr	__exception_ptr
+std::chrono::_V2	_V2
+__cxxabiv1	__cxxabiv1
+std::_V2	_V2
+std::this_thread	this_thread
+flog_details	flog_details
+(unnamed namespace)	(unnamed namespace)
+(unnamed namespace)	(unnamed namespace)
+(unnamed namespace)::test_expressions	test_expressions
+(unnamed namespace)	(unnamed namespace)
+(unnamed namespace)	(unnamed namespace)
+(unnamed namespace)	(unnamed namespace)
+(unnamed namespace)	(unnamed namespace)
+(unnamed namespace)	(unnamed namespace)
+(unnamed namespace)	(unnamed namespace)
+(global namespace)	
+__gnu_cxx::__cxx11	__cxx11
+__gnu_debug	__gnu_debug
+std::__debug	__debug
+std::rel_ops	rel_ops
+std::placeholders	placeholders
+abi	abi
+fish3_uvars	fish3_uvars
+fish3_uvars::(unnamed namespace)	(unnamed namespace)
+fish2x_uvars	fish2x_uvars
+fish2x_uvars::(unnamed namespace)	(unnamed namespace)
+f3	f3
+f2x	f2x
+tok_modes	tok_modes

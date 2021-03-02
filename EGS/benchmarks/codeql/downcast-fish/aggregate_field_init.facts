@@ -1,0 +1,2567 @@
+{...}	0	start
+{...}	0	length
+{...}	0	start
+{...}	0	length
+{...}	this	(captured this)
+{...}	0	start
+{...}	0	length
+{...}	{...}	_M_elems
+{...}	{...}	_M_elems
+{...}	{...}	_M_elems
+{...}	{...}	_M_elems
+{...}	{...}	_M_elems
+{...}	{...}	_M_elems
+{...}	{...}	_M_elems
+{...}	{...}	_M_elems
+{...}	{...}	_M_elems
+{...}	{...}	_M_elems
+{...}	{...}	_M_elems
+{...}	{...}	_M_elems
+{...}	{...}	_M_elems
+{...}	{...}	_M_elems
+{...}	__args	__args
+{...}	__f	__f
+{...}	fd	src
+{...}	- ...	target
+{...}	src	src
+{...}	target	target
+{...}	kw_exclam	val
+{...}	!	str
+{...}	and	str
+{...}	kw_and	val
+{...}	begin	str
+{...}	kw_begin	val
+{...}	builtin	str
+{...}	kw_builtin	val
+{...}	kw_case	val
+{...}	case	str
+{...}	command	str
+{...}	kw_command	val
+{...}	kw_else	val
+{...}	else	str
+{...}	end	str
+{...}	kw_end	val
+{...}	exec	str
+{...}	kw_exec	val
+{...}	kw_for	val
+{...}	for	str
+{...}	kw_function	val
+{...}	function	str
+{...}	kw_if	val
+{...}	if	str
+{...}	in	str
+{...}	kw_in	val
+{...}	kw_not	val
+{...}	not	str
+{...}	or	str
+{...}	kw_or	val
+{...}	kw_switch	val
+{...}	switch	str
+{...}	time	str
+{...}	kw_time	val
+{...}	kw_while	val
+{...}	while	str
+{...}	0	str
+{...}	none	val
+{...}	parse_token_type_t::comment	str
+{...}	comment	val
+{...}	error	val
+{...}	parse_token_type_t::error	str
+{...}	parse_token_type_t::tokenizer_error	str
+{...}	tokenizer_error	val
+{...}	parse_token_type_t::background	str
+{...}	background	val
+{...}	end	val
+{...}	parse_token_type_t::end	str
+{...}	pipe	val
+{...}	parse_token_type_t::pipe	str
+{...}	redirection	val
+{...}	parse_token_type_t::redirection	str
+{...}	string	val
+{...}	parse_token_type_t::string	str
+{...}	parse_token_type_t::andand	str
+{...}	andand	val
+{...}	parse_token_type_t::oror	str
+{...}	oror	val
+{...}	parse_token_type_t::terminate	str
+{...}	terminate	val
+{...}	parse_token_type_t::invalid	str
+{...}	invalid	val
+{...}	0	str
+{...}	invalid	val
+{...}	source_length	length
+{...}	source_start	start
+{...}	call to autoloadable_file_t	file
+{...}	call to current_timestamp	last_checked
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	__args	__args
+{...}	__f	__f
+{...}	__prom	_M_promise
+{...}	__prom	_M_promise
+{...}	& ...	_M_ex
+{...}	__args	__args
+{...}	__f	__f
+{...}	p#3	__args
+{...}	p#4	__args
+{...}	.	name
+{...}	Evaluate contents of file	desc
+{...}	& ...	func
+{...}	:	name
+{...}	Return a successful result	desc
+{...}	& ...	func
+{...}	[	name
+{...}	Test a condition	desc
+{...}	& ...	func
+{...}	_	name
+{...}	Translate a string	desc
+{...}	& ...	func
+{...}	and	name
+{...}	Execute command if previous command succeeded	desc
+{...}	& ...	func
+{...}	argparse	name
+{...}	Parse options in fish script	desc
+{...}	& ...	func
+{...}	begin	name
+{...}	Create a block of code	desc
+{...}	& ...	func
+{...}	bg	name
+{...}	Send job to background	desc
+{...}	& ...	func
+{...}	bind	name
+{...}	Handle fish key bindings	desc
+{...}	& ...	func
+{...}	block	name
+{...}	Temporarily block delivery of events	desc
+{...}	& ...	func
+{...}	break	name
+{...}	Stop the innermost loop	desc
+{...}	& ...	func
+{...}	breakpoint	name
+{...}	Temporarily halt execution of a script and launch an interactive debug prompt	desc
+{...}	& ...	func
+{...}	builtin	name
+{...}	Run a builtin command instead of a function	desc
+{...}	& ...	func
+{...}	case	name
+{...}	Conditionally execute a block of commands	desc
+{...}	& ...	func
+{...}	cd	name
+{...}	Change working directory	desc
+{...}	& ...	func
+{...}	command	name
+{...}	Run a program instead of a function or builtin	desc
+{...}	& ...	func
+{...}	commandline	name
+{...}	Set or get the commandline	desc
+{...}	& ...	func
+{...}	complete	name
+{...}	Edit command specific completions	desc
+{...}	& ...	func
+{...}	contains	name
+{...}	Search for a specified string in a list	desc
+{...}	& ...	func
+{...}	continue	name
+{...}	Skip the rest of the current lap of the innermost loop	desc
+{...}	& ...	func
+{...}	count	name
+{...}	Count the number of arguments	desc
+{...}	& ...	func
+{...}	disown	name
+{...}	Remove job from job list	desc
+{...}	& ...	func
+{...}	echo	name
+{...}	Print arguments	desc
+{...}	& ...	func
+{...}	else	name
+{...}	Evaluate block if condition is false	desc
+{...}	& ...	func
+{...}	emit	name
+{...}	Emit an event	desc
+{...}	& ...	func
+{...}	end	name
+{...}	End a block of commands	desc
+{...}	& ...	func
+{...}	eval	name
+{...}	Evaluate a string as a statement	desc
+{...}	& ...	func
+{...}	exec	name
+{...}	Run command in current process	desc
+{...}	& ...	func
+{...}	exit	name
+{...}	Exit the shell	desc
+{...}	& ...	func
+{...}	false	name
+{...}	Return an unsuccessful result	desc
+{...}	& ...	func
+{...}	fg	name
+{...}	Send job to foreground	desc
+{...}	& ...	func
+{...}	for	name
+{...}	Perform a set of commands multiple times	desc
+{...}	& ...	func
+{...}	function	name
+{...}	Define a new function	desc
+{...}	& ...	func
+{...}	functions	name
+{...}	List or remove functions	desc
+{...}	& ...	func
+{...}	history	name
+{...}	History of commands executed by user	desc
+{...}	& ...	func
+{...}	if	name
+{...}	Evaluate block if condition is true	desc
+{...}	& ...	func
+{...}	jobs	name
+{...}	Print currently running jobs	desc
+{...}	& ...	func
+{...}	math	name
+{...}	Evaluate math expressions	desc
+{...}	& ...	func
+{...}	not	name
+{...}	Negate exit status of job	desc
+{...}	& ...	func
+{...}	or	name
+{...}	Execute command if previous command failed	desc
+{...}	& ...	func
+{...}	printf	name
+{...}	Prints formatted text	desc
+{...}	& ...	func
+{...}	pwd	name
+{...}	Print the working directory	desc
+{...}	& ...	func
+{...}	random	name
+{...}	Generate random number	desc
+{...}	& ...	func
+{...}	read	name
+{...}	Read a line of input into variables	desc
+{...}	& ...	func
+{...}	realpath	name
+{...}	Convert path to absolute path without symlinks	desc
+{...}	& ...	func
+{...}	return	name
+{...}	Stop the currently evaluated function	desc
+{...}	& ...	func
+{...}	set	name
+{...}	Handle environment variables	desc
+{...}	& ...	func
+{...}	set_color	name
+{...}	Set the terminal color	desc
+{...}	& ...	func
+{...}	source	name
+{...}	Evaluate contents of file	desc
+{...}	& ...	func
+{...}	status	name
+{...}	Return status information about fish	desc
+{...}	& ...	func
+{...}	string	name
+{...}	Manipulate strings	desc
+{...}	& ...	func
+{...}	switch	name
+{...}	Conditionally execute a block of commands	desc
+{...}	& ...	func
+{...}	test	name
+{...}	Test a condition	desc
+{...}	& ...	func
+{...}	time	name
+{...}	Measure how long a command or block takes	desc
+{...}	& ...	func
+{...}	true	name
+{...}	Return a successful result	desc
+{...}	& ...	func
+{...}	ulimit	name
+{...}	Set or get the shells resource usage limits	desc
+{...}	& ...	func
+{...}	wait	name
+{...}	Wait for background processes completed	desc
+{...}	& ...	func
+{...}	while	name
+{...}	Perform a command multiple times	desc
+{...}	& ...	func
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	__a	_M_a
+{...}	0	flag
+{...}	arg_type	has_arg
+{...}	short_flag	val
+{...}	call to c_str	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	115	val
+{...}	stop-nonopt	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	105	val
+{...}	ignore-unknown	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	name	name
+{...}	110	val
+{...}	0	flag
+{...}	1	has_arg
+{...}	120	val
+{...}	exclusive	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	78	val
+{...}	min-args	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	88	val
+{...}	max-args	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	97	val
+{...}	all	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	erase	name
+{...}	101	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	102	val
+{...}	function-names	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	107	val
+{...}	key	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	75	val
+{...}	key-names	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	76	val
+{...}	list-modes	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	77	val
+{...}	mode	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	112	val
+{...}	preset	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	109	val
+{...}	sets-mode	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	115	val
+{...}	silent	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	117	val
+{...}	user	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	erase	name
+{...}	101	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	108	val
+{...}	local	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	103	val
+{...}	global	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	110	val
+{...}	names	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	113	val
+{...}	query	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	__a	_M_a
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	97	val
+{...}	all	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	113	val
+{...}	quiet	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	115	val
+{...}	search	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	append	name
+{...}	97	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	insert	name
+{...}	105	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	replace	name
+{...}	114	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	98	val
+{...}	current-buffer	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	106	val
+{...}	current-job	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	112	val
+{...}	current-process	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	115	val
+{...}	current-selection	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	116	val
+{...}	current-token	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	99	val
+{...}	cut-at-cursor	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	102	val
+{...}	function	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	111	val
+{...}	tokenize	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	input	name
+{...}	73	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	67	val
+{...}	cursor	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	line	name
+{...}	76	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	83	val
+{...}	search-mode	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	80	val
+{...}	paging-mode	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	kw_exclam	val
+{...}	!	str
+{...}	and	str
+{...}	kw_and	val
+{...}	begin	str
+{...}	kw_begin	val
+{...}	builtin	str
+{...}	kw_builtin	val
+{...}	kw_case	val
+{...}	case	str
+{...}	command	str
+{...}	kw_command	val
+{...}	kw_else	val
+{...}	else	str
+{...}	end	str
+{...}	kw_end	val
+{...}	exec	str
+{...}	kw_exec	val
+{...}	kw_for	val
+{...}	for	str
+{...}	kw_function	val
+{...}	function	str
+{...}	kw_if	val
+{...}	if	str
+{...}	in	str
+{...}	kw_in	val
+{...}	kw_not	val
+{...}	not	str
+{...}	or	str
+{...}	kw_or	val
+{...}	kw_switch	val
+{...}	switch	str
+{...}	time	str
+{...}	kw_time	val
+{...}	kw_while	val
+{...}	while	str
+{...}	0	str
+{...}	none	val
+{...}	parse_token_type_t::comment	str
+{...}	comment	val
+{...}	error	val
+{...}	parse_token_type_t::error	str
+{...}	parse_token_type_t::tokenizer_error	str
+{...}	tokenizer_error	val
+{...}	parse_token_type_t::background	str
+{...}	background	val
+{...}	end	val
+{...}	parse_token_type_t::end	str
+{...}	pipe	val
+{...}	parse_token_type_t::pipe	str
+{...}	redirection	val
+{...}	parse_token_type_t::redirection	str
+{...}	string	val
+{...}	parse_token_type_t::string	str
+{...}	parse_token_type_t::andand	str
+{...}	andand	val
+{...}	parse_token_type_t::oror	str
+{...}	oror	val
+{...}	parse_token_type_t::terminate	str
+{...}	terminate	val
+{...}	parse_token_type_t::invalid	str
+{...}	invalid	val
+{...}	0	str
+{...}	invalid	val
+{...}	parser	parser
+{...}	0	flag
+{...}	0	has_arg
+{...}	120	val
+{...}	exclusive	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	102	val
+{...}	no-files	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	70	val
+{...}	force-files	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	114	val
+{...}	require-parameter	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	112	val
+{...}	path	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	command	name
+{...}	99	val
+{...}	0	flag
+{...}	1	has_arg
+{...}	115	val
+{...}	short-option	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	108	val
+{...}	long-option	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	111	val
+{...}	old-option	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	100	val
+{...}	description	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	arguments	name
+{...}	97	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	erase	name
+{...}	101	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	117	val
+{...}	unauthoritative	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	65	val
+{...}	authoritative	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	condition	name
+{...}	110	val
+{...}	0	flag
+{...}	1	has_arg
+{...}	119	val
+{...}	wraps	name
+{...}	0	flag
+{...}	2	has_arg
+{...}	67	val
+{...}	do-complete	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	107	val
+{...}	keep-order	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	105	val
+{...}	index	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	call to vector	fds
+{...}	call to vector	fds
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	100	val
+{...}	description	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	115	val
+{...}	on-signal	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	106	val
+{...}	on-job-exit	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	112	val
+{...}	on-process-exit	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	118	val
+{...}	on-variable	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	101	val
+{...}	on-event	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	119	val
+{...}	wraps	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	97	val
+{...}	argument-names	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	83	val
+{...}	no-scope-shadowing	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	86	val
+{...}	inherit-variable	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	0	flag
+{...}	0	has_arg
+{...}	erase	name
+{...}	101	val
+{...}	0	flag
+{...}	1	has_arg
+{...}	100	val
+{...}	description	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	110	val
+{...}	names	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	97	val
+{...}	all	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	113	val
+{...}	query	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	copy	name
+{...}	99	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	68	val
+{...}	details	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	118	val
+{...}	verbose	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	72	val
+{...}	handlers	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	116	val
+{...}	handlers-type	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	112	val
+{...}	prefix	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	contains	name
+{...}	99	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	2	has_arg
+{...}	116	val
+{...}	show-time	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	101	val
+{...}	exact	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	max	name
+{...}	110	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	122	val
+{...}	null	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	67	val
+{...}	case-sensitive	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	1	val
+{...}	delete	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	2	val
+{...}	search	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	3	val
+{...}	save	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	4	val
+{...}	clear	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	5	val
+{...}	merge	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	reverse	name
+{...}	82	val
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	clear	str
+{...}	HIST_CLEAR	val
+{...}	HIST_DELETE	val
+{...}	delete	str
+{...}	merge	str
+{...}	HIST_MERGE	val
+{...}	save	str
+{...}	HIST_SAVE	val
+{...}	search	str
+{...}	HIST_SEARCH	val
+{...}	0	str
+{...}	HIST_UNDEF	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	command	name
+{...}	99	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	103	val
+{...}	group	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	108	val
+{...}	last	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	112	val
+{...}	pid	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	113	val
+{...}	quiet	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	115	val
+{...}	scale	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	76	val
+{...}	logical	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	80	val
+{...}	physical	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	parse_error	parse_error
+{...}	cmd	cmd
+{...}	streams	streams
+{...}	parse_error	parse_error
+{...}	cmd	cmd
+{...}	streams	streams
+{...}	argv	argv
+{...}	argc	argc
+{...}	var_ptr	var_ptr
+{...}	parser	parser
+{...}	opts	opts
+{...}	var_ptr	var_ptr
+{...}	vars_left	vars_left
+{...}	0	flag
+{...}	0	has_arg
+{...}	array	name
+{...}	97	val
+{...}	0	flag
+{...}	1	has_arg
+{...}	command	name
+{...}	99	val
+{...}	0	flag
+{...}	1	has_arg
+{...}	100	val
+{...}	delimiter	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	120	val
+{...}	export	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	103	val
+{...}	global	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	line	name
+{...}	76	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	list	name
+{...}	97	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	108	val
+{...}	local	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	110	val
+{...}	nchars	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	122	val
+{...}	null	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	112	val
+{...}	prompt	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	80	val
+{...}	prompt-str	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	82	val
+{...}	right-prompt	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	83	val
+{...}	shell	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	115	val
+{...}	silent	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	116	val
+{...}	tokenize	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	117	val
+{...}	unexport	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	85	val
+{...}	universal	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	120	val
+{...}	export	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	103	val
+{...}	global	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	108	val
+{...}	local	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	erase	name
+{...}	101	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	110	val
+{...}	names	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	117	val
+{...}	unexport	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	85	val
+{...}	universal	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	76	val
+{...}	long	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	113	val
+{...}	query	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	83	val
+{...}	show	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	append	name
+{...}	97	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	112	val
+{...}	prepend	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	path	name
+{...}	opt_path	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	opt_unpath	val
+{...}	unpath	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	98	val
+{...}	background	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	111	val
+{...}	bold	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	117	val
+{...}	underline	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	105	val
+{...}	italics	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	100	val
+{...}	dim	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	reverse	name
+{...}	114	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	118	val
+{...}	version	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	99	val
+{...}	print-colors	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	102	val
+{...}	current-filename	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	110	val
+{...}	current-line-number	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	102	val
+{...}	filename	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	STATUS_FISH_PATH	val
+{...}	fish-path	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	98	val
+{...}	is-block	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	99	val
+{...}	is-command-substitution	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	STATUS_IS_FULL_JOB_CTRL	val
+{...}	is-full-job-control	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	105	val
+{...}	is-interactive	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	STATUS_IS_INTERACTIVE_JOB_CTRL	val
+{...}	is-interactive-job-control	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	108	val
+{...}	is-login	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	STATUS_IS_NO_JOB_CTRL	val
+{...}	is-no-job-control	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	106	val
+{...}	job-control	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	level	name
+{...}	76	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	line	name
+{...}	110	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	110	val
+{...}	line-number	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	116	val
+{...}	print-stack-trace	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	basename	str
+{...}	STATUS_BASENAME	val
+{...}	STATUS_BASENAME	val
+{...}	current-basename	str
+{...}	STATUS_CURRENT_CMD	val
+{...}	current-command	str
+{...}	STATUS_DIRNAME	val
+{...}	current-dirname	str
+{...}	STATUS_FILENAME	val
+{...}	current-filename	str
+{...}	STATUS_FUNCTION	val
+{...}	current-function	str
+{...}	STATUS_LINE_NUMBER	val
+{...}	current-line-number	str
+{...}	dirname	str
+{...}	STATUS_DIRNAME	val
+{...}	features	str
+{...}	STATUS_FEATURES	val
+{...}	filename	str
+{...}	STATUS_FILENAME	val
+{...}	STATUS_FISH_PATH	val
+{...}	fish-path	str
+{...}	function	str
+{...}	STATUS_FUNCTION	val
+{...}	STATUS_IS_BLOCK	val
+{...}	is-block	str
+{...}	STATUS_IS_BREAKPOINT	val
+{...}	is-breakpoint	str
+{...}	STATUS_IS_COMMAND_SUB	val
+{...}	is-command-substitution	str
+{...}	STATUS_IS_FULL_JOB_CTRL	val
+{...}	is-full-job-control	str
+{...}	STATUS_IS_INTERACTIVE	val
+{...}	is-interactive	str
+{...}	STATUS_IS_INTERACTIVE_JOB_CTRL	val
+{...}	is-interactive-job-control	str
+{...}	STATUS_IS_LOGIN	val
+{...}	is-login	str
+{...}	STATUS_IS_NO_JOB_CTRL	val
+{...}	is-no-job-control	str
+{...}	STATUS_SET_JOB_CONTROL	val
+{...}	job-control	str
+{...}	STATUS_LINE_NUMBER	val
+{...}	line-number	str
+{...}	STATUS_STACK_TRACE	val
+{...}	print-stack-trace	str
+{...}	STATUS_STACK_TRACE	val
+{...}	stack-trace	str
+{...}	STATUS_TEST_FEATURE	val
+{...}	test-feature	str
+{...}	0	str
+{...}	STATUS_UNDEF	val
+{...}	escape	name
+{...}	& ...	handler
+{...}	join	name
+{...}	& ...	handler
+{...}	join0	name
+{...}	& ...	handler
+{...}	length	name
+{...}	& ...	handler
+{...}	match	name
+{...}	& ...	handler
+{...}	replace	name
+{...}	& ...	handler
+{...}	split	name
+{...}	& ...	handler
+{...}	split0	name
+{...}	& ...	handler
+{...}	sub	name
+{...}	& ...	handler
+{...}	trim	name
+{...}	& ...	handler
+{...}	lower	name
+{...}	& ...	handler
+{...}	upper	name
+{...}	& ...	handler
+{...}	repeat	name
+{...}	& ...	handler
+{...}	unescape	name
+{...}	& ...	handler
+{...}	collect	name
+{...}	& ...	handler
+{...}	0	name
+{...}	0	handler
+{...}	0	flag
+{...}	0	has_arg
+{...}	97	val
+{...}	all	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	99	val
+{...}	chars	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	count	name
+{...}	110	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	101	val
+{...}	entire	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	end	name
+{...}	101	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	102	val
+{...}	filter	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	105	val
+{...}	ignore-case	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	110	val
+{...}	index	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	118	val
+{...}	invert	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	left	name
+{...}	108	val
+{...}	0	flag
+{...}	1	has_arg
+{...}	length	name
+{...}	108	val
+{...}	0	flag
+{...}	1	has_arg
+{...}	max	name
+{...}	109	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	110	val
+{...}	no-empty	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	78	val
+{...}	no-newline	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	110	val
+{...}	no-quoted	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	113	val
+{...}	quiet	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	114	val
+{...}	regex	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	right	name
+{...}	114	val
+{...}	0	flag
+{...}	1	has_arg
+{...}	start	name
+{...}	115	val
+{...}	0	flag
+{...}	1	val
+{...}	1	has_arg
+{...}	style	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	78	val
+{...}	no-trim-newlines	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	102	val
+{...}	fields	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	97	val
+{...}	allow-empty	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	0	flags
+{...}	test_unknown	tok
+{...}	0	flags
+{...}	test_bang	tok
+{...}	test_filetype_b	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_filetype_c	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_filetype_d	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_filetype_e	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_filetype_f	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_filetype_G	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_filetype_g	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_filetype_h	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_filetype_k	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_filetype_L	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_filetype_O	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_filetype_p	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_filetype_S	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_filesize_s	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_filedesc_t	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_fileperm_r	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_fileperm_u	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_fileperm_w	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_fileperm_x	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_string_n	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_string_z	tok
+{...}	UNARY_PRIMARY	flags
+{...}	test_string_equal	tok
+{...}	BINARY_PRIMARY	flags
+{...}	test_string_not_equal	tok
+{...}	BINARY_PRIMARY	flags
+{...}	test_number_equal	tok
+{...}	BINARY_PRIMARY	flags
+{...}	test_number_not_equal	tok
+{...}	BINARY_PRIMARY	flags
+{...}	test_number_greater	tok
+{...}	BINARY_PRIMARY	flags
+{...}	test_number_greater_equal	tok
+{...}	BINARY_PRIMARY	flags
+{...}	test_number_lesser	tok
+{...}	BINARY_PRIMARY	flags
+{...}	test_number_lesser_equal	tok
+{...}	BINARY_PRIMARY	flags
+{...}	0	flags
+{...}	test_combine_and	tok
+{...}	0	flags
+{...}	test_combine_or	tok
+{...}	0	flags
+{...}	test_paren_open	tok
+{...}	0	flags
+{...}	test_paren_close	tok
+{...}	0	flag
+{...}	0	has_arg
+{...}	97	val
+{...}	all	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	72	val
+{...}	hard	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	83	val
+{...}	soft	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	99	val
+{...}	core-size	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	100	val
+{...}	data-size	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	102	val
+{...}	file-size	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	108	val
+{...}	lock-size	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	109	val
+{...}	resident-set-size	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	110	val
+{...}	file-descriptor-count	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	115	val
+{...}	stack-size	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	116	val
+{...}	cpu-time	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	117	val
+{...}	process-count	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	118	val
+{...}	virtual-memory-size	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	99	switch_char
+{...}	1024	multiplier
+{...}	RLIMIT_CORE	resource
+{...}	Maximum size of core files created	desc
+{...}	100	switch_char
+{...}	1024	multiplier
+{...}	RLIMIT_DATA	resource
+{...}	Maximum size of a processâs data segment	desc
+{...}	102	switch_char
+{...}	1024	multiplier
+{...}	RLIMIT_FSIZE	resource
+{...}	Maximum size of files created by the shell	desc
+{...}	108	switch_char
+{...}	1024	multiplier
+{...}	__RLIMIT_MEMLOCK	resource
+{...}	Maximum size that may be locked into memory	desc
+{...}	109	switch_char
+{...}	1024	multiplier
+{...}	__RLIMIT_RSS	resource
+{...}	Maximum resident set size	desc
+{...}	1	multiplier
+{...}	110	switch_char
+{...}	RLIMIT_NOFILE	resource
+{...}	Maximum number of open file descriptors	desc
+{...}	115	switch_char
+{...}	1024	multiplier
+{...}	RLIMIT_STACK	resource
+{...}	Maximum stack size	desc
+{...}	1	multiplier
+{...}	116	switch_char
+{...}	RLIMIT_CPU	resource
+{...}	Maximum amount of cpu time in seconds	desc
+{...}	1	multiplier
+{...}	117	switch_char
+{...}	__RLIMIT_NPROC	resource
+{...}	Maximum number of processes available to a single user	desc
+{...}	118	switch_char
+{...}	1024	multiplier
+{...}	RLIMIT_AS	resource
+{...}	Maximum amount of virtual memory available to the shell	desc
+{...}	0	desc
+{...}	0	resource
+{...}	0	switch_char
+{...}	0	multiplier
+{...}	0	flag
+{...}	0	has_arg
+{...}	110	val
+{...}	any	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	0	idx
+{...}	0	hidden
+{...}	black	name
+{...}	{...}	rgb
+{...}	0	hidden
+{...}	4	idx
+{...}	blue	name
+{...}	{...}	rgb
+{...}	0	hidden
+{...}	8	idx
+{...}	brblack	name
+{...}	{...}	rgb
+{...}	0	hidden
+{...}	12	idx
+{...}	brblue	name
+{...}	{...}	rgb
+{...}	1	hidden
+{...}	11	idx
+{...}	brbrown	name
+{...}	{...}	rgb
+{...}	0	hidden
+{...}	14	idx
+{...}	brcyan	name
+{...}	{...}	rgb
+{...}	0	hidden
+{...}	10	idx
+{...}	brgreen	name
+{...}	{...}	rgb
+{...}	1	hidden
+{...}	8	idx
+{...}	brgrey	name
+{...}	{...}	rgb
+{...}	0	hidden
+{...}	13	idx
+{...}	brmagenta	name
+{...}	{...}	rgb
+{...}	1	hidden
+{...}	3	idx
+{...}	brown	name
+{...}	{...}	rgb
+{...}	1	hidden
+{...}	13	idx
+{...}	brpurple	name
+{...}	{...}	rgb
+{...}	0	hidden
+{...}	9	idx
+{...}	brred	name
+{...}	{...}	rgb
+{...}	0	hidden
+{...}	15	idx
+{...}	brwhite	name
+{...}	{...}	rgb
+{...}	0	hidden
+{...}	11	idx
+{...}	bryellow	name
+{...}	{...}	rgb
+{...}	0	hidden
+{...}	6	idx
+{...}	cyan	name
+{...}	{...}	rgb
+{...}	0	hidden
+{...}	2	idx
+{...}	green	name
+{...}	{...}	rgb
+{...}	1	hidden
+{...}	7	idx
+{...}	grey	name
+{...}	{...}	rgb
+{...}	0	hidden
+{...}	5	idx
+{...}	magenta	name
+{...}	{...}	rgb
+{...}	1	hidden
+{...}	5	idx
+{...}	purple	name
+{...}	{...}	rgb
+{...}	0	hidden
+{...}	1	idx
+{...}	red	name
+{...}	{...}	rgb
+{...}	0	hidden
+{...}	7	idx
+{...}	white	name
+{...}	{...}	rgb
+{...}	0	hidden
+{...}	3	idx
+{...}	yellow	name
+{...}	{...}	rgb
+{...}	__f	__f
+{...}	func	func
+{...}	where	start
+{...}	call to size	length
+{...}	best_type	best_type
+{...}	seen	seen
+{...}	call to basic_string	s
+{...}	(captured this)	(captured this)
+{...}	block	block
+{...}	(captured this)	(captured this)
+{...}	had_ddash	had_ddash
+{...}	do_file	do_file
+{...}	previous_argument_unescape	previous_argument_unescape
+{...}	current_argument_unescape	current_argument_unescape
+{...}	this	(captured this)
+{...}	length	length
+{...}	offset	start
+{...}	abbrs	abbrs
+{...}	this	(captured this)
+{...}	cmd	cmd
+{...}	this	(captured this)
+{...}	__node_gen	__node_gen
+{...}	__roan	__roan
+{...}	0	flags
+{...}	call to c_str	name
+{...}	key	key
+{...}	mismatch	mismatch
+{...}	end	end
+{...}	cursor	cursor
+{...}	this	(captured this)
+{...}	names	names
+{...}	query	query
+{...}	FISH_VERSION	name
+{...}	freadonly	flags
+{...}	PWD	name
+{...}	... | ...	flags
+{...}	SHLVL	name
+{...}	... | ...	flags
+{...}	_	name
+{...}	freadonly	flags
+{...}	fish_kill_signal	name
+{...}	... | ...	flags
+{...}	fish_pid	name
+{...}	freadonly	flags
+{...}	freadonly	flags
+{...}	fish_private_mode	name
+{...}	history	name
+{...}	... | ...	flags
+{...}	hostname	name
+{...}	freadonly	flags
+{...}	pipestatus	name
+{...}	... | ...	flags
+{...}	status	name
+{...}	... | ...	flags
+{...}	umask	name
+{...}	fcomputed	flags
+{...}	version	name
+{...}	freadonly	flags
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	this	(captured this)
+{...}	__roan	__roan
+{...}	p#1	__node_gen
+{...}	color	highlight
+{...}	access to array	character
+{...}	c	character
+{...}	color	highlight
+{...}	name	name
+{...}	signal	type
+{...}	signal	name
+{...}	variable	type
+{...}	variable	name
+{...}	exit	type
+{...}	exit	name
+{...}	caller_exit	type
+{...}	caller-exit	name
+{...}	generic	type
+{...}	generic	name
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	parser	parser
+{...}	apply_exit_status	apply_exit_status
+{...}	prev_statuses	prev_statuses
+{...}	call to vector	fds
+{...}	parser	parser
+{...}	block	block
+{...}	node	node
+{...}	call to shared_ptr	job_group
+{...}	call to shared_ptr	source
+{...}	call to io_chain_t	io_chain
+{...}	call to shared_ptr	job_group
+{...}	call to shared_ptr	argv
+{...}	call to shared_ptr	props
+{...}	call to io_chain_t	io_chain
+{...}	p	p
+{...}	argv	argv
+{...}	actual_cmd	actual_cmd
+{...}	envv	envv
+{...}	call to shared_ptr	f
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	0	lo
+{...}	31	hi
+{...}	127	lo
+{...}	159	hi
+{...}	173	hi
+{...}	173	lo
+{...}	1536	lo
+{...}	1541	hi
+{...}	1564	hi
+{...}	1564	lo
+{...}	1757	hi
+{...}	1757	lo
+{...}	1807	hi
+{...}	1807	lo
+{...}	2274	hi
+{...}	2274	lo
+{...}	6158	hi
+{...}	6158	lo
+{...}	8203	lo
+{...}	8207	hi
+{...}	8232	lo
+{...}	8238	hi
+{...}	8288	lo
+{...}	8292	hi
+{...}	8294	lo
+{...}	8303	hi
+{...}	55296	lo
+{...}	57343	hi
+{...}	65279	hi
+{...}	65279	lo
+{...}	65529	lo
+{...}	65531	hi
+{...}	69821	hi
+{...}	69821	lo
+{...}	69837	hi
+{...}	69837	lo
+{...}	78896	lo
+{...}	78904	hi
+{...}	113824	lo
+{...}	113827	hi
+{...}	119155	lo
+{...}	119162	hi
+{...}	917505	hi
+{...}	917505	lo
+{...}	917536	lo
+{...}	917631	hi
+{...}	57344	lo
+{...}	63743	hi
+{...}	983040	lo
+{...}	1048573	hi
+{...}	1048576	lo
+{...}	1114109	hi
+{...}	32	lo
+{...}	126	hi
+{...}	call to expression	tv_nsec
+{...}	call to expression	tv_sec
+{...}	now	now
+{...}	fds	fds
+{...}	call to vector	fds
+{...}	this	(captured this)
+{...}	call to count	tv_nsec
+{...}	call to count	tv_sec
+{...}	0	flag
+{...}	1	has_arg
+{...}	command	name
+{...}	99	val
+{...}	0	flag
+{...}	1	has_arg
+{...}	67	val
+{...}	init-command	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	102	val
+{...}	features	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	100	val
+{...}	debug	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	111	val
+{...}	debug-output	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	68	val
+{...}	debug-stack-frames	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	105	val
+{...}	interactive	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	108	val
+{...}	login	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	110	val
+{...}	no-execute	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	1	val
+{...}	print-rusage-self	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	2	val
+{...}	print-debug-categories	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	112	val
+{...}	profile	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	80	val
+{...}	private	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	118	val
+{...}	version	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	100	val
+{...}	debug-level	name
+{...}	0	flag
+{...}	1	has_arg
+{...}	68	val
+{...}	debug-stack-frames	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	80	val
+{...}	dump-parse-tree	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	105	val
+{...}	no-indent	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	118	val
+{...}	version	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	119	val
+{...}	write	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	1	val
+{...}	html	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	2	val
+{...}	ansi	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	3	val
+{...}	pygments	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	i	start
+{...}	role	role
+{...}	... + ...	end
+{...}	0	start
+{...}	0	length
+{...}	result	result
+{...}	0	length
+{...}	call to size	start
+{...}	prev_end	start
+{...}	... - ...	length
+{...}	0	length
+{...}	call to size	start
+{...}	0	flag
+{...}	0	has_arg
+{...}	99	val
+{...}	continuous	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	104	val
+{...}	help	name
+{...}	0	flag
+{...}	0	has_arg
+{...}	118	val
+{...}	version	name
+{...}	0	val
+{...}	0	flag
+{...}	0	has_arg
+{...}	0	name
+{...}	become_foreground_then_print_stderr	arg
+{...}	become_foreground_then_print_stderr	func
+{...}	Claim the terminal (tcsetpgrp) and then print to stderr	desc
+{...}	report_foreground	arg
+{...}	report_foreground	func
+{...}	Continually report to stderr whether we own the terminal	desc
+{...}	sigint_parent	arg
+{...}	sigint_parent	func
+{...}	Wait .25 seconds, then SIGINT the parent process	desc
+{...}	print_stdout_stderr	arg
+{...}	print_stdout_stderr	func
+{...}	Print 'stdout' to stdout and 'stderr' to stderr	desc
+{...}	print_pid_then_sleep	arg
+{...}	print_pid_then_sleep	func
+{...}	Print our pid, then sleep for .5 seconds	desc
+{...}	print_pgrp	arg
+{...}	print_pgrp	func
+{...}	Print our pgroup to stdout	desc
+{...}	print_fds	arg
+{...}	print_fds	func
+{...}	Print the list of active FDs to stdout	desc
+{...}	print_blocked_signals	arg
+{...}	print_blocked_signals	func
+{...}	Print to stdout the name(s) of blocked signals	desc
+{...}	help	arg
+{...}	show_help	func
+{...}	Print list of fish_test_helper commands	desc
+{...}	stderr_nocaret	flag
+{...}	3.0	groups
+{...}	stderr-nocaret	name
+{...}	^ no longer redirects stderr	description
+{...}	qmark_noglob	flag
+{...}	3.0	groups
+{...}	qmark-noglob	name
+{...}	? no longer globs	description
+{...}	string_replace_backslash	flag
+{...}	regex-easyesc	name
+{...}	3.1	groups
+{...}	string replace -r needs fewer \'s	description
+{...}	kw_exclam	val
+{...}	!	str
+{...}	and	str
+{...}	kw_and	val
+{...}	begin	str
+{...}	kw_begin	val
+{...}	builtin	str
+{...}	kw_builtin	val
+{...}	kw_case	val
+{...}	case	str
+{...}	command	str
+{...}	kw_command	val
+{...}	kw_else	val
+{...}	else	str
+{...}	end	str
+{...}	kw_end	val
+{...}	exec	str
+{...}	kw_exec	val
+{...}	kw_for	val
+{...}	for	str
+{...}	kw_function	val
+{...}	function	str
+{...}	kw_if	val
+{...}	if	str
+{...}	in	str
+{...}	kw_in	val
+{...}	kw_not	val
+{...}	not	str
+{...}	or	str
+{...}	kw_or	val
+{...}	kw_switch	val
+{...}	switch	str
+{...}	time	str
+{...}	kw_time	val
+{...}	kw_while	val
+{...}	while	str
+{...}	0	str
+{...}	none	val
+{...}	parse_token_type_t::comment	str
+{...}	comment	val
+{...}	error	val
+{...}	parse_token_type_t::error	str
+{...}	parse_token_type_t::tokenizer_error	str
+{...}	tokenizer_error	val
+{...}	parse_token_type_t::background	str
+{...}	background	val
+{...}	end	val
+{...}	parse_token_type_t::end	str
+{...}	pipe	val
+{...}	parse_token_type_t::pipe	str
+{...}	redirection	val
+{...}	parse_token_type_t::redirection	str
+{...}	string	val
+{...}	parse_token_type_t::string	str
+{...}	parse_token_type_t::andand	str
+{...}	andand	val
+{...}	parse_token_type_t::oror	str
+{...}	oror	val
+{...}	parse_token_type_t::terminate	str
+{...}	terminate	val
+{...}	parse_token_type_t::invalid	str
+{...}	invalid	val
+{...}	0	str
+{...}	invalid	val
+{...}	fd	src
+{...}	- ...	target
+{...}	src	src
+{...}	target	target
+{...}	dir	dir
+{...}	kw_exclam	val
+{...}	!	str
+{...}	and	str
+{...}	kw_and	val
+{...}	begin	str
+{...}	kw_begin	val
+{...}	builtin	str
+{...}	kw_builtin	val
+{...}	kw_case	val
+{...}	case	str
+{...}	command	str
+{...}	kw_command	val
+{...}	kw_else	val
+{...}	else	str
+{...}	end	str
+{...}	kw_end	val
+{...}	exec	str
+{...}	kw_exec	val
+{...}	kw_for	val
+{...}	for	str
+{...}	kw_function	val
+{...}	function	str
+{...}	kw_if	val
+{...}	if	str
+{...}	in	str
+{...}	kw_in	val
+{...}	kw_not	val
+{...}	not	str
+{...}	or	str
+{...}	kw_or	val
+{...}	kw_switch	val
+{...}	switch	str
+{...}	time	str
+{...}	kw_time	val
+{...}	kw_while	val
+{...}	while	str
+{...}	0	str
+{...}	none	val
+{...}	parse_token_type_t::comment	str
+{...}	comment	val
+{...}	error	val
+{...}	parse_token_type_t::error	str
+{...}	parse_token_type_t::tokenizer_error	str
+{...}	tokenizer_error	val
+{...}	parse_token_type_t::background	str
+{...}	background	val
+{...}	end	val
+{...}	parse_token_type_t::end	str
+{...}	pipe	val
+{...}	parse_token_type_t::pipe	str
+{...}	redirection	val
+{...}	parse_token_type_t::redirection	str
+{...}	string	val
+{...}	parse_token_type_t::string	str
+{...}	parse_token_type_t::andand	str
+{...}	andand	val
+{...}	parse_token_type_t::oror	str
+{...}	oror	val
+{...}	parse_token_type_t::terminate	str
+{...}	terminate	val
+{...}	parse_token_type_t::invalid	str
+{...}	invalid	val
+{...}	0	str
+{...}	invalid	val
+{...}	left	left
+{...}	left_len	left_len
+{...}	right	right
+{...}	right_len	right_len
+{...}	reverse	reverse
+{...}	streams	streams
+{...}	show_time_format	show_time_format
+{...}	null_terminate	null_terminate
+{...}	remaining	remaining
+{...}	collected	collected
+{...}	formatted_record	formatted_record
+{...}	identifier	identifier
+{...}	call to vector	potential_paths
+{...}	call to basic_string	working_dir_slash
+{...}	this	(captured this)
+{...}	left	left
+{...}	left_len	left_len
+{...}	right	right
+{...}	right_len	right_len
+{...}	buffer	buffer
+{...}	call to basic_string	mode
+{...}	call to basic_string	seq
+{...}	mode	mode
+{...}	beginning_of_line	code
+{...}	beginning-of-line	name
+{...}	end_of_line	code
+{...}	end-of-line	name
+{...}	forward_char	code
+{...}	forward-char	name
+{...}	backward_char	code
+{...}	backward-char	name
+{...}	forward_word	code
+{...}	forward-word	name
+{...}	backward_word	code
+{...}	backward-word	name
+{...}	forward_bigword	code
+{...}	forward-bigword	name
+{...}	backward_bigword	code
+{...}	backward-bigword	name
+{...}	history_prefix_search_backward	code
+{...}	history-prefix-search-backward	name
+{...}	history_prefix_search_forward	code
+{...}	history-prefix-search-forward	name
+{...}	history_search_backward	code
+{...}	history-search-backward	name
+{...}	history_search_forward	code
+{...}	history-search-forward	name
+{...}	delete_char	code
+{...}	delete-char	name
+{...}	backward_delete_char	code
+{...}	backward-delete-char	name
+{...}	kill_line	code
+{...}	kill-line	name
+{...}	yank	name
+{...}	yank	code
+{...}	yank_pop	code
+{...}	yank-pop	name
+{...}	complete	name
+{...}	complete	code
+{...}	complete_and_search	code
+{...}	complete-and-search	name
+{...}	pager_toggle_search	code
+{...}	pager-toggle-search	name
+{...}	beginning_of_history	code
+{...}	beginning-of-history	name
+{...}	end_of_history	code
+{...}	end-of-history	name
+{...}	backward_kill_line	code
+{...}	backward-kill-line	name
+{...}	kill_whole_line	code
+{...}	kill-whole-line	name
+{...}	kill_word	code
+{...}	kill-word	name
+{...}	kill_bigword	code
+{...}	kill-bigword	name
+{...}	backward_kill_word	code
+{...}	backward-kill-word	name
+{...}	backward_kill_path_component	code
+{...}	backward-kill-path-component	name
+{...}	backward_kill_bigword	code
+{...}	backward-kill-bigword	name
+{...}	history_token_search_backward	code
+{...}	history-token-search-backward	name
+{...}	history_token_search_forward	code
+{...}	history-token-search-forward	name
+{...}	self_insert	code
+{...}	self-insert	name
+{...}	self_insert_notfirst	code
+{...}	self-insert-notfirst	name
+{...}	transpose_chars	code
+{...}	transpose-chars	name
+{...}	transpose_words	code
+{...}	transpose-words	name
+{...}	upcase_word	code
+{...}	upcase-word	name
+{...}	downcase_word	code
+{...}	downcase-word	name
+{...}	capitalize_word	code
+{...}	capitalize-word	name
+{...}	togglecase_char	code
+{...}	togglecase-char	name
+{...}	togglecase_selection	code
+{...}	togglecase-selection	name
+{...}	execute	name
+{...}	execute	code
+{...}	beginning_of_buffer	code
+{...}	beginning-of-buffer	name
+{...}	end_of_buffer	code
+{...}	end-of-buffer	name
+{...}	repaint_mode	code
+{...}	repaint-mode	name
+{...}	repaint	name
+{...}	repaint	code
+{...}	force_repaint	code
+{...}	force-repaint	name
+{...}	up_line	code
+{...}	up-line	name
+{...}	down_line	code
+{...}	down-line	name
+{...}	suppress_autosuggestion	code
+{...}	suppress-autosuggestion	name
+{...}	accept_autosuggestion	code
+{...}	accept-autosuggestion	name
+{...}	begin_selection	code
+{...}	begin-selection	name
+{...}	swap_selection_start_stop	code
+{...}	swap-selection-start-stop	name
+{...}	end_selection	code
+{...}	end-selection	name
+{...}	kill_selection	code
+{...}	kill-selection	name
+{...}	forward_jump	code
+{...}	forward-jump	name
+{...}	backward_jump	code
+{...}	backward-jump	name
+{...}	forward_jump_till	code
+{...}	forward-jump-till	name
+{...}	backward_jump_till	code
+{...}	backward-jump-till	name
+{...}	repeat_jump	code
+{...}	repeat-jump	name
+{...}	reverse_repeat_jump	code
+{...}	repeat-jump-reverse	name
+{...}	and	name
+{...}	func_and	code
+{...}	expand_abbr	code
+{...}	expand-abbr	name
+{...}	delete_or_exit	code
+{...}	delete-or-exit	name
+{...}	cancel_commandline	code
+{...}	cancel-commandline	name
+{...}	cancel	name
+{...}	cancel	code
+{...}	undo	name
+{...}	undo	code
+{...}	redo	name
+{...}	redo	code
+{...}	__a	_M_a
+{...}	... * ...	tv_usec
+{...}	... / ...	tv_sec
+{...}	call to shared_ptr	promise
+{...}	this	(captured this)
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	call to expression	tv_nsec
+{...}	call to expression	tv_sec
+{...}	access to array	read
+{...}	access to array	write
+{...}	active_token	active_token
+{...}	call to shared_ptr	impl
+{...}	__a	_M_a
+{...}	call to count	tv_nsec
+{...}	call to count	tv_sec
+{...}	secondary	secondary
+{...}	selected	selected
+{...}	block	block
+{...}	this	(captured this)
+{...}	block	block
+{...}	this	(captured this)
+{...}	call to vector	values
+{...}	call to basic_string	variable_name
+{...}	forbidden_function_name	forbidden_function_name
+{...}	this	(captured this)
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	prefix	prefix
+{...}	arg_list_src	arg_list_src
+{...}	call to basic_string	text
+{...}	call to shared_ptr	job_group
+{...}	check_cancel_signal	check_cancel_signal
+{...}	__a	_M_a
+{...}	call to shared_ptr	job_group
+{...}	call to (constructor)	check_cancel_signal
+{...}	call to shared_ptr	job_group
+{...}	call to (constructor)	check_cancel_signal
+{...}	parser	parser
+{...}	interactive	interactive
+{...}	should_process_job	should_process_job
+{...}	{...}	_M_elems
+{...}	0	_M_i
+{...}	0	_M_i
+{...}	reclaim_foreground_pgrp	reclaim_foreground_pgrp
+{...}	send_sigcont	send_sigcont
+{...}	term_transferred	term_transferred
+{...}	this	(captured this)
+{...}	result	result
+{...}	hand	hand
+{...}	result	result
+{...}	comp	comp
+{...}	0	tv_usec
+{...}	0	tv_sec
+{...}	generation_count	generation_count
+{...}	match_highlight_pos	match_highlight_pos
+{...}	highlight_func	highlight_func
+{...}	call to basic_string	text
+{...}	call to shared_ptr	vars
+{...}	history	history
+{...}	cursor_pos	cursor_pos
+{...}	generation_count	generation_count
+{...}	call to basic_string	working_directory
+{...}	call to basic_string	search_string
+{...}	call to shared_ptr	vars
+{...}	generation_count	generation_count
+{...}	call to vector	colors
+{...}	call to basic_string	text
+{...}	call to vector	colors
+{...}	call to basic_string	text
+{...}	call to shared_ptr	shared_this
+{...}	call to shared_ptr	shared_this
+{...}	call to basic_string	suggestion
+{...}	call to basic_string	search_string
+{...}	call to basic_string	suggestion
+{...}	call to basic_string	search_string
+{...}	call to basic_string	suggestion
+{...}	call to basic_string	search_string
+{...}	call to function	hand
+{...}	call to shared_ptr	result
+{...}	call to shared_ptr	result
+{...}	call to (constructor)	comp
+{...}	call to function	hand
+{...}	call to shared_ptr	result
+{...}	call to shared_ptr	result
+{...}	call to (constructor)	comp
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	__a	_M_a
+{...}	0	left_prompt_space
+{...}	call to basic_string	autosuggestion
+{...}	call to basic_string	left_prompt
+{...}	call to basic_string	right_prompt
+{...}	0	last_line_width
+{...}	0	max_line_width
+{...}	1	line_count
+{...}	layout	layout
+{...}	max_line_width	max_line_width
+{...}	call to basic_string	trunc_text
+{...}	call to basic_string	text
+{...}	{...}	_M_elems
+{...}	1	signal
+{...}	SIGHUP	name
+{...}	Terminal hung up	desc
+{...}	2	signal
+{...}	SIGINT	name
+{...}	Quit request from job control (^C)	desc
+{...}	3	signal
+{...}	SIGQUIT	name
+{...}	Quit request from job control with core dump (^\)	desc
+{...}	4	signal
+{...}	SIGILL	name
+{...}	Illegal instruction	desc
+{...}	5	signal
+{...}	SIGTRAP	name
+{...}	Trace or breakpoint trap	desc
+{...}	6	signal
+{...}	SIGABRT	name
+{...}	Abort	desc
+{...}	7	signal
+{...}	SIGBUS	name
+{...}	Misaligned address error	desc
+{...}	8	signal
+{...}	SIGFPE	name
+{...}	Floating point exception	desc
+{...}	9	signal
+{...}	SIGKILL	name
+{...}	Forced quit	desc
+{...}	10	signal
+{...}	SIGUSR1	name
+{...}	User defined signal 1	desc
+{...}	12	signal
+{...}	SIGUSR2	name
+{...}	User defined signal 2	desc
+{...}	11	signal
+{...}	SIGSEGV	name
+{...}	Address boundary error	desc
+{...}	13	signal
+{...}	SIGPIPE	name
+{...}	Broken pipe	desc
+{...}	14	signal
+{...}	SIGALRM	name
+{...}	Timer expired	desc
+{...}	15	signal
+{...}	SIGTERM	name
+{...}	Polite quit request	desc
+{...}	17	signal
+{...}	SIGCHLD	name
+{...}	Child process status changed	desc
+{...}	18	signal
+{...}	SIGCONT	name
+{...}	Continue previously stopped process	desc
+{...}	19	signal
+{...}	SIGSTOP	name
+{...}	Forced stop	desc
+{...}	20	signal
+{...}	SIGTSTP	name
+{...}	Stop request from job control (^Z)	desc
+{...}	21	signal
+{...}	SIGTTIN	name
+{...}	Stop from terminal input	desc
+{...}	22	signal
+{...}	SIGTTOU	name
+{...}	Stop from terminal output	desc
+{...}	23	signal
+{...}	SIGURG	name
+{...}	Urgent socket condition	desc
+{...}	24	signal
+{...}	SIGXCPU	name
+{...}	CPU time limit exceeded	desc
+{...}	25	signal
+{...}	SIGXFSZ	name
+{...}	File size limit exceeded	desc
+{...}	26	signal
+{...}	SIGVTALRM	name
+{...}	Virtual timer expired	desc
+{...}	27	signal
+{...}	SIGPROF	name
+{...}	Profiling timer expired	desc
+{...}	28	signal
+{...}	SIGWINCH	name
+{...}	Window size change	desc
+{...}	29	signal
+{...}	SIGIO	name
+{...}	I/O on asynchronous file descriptor is possible	desc
+{...}	30	signal
+{...}	SIGPWR	name
+{...}	Power failure	desc
+{...}	31	signal
+{...}	SIGSYS	name
+{...}	Bad system call	desc
+{...}	16	signal
+{...}	SISTKFLT	name
+{...}	Stack fault	desc
+{...}	6	signal
+{...}	SIGIOT	name
+{...}	Abort (Alias for SIGABRT)	desc
+{...}	__f	__f
+{...}	__args	__args
+{...}	__f	__f
+{...}	0	ws_ypixel
+{...}	0	ws_xpixel
+{...}	0	ws_col
+{...}	0	ws_row
+{...}	len	len
+{...}	abs	name
+{...}	fabs	address
+{...}	TE_FUNCTION1	type
+{...}	acos	address
+{...}	acos	name
+{...}	TE_FUNCTION1	type
+{...}	asin	address
+{...}	asin	name
+{...}	TE_FUNCTION1	type
+{...}	atan	address
+{...}	atan	name
+{...}	TE_FUNCTION1	type
+{...}	atan2	address
+{...}	atan2	name
+{...}	TE_FUNCTION2	type
+{...}	ceil	address
+{...}	ceil	name
+{...}	TE_FUNCTION1	type
+{...}	cos	address
+{...}	cos	name
+{...}	TE_FUNCTION1	type
+{...}	cosh	address
+{...}	cosh	name
+{...}	TE_FUNCTION1	type
+{...}	e	address
+{...}	e	name
+{...}	TE_FUNCTION0	type
+{...}	exp	address
+{...}	exp	name
+{...}	TE_FUNCTION1	type
+{...}	TE_FUNCTION1	type
+{...}	fac	address
+{...}	fac	name
+{...}	floor	address
+{...}	floor	name
+{...}	TE_FUNCTION1	type
+{...}	log	address
+{...}	ln	name
+{...}	TE_FUNCTION1	type
+{...}	log10	address
+{...}	log	name
+{...}	TE_FUNCTION1	type
+{...}	log10	address
+{...}	log10	name
+{...}	TE_FUNCTION1	type
+{...}	TE_FUNCTION2	type
+{...}	ncr	address
+{...}	ncr	name
+{...}	TE_FUNCTION2	type
+{...}	npr	address
+{...}	npr	name
+{...}	TE_FUNCTION0	type
+{...}	pi	address
+{...}	pi	name
+{...}	pow	address
+{...}	pow	name
+{...}	TE_FUNCTION2	type
+{...}	round	address
+{...}	round	name
+{...}	TE_FUNCTION1	type
+{...}	sin	address
+{...}	sin	name
+{...}	TE_FUNCTION1	type
+{...}	sinh	address
+{...}	sinh	name
+{...}	TE_FUNCTION1	type
+{...}	sqrt	address
+{...}	sqrt	name
+{...}	TE_FUNCTION1	type
+{...}	tan	address
+{...}	tan	name
+{...}	TE_FUNCTION1	type
+{...}	tanh	address
+{...}	tanh	name
+{...}	TE_FUNCTION1	type
+{...}	cursor	cursor
+{...}	cursor	cursor
+{...}	call to vector	fds
+{...}	locale	locale
+{...}	locale	locale
+{...}	locale	locale
+{...}	locale	locale
+{...}	locale	locale
+{...}	- ...	device
+{...}	- ...	inode
+{...}	- ...	mod_nanoseconds
+{...}	- ...	mod_seconds
+{...}	- ...	change_nanoseconds
+{...}	- ...	change_seconds
+{...}	- ...	size
