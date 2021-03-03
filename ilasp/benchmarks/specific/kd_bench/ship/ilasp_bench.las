@@ -1,4 +1,3 @@
-#modeb(1, rule(var(number)), (positive)).
 #modeb(1, customercity(var(v),var(v)), (positive)).
 #modeb(1, hasordered(var(v),var(v)), (positive)).
 #modeb(1, productname(var(v),var(v)), (positive)).

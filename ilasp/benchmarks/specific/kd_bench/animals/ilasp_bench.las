@@ -1,4 +1,3 @@
-#modeb(1, rule(var(number)), (positive)).
 #modeb(1, hair(var(c)), (positive)).
 #modeb(1, scales(var(c)), (positive)).
 #modeb(1, has_gills(var(a)), (positive)).
