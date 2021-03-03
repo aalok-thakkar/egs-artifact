@@ -25,6 +25,9 @@ RUN apt-get update
 RUN apt-get install sbt
 RUN apt-get install scala
 
+# For setting up prosynth
+# RUN cd egs-artifact/prosynth && tar -xzvf benchmarks.tar.gz
+
 # RUN cd ./egs-artifact/EGS && \
  #   sbt assembly
 
