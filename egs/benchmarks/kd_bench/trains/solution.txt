@@ -1,0 +1,1 @@
+e(t2) :- short(c0), closed(c0), has_car(t2, c0).

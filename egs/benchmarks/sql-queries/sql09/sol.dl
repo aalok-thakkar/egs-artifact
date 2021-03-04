@@ -1,0 +1,12 @@
+.type S
+
+.decl in(s1: S, s2: S)
+.input in
+.decl in0(s1: S, s2: S, s3: S)
+.input in0
+
+.decl out(s1: S, s2: S, s3: S, s4: S)
+.output out
+
+// output_a(S, S, S, S):
+out(s0, s3, s1, s2) :- in0(s0, s1, s2), in(s3, s1).

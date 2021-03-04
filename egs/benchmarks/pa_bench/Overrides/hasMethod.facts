@@ -1,0 +1,4 @@
+Shape	draw
+Rectangle	draw
+Histogram	getEntropy
+Graph	getRange

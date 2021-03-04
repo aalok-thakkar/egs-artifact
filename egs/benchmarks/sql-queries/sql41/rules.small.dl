@@ -1,0 +1,10 @@
+.type S
+
+.decl Weather( v0: S,v1: S,v2: S)
+.input Weather
+
+.decl hightemp(v0: S)
+.input hightemp
+
+.decl output(v0: S)
+.output output

@@ -1,0 +1,13 @@
+.type ID, N, J, D
+
+.decl input_a( v0: N,v1: J,v2: D)
+.input input_a
+
+.decl input0( v0: ID,v1: N,v2: J,v3: D,v4: D,v5: D)
+.input input0
+
+.decl neg_input0(v0: N,v1: J)
+.input neg_input0
+
+.decl output_a(v0: N,v1: J,v2: D)
+.output output_a

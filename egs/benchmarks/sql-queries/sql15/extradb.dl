@@ -1,0 +1,19 @@
+.type S
+
+.decl in( v0: S,v1: S)
+.input in
+
+.decl in0( v0: S,v1: S)
+.input in0
+
+.decl neq(v0: S,v1: S)
+.output neq
+
+neq(a, b) :- in(a, _), in(b, _), a != b.
+neq(a, b) :- in(a, _), in0(b, _), a != b.
+neq(a, b) :- in0(a, _), in(b, _), a != b.
+neq(a, b) :- in0(a, _), in0(b, _), a != b.
+neq(b, a) :- in(a, _), in(b, _), a != b.
+neq(b, a) :- in(a, _), in0(b, _), a != b.
+neq(b, a) :- in0(a, _), in(b, _), a != b.
+neq(b, a) :- in0(a, _), in0(b, _), a != b.

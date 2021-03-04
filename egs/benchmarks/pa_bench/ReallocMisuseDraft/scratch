@@ -1,0 +1,59 @@
+ReallocMisuse(fid, var) :- ReallocExp(fid), Assign(var,fid),    Params(fid,_,var).
+													 10029394					rand_ptr	10029394	10029394	0	rand_ptr
+													 --------		      rem 93384910        93384910	0	rem
+													 39847574					---------						39847574	0	fptr_new
+													 66789934					z			66789934			----------
+
+
+// ReallocMisuse(FID, S):
+ReallocMisuse(f0, s1) :- Params(f0, i4, s1), Assign(s1, f1), ReallocExp(f0).
+
+* Note this returns ReallocMisuse whenver var is the parameter of a
+call to realloc, and var is assigned a value by *any* function
+
+ReallocExp
+----------
+10029394
+39847574
+66789934
+
+Assign
+------
+rand_ptr	10029394
+rem	93384910
+fptr	39847574
+z			66789934
+rand_ptr	88930993
+
+
+Params
+-------
+10029394	0	rand_ptr
+10029394	1	sizeof(int)
+93384910	0	rem
+39847574	0	fptr_new
+39847574	1	16
+66789934	0	lptr
+66789934	1	sizeof(double)
+88930993	0	x
+88930993	1	count
+88930993	2 xzero
+
+
+
+
+
+
+
+
+definition of rand_deg
+definition of rand_type
+definition of state
+definition of rptr
+definition of fptr
+definition of rem
+definition of quot
+definition of rem
+definition of quot
+definition of rem
+definition of quot

@@ -1,5 +1,0 @@
-register_t	mode
-u_int64_t	mode
-u_int32_t	mode
-u_int16_t	mode
-u_int8_t	mode

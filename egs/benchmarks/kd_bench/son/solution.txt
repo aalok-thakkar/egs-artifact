@@ -1,0 +1,1 @@
+target(p0, p2) :- brother(p0, p1), father(p2, p0).

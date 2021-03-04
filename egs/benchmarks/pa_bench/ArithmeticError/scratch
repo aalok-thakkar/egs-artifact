@@ -1,0 +1,21 @@
+ArithmeticError(r) :- DivExp(r, v1, v2), IntVar(v2, i2), isMaybeZero(i2).
+
+DivExp
+307856	m	v
+478832	sig rho ~1
+857473	dv	dx ~2
+789988	words pages
+
+IntVar
+v	0 T
+alarms	10
+z	null ~1
+pages 75
+
+isMaybeZero
+0 T
+null
+undef
+
+expected
+307856

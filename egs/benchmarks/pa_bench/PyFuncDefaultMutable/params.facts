@@ -1,0 +1,11 @@
+tally	0	text
+tally	1	countList
+openSession	0	usr
+openSession	1	port
+openSession	2	greeting
+drawGraph	0	edgeDict
+drawGraph	1	scheme
+addToList	0	x
+addToList	1	a
+readFromFile	0	loc
+readFromFile	1	dest

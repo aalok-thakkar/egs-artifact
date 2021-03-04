@@ -1,0 +1,13 @@
+.type I, P, T
+
+.decl input_a( v0: I,v1: P,v2: T)
+.input input_a
+
+.decl c0(v0: T)
+.input c0
+
+.decl c1(v0: T)
+.input c1
+
+.decl output_a(v0: I,v1: P,v2: T)
+.output output_a

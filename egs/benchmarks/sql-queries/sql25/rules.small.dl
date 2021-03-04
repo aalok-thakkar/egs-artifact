@@ -1,0 +1,23 @@
+.type P
+.type PN
+.type S
+.type A
+
+.decl in( v0: S,v1: P)
+.input in
+
+.decl input0( v0: P,v1: PN)
+.input input0
+
+.decl input1( v0: S,v1: A)
+.input input1
+
+.decl c0(v0: A)
+.input c0
+
+.decl out(v0: PN)
+.output out
+
+// out(pn) :- input1(s, a), c0(a), in(s, p), input0(p, pn).
+// out(pn) :- input1(s1, a1), c0(a1), in(s1, p), input0(p, pn),
+//             !in(s2, p), input1(s2, a2), !c0(a2).

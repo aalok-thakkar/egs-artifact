@@ -1,0 +1,34 @@
+.type C
+.type A
+
+.decl Rule(v0: number)
+.input Rule
+
+.decl hair(v0: C)
+.input hair
+.decl scales(v0: C)
+.input scales
+.decl has_gills(v0: A)
+.input has_gills
+.decl has_eggs(v0: A)
+.input has_eggs
+.decl has_covering(v0: A, v1: C)
+.input has_covering
+.decl homeothermic(v0: A)
+.input homeothermic
+.decl feathers(v0: C)
+.input feathers
+.decl none(v0: C)
+.input none
+.decl has_milk(v0: A)
+.input has_milk
+
+
+.decl mammal(v0: A)
+.output mammal
+.decl fish(v0: A)
+.output fish
+.decl reptile(v0: A)
+.output reptile
+.decl bird(v0: A)
+.output bird

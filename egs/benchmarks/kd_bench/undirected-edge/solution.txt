@@ -1,0 +1,2 @@
+target(v1, v3) :- edge(v1, v3).
+target(v1, v0) :- edge(v0, v1)

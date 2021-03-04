@@ -1,0 +1,16 @@
+Overrides(super,sub,method) :- hasMethod(super,method), hasMethod(sub,method), extends(super,sub).
+
+hasMethod
+---------
+Shape	draw
+Rectangle	draw
+Histogram	getEntropy
+Graph getRange
+
+extends
+-------
+Shape	Rectangle
+Graph	Histogram
+
+// Overrides(S, S, S):
+Overrides(s0, s1, s3) :- extends(s0, s1), hasMethod(s0, s3), hasMethod(s1, s3).

@@ -1,0 +1,12 @@
+.type ID
+.type V
+.type S
+
+.decl ReachingDefExit(v0: ID, v1: S, v2: V)
+.input ReachingDefExit
+
+.decl Flow(v0: ID, v1: ID)
+.input Flow
+
+.decl ReachingDefEntry(v0: ID, v1: S, v2: V)
+.output ReachingDefEntry

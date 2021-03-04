@@ -1,1 +1,0 @@
-if (...) ... 	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:24:5:26:5	{ ... }	file:///home/aadityanaik/codeql-exploration/sample-code/good_casts.h:24:19:26:5

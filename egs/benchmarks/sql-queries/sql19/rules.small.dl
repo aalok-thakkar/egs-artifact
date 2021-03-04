@@ -1,0 +1,10 @@
+.type ID, T, N, S, A
+
+.decl input_a( v0: ID,v1: T,v2: N,v3: S,v4: A)
+.input input_a
+
+.decl neq(v0: A,v1: A)
+.input neq
+
+.decl output_a(v0: ID,v1: T,v2: N,v3: S,v4: A)
+.output output_a

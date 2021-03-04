@@ -1,0 +1,13 @@
+.type S, N, I
+
+.decl input_a( v0: I,v1: N, v2: S)
+.input input_a
+
+.decl neq( v0: I,v1: I)
+.input neq
+
+.decl c0(v0: S)
+.input c0
+
+.decl output_a(v0: N)
+.output output_a

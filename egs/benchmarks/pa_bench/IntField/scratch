@@ -1,0 +1,24 @@
+IntField(h, f, i) :- Store(v1, f, v2), VarPointsTo(v1, h), IntVar(v2, i)
+
+Store
+------
+s sum x  T
+msg isTrue	err ~2
+class ord val  ~3
+
+VarPointsTo
+-----------
+s 03FFF  T
+incr  035BFF ~1
+class 0011FF ~3
+
+IntVar
+------
+x 45 T
+dex 10 ~1
+err 3 ~2
+
+
+Expected
+--------
+03FFF sum 45

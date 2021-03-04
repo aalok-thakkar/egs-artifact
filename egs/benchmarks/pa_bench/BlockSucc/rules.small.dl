@@ -1,0 +1,13 @@
+.type ID, L
+
+.decl Block(i1: ID, i2: ID)
+.input Block
+
+.decl JumpKind(i: ID)
+.input JumpKind
+
+.decl Lbl(i: ID, l: L)
+.input Lbl
+
+.decl BlockSucc(i1: ID, i2: ID)
+.output BlockSucc

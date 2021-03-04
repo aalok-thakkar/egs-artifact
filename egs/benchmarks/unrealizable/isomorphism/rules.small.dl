@@ -1,0 +1,7 @@
+.type V
+
+.decl edge(v0: V, v1: V)
+.input edge
+
+.decl target(v: V)
+.output target

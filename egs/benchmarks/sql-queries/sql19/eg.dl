@@ -1,0 +1,15 @@
+.type S
+
+.decl in( v0: S,v1: S,v2: S, v3: S, v4: S)
+.input in
+
+// .decl neq( v0: S,v1: S)
+// .input neq
+
+// .decl c0(v0: S)
+// .input c0
+
+.decl out(v0: S,v1: S,v2: S, v3: S, v4: S)
+.output out
+
+out(a, b, c, d, e) :- in(a, b, c, d, e), in(f, g, c, d, x), e != x.

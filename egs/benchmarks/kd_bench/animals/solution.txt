@@ -1,0 +1,4 @@
+mammal(a0) :- has_milk(a0).
+fish(a0) :- has_gills(a0).
+reptile(a1) :- scales(c0), has_covering(a1, c0).
+bird(a1) :- feathers(c0), has_covering(a1, c0).

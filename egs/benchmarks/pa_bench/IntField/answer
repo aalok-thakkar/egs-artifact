@@ -1,0 +1,17 @@
+.type S
+.type H
+.type I
+
+.decl Store(v0: S, v1: S, v2:S)
+.input Store
+
+.decl VarPointsTo(v0: S, v1: H)
+.input VarPointsTo
+
+.decl IntVar(v0: S, v1: I)
+.input IntVar
+
+.decl IntField(v0: H, v1: S, v2: I)
+.output IntField
+
+IntField(h, f, i) :- Store(v1, f, v2), VarPointsTo(v1, h), IntVar(v2, i).

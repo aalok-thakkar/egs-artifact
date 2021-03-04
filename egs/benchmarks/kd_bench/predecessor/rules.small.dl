@@ -1,0 +1,7 @@
+.type N
+
+.decl succ(n0: N, n1: N)
+.input succ
+
+.decl target(n0: N, n1: N)
+.output target

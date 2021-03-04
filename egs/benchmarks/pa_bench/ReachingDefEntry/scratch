@@ -1,0 +1,11 @@
+ReachingDefEntry(l2,x,def) :- ReachingDefExit(l1,x,def), Flow(l1,l2).
+
+ReachingDefExit
+L1	msg	"not found"
+L20	c	75
+L8	x 45.8
+
+Flow
+L1	L2
+L5	L9
+L4	L8

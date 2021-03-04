@@ -1,0 +1,10 @@
+.type ID, NAME, NUM, DATE
+
+.decl neg_input( v0: ID,v1: NUM)
+.input neg_input
+
+.decl input0( v0: ID,v1: DATE,v2: NUM)
+.input input0
+
+.decl output_a(v0: ID,v1: DATE,v2: NUM)
+.output output_a

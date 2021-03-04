@@ -1,0 +1,10 @@
+.type S
+
+.decl input( v0: S,v1: S,v2: S,v3: S)
+.input input
+
+.decl lt(v0: S, v1: S)
+.input lt
+
+.decl output(v0: S,v1: S,v2: S,v3: S)
+.output output
