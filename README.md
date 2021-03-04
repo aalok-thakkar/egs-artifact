@@ -95,8 +95,130 @@ A Brief Tutorial to Using EGS
 A Brief Tutorial to Using ILASP
 ----------------------------------
 
+### Running ILASP on Individual Benchmark Problems
+
+1. Change into the ILASP directory
+```
+cd ilasp/
+```
+
+2. Pick a problem directory from the set of benchmark problems in the `benchmarks` directory.
+   A problem directory is one containing a single file `ilasp_bench.las`.
+   For example, the directory `benchmarks/specific/kd_bench/adjacent-to-red`.
+   Note that the benchmarks under the `benchmarks/specific` directory are those whose bias modes have
+   been crafted specifically for each benchmark, while those under the `benchmarks/agnostic` directory
+   are those with task-agnostic mode biases. Unrealizable benchmarks will be under `benchmarks/unrealizable`.
+
+3. To run the individual problem, run the following command:
+```
+./run_single.sh path/to/directory
+```
+   For example:
+```
+./run_single.sh benchmarks/specific/kd_bench/adjacent-to-red
+```
+   The results will be stored in the `logs/benchmarks/specific/kd_bench/adjacent-to-red` directory.
+
+### Running ILASP on all Benchmarks
+
+1. Change into the ILASP directory
+```
+cd ilasp/
+```
+
+2. Either run `./run_bench.sh` which will sequentially run each benchmark with a timeout of 5 minutes, or
+   run `./run_bench_parallel.sh` which will run the benchmarks parallelly with a timeout of 5 minutes, and
+   will terminate once all benchmarks are finished running or have timed out.
+
+3. Once all the benchmarks have run, run `./get_time.sh specific` to get the running
+   times for the benchmarks under the `benchmarks/specific` directory,
+   and `./get_time.sh agnostic`
+   to get the running times for the benchmarks under the `benchmarks/agnostic` directory,
+   and `./get_time_unr.sh` to get the running times for the unrealizable benchmarks.
+
 A Brief Tutorial to Using ProSynth
 ----------------------------------
 
+### Running ProSynth on Individual Benchmark Problems
+
+1. Change into the ProSynth directory
+```
+cd prosynth/
+```
+
+2. Pick a problem directory from the set of benchmark problems in the `benchmarks` directory.
+   A problem directory is one containing a set of input files `*.facts`, output files `*.expected`,
+   and two other files `rules.small.dl` and `ruleNames.small.txt`.
+   For example, the directory `benchmarks/specific/kd_bench/adjacent-to-red`.
+   Note that the benchmarks under the `benchmarks/specific` directory are those whose candidate rules have
+   been crafted specifically for each benchmark, while those under the `benchmarks/agnostic` directory
+   are those with task-agnostic candidate rules. Unrealizable benchmarks will be under `benchmarks/unrealizable`.
+
+3. To run the individual problem, run the following command:
+```
+./run_single.sh path/to/directory
+```
+   For example:
+```
+./run_single.sh benchmarks/specific/kd_bench/adjacent-to-red
+```
+   The results will be stored in the `logs/benchmarks/specific/kd_bench/adjacent-to-red` directory.
+
+### Running ProSynth on all Benchmarks
+
+1. Change into the ProSynth directory
+```
+cd prosynth/
+```
+
+2. Either run `./run_bench.sh` which will sequentially run each benchmark with a timeout of 5 minutes, or
+   run `./run_bench_parallel.sh` which will run the benchmarks parallelly with a timeout of 5 minutes, and
+   will terminate once all benchmarks are finished running or have timed out.
+
+3. Once all the benchmarks have run, run `./get_time.sh specific` to get the running
+   times for the benchmarks under the `benchmarks/specific` directory,
+   and `./get_time.sh agnostic`
+   to get the running times for the benchmarks under the `benchmarks/agnostic` directory,
+   and `./get_time_unr.sh` to get the running times for the unrealizable benchmarks.
+
 A Brief Tutorial to Using Scythe
 ----------------------------------
+
+### Running Scythe on Individual Benchmark Problems
+
+1. Change into the Scythe directory
+```
+cd scythe/
+```
+
+2. Pick a problem file from the set of benchmark problems in the `benchmarks` directory. Each filei `*_scythe`
+   under the `benchmarks` directory constitutes a benchmark adapted to work with Scythe.
+   For example, `benchmarks/kd_bench/adjacent-to-red_target_scythe`.
+   Note that the benchmarks
+   with multiple output relations have to be split up (eg. animals under `benchmarks/kd_bench` must be split up into
+   animals_bird, animals_fish, animals_mammal and animals_reptile).
+
+3. To run an individual problem, run the following command:
+```
+./run_single.sh path/to/benchmark
+```
+For example,
+```
+./run_single.sh benchmarks/kd_bench/adjacent-to-red_target_scythe
+```
+   The results wil be stored in `logs/benchmarks/kd_bench/adjacent-to-red_target_scythe`
+
+### Running Scythe on all Benchmarks
+
+1. Change into the Scythe directory
+```
+cd scythe/
+```
+
+2. Either run `./run_bench.sh` which will sequentially run each benchmark with a timeout of 5 minutes, or
+   run `./run_bench_parallel.sh` which will run the benchmarks parallelly with a timeout of 5 minutes, and
+   will terminate once all benchmarks are finished running or have timed out.
+
+3. Once all the benchmarks have run, run `./get_time.sh` to get the running
+   times for the realizable benchmarks and `./get_time_unr.sh` to get the running times for the unrealizable benchmarks.
+
