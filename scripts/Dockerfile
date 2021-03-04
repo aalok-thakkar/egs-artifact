@@ -15,16 +15,23 @@ RUN apt-get update && \
                        task-spooler procps passwd openssh-server vim curl
 
 
-RUN git clone https://github.com/petablox/popl2020-artifact && \
-    git clone https://github.com/aalok-thakkar/egs-artifact.git
+RUN git clone https://github.com/aalok-thakkar/egs-artifact.git
 
-
+# Prepare scala/sbt for egs
 RUN echo "deb https://dl.bintray.com/sbt/debian /" | tee -a /etc/apt/sources.list.d/sbt.list
 RUN curl -sL "https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x2EE0EA64E40A89B84B2DF73499E82A75642AC823" | apt-key add
 RUN apt-get update
-RUN apt-get install sbt
-RUN apt-get install scala
+RUN apt-get install -y sbt
+RUN apt-get install -y scala
 
+# libffi6, souffle for prosynth
+RUN wget http://mirrors.kernel.org/ubuntu/pool/main/libf/libffi/libffi6_3.2.1-8_amd64.deb
+RUN apt install ./libffi6_3.2.1-8_amd64.deb
+
+RUN echo "deb https://dl.bintray.com/souffle-lang/deb-unstable bionic main" | tee -a /etc/apt/sources.list
+RUN apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 379CE192D401AB61
+# RUN apt-get update
+# RUN apt-get install -y souffle
 # For setting up prosynth
 # RUN cd egs-artifact/prosynth && tar -xzvf benchmarks.tar.gz
 
