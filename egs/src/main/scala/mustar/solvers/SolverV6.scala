@@ -21,6 +21,10 @@ class SolverV6(problem: Problem) extends AbstractSolver(problem) {
       val orni = RelationName(outputRelName.name + s"$i", outputRelName.schema.slice(0, i + 1))
       val outputRelationSlice = outputRelation.slice(0, i + 1)
       val explanations = solveField(ctx, orni, outputRelationSlice, currTupleSlice, ci)
+      if ( explanations.isEmpty) {
+        System.out.println("Unrealizable.")
+        System.exit(1)
+      }
       ctx = explanations.head
       Logging.info(s"  Explaining indices [0--$i] using $ctx")
     }
