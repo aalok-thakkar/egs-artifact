@@ -32,9 +32,7 @@ import time
 import z3
 import copy
 import atexit
-
-prevConstraints, currConstraints = (-1, 0)
-numLoops = 0
+import csv
 
 currRuleSetLarge = set()
 numWhy = 0
@@ -44,14 +42,15 @@ scriptPath = sys.argv[0]
 problemDirName = sys.argv[1]
 setting_coprov = sys.argv[2]
 setting_delta = sys.argv[3]
-data_file = sys.argv[4]
+run_count = sys.argv[4]
+logfile=sys.argv[5]
 
 scriptStartTime = time.clock_gettime(0)
 def printTimer():
     print("Total runtime: " + str(time.clock_gettime(0) - scriptStartTime))
 atexit.register(printTimer)
 
-logging.basicConfig(level=logging.INFO, \
+logging.basicConfig(filename=logfile, level=logging.INFO, \
                     format=" %(levelname)s [%(name)s.%(funcName)s:%(lineno)d] %(message)s", \
                     datefmt="%H:%M:%S")
 
@@ -73,32 +72,14 @@ idbRelationsExpected = { name: loadRelation(problemDirName + '/' + name + '.expe
 
 solver = z3.Solver()
 def satisfyingRuleSet(default):
-    global callsToZ3
-    global prevConstraints
-    global currConstraints
-    global numLoops
+    global callsToz3
     # Determines the set of rules that should be switched on to satisfy the current set of constraints
     # Includes presently unconstrained rules iff default is true
 
     currTime = time.clock_gettime(0)
-    if prevConstraints == currConstraints:
-        logging.info('Loop detected')
-        numLoops = numLoops + 1
-        if numLoops > 500: sys.exit(1)
-        # sys.exit(1)
-    else: logging.info(f'{prevConstraints}, {currConstraints}')
-    prevConstraints = currConstraints
-    if solver.check() == z3.unsat or time.clock_gettime(0) - scriptStartTime > 3600:
-        dataLogStr = "{" + f"name: '{problemDirName}', " + \
-                           f"z3: {callsToZ3}, souffle: {callsToSouffle}, " + \
-                           f"runtime: {time.clock_gettime(0) - scriptStartTime}, " + \
-                           f"setting_delta: {setting_delta}" + "}"
-        with open(data_file, 'a+') as f: print(dataLogStr, file=f)
-        print('Z3 reports error in generating a model. Problem unsat.')
-        sys.exit(1)
     m = solver.model()
     logging.info("z3 model generated")
-    callsToZ3 += 1
+    callsToz3 += 1
 
     ans1 = { ruleName for ruleName, ruleVar in allRuleNames.items() if m[ruleVar] == True }
     ans2 = { ruleName for ruleName, ruleVar in allRuleNames.items() if m[ruleVar] == None } if default else set()
@@ -109,22 +90,18 @@ def satisfyingRuleSet(default):
 #solver.add(solnConstraint)
 
 def doSanity():
-    global prevConstraints
-    global currConstraints
     try:
         solver.push()
-        if solver.check() == z3.unsat:
-            dataLogStr = "{" + f"name: '{problemDirName}', " + \
-                               f"z3: {callsToZ3}, souffle: {callsToSouffle}, " + \
-                               f"runtime: {time.clock_gettime(0) - scriptStartTime}, " + \
-                               f"setting_delta: {setting_delta}" + "}"
-            with open(data_file, 'a+') as f: print(dataLogStr, file=f)
-            print('Z3 reports error in generating a model. Problem unsat.')
-            sys.exit(1)
+        # print("Pushed")
+        solver.check()
+        # print("Checked")
         solver.model()
+        # print("model")
         solver.pop()
+        # print("popped")
         return True
-    except z3.Z3Exception:
+    except z3.Z3Exception as e:
+        print(e)
         return False
 doSanity()
 
@@ -142,7 +119,7 @@ def printRuleEDB(ruleSet):
 # 3. Repeatedly add constraints until a satisfying assignment is found
 
 iterationNum = 0
-callsToZ3 = 0
+callsToz3 = 0
 callsToSouffle = 0
 while True:
 
@@ -154,7 +131,7 @@ while True:
     iterationNum += 1
     logging.info("--------Iteration " + str(iterationNum) + "--------")
     logging.info("\n\n--------Iteration " + str(iterationNum) + "--------")
-    logging.info("Calls to z3: " + str(callsToZ3) + ", Calls to Souffle: " + str(callsToSouffle))
+    logging.info("Calls to z3: " + str(callsToz3) + ", Calls to Souffle: " + str(callsToSouffle))
     logging.info("rPlus: " + str(sorted(currRuleSetLarge)))
     logging.info("rMinus: " + str(sorted(set(allRuleNames) - currRuleSetLarge)))
     logging.info("Culumative Number of Constraints -- Why: " + str(numWhy) + ', WhyNot: ' + str(numWhyNot))
@@ -183,7 +160,6 @@ while True:
 
             response = [ souffleProc.stdout.readline().strip() ]
             if response[-1] == '':
-                logging.info('Error reading 1')
                 return "error reading" #doesn't deal with underlying problem, just passes error through and skips question
                 #return execSouffleCmd(cmd)
             while response[-1] != '###': 
@@ -205,12 +181,28 @@ while True:
             return '{}({})'.format(relName, t)
 
         def parseSouffleString(string):
-            xs = string.split('(')
+            # print("String is\n" +string)
+            open_par_pos = string.find("(")
+            # xs = string.split('(')
+            xs = [ string[:open_par_pos], string[open_par_pos+1:] ]
+            # print(xs)
             assert(len(xs) == 2)
             relName = xs[0].strip()
             xs = xs[1]
-            xs = xs.split(')')[0].strip()
-            xs = [ x.strip() for x in xs.split(',') ]
+            close_par_pos = xs.rfind(")")
+            # print(close_par_pos)
+            # print(xs[close_par_pos])
+            xs = xs[:close_par_pos].strip()
+            # print("XS AFTER ) REMOVED\n" + str(xs))
+            # print("BEFORE")
+            # print(xs)
+            r = csv.reader([xs], quotechar='"', delimiter=',', quoting=csv.QUOTE_ALL, skipinitialspace=True)
+            # xs = [ x.strip() for x in xs.split(',') ]
+            # print("AFTER")
+            xs = [ '"' + x.strip() + '"' for x in list(r)[0]]
+            # exit(1)
+            # print(xs)
+            # print(string, xs)
             for x in xs: assert(x.startswith('"') and x.endswith('"'))
             xs = tuple([ x[1:-1].strip() for x in xs ])
             return (relName, xs)
@@ -235,7 +227,6 @@ while True:
             assert(len(provenance) == 1)
             assert('proof' in provenance)
             if 'children' not in provenance['proof']:
-                logging.info('Error reading 2')
                 return "error reading"
             provenance = provenance['proof']['children']
             return provenance
@@ -243,6 +234,7 @@ while True:
         def squashDesirableConclusions(provenance):
             if type(provenance) is dict:
                 if 'premises' in provenance:
+                    # print(provenance)
                     premiseRel, premiseT = parseSouffleString(provenance['premises'])
                     if premiseRel in idbRelationsExpected and premiseT in idbRelationsExpected[premiseRel]:
                         provenance = { 'axiom': provenance['premises'] }
@@ -275,14 +267,12 @@ while True:
         def getProvenance(relName, t):
             provenance1 = execSouffleCmd('explain ' + printSouffleString(relName, t))
             if provenance1 == "error reading":
-                logging.info('Error reading 3')
                 return "error reading"
             provenance2 = json.loads(provenance1)
 
             #print(t)
             provenance3 = cleanProvenanceJson(provenance2)
             if provenance3 == "error reading":
-                logging.info('Error reading 4')
                 return "error reading"
             provenance4 = squashDesirableConclusions(provenance3)
             # if provenance3 != provenance4:
@@ -293,7 +283,6 @@ while True:
         def why(relName, t):
             provenance = getProvenance(relName, t)
             if provenance == "error reading":
-                logging.info('Error reading 5')
                 return ("error reading", False)
             #for hypRelName, hypT in collectIntermediateConclusions(provenance):
             #    if hypRelName in idbRelationsExpected and hypT not in idbRelationsExpected[hypRelName]:
@@ -452,7 +441,6 @@ while True:
                     logging.info(outputStr)
 
                     solver.add(z3.Implies(allNotRMinus, allNeededRules))
-                    currConstraints = currConstraints + 1
 
         for relName in idbRelationsExpected:
             relProduced = loadRelation(problemDirName + '/' + relName + '.csv')
@@ -474,11 +462,10 @@ while True:
                 if whyRelT[0] == "error reading":
                     logging.info("\n")
                     logging.info(t)
-                    logging.info('Error reading 6')
+                    logging.info("error reading!\n")
                     break
                 elif whyRelT[1] != None:     
                     solver.add(z3.Not(whyRelT[1]))
-                    currConstraints = currConstraints + 1
                     numWhy+=1
                     newWhys+=1
                     doSanity()
@@ -505,18 +492,16 @@ while True:
 
                 if whyNotRelT != None:
                     solver.add(whyNotRelT)
-                    currConstraints = currConstraints + 1
                     numWhyNot += 1
                     unproducedDesirable = True
                     try:
                         doSanity()
                     except:
-                        dataLogStr = "{" + f"name: '{problemDirName}', " + \
-                                           f"z3: {callsToZ3}, souffle: {callsToSouffle}, " + \
+                        dataLogStr = "{" + f"name: '{problemDirName}_{run_count}', " + \
+                                           f"z3: {callsToz3}, souffle: {callsToSouffle}, " + \
                                            f"runtime: {time.clock_gettime(0) - scriptStartTime}, " + \
                                            f"setting_delta: {setting_delta}" + "}"
-                        with open(data_file, 'a+') as f: print(dataLogStr, file=f)
-                        print('Z3 reports error in generating a model. Problem unsat.')
+                        with open('data.log', 'a+') as f: print(dataLogStr, file=f)
                         quit()
                 break
 
@@ -524,11 +509,11 @@ while True:
         # 3d. Find useful rules
 
         if solved:
-            dataLogStr = "{" + f"name: '{problemDirName}', " + \
-                               f"z3: {callsToZ3}, souffle: {callsToSouffle}, " + \
+            dataLogStr = "{" + f"name: '{problemDirName}_{run_count}', " + \
+                               f"z3: {callsToz3}, souffle: {callsToSouffle}, " + \
                                f"runtime: {time.clock_gettime(0) - scriptStartTime}, " + \
                                f"setting_delta: {setting_delta}" + "}"
-            with open(data_file, 'a+') as f: print(dataLogStr, file=f)
+            with open('data.log', 'a+') as f: print(dataLogStr, file=f)
 
             ans = { ruleName for relName in idbRelationsExpected \
                              for t in idbRelationsExpected[relName] \
@@ -538,7 +523,10 @@ while True:
             logging.info(ans)
             ans = re.compile(ans)
             ans = { line.strip() for line in open(problemDirName + '/rules.small.dl') if ans.search(line) }
-            for line in ans: print(line)
+            with open('solution_prosynth.txt', 'w') as sol_file:
+                for line in ans:
+                    print(line)
+                    sol_file.writelines([line[:line.rfind(",")] + ".\n"])
 
-            logging.info(f'Calls to Z3: {callsToZ3}, Calls to Souffle: {callsToSouffle}')
+            logging.info(f'Calls to Z3: {callsToz3}, Calls to Souffle: {callsToSouffle}')
             break
