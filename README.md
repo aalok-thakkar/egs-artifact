@@ -17,6 +17,11 @@ Installing the Artifact
 -----------------------
 
 The recommended way to install this artifact is by using Docker:
+```
+docker build -t egs/pldi21 scripts/
+docker run -it --name egs_artifact egs/pldi21
+```
+
 
 To uninstall the artifact, run the following commands:
 
