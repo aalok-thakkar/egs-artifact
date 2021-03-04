@@ -13,7 +13,7 @@ RUN apt-get update; \
                        sqlite libsqlite-dev sqlite3 libsqlite3-dev \
                        zlib1g zlib1g-dev \
                        doxygen libncurses5-dev libtool libffi-dev wget python3-matplotlib graphviz gnupg2 \
-                       task-spooler procps passwd openssh-server vim curl unzip zip
+                       task-spooler procps passwd openssh-server vim curl unzip zip bc
 
 ########################################################################################################################
 # 1. EGS
@@ -46,3 +46,4 @@ RUN cd /root; \
 # 5. Conclusion
 
 CMD /bin/bash
+WORKDIR egs-artifact
