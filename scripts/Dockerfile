@@ -30,8 +30,8 @@ RUN apt install ./libffi6_3.2.1-8_amd64.deb
 
 RUN echo "deb https://dl.bintray.com/souffle-lang/deb-unstable bionic main" | tee -a /etc/apt/sources.list
 RUN apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 379CE192D401AB61
-RUN apt-get update
-RUN apt-get install -y souffle
+# RUN apt-get update
+# RUN apt-get install -y souffle
 # For setting up prosynth
 # RUN cd egs-artifact/prosynth && tar -xzvf benchmarks.tar.gz
 
