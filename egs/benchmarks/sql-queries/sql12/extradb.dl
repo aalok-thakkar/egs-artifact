@@ -1,0 +1,33 @@
+.type S
+
+.decl in( v0: S,v1: S,v2: S)
+.input in
+
+.decl in0( v0: S,v1: S,v2: S,v3: S,v4: S,v5: S)
+.input in0
+
+.decl neg_input0(v0: S,v1: S)
+.output neg_input0
+
+.decl dates(v0: S)
+
+.decl names(v0: S)
+
+.decl jobs(v0: S)
+
+.decl ids(v0: S)
+
+dates(x) :- in(_, _, x).
+dates(x) :- in0(_, _, _, x, _, _).
+dates(x) :- in0(_, _, _, _, x, _).
+dates(x) :- in0(_, _, _, _, _, x).
+
+names(x) :- in(x, _, _).
+names(x) :- in0(_, x, _, _, _, _).
+
+jobs(x) :- in(_, x, _).
+jobs(x) :- in0(_, _, x, _, _, _).
+
+ids(x) :- in0(x, _, _, _, _, _).
+
+neg_input0(b, c) :- names(b), jobs(c), !in0(_, b, c, _, _, _).

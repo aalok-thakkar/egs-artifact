@@ -1,0 +1,1 @@
+output(s1) :- end(s0), input(s1, s2, s0), start(s2).

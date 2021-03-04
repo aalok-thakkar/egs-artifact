@@ -1,0 +1,27 @@
+.type S
+
+.decl in( v0: S,v1: S)
+.input in
+
+.decl in0( v0: S,v1: S)
+.input in0
+
+.decl neg_input0(v0: S,v1: S)
+.output neg_input0
+
+.decl neg_input(v0: S,v1: S)
+.output neg_input
+
+.decl num(v0: S)
+
+.decl part(v0: S)
+
+num(x) :- in(x, _).
+num(x) :- in0(_, x).
+
+part(x) :- in0(x, _).
+part(x) :- in(_, x).
+
+neg_input0(a, b) :- num(a), part(b), !in0(b, a).
+
+neg_input(a, b) :- num(a), part(b), !in(b, a).

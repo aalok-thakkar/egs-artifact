@@ -1,0 +1,10 @@
+.type S, P, PN
+
+.decl input_a( v0: S,v1: P)
+.input input_a
+
+.decl input0( v0: P,v1: PN)
+.input input0
+
+.decl output_a(v0: PN)
+.output output_a

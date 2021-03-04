@@ -1,0 +1,16 @@
+parent(p0, p3) :- mother(p0, p3).
+parent(p0, p1) :- father(p0, p1).
+
+grandparent(p0, p3) :- mother(p0, p1), mother(p1, p3).
+grandparent(p0, p3) :- father(p0, p1), father(p1, p3).
+grandparent(p0, p7) :- mother(p0, p5), father(p5, p7).
+grandparent(p0, p3) :- father(p0, p1), mother(p1, p3).
+
+great_grandparent(p0, p1) :- father(p0, p3), father(p3, p9), mother(p9, p1).
+great_grandparent(p6, p0) :- father(p6, p4), mother(p4, p8), mother(p8, p0).
+great_grandparent(p1, p3) :- mother(p1, p2), mother(p2, p6), father(p6, p3).
+great_grandparent(p0, p9) :- father(p0, p3), father(p3, p5), father(p5, p9).
+great_grandparent(p6, p9) :- mother(p6, p4), mother(p4, p3), mother(p3, p9).
+great_grandparent(p2, p1) :- mother(p2, p6), father(p6, p5), mother(p5, p1).
+great_grandparent(p6, p7) :- father(p6, p5), mother(p5, p8), father(p8, p7).
+great_grandparent(p3, p4) :- mother(p3, p7), father(p7, p0), father(p0, p4).

@@ -1,0 +1,9 @@
+.type V, C
+
+.decl color(v: V, c: C)
+.input color
+.decl edge(v0: V, v1: V)
+.input edge
+
+.decl target(v0: V)
+.output target

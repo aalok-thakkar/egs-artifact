@@ -1,0 +1,18 @@
+.type S
+
+.decl in( v0: S,v1: S)
+.input in
+
+.decl in0( v0: S,v1: S)
+.input in0
+
+.decl in1( v0: S,v1: S)
+.input in1
+
+.decl c0(v0: S)
+.input c0
+
+.decl out(v0: S, v1: S, v2: S)
+.output out
+
+out(x, a, c) :- in0(b, x), in(a, b), in1(a, y), c0(y), !in(c, b), in1(c, z), !c0(z).

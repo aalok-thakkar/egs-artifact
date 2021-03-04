@@ -1,0 +1,12 @@
+.type S
+
+.decl GreenSignal(s: S)
+.input GreenSignal
+.decl HasTraffic(s: S)
+.input HasTraffic
+.decl Intersect(s0: S, s1: S)
+.input Intersect
+
+
+.decl Crashes(s: S)
+.output Crashes

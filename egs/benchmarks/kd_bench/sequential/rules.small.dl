@@ -1,0 +1,15 @@
+.type P
+
+.decl father(v0: P, v1: P)
+.input father
+.decl mother(v0: P, v1: P)
+.input mother
+
+.decl parent(v0: P, v1: P)
+.output parent
+
+.decl grandparent(v0: P, v1: P)
+.output grandparent
+
+.decl great_grandparent(v0: P, v1: P)
+.output great_grandparent

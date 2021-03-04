@@ -1,0 +1,9 @@
+.type S
+
+.decl in(v0: S,v1: S,v2: S, v3: S, v4: S)
+.input in
+
+.decl neq(v0: S,v1: S)
+.output neq
+
+neq(a1, a2) :- in(_,_,_,_,a1), in(_,_,_,_,a2), a1 != a2.

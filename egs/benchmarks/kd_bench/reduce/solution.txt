@@ -1,0 +1,1 @@
+reduce(b0, s3) :- KnownGenericallyAs(b0, d1), reduces(d1, s3).

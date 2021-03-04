@@ -1,0 +1,19 @@
+.type S
+
+.decl input( v0: S,v1: S)
+.input input
+
+.decl input0( v0: S,v1: S)
+.input input0
+
+.decl input1( v0: S,v1: S)
+.input input1
+
+.decl c0(v0: S)
+.input c0
+
+.decl c1(v0: S)
+.input c1
+
+.decl output(v0: S)
+.output output

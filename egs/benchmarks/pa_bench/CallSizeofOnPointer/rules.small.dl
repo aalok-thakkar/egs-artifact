@@ -1,0 +1,13 @@
+.type T, I, L
+
+.decl pointerType(t: T)
+.input pointerType
+
+.decl sizeofCalls(i: I, l: L)
+.input sizeofCalls
+
+.decl params(i: I, t: T)
+.input params
+
+.decl CallSizeofOnPointer(i: I, l: L)
+.output CallSizeofOnPointer

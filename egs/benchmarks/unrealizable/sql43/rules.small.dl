@@ -1,0 +1,10 @@
+.type S, S, S
+
+.decl c(n : S)
+.input c
+
+.decl input(n: S, g: S, a: S)
+.input input
+
+.decl output(n: S, g: S, a: S)
+.output output

@@ -1,0 +1,10 @@
+.type G, E, S
+
+.decl input_a( v0: G,v1: E)
+.input input_a
+
+.decl input0( v0: G,v1: E,v2: S)
+.input input0
+
+.decl output_a(v0: G,v1: G,v2: E,v3: S)
+.output output_a

@@ -1,0 +1,16 @@
+.type ID
+.type V
+.type I
+.type S
+
+.decl DivExp(v0: ID, v1: V, v2: V)
+.input DivExp
+
+.decl IntVar(v0: V, v1: I)
+.input IntVar
+
+.decl IsMaybeZero(v0: I)
+.input IsMaybeZero
+
+.decl ArithmeticError(v0: ID)
+.output ArithmeticError

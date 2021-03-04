@@ -1,0 +1,10 @@
+.type S, SN, C
+
+.decl input_a(v0: S,v1: SN)
+.input input_a
+
+.decl neg_input0(v0: S,v1: C)
+.input neg_input0
+
+.decl output_a(v0: SN)
+.output output_a

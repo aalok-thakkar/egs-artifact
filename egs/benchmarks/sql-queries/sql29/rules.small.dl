@@ -1,0 +1,16 @@
+.type ID, NUM, DATE
+
+.decl input_a( v0: ID,v1: NUM,v2: DATE)
+.input input_a
+
+.decl input0( v0: ID,v1: NUM,v2: DATE)
+.input input0
+
+.decl c0(v0: NUM)
+.input c0
+
+.decl c1(v0: NUM)
+.input c1
+
+.decl output_a(v0: ID,v1: NUM,v2: DATE)
+.output output_a

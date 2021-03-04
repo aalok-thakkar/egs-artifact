@@ -1,0 +1,10 @@
+.type I, C
+
+.decl input_a( v0: I,v1: C)
+.input input_a
+
+.decl input0( v0: C,v1: C)
+.input input0
+
+.decl output_a(v0: I,v1: C)
+.output output_a

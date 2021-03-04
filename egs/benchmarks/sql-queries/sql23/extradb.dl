@@ -1,0 +1,21 @@
+.type S
+
+.decl in( v0: S,v1: S)
+.input in
+
+.decl in0( v0: S,v1: S)
+.input in0
+
+.decl neg_input0(v0: S,v1: S)
+.output neg_input0
+
+.decl col0(v0: S)
+
+.decl col1(v0: S)
+
+col0(x) :- in(x, _).
+col0(x) :- in0(x, _).
+
+col1(x) :- in0(_, x).
+
+neg_input0(b, c) :- col0(b), col1(c), !in0(b, _).

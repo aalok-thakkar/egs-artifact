@@ -1,0 +1,34 @@
+.type T
+.type P
+
+.decl Rule(v0: number)
+.input Rule
+
+.decl not_nausea(v0: P)
+.input not_nausea
+.decl not_lumbar_pain(v0: P)
+.input not_lumbar_pain
+.decl urine_pushing(v0: P)
+.input urine_pushing
+.decl gte38(v0: T)
+.input gte38
+.decl not_micturition_pain(v0: P)
+.input not_micturition_pain
+.decl not_burning_urethra(v0: P)
+.input not_burning_urethra
+.decl micturition_pain(v0: P)
+.input micturition_pain
+.decl lumbar_pain(v0: P)
+.input lumbar_pain
+.decl nausea(v0: P)
+.input nausea
+.decl not_urine_pushing(v0: P)
+.input not_urine_pushing
+.decl burning_urethra(v0: P)
+.input burning_urethra
+.decl temparature(v0: P, v1: T)
+.input temparature
+
+
+.decl inflamation(v0: P)
+.output inflamation

@@ -1,0 +1,10 @@
+.type B, D, S
+
+.decl reduces(d: D, s: S)
+.input reduces
+
+.decl KnownGenericallyAs(b: B, d: D)
+.input KnownGenericallyAs
+
+.decl reduce(b: B, s: S)
+.output reduce

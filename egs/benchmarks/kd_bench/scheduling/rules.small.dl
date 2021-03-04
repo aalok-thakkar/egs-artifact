@@ -1,0 +1,10 @@
+.type D, S, C
+
+.decl assigned(d: D, s: S, c: C)
+.input assigned
+
+.decl neq(c1: C, c2: C)
+.input neq
+
+.decl conflict(d: D)
+.output conflict

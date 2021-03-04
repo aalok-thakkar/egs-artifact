@@ -1,0 +1,7 @@
+.type ID, NAME, NUM, VAL
+
+.decl input_a( v0: ID,v1: NAME,v2: NUM,v3: ID)
+.input input_a
+
+.decl output_a(v0: ID,v1: NAME)
+.output output_a

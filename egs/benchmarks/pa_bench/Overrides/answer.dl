@@ -1,0 +1,12 @@
+.type S
+
+.decl hasMethod(v0: S, v1: S)
+.input hasMethod
+
+.decl extends(v0: S, v1: S)
+.input extends
+
+.decl Overrides(v0: S, v1: S, v2: S)
+.output Overrides
+
+Overrides(super,sub,method) :- hasMethod(super,method), hasMethod(sub,method), extends(super,sub).

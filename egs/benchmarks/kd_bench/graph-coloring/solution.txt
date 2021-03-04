@@ -1,0 +1,1 @@
+target(v0) :- color(v0, c3), color(v1, c3), edge(v0, v1).

@@ -1,0 +1,7 @@
+.type V
+
+.decl Edge(v0: V, v1: V)
+.input Edge
+
+.decl Leg(v0: V, v1: V)
+.output Leg

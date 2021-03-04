@@ -1,0 +1,13 @@
+.type S, AC, NUM
+
+.decl input_a( v0: S,v1: AC,v2: NUM)
+.input input_a
+
+.decl c0(v0: AC)
+.input c0
+
+.decl c1(v0: AC)
+.input c1
+
+.decl output_a(v0: S,v1: NUM,v2: NUM)
+.output output_a

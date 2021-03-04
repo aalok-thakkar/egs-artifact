@@ -1,0 +1,10 @@
+.type ID, N, PID
+
+.decl input_a( v0: ID,v1: N,v2: PID)
+.input input_a
+
+.decl input0( v0: ID,v1: N,v2: PID)
+.input input0
+
+.decl output_a(v0: ID,v1: N,v2: PID)
+.output output_a

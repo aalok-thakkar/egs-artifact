@@ -1,0 +1,13 @@
+On error, this function return NULL.
+If realloc() fails, the original block is left untouched; it is not freed or moved.
+
+This means, if we use:
+
+ptr = realloc(ptr, n);
+
+If the request fails then the ptr will be assigned NULL and
+we will have memory leak because we would have overwritten ptr.
+
+3 Invalid usages in: libbluetooth (just use grep -r realloc * after extracting the sources)
+
+http://deb.debian.org/debian/pool/main/b/bluez/bluez_5.55.orig.tar.xz
