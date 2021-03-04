@@ -1,5 +1,0 @@
-*active(Attributes)
-*correct(Value)
-*input1(Id,Plan,Attributes,Value)
-invent_sel(Plan)
-ans(Id,Plan,Attributes,Value)
