@@ -6,8 +6,7 @@ Aalok Thakkar; Aaditya Naik; Nathaniel Sands; Mukund Raghothaman; Mayur Naik; Ra
 Introduction
 ------------
 
-This is the artifact package accompanying our PLDI 2021 submission titled _Example-Guided Synthesis of Relational Queries_. The paper presents a new approach called example-guided synthesis, which exploits data patterns in the examples to construct relational queries from input-output examples. We have
-implemented this approach as EGS algorithm and benchmarked it against the existing solvers, ILASP, ProSynth, and Scythe. 
+This is the artifact package accompanying our PLDI 2021 submission titled Example-Guided Synthesis of Relational Queries. In the paper, we present an algorithm to learn relational queries from input-output examples. We use a new technique called example guided synthesis, which exploits patterns in the examples to accelerate synthesis. We benchmark our algorithm, which we call EGS, against three existing solvers, ILASP, Prosynth, and Scythe.
 
 This artifact contains all four tools (EGS, ILASP, ProSynth, and Scythe), benchmark files, and scripts to reproduce the
 experiments described in the paper. In this document, we will describe the outline of these experiments, how to run
