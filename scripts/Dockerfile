@@ -20,7 +20,7 @@ RUN apt-get update; \
 
 RUN git clone https://github.com/aalok-thakkar/egs-artifact.git; \
     bash egs-artifact/scripts/setup-sbt.sh
-
+RUN cd egs-artifact/egs/ && sbt assemble
 ########################################################################################################################
 # 2. Prosynth
 
