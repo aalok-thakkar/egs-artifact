@@ -24,7 +24,7 @@ RUN git clone https://github.com/aalok-thakkar/egs-artifact.git; \
 ########################################################################################################################
 # 2. Prosynth
 
-RUN cd root; \
+RUN cd /root; \
     wget -c https://github.com/Z3Prover/z3/archive/z3-4.8.6.tar.gz; \
     tar -xf z3-4.8.6.tar.gz; \
     cd z3-z3-4.8.6; \
@@ -32,7 +32,9 @@ RUN cd root; \
       python scripts/mk_make.py --python --pypkgdir=/usr/local/lib/python3.6/dist-packages; \
       cd build; \
         make -j 8; \
-        make install
+        make install; \
+    cd /; egs-artifact/scripts/build-souffle.sh; \
+    cd /egs-artifact/prosynth; tar -xzvf benchmarks.tar.gz
 
 ########################################################################################################################
 # 3. ILASP
