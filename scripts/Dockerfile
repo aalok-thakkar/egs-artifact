@@ -21,7 +21,7 @@ RUN apt-get update; \
 RUN git clone https://github.com/aalok-thakkar/egs-artifact.git; \
     bash egs-artifact/scripts/setup-sbt.sh
 
-RUN bash -c "source $HOME/.sdkman/bin/sdkman-init.sh && cd egs-artifact/egs/ && sbt assemble"
+RUN bash -c "source $HOME/.sdkman/bin/sdkman-init.sh && cd egs-artifact/egs/ && sbt assembly"
 
 ########################################################################################################################
 # 2. Prosynth
