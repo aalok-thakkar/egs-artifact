@@ -2,7 +2,7 @@
 
 set -e
 
-sbt assembly
+# sbt assembly
 
 export LOGNAME=`date +%s | sed 's/^/r/'`
 echo "Echoing output in $LOGNAME.out and piping log messages to $LOGNAME.log"
