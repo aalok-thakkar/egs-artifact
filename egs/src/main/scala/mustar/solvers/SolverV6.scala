@@ -73,7 +73,7 @@ class SolverV6(problem: Problem) extends AbstractSolver(problem) {
                   outputRelationSlice: Relation,
                   currTupleSlice: DTuple,
                   targetConstant: Constant,
-                ): LazyList[EnumerationContext] = {
+                ): LazyList[EnumerationContext] = Timed {
     Logging.info(s"Listing paths from $targetConstant")
 
     val vertices = constantGraph.vertices
