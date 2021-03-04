@@ -125,9 +125,13 @@ cd ilasp/
 cd ilasp/
 ```
 
-2. Either run `./run_bench.sh` which will sequentially run each benchmark with a timeout of 5 minutes, or
-   run `./run_bench_parallel.sh` which will run the benchmarks parallelly with a timeout of 5 minutes, and
+2. Either run `./run_bench.sh benchmark/path` which will sequentially run each benchmark with a timeout of 5 minutes, or
+   run `./run_bench_parallel.sh benchmark/path` which will run the benchmarks parallelly with a timeout of 5 minutes, and
    will terminate once all benchmarks are finished running or have timed out.
+```
+./run_bench.sh benchmarks # run all benchmarks sequentially
+./run_bench_parallel.sh benchmarks/agnostic/pa_bench # run all program analysis benchmarks with task-agnostic candidate rules in parallel
+```
 
 3. Once all the benchmarks have run, run `./get_time.sh specific` to get the running
    times for the benchmarks under the `benchmarks/specific` directory,
@@ -170,10 +174,13 @@ cd prosynth/
 cd prosynth/
 ```
 
-2. Either run `./run_bench.sh` which will sequentially run each benchmark with a timeout of 5 minutes, or
-   run `./run_bench_parallel.sh` which will run the benchmarks parallelly with a timeout of 5 minutes, and
+2. Either run `./run_bench.sh benchmark/path` which will sequentially run each benchmark with a timeout of 5 minutes, or
+   run `./run_bench_parallel.sh benchmark/path` which will run the benchmarks parallelly with a timeout of 5 minutes, and
    will terminate once all benchmarks are finished running or have timed out.
-
+```
+./run_bench.sh benchmarks # run all benchmarks sequentially
+./run_bench_parallel.sh benchmarks/specific/kd_bench # run all knowledge discovery benchmarks with task-specific candidate rules in parallel
+```
 3. Once all the benchmarks have run, run `./get_time.sh specific` to get the running
    times for the benchmarks under the `benchmarks/specific` directory,
    and `./get_time.sh agnostic`
@@ -214,10 +221,13 @@ For example,
 cd scythe/
 ```
 
-2. Either run `./run_bench.sh` which will sequentially run each benchmark with a timeout of 5 minutes, or
-   run `./run_bench_parallel.sh` which will run the benchmarks parallelly with a timeout of 5 minutes, and
+2. Either run `./run_bench.sh benchmark/dir` which will sequentially run each benchmark with a timeout of 5 minutes, or
+   run `./run_bench_parallel.sh benchmark/dir` which will run the benchmarks parallelly with a timeout of 5 minutes, and
    will terminate once all benchmarks are finished running or have timed out.
-
+```
+./run_bench.sh benchmarks # run all benchmarks sequentially
+./run_bench_parallel.sh benchmarks/kd_bench # run all knowledge discovery benchmarks in parallel
+```
 3. Once all the benchmarks have run, run `./get_time.sh` to get the running
    times for the realizable benchmarks and `./get_time_unr.sh` to get the running times for the unrealizable benchmarks.
 
