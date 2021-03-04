@@ -33,7 +33,7 @@ RUN apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 379CE192D4
 # RUN apt-get update
 # RUN apt-get install -y souffle
 # For setting up prosynth
-# RUN cd egs-artifact/prosynth && tar -xzvf benchmarks.tar.gz
+RUN cd egs-artifact/prosynth && tar -xzvf benchmarks.tar.gz
 
 # RUN cd ./egs-artifact/EGS && \
  #   sbt assembly
