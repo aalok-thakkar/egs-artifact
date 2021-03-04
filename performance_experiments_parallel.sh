@@ -17,9 +17,9 @@ cd ..
 echo "Running experiments for ProSynth"
 cd prosynth
 echo "Running for Benchmarks with Task-Specific Candidate Rules"
-./run_bench.sh benchmarks/specific
+./run_bench_parallel.sh benchmarks/specific
 echo "Running for Benchmarks with Task-Agnostic Candidate Rules"
-./run_bench.sh benchmarks/agnostic
+./run_bench_parallel.sh benchmarks/agnostic
 echo "Storing runtimes"
 ./get_time.sh specific | awk '{ print $2 }' > prosynth_specific_runtimes.csv
 ./get_time.sh agnostic | awk '{ print $2 }' > prosynth_agnostic_runtimes.csv
@@ -28,9 +28,9 @@ cd ..
 echo "Running experiments for ILASP"
 cd ilasp
 echo "Running for Benchmarks with Task-Specific Candidate Rules"
-./run_bench.sh benchmarks/specific
+./run_bench_parallel.sh benchmarks/specific
 echo "Running for Benchmarks with Task-Agnostic Candidate Rules"
-./run_bench.sh benchmarks/agnostic
+./run_bench_parallel.sh benchmarks/agnostic
 echo "Storing runtimes"
 ./get_time.sh specific | awk '{ print $2 }' > ilasp_specific_runtimes.csv
 ./get_time.sh agnostic | awk '{ print $2 }' > ilasp_agnostic_runtimes.csv
@@ -39,11 +39,11 @@ cd ..
 echo "Runnning experiments for Scythe"
 cd scythe
 echo "Running for Knowledge Discovery"
-./run_bench.sh benchmarks/kd_bench
+./run_bench_parallel.sh benchmarks/kd_bench
 echo "Running for Program Analysis"
-./run_bench.sh benchmarks/pa_bench
+./run_bench_parallel.sh benchmarks/pa_bench
 echo "Running for Relational Queries"
-./run_bench.sh benchmarks/sql-queries
+./run_bench_parallel.sh benchmarks/sql-queries
 echo "Storing runtimes"
 ./get_time.sh | awk '{ print $2 }' > scythe_runtimes.csv
 cd ..

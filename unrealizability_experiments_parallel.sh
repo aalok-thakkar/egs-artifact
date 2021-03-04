@@ -11,21 +11,21 @@ cd ..
 
 echo "Running experiments for ProSynth"
 cd prosynth
-./run_bench.sh benchmarks/unrealizable
+./run_bench_parallel.sh benchmarks/unrealizable
 echo "Storing runtimes"
 ./get_time_unr.sh | awk '{ print $2 }' > prosynth_unr_runtimes.csv
 cd ..
 
 echo "Running experiments for ILASP"
 cd ilasp
-./run_bench.sh benchmarks/unrealizable
+./run_bench_parallel.sh benchmarks/unrealizable
 echo "Storing runtimes"
 ./get_time_unr.sh | awk '{ print $2 }' > ilasp_unr_runtimes.csv
 cd ..
 
 echo "Runnning experiments for Scythe"
 cd scythe
-./run_bench.sh benchmarks/unrealizable
+./run_bench_parallel.sh benchmarks/unrealizable
 echo "Storing runtimes"
 ./get_time_unr.sh | awk '{ print $2 }' > scythe_unr_runtimes.csv
 cd ..
