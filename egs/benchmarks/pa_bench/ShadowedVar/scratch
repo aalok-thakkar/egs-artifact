@@ -1,0 +1,21 @@
+ShadowedVar(blockId1,blockId2,varName) :- DeclVar(blockId1,varName), DeclVar(blockId2,varName,), Encloses(blockId1,blockId2).
+																								b1      kind            b3       kind               b3        b1
+																								b2      spins           b4       nusers             b2        b4
+																								b5		  owner           b5       owner
+DeclVar
+----
+b1	kind
+b2	spins
+b3	kind
+b4	nusers
+b5	owner
+b6  owner
+b9  elision
+
+Encloses
+-----
+b1	b3
+b2  b4
+b5  b7
+b6	b8
+b9  b10

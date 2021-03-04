@@ -1,0 +1,5 @@
+*input_a(ID, N, S)
+*input0(ID, C, P)
+*c0(P)
+*c1(N)
+output_a(ID, N, S)

@@ -1,0 +1,1 @@
+ShipTo(v1, v3) :- ProductName(v0, v1), CustomerCity(v0, v3).

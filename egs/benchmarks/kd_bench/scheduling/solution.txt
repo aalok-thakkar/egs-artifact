@@ -1,0 +1,1 @@
+conflict(d0) :- neq(c2, c4), assigned(d0, s1, c4), assigned(d0, s1, c2).

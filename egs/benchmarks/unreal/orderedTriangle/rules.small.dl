@@ -1,7 +1,0 @@
-.type V
-
-.decl edge(v1: V, v2: V)
-.input edge
-
-.decl orderedTriangle(v1: V, v2: V, v3: V)
-.output orderedTriangle

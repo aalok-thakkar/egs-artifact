@@ -1,0 +1,13 @@
+.type S
+
+.decl in( v0: S,v1: S)
+.input in
+
+.decl c0(v0: S)
+.input c0
+
+.decl neg_input(v0: S, v1: S)
+.output neg_input
+
+
+neg_input(a, b) :- in(a, _), in(_, b), !in(a, b).

@@ -1,0 +1,5 @@
+*in(S, P)
+*input0(P, PN)
+*input1(S, A)
+*c0(A)
+out(PN)

@@ -1,0 +1,13 @@
+.type ID, C
+
+.decl input_a( v0: ID,v1: C)
+.input input_a
+
+.decl input0( v0: ID,v1: C)
+.input input0
+
+.decl neq( v0: ID,v1: ID)
+.input neq
+
+.decl output_a(v0: ID,v1: C,v2: C,v3: ID)
+.output output_a

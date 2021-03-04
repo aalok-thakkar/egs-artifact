@@ -1,0 +1,7 @@
+*input_a(C, FID)
+*input0(SID, C)
+*input1(FID, F)
+*input2(SID, S, Y)
+*c0(Y)
+*c1(F)
+output_a(S)

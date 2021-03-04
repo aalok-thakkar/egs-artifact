@@ -1,0 +1,15 @@
+.type S
+
+.decl in( v0: S,v1: S,v2: S)
+.input in
+
+.decl in0( v0: S,v1: S,v2: S)
+.input in0
+
+.decl neg_input2(v0: S,v1: S,v2: S)
+.output neg_input2
+
+neg_input2(x, y, z) :- in(x, _, z), in(_, y, _), !in(x, y, z).
+neg_input2(x, y, z) :- in0(x, _, z), in(_, y, _), !in(x, y, z).
+neg_input2(x, y, z) :- in(x, _, z), in(_, y, _), !in(x, y, z).
+neg_input2(x, y, z) :- in0(x, _, z), in(_, y, _), !in(x, y, z).

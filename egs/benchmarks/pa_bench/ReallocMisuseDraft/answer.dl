@@ -1,0 +1,17 @@
+.type FID
+.type S
+.type I
+
+.decl ReallocExp(v0: FID)
+.input ReallocExp
+
+.decl Assign(v0: S, v1: FID)
+.input Assign
+
+.decl Params(v0: FID, v1: I, v2: S)
+.input Params
+
+.decl ReallocMisuse(v0: FID, v1: S)
+.output ReallocMisuse
+
+ReallocMisuse(fid, var) :- ReallocExp(fid), Assign(var,fid), Params(fid,_,var).

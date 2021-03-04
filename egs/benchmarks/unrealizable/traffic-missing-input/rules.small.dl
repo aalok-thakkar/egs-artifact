@@ -1,0 +1,12 @@
+.type V
+
+.decl Rule(v0: number)
+.input Rule
+
+.decl GreenSignal(v0: V)
+.input GreenSignal
+.decl HasTraffic(v0: V)
+.input HasTraffic
+
+.decl Crashes(v0: V)
+.output Crashes

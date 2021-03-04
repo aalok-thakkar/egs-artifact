@@ -1,0 +1,12 @@
+eating	watching tv
+eating	cooking
+eating	skating
+watching tv	eating
+watching tv	cooking
+watching tv	skating
+cooking	eating
+cooking	watching tv
+cooking	skating
+skating	eating
+skating	watching tv
+skating	cooking

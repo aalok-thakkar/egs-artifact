@@ -1,0 +1,9 @@
+.type F
+
+.decl CallGraph(v0: F, v1: F)
+.input CallGraph
+
+.decl MutualRecursion(v0: F, v1: F)
+.output MutualRecursion
+
+MutualRecursion(f,g) :- CallGraph(f,g), CallGraph(g,f).

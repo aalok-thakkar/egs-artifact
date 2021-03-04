@@ -1,0 +1,40 @@
+.type C, S, T
+
+.decl car(c: C)
+.input car
+
+.decl train(t: T)
+.input train
+
+.decl closed(c : C)
+.input closed
+
+.decl double(c: C)
+.input double
+
+.decl open_car(c: C)
+.input open_car
+
+.decl has_car(t: T, c: C)
+.input has_car
+
+.decl jagged(c: C)
+.input jagged
+
+.decl load(c: C, s: S)
+.input load
+
+.decl long(c: C)
+.input long
+
+.decl shape(c:C, s: S)
+.input shape
+
+.decl short(c: C)
+.input short
+
+.decl wheels(c: C)
+.input wheels
+
+.decl e(t: T)
+.output e

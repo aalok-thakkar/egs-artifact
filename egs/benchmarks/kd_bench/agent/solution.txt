@@ -1,0 +1,1 @@
+valid_move(c0, t6) :- not_wall(c0, c1), unlocked(c0), adjacent(c1, c0), agent_at(c1, t6).

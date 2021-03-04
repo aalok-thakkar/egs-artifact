@@ -1,0 +1,1 @@
+Contains(d0, a3) :- isMadeFrom(d0, i1), Allergens(i1, a3).

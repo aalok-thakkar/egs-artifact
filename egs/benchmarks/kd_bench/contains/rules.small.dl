@@ -1,0 +1,10 @@
+.type D, I, A
+
+.decl Allergens(i: I, a: A)
+.input Allergens
+
+.decl isMadeFrom(d: D, i: I)
+.input isMadeFrom
+
+.decl Contains(d: D, a: A)
+.output Contains

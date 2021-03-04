@@ -1,0 +1,13 @@
+.type S, A, NUM
+
+.decl tablea( v0: S,v1: A)
+.input tablea
+
+.decl pps( v0: S,v1: A,v2: NUM)
+.input pps
+
+.decl c0(v0: NUM)
+.input c0
+
+.decl output_a(v0: S,v1: A,v2: A,v3: NUM)
+.output output_a

@@ -1,7 +1,0 @@
-.type V
-
-.decl Edge(v0: V, v1: V)
-.input Edge
-
-.decl SCC(v0: V, v1: V)
-.output SCC

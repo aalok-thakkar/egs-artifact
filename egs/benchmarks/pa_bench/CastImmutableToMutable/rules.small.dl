@@ -1,0 +1,11 @@
+.type I, T
+
+.decl CastExpr(i: I, t1: T, t2: T)
+.input CastExpr
+.decl Immutable(t: T)
+.input Immutable
+.decl Mutable(t: T)
+.input Mutable
+
+.decl CastImmutableToMutable(i: I)
+.output CastImmutableToMutable

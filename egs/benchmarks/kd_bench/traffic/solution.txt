@@ -1,0 +1,1 @@
+Crashes(v3) :- GreenSignal(v0), HasTraffic(v0), Intersect(v0, v3), HasTraffic(v3), GreenSignal(v3).

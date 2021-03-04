@@ -1,0 +1,20 @@
+.type I
+.type N
+.type U
+.type D
+.type NUM
+
+.decl input( v0: I,v1: N,v2: U,v3: D)
+.input input
+
+.decl input0( v0: I,v1: NUM,v2: D)
+.input input0
+
+.decl input1( v0: U,v1: NUM,v2: D)
+.input input1
+
+.decl c0(v0: D)
+.input c0
+
+.decl output(v0: I,v1: N,v2: U,v3: NUM,v4: NUM,v5: D)
+.output output

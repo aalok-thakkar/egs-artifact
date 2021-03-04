@@ -1,0 +1,1 @@
+IsHeadquarteredIn(b0, s3) :- IsBasedIn(b0, c1), IsLocatedIn(c1, s3).

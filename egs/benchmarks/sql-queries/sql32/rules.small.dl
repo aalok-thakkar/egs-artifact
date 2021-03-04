@@ -1,0 +1,13 @@
+.type S
+
+.decl input(v0: S,v1: S,v2: S)
+.input input
+
+.decl end(v0: S)
+.input end
+
+.decl start(v0: S)
+.input start
+
+.decl output(v0: S)
+.output output

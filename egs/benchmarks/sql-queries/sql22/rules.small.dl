@@ -1,0 +1,22 @@
+.type S, F, FID, SID, Y, C
+
+.decl input_a( v0: C,v1: FID)
+.input input_a
+
+.decl input0( v0: SID,v1: C)
+.input input0
+
+.decl input1( v0: FID,v1: F)
+.input input1
+
+.decl input2( v0: SID,v1: S,v2: Y)
+.input input2
+
+.decl c0(v0: Y)
+.input c0
+
+.decl c1(v0: F)
+.input c1
+
+.decl output_a(v0: S)
+.output output_a

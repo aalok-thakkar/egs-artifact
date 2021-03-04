@@ -1,0 +1,25 @@
+Reach(s,x,j) :- StatementAt(i,s), Assign(s,x), Follows(i,j).
+
+Reach
+StatementAt
+file:///usr/include/stdlib.h:503:50:503:50	345843598	~3
+file:///usr/include/stdlib.h:482:65:482:65	489732984
+file:///usr/include/stdlib.h:477:53:477:53	892347834
+file:///usr/include/stdlib.h:472:53:472:53	756348577	T
+file:///usr/include/stdlib.h:468:51:468:51	573956593
+file:///usr/include/stdlib.h:493:32:493:32	378023740	~2
+file:///usr/include/stdlib.h:492:28:492:28	475759849
+
+Assign
+756348577	shortbuf	T
+698698688 flags2		~1
+345843598	markers	~3
+859589859 fileno
+892347834	offset
+
+Follows
+file:///usr/include/stdlib.h:472:53:472:53	file:///usr/include/x86_64-linux-gnu/sys/select.h:67:41:67:49T
+file:///usr/include/x86_64-linux-gnu/bits/types/__sigset_t.h:7:27:7:40	file:///usr/include/x86_64-linux-gnu/bits/libio.h:309:59:309:73 ~1
+file:///usr/include/stdlib.h:493:32:493:32 file:///usr/include/x86_64-linux-gnu/sys/select.h:67:41:67:49	~2
+file:///usr/include/stdlib.h:492:28:492:28	file:///usr/include/x86_64-linux-gnu/bits/pthreadtypes.h:43:15:43:41
+file:///usr/include/stdlib.h:477:53:477:53	file:///usr/include/x86_64-linux-gnu/bits/byteswap.h:111:10:111:26

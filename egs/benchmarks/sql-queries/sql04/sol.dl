@@ -1,0 +1,17 @@
+.type S
+
+.decl in(s1: S, s2: S, s3: S)
+.input in
+.decl in0(s1: S, s2: S, s3: S)
+.input in0
+.decl neg_input(s1: S, s2: S, s3: S)
+.input neg_input
+
+.decl out(s1: S, s2: S, s3: S)
+.output out
+
+// out(S, S, S):
+out(s0, s16, s2) :- neg_input(s6, s10, s8), in(s6, s1, s8), neg_input(s0, s1, s2), neg_input(s0, s10, s2), in0(s0, s16, s2).
+
+// UCQ after minimization:
+// out(s0, s16, s2) :- neg_input(s6, s10, s8), in(s6, s1, s8), neg_input(s0, s1, s2), neg_input(s0, s10, s2), in0(s0, s16, s2).

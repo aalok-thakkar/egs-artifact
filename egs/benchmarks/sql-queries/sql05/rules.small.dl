@@ -1,0 +1,7 @@
+.type X, Y, NUM, A
+
+.decl input_a( v0: X,v1: Y,v2: NUM,v3: A)
+.input input_a
+
+.decl output_a(v0: NUM,v1: A)
+.output output_a

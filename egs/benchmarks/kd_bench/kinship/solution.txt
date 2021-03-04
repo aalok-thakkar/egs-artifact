@@ -1,0 +1,4 @@
+grandparent(p0, p3) :- father(p0, p1), mother(p1, p3).
+grandparent(p0, p3) :- mother(p0, p1), father(p1, p3).
+grandparent(p0, p3) :- mother(p0, p1), mother(p1, p3).
+grandparent(p0, p7) :- father(p0, p5), father(p5, p7).
