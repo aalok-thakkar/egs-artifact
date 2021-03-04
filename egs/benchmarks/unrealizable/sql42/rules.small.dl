@@ -1,16 +1,7 @@
-.type S, S, S, S
+.type S
 
-
-.decl input(s0: S, s1: S, s2: S)
+.decl input(n: S, g: S)
 .input input
-.decl c1(s0: S)
-.input c1
-.decl c2(s0: S)
-.input c2
-.decl c3(s0: S)
-.input c3
-.decl c4(s0: S)
-.input c4
 
-.decl output(s0: S, s1: S, s2: S, s3: S, s4: S)
+.decl output(n: S, g: S)
 .output output

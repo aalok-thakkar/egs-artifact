@@ -1,9 +1,9 @@
 #!/bin/bash
 
-# filelist="../benchmarklist.txt"
+filelist="../unrealizable.txt"
 # rulesize=$1
 
-for bench in $(ls benchmarks/unrealizable)
+for bench in $(cat $filelist)
 do
 	file="logs/benchmarks/unrealizable/$bench/log.txt"
         grep -qs "model is not available" $file 2>&1 3>&1 > /dev/null

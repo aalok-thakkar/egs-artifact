@@ -1,8 +1,9 @@
 #!/bin/bash
 
-# filelist="../benchmarklist.txt"
+filelist="../unrealizable.txt"
+# rulesize=$1
 
-for bench in $(ls benchmarks/unrealizable)
+for bench in $(cat $filelist)
 do
 	file="logs/benchmarks/unrealizable/${bench}*/ScytheOP.out"
 	t="$(sed -nE "s/.*Time]] (.*)s/\1/p" $file)"
