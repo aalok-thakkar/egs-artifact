@@ -31,5 +31,6 @@ echo "Storing runtimes"
 cd ..
 
 echo "Collecting all runtimes together..."
-pr -tm -s, unrealizable.txt egs/egs_unr_runtimes.csv scythe/scythe_unr_runtimes.csv ilasp/ilasp_unr_runtimes.csv prosynth/prosynth_unr_runtimes.csv > unrealizability_runtimes.csv
+echo "Benchmarks, EGS, Scythe, ILASP, ProSynth" > unrealizability_runtimes.csv
+pr -tm -s, unrealizable.txt egs/egs_unr_runtimes.csv scythe/scythe_unr_runtimes.csv ilasp/ilasp_unr_runtimes.csv prosynth/prosynth_unr_runtimes.csv >> unrealizability_runtimes.csv
 echo "Done"
