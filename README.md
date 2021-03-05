@@ -18,15 +18,22 @@ Installing the Artifact
 The recommended way to install this artifact is by using Docker:
 ```
 git clone https://github.com/aalok-thakkar/egs-artifact.git
-cd egs-artifact/scripts/docker
-docker build -t egs-artifact
-docker run -it --name egs-artifact egs/pldi21
+cd egs-artifact/
+docker build -t egs scripts/
+docker run -it --name egs-artifact egs
 ```
 
-To uninstall the artifact, run the following commands:
+Subsequently, to start and run the same docker container after exiting it:
+```
+docker start egs-artifact
+docker run egs-artifact
+```
+
+To uninstall the artifact, run the following commands to remove the container as well as the image:
 
 ```
-docker rmi egs-artifact
+docker container rm egs-artifact
+docker rmi egs
 ```
 
 
