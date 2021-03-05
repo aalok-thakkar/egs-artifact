@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Running the performance experiments to reproduce fig. 4 and tables 3,4 and 5 (from appendix A)"
-rm egs/egs_runtimes.csv scythe/scythe_runtimes.csv ilasp/ilasp_agnostic_runtimes.csv ilasp/ilasp_specific_runtimes.csv prosynth/prosynth_agnostic_runtimes.csv prosynth/prosynth_specific_runtimes.csv performance_runtimes.csv
+rm -rf egs/egs_runtimes.csv scythe/scythe_runtimes.csv ilasp/ilasp_agnostic_runtimes.csv ilasp/ilasp_specific_runtimes.csv prosynth/prosynth_agnostic_runtimes.csv prosynth/prosynth_specific_runtimes.csv performance_runtimes.csv
 echo "Running experiments for EGS"
 cd egs/
 echo "Running for Knowledge Discovery"

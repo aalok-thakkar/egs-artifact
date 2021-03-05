@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Running the unrealizability experiments to reproduce table 2"
-rm egs/egs_unr_runtimes.csv scythe/scythe_unr_runtimes.csv ilasp/ilasp_unr_runtimes.csv prosynth/prosynth_unr_runtimes.csv unrealizability_runtimes.csv
+rm -rf egs/egs_unr_runtimes.csv scythe/scythe_unr_runtimes.csv ilasp/ilasp_unr_runtimes.csv prosynth/prosynth_unr_runtimes.csv unrealizability_runtimes.csv
 echo "Running experiments for EGS"
 cd egs/
 ./run_bench.sh benchmarks/unrealizable
