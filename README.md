@@ -58,12 +58,12 @@ We run the four tools on all of these 86 benchmarks and produce Table 2 and Figu
 To run the performance experiments, run `./performance_experiments_parallel.sh` to run all the performance experiments with some amounts of parallelism. This takes around 40 minutes
 to run with the hardware specifications we have mentioned above. While the experiments can be run on less powerful machines, note that
 this may use a lot of memory, in which case we provide `./performance_experiments.sh` as an alternative which runs the experiments sequentially, which will take
-a lot more time. Both these scripts will produce a CSV file `performance_runtimes.csv` in the root of the repository, which represents the tables 3,4 and 5 from Appendix A,
+a lot more time (we approximate around 24 hours). Both these scripts will produce a CSV file `performance_runtimes.csv` in the root of the repository, which represents the tables 3,4 and 5 from Appendix A,
 and a graph `to_be_entered_here.png` which represents Figure 4.
 
 To run the unrealizability experiments, run `./unrealizability_experiments_parallel.sh` to run the unrealizability experiments with some amounts of parallelism. This takes
 around 15 minutes to run with the hardware specifications we have mentioned above. Similarly to the performance experiments, we provide a sequential alternative
-`./unrealizability_experiments.sh` which likewise takes more time. Both these scripts will produce a CSV file `unrealizability_runtimes.csv` which represents table 2.
+`./unrealizability_experiments.sh` which likewise takes more time (approximately 9 hours). Both these scripts will produce a CSV file `unrealizability_runtimes.csv` which represents table 2.
 
 We recommend comparing the trends between different baselines in each experiment since the actual numbers will depend heavily on hardware configurations, compiler versions
 and other numerous factors.
