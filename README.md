@@ -17,12 +17,18 @@ Installing the Artifact
 
 The recommended way to install this artifact is by using Docker:
 ```
-docker build -t egs/pldi21 scripts/
-docker run -it --name egs_artifact egs/pldi21
+git clone https://github.com/aalok-thakkar/egs-artifact.git
+cd egs-artifact/scripts/docker
+docker build -t egs-artifact
+docker run -it --name egs-artifact egs/pldi21
 ```
 
-
 To uninstall the artifact, run the following commands:
+
+```
+docker rmi egs-artifact
+```
+
 
 __Hardware Requirements.__ We ran the experiments on a Xeon 6154 CPU running at 3 GHz with 18 cores and 36 threads. The
 system was equipped with 394 GB of RAM, and was running the Ubuntu 18.04 LTS operating system over the Linux kernel
