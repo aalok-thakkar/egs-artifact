@@ -7,7 +7,7 @@ import matplotlib
 tools = "EGS, Scythe, ILASP(A), ILASP(S), ProSynth(A), ProSynth(S)"
 tools = [bm.strip() for bm in tools.split(',')]
 
-df = pd.read_csv('/Users/ironchefnate/tmp/performance_runtimes.csv')
+df = pd.read_csv('performance_runtimes.csv')
 df = df.drop(columns=['Benchmarks'])
 df.columns = pd.Index(tools)
 
