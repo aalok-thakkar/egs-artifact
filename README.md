@@ -53,6 +53,22 @@ In our paper, we present a method of computing UCQs consistent with given input-
 
 We run the four tools on all of these 86 benchmarks and produce Table 2 and Figure 4 in the main paper. The exact runtimes for the knowledge discovery, program analysis, and database query benchmarks are presented in Tables 3, 4, and 5 in Appendix A (Runtime Comparisons). These experiments also produce the results discussed in Appendix B (Quality of Programs). 
 
+### Running all the Experiments
+
+To run the performance experiments, run `./performance_experiments_parallel.sh` to run all the performance experiments with some amounts of parallelism. This takes around 40 minutes
+to run with the hardware specifications we have mentioned above. While the experiments can be run on less powerful machines, note that
+this may use a lot of memory, in which case we provide `./performance_experiments.sh` as an alternative which runs the experiments sequentially, which will take
+a lot more time. Both these scripts will produce a CSV file `performance_runtimes.csv` in the root of the repository, which represents the tables 3,4 and 5 from Appendix A,
+and a graph `to_be_entered_here.png` which represents Figure 4.
+
+To run the unrealizability experiments, run `./unrealizability_experiments_parallel.sh` to run the unrealizability experiments with some amounts of parallelism. This takes
+around 15 minutes to run with the hardware specifications we have mentioned above. Similarly to the performance experiments, we provide a sequential alternative
+`./unrealizability_experiments.sh` which likewise takes more time. Both these scripts will produce a CSV file `unrealizability_runtimes.csv` which represents table 2.
+
+We recommend comparing the trends between different baselines in each experiment since the actual numbers will depend heavily on hardware configurations, compiler versions
+and other numerous factors.
+
+
 A Brief Tutorial to Using EGS
 ----------------------------------
 
