@@ -51,4 +51,5 @@ cd ..
 echo "Collecting all runtimes together..."
 echo "Benchmarks, EGS, Scythe, Task-Agnostic ILASP, Task-Specific ILASP, Task-Agnostic ProSynth, Task-Specific ProSynth" > performance_runtimes.csv
 pr -tm -s, benchmarklist.txt egs/egs_runtimes.csv scythe/scythe_runtimes.csv ilasp/ilasp_agnostic_runtimes.csv ilasp/ilasp_specific_runtimes.csv prosynth/prosynth_agnostic_runtimes.csv prosynth/prosynth_specific_runtimes.csv >> performance_runtimes.csv
+./make_graph.py
 echo "Done"
