@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 
+import warnings
+warnings.simplefilter(action='ignore', category=FutureWarning)
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import matplotlib
@@ -17,6 +20,8 @@ for tool in tools:
     sorted_df = df[tool].dropna().sort_values(axis=0).apply(lambda x : 1 if x <= 1 else x)
     sorted_df.index = pd.Index(range(1, len(sorted_df)+1))
     results[sorted_df.name]=sorted_df
+
+plt.switch_backend('Agg') 
 
 fig, ax = plt.subplots()
 ax.plot(results['EGS'].index, results['EGS'].values, marker='x', markersize=5, color = 'darkblue', label='EGS')
