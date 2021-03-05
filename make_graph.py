@@ -16,7 +16,6 @@ df.columns = pd.Index(tools)
 
 results = {}
 for tool in tools:
-    print(tool)
     sorted_df = df[tool].dropna().sort_values(axis=0).apply(lambda x : 1 if x <= 1 else x)
     sorted_df.index = pd.Index(range(1, len(sorted_df)+1))
     results[sorted_df.name]=sorted_df
@@ -47,3 +46,4 @@ plt.legend(bbox_to_anchor=(0,-.7, 1, .5), loc='upper left', ncol=3, mode="expand
 plt.savefig('graph.jpg',
             dpi=300, bbox_inches='tight', transparent=False)
 
+print('File 'graph.jpg' created')
