@@ -104,7 +104,7 @@ A Brief Tutorial to Using EGS
    3. Now you are ready to _synthesize_. Run `./run.sh $PROBLEM_DIR`. If synthesis is
    successful, the script will print the set of rules that form the target program.
 
-A Brief Tutorial to Using ILASP
+Running ILASP
 ----------------------------------
 
 ### Running ILASP on Individual Benchmark Problems
@@ -152,7 +152,7 @@ cd ilasp/
    to get the running times for the benchmarks under the `benchmarks/agnostic` directory,
    and `./get_time_unr.sh` to get the running times for the unrealizable benchmarks.
 
-A Brief Tutorial to Using ProSynth
+Running ProSynth
 ----------------------------------
 
 ### Running ProSynth on Individual Benchmark Problems
@@ -200,7 +200,7 @@ cd prosynth/
    to get the running times for the benchmarks under the `benchmarks/agnostic` directory,
    and `./get_time_unr.sh` to get the running times for the unrealizable benchmarks.
 
-A Brief Tutorial to Using Scythe
+Running Scythe
 ----------------------------------
 
 ### Running Scythe on Individual Benchmark Problems
