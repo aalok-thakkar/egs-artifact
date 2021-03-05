@@ -33,7 +33,8 @@ RUN cd /root; \
       mkdir -p /usr/local/lib/python3.6/dist-packages; \
       python scripts/mk_make.py --python --pypkgdir=/usr/local/lib/python3.6/dist-packages; \
       cd build; \
-        make -j 8; \
+        make; \
+        # make -j 8; \
         make install; \
     cd /; egs-artifact/scripts/build-souffle.sh; \
     cd /egs-artifact/prosynth; tar -xzvf benchmarks.tar.gz
