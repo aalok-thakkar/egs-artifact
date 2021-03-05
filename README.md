@@ -26,7 +26,7 @@ docker run -it --name egs-artifact egs
 Subsequently, to start and run the same docker container after exiting it:
 ```
 docker start egs-artifact
-docker run egs-artifact
+docker attach egs-artifact
 ```
 
 To uninstall the artifact, run the following commands to remove the container as well as the image:
@@ -59,7 +59,7 @@ To run the performance experiments, run `./performance_experiments_parallel.sh` 
 to run with the hardware specifications we have mentioned above. While the experiments can be run on less powerful machines, note that
 this may use a lot of memory, in which case we provide `./performance_experiments.sh` as an alternative which runs the experiments sequentially, which will take
 a lot more time (we approximate around 24 hours). Both these scripts will produce a CSV file `performance_runtimes.csv` in the root of the repository, which represents the tables 3,4 and 5 from Appendix A,
-and a graph `to_be_entered_here.png` which represents Figure 4.
+and a graph `graph.jpg` which represents Figure 4.
 
 To run the unrealizability experiments, run `./unrealizability_experiments_parallel.sh` to run the unrealizability experiments with some amounts of parallelism. This takes
 around 15 minutes to run with the hardware specifications we have mentioned above. Similarly to the performance experiments, we provide a sequential alternative
