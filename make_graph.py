@@ -46,4 +46,4 @@ plt.legend(bbox_to_anchor=(0,-.7, 1, .5), loc='upper left', ncol=3, mode="expand
 plt.savefig('graph.jpg',
             dpi=300, bbox_inches='tight', transparent=False)
 
-print('File 'graph.jpg' created')
+print('File graph.jpg created')
